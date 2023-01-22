@@ -55,8 +55,6 @@
 
   scroll-behavior: smooth;
   scrollbar-width: thin;
-
-  overflow-x: hidden !important;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -121,6 +119,8 @@ html {
   position: relative;
 
   scroll-padding-top: 2rem;
+
+  overflow-x: hidden;
 }
 
 body {
@@ -231,8 +231,6 @@ table {
 
   border-collapse: collapse;
   margin: 2.5rem auto;
-
-
 
   border-radius: 1rem 1rem 0 0;
   box-shadow: 0 0 0.2rem rgba(153, 111, 111, 0.2);
@@ -742,7 +740,7 @@ img.img-in-recent-post {
   font-family: MuliBold, sans-serif;
   font-weight: 500;
   font-size: 1.75rem;
-margin-left: 0;
+  margin-left: 0;
   color: var(--btn-color);
 }
 .recent-post-heading .read-more {
