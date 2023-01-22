@@ -120,7 +120,7 @@ html {
 
   scroll-padding-top: 2rem;
 
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 
 body {
