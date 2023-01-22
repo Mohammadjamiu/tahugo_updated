@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking and Communication on Tooabstractive</title>
+    <link>https://tooabstractive.com/networking/</link>
+    <description>Recent content in Networking and Communication on Tooabstractive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jan 2023 23:43:06 +0000</lastBuildDate><atom:link href="https://tooabstractive.com/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are the Differences Between POP3 and IMAP</title>
+      <link>https://tooabstractive.com/networking/what-is-the-difference-between-pop3-and-imap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-the-difference-between-pop3-and-imap/</guid>
+      <description>POP3 and IMAP are the two protocols of message access protocols. They are used in retrieving messages from the server to the client&amp;rsquo;s end.
+There are differences between POP3 and IMAP even though they are used for receiving emails only and that’s what we are going to discuss below.
+What is POP3? POP3 stands for Post Office Protocol, version 3. it is a simple protocol with limited functionality which is used in retrieving emails over the mail server.</description>
+    </item>
+    
+    <item>
+      <title>Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network.</title>
+      <link>https://tooabstractive.com/networking/how-computers-are-connected-through-wired-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/how-computers-are-connected-through-wired-network/</guid>
+      <description>In most small offices or homes, to access the internet, it can bedone through turning on our mobile hostpot so other devices canconnect to it and use the internet. But connecting more devicesmakes our signal weak, also moving the mobile phone away from otherdevices that are connected to it, makes the signal to go down. Thatswhy wired network are used at big companies, small offices andsometimes at home if one is able to afford for a mini setup.</description>
+    </item>
+    
+    <item>
+      <title>Why Optical Fiber Communication Is Preferred Over Other Means of Communication?</title>
+      <link>https://tooabstractive.com/networking/why-optical-fiber-communication-is-prefered/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/why-optical-fiber-communication-is-prefered/</guid>
+      <description>In fiber optics communication, a fiber which is a dielectric material (plastic or glass) is used as a channel or link to guide or transmit light waves over a short or long distance.
+The fiber optic has a core which diameter is relatively the diameter of a hair strand.
+The cladding which serves as a protective coating is also light in weight. Hence a fiber optics is still light in weight compared to coaxial cables or copper wires.</description>
+    </item>
+    
+    <item>
+      <title>What Are the Different Causes of Transmission Impairments?</title>
+      <link>https://tooabstractive.com/networking/what-are-the-different-causes-of-transmission-impairments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-are-the-different-causes-of-transmission-impairments/</guid>
+      <description>Transmission impairment is as a result of imperfections in a transmission medium. It occurs when the signal at the receiving end is different from the signal been sent (at the transmitting end).
+Note
+Know that transmission medium can be wired or wireless. In wired, a cable like coaxial cable is used and in wireless, the free space is used. As medium is different the impairments varies.Causes of transmission impairments There are three types of transmission impairments which you can recall as DAN.</description>
+    </item>
+    
+    <item>
+      <title>What Is Simplex, Half-Duplex and Full-Duplex mode of communication?</title>
+      <link>https://tooabstractive.com/networking/what-is-simplex-half-duplex-and-full-duplex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-simplex-half-duplex-and-full-duplex/</guid>
+      <description>The communication between two devices can be said to be simplex, half-duplex and full duplex.
+Simplex mode of communication In simplex mode, the direction at which devices communicate is unidirectional i.e. one can only send while the other can receive and not the other way round.
+Examples of device that use simplex mode;
+Keyboard Monitor Speaker For example, a keyboard can only send to a monitor, and a monitor can only display the information on its screen.</description>
+    </item>
+    
+    <item>
+      <title>4 Differences Between WDM and DWDM Multiplexing Technique</title>
+      <link>https://tooabstractive.com/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</guid>
+      <description>WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal which can then be transmitted through a common link or channel.
+As it is seen that these techniques are used for the combination of multiple signal into just a single signal. So you might ask what is now the difference between these techniques.</description>
+    </item>
+    
+    <item>
+      <title>What is multiplexing and its techniques (FDM, WDM and TDM)? All you need to know</title>
+      <link>https://tooabstractive.com/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</guid>
+      <description>In this modern day, the rate of data transmission is high and as data and telecommunication needs increases, there is need for higher bandwidth which will allow high transmission rate of data.
+One way to efficiently utilize the data link which is used for the transmission of data is by implementing multiplexing techniques.
+What is multiplexing Multiplexing involves the use of some techniques in order to allow the simultaneous transmission of several or multiple signals through a single data link.</description>
+    </item>
+    
+    <item>
+      <title>Linear and Nonlinear Scattering Losses in Optical Fiber Explained Simply</title>
+      <link>https://tooabstractive.com/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
+      <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022In optical fibers, there are lots of factors that contributes to degradation of transmitted optical power which includes attenuation, dispersion and scattering.
+So in this post I would be discussing what the scattering losses are in optical fiber.
+Scattering losses in optical fiber is categorized into;
+Linear and non-linear scattering loss which are further categorized as below.
+Linear scattering
+Rayleigh scatteringMie scatteringNonlinear scattering</description>
+    </item>
+    
+    <item>
+      <title>Difference Between Random Process and Random Variable</title>
+      <link>https://tooabstractive.com/networking/difference-between-random-process-and-random-variable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/difference-between-random-process-and-random-variable/</guid>
+      <description>When any experiment or scenario involves probability or the need for probabilistic model then a random process and random variable must be considered.
+what is a random process? Random process can be thought of as the collection of random variables. It can also be defined as a time varying function that assign the outcome of a random event or experiment to each time instant. e.g. a signal.
+what is a random variable?</description>
+    </item>
+    
+    <item>
+      <title>What is radio wave propagation? and the modes of radio wave propagation explained</title>
+      <link>https://tooabstractive.com/networking/modes-of-radio-wave-propagation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/modes-of-radio-wave-propagation/</guid>
+      <description>In order for electromagnetic (radio) waves to travel, a transmitting antenna and a receiving antenna is required. The path or mode in which the radio waves follow or can travel is termed as radio wave propagation.
+There are three (3) modes of radio wave propagation is as follows;
+Ground wave or surface wave propagationSpace wave and line of sight (LOS) propagationSkywave propagationGround wave propagation Ground wave propagation is a mode of propagation in which the electromagnetic wave follows the curvature or contour of the earth.</description>
+    </item>
+    
+    <item>
+      <title>What is dispersion loss in optical fiber and types of dispersion loss?</title>
+      <link>https://tooabstractive.com/networking/what-is-dispersion-in-optical-fiber-and-the-types/</link>
+      <pubDate>Wed, 04 Jan 2023 23:43:06 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-dispersion-in-optical-fiber-and-the-types/</guid>
+      <description>In fiber optics communication, there are several transmission impairments which degrades signal strength as light pulses travel along a fiber. Among the transmission impairment, is dispersion and it is discussed below.
+what is dispersion? Dispersion refers to the broadening or spreading of transmitted light pulses as they travel along the fiber. As each light pulse broadens and overlap with neighboring pulse, Inter-symbol Interference (ISI) occurs which makes the pulses indistinguishable at the receiver.</description>
+    </item>
+    
+    <item>
+      <title>What Is Fiber Optics Cable, Modes of Propagation and How Does Light Travels Through It</title>
+      <link>https://tooabstractive.com/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</guid>
+      <description>There are several guided medium which are used for the transmission of data e.g. coaxial cable and fiber optics cable. But fiber optics cable provides better advantage to coaxial cable as it uses light as optical source while coaxial cable uses electric signal.
+What is fiber optics cable? Fiber optics cable is a dielectric (or insulated) material (e.g. glass) which is used to transmit light pulses or optical signal. The optical sources are mostly LASER or LED.</description>
+    </item>
+    
+    <item>
+      <title>Circuit Switching, Message Switching and Packet Switching Techniques Explained</title>
+      <link>https://tooabstractive.com/networking/circuit-message-and-packet-switching-techniques-explained/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/circuit-message-and-packet-switching-techniques-explained/</guid>
+      <description>Switching in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple path.
+This is to ensure that the efficient use of channels is achieved and to make communication and transmission reliable.
+There are three types of switching techniques;
+Circuit switchingMessage switching andPacket switchingWhat is circuit switching? In circuit switching, a dedicated path or route is established between the sender and the receiver.</description>
+    </item>
+    
+    <item>
+      <title>The Seven Layers of the OSI Model Explained</title>
+      <link>https://tooabstractive.com/networking/the-seven-layers-of-the-osi-model-explained/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/the-seven-layers-of-the-osi-model-explained/</guid>
+      <description>OSI Model which is termed as Open System Interconnection is a model which is used for standardizing communication across network or it can be said to be a standard architecture which is used for designing network.
+It helps to make troubleshooting of network problem easily as it breaks a complex network into several manageable segments. The OSI model consist of 7 layers.
+Even though the OSI model is obsolete, it is still considered to be a reference model to understand how a network works.</description>
+    </item>
+    
+    <item>
+      <title>Difference Between Unicast, Multicast, Broadcast and Anycast Transmission Types</title>
+      <link>https://tooabstractive.com/networking/difference-between-unicast-multicast-broadcast-and-anycast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/difference-between-unicast-multicast-broadcast-and-anycast/</guid>
+      <description>Unicast, Multicast, Broadcast and Anycast are the transmission types or the form in which network traffics can be transported from a single source to another destination.
+Note
+The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipent side over a communication link or channel.Unicast - (One - Cast) Unicast is termed as a one to one transmission in which traffic (consisting of streams of packets) is transmitted from a single source to a single destination device.</description>
+    </item>
+    
+    <item>
+      <title>What Is TCP/IP and How It Is Different From OSI Model</title>
+      <link>https://tooabstractive.com/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</guid>
+      <description>TCP/IP is termed as transmission control protocol /with internet protocol. It is a model which is used for standardizing communications across network.
+It is similar to the OSI model but it makes the layers quite simple as it consists of 4 layers. If you can understand the OSI model (as it is the reference model and it consist of 7 layers) then you will be able to grasp TCP/IP in no time.</description>
+    </item>
+    
+    <item>
+      <title>What is MAC Layer and the Different Types of Multiple Access Protocol</title>
+      <link>https://tooabstractive.com/networking/what-is-mac-layer-and-the-different-types-of-protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-mac-layer-and-the-different-types-of-protocol/</guid>
+      <description>MAC is termed as Media Access Control and it is a sublayer under the data-link layer which consist of protocols (called Multiple Access Protocol) that coordinate the access of nodes (or stations) to a link or multipoint.
+Why is MAC necessary The reason why a MAC is needed is that when nodes or devices are connected to a common link (multipoint), a protocol is needed to help control or coordinate the way each node transmits data mostly in order to avoid collision and traffic jam.</description>
+    </item>
+    
+    <item>
+      <title>How Do You Know if a MAC Address is a Unicast, Multicast or Broadcast MAC address</title>
+      <link>https://tooabstractive.com/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</guid>
+      <description>In order to know if a MAC address is a unicast MAC address, multicast MAC address or Broadcast MAC address, you need to understand what a MAC address is.
+We have gone into details about that. But in this we will briefly explained it and also solve some examples.
+A MAC address consist of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A But the main point needed in order to identify if a MAC address is a unicast or multicast is the first byte.</description>
+    </item>
+    
+    <item>
+      <title>What is a MAC Address? Explained With Examples</title>
+      <link>https://tooabstractive.com/networking/what-is-a-mac-address-with-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-a-mac-address-with-examples/</guid>
+      <description>MAC address is termed as Media Access Control address. It is a unique address assigned to every network device and cannot be altered or changed. This address is also called a physical address which is attached to a device by the manufacturer.
+The MAC address resides on the Layer 2 of the OSI model. It consists of 48-bits or 6-bytes and it is sometimes called MAC–48 or EUI-48 (Extension Unique Identifier).</description>
+    </item>
+    
+    <item>
+      <title>Differences Between Step-Index and Graded-Index Optical Fiber</title>
+      <link>https://tooabstractive.com/networking/difference-between-step-index-and-graded-index-optical-fiber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/difference-between-step-index-and-graded-index-optical-fiber/</guid>
+      <description>One of the major difference between a step index fiber and a graded index fiber is that, a step index fiber has a core with constant refractive index and make a step change from the core - cladding interface while a graded index fiber does not have a core with constant refractive index and it makes a gradual change from the core - cladding interface.
+Difference between step index and graded index fiber Step index fiber It has a constant core refractive index.</description>
+    </item>
+    
+    <item>
+      <title>What Is Optical Amplifier and Its Types?</title>
+      <link>https://tooabstractive.com/networking/what-is-optical-amplifier-and-its-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-optical-amplifier-and-its-types/</guid>
+      <description>In long haul data transmission, transmission impairments (like attenuation or noise) takes place as signal travels through an optical fiber which results in reduction of signal strength.
+In order to reduce these transmission impairments, an optical amplifier is used which helps to amplify the weak signal. But unlike a repeater (which converts an optical signal into an electrical signal, and the electrical signal is then amplified and converted back to an optical signal),</description>
+    </item>
+    
+    <item>
+      <title>What Is Network Address Translation (NAT) and Its Types?</title>
+      <link>https://tooabstractive.com/networking/what-is-nat-and-its-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-nat-and-its-types/</guid>
+      <description>Every device needs an IP address (or public IP address) to access the internet. For that reason, engineers in the 1970’s decided to do some research so as to know how long an IP address needs to be.
+Put in mind that a data packet (or information) often contains a sender IP and receiver IP address (or source and destination IP address) and the aim of the engineers also is to keep the packet as small as possible.</description>
+    </item>
+    
+    <item>
+      <title>What Is a Random Process With Examples?</title>
+      <link>https://tooabstractive.com/networking/what-is-a-random-process-with-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-a-random-process-with-examples/</guid>
+      <description>Note: don’t fright out over the equation or formulas present in this article as we are to explain each bit by bit.
+What is a random process? A random process is also termed as a stochastic process and it is a process in which consist of several random variables over time. So you might ask what is a random variable?
+A random variable is a variable with set of random numbers.</description>
+    </item>
+    
+    <item>
+      <title>13 Differences Between Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)</title>
+      <link>https://tooabstractive.com/networking/difference-between-tcp-and-udp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/difference-between-tcp-and-udp/</guid>
+      <description>Transmission Control Protocol (TCP) TCP is termed as Transmission Control Protocol
+TCP is connection oriented protocol meaning that before any message will be sent, it must establish a connection with the receiving device.
+It undertakes a three handshake process for the establishment of connection by sending a SYN message and the receiving device replying with an ACK SYN and lastly the sending device will respond with ACK received
+In terms of reliability, TCP is better than UDP and it is also secure than UDP</description>
+    </item>
+    
+    <item>
+      <title>What Is SMTP (Simple Mail Transfer Protocol) Used For?</title>
+      <link>https://tooabstractive.com/networking/what-is-smtp-used-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-smtp-used-for/</guid>
+      <description>SMTP stands for Simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet.
+This protocol is used in two stages, one is from the client sending the mail to the sender server and from this server to another server close to the recipient of the mail. The email can then be retrieved by the client receiving the email from the server using the POP3 or IMAP protocol.</description>
+    </item>
+    
+    <item>
+      <title>Difference Between Packets and Frames In Networking</title>
+      <link>https://tooabstractive.com/networking/difference-between-packets-and-frames/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/difference-between-packets-and-frames/</guid>
+      <description>Generally, packets and frames is almost the same but are given different names based on the layer they resides at.
+In order words both packet and frames deals with unit of data called bits.
+The way I like to think of these two terms is;
+Packets are streams of bits while Frames are composed of packets.
+Difference between packet and frame Packets Frames 1 A packet is composed of streams of bits packed to form a packet A frame is composed of packets of (bits) packed into frames 2 A packet resides on layer 3 which is the network layer of the OSI model A Frame resides on layer 2 which is the data link layer of the OSI model 3 The packet which can be found on the network layer is the IP packet which consist of both source and destination address The Frame which can be found on the data link layer is the Ethernet frame which consist of both source and destination MAC address </description>
+    </item>
+    
+    <item>
+      <title>Difference Between SATA(Serial ATA) and eSATA (external Serial ATA)</title>
+      <link>https://tooabstractive.com/networking/difference-between-sata-and-esata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/difference-between-sata-and-esata/</guid>
+      <description>Both SATA and eSATA are connectors which are used for connecting storage devices. SATA is used to connect internal storage devices while eSATA is used to connect external devices.
+Difference between SATA and eSATA SATA eSATA 1 SATA stand for Serial Advanced Technology Attachment eSATA stands for external Serial Advanced Technology Attachment 2 SATA is a connector which is used to connect internal storage devices eSATA is a connector which is used to connect external storage devices 3 SATA has a cable length of 1m or 3.</description>
+    </item>
+    
+    <item>
+      <title>Types of Network Protocols</title>
+      <link>https://tooabstractive.com/networking/types-of-network-protocols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/types-of-network-protocols/</guid>
+      <description>There are several types of protocol that exist in computer and networking and these protocol are what ensure that the connection between several computers and server is established based on specific rule because if there are no protocols, devices might be connected but would not be communicating.
+What is a network protocol or protocol? A protocol is defined as a set of rules that govern data communications. There are three key elements of a protocol and they are</description>
+    </item>
+    
+    <item>
+      <title>What Is the Difference Between MAC Address and IP Address</title>
+      <link>https://tooabstractive.com/networking/what-is-the-difference-between-mac-address-and-ip-address/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-the-difference-between-mac-address-and-ip-address/</guid>
+      <description>Both MAC address and IP address are used to identify a device in a network but the only difference between a MAC address and an IP address is that, MAC address is available on a local network while an IP address is available on a global network (Internet).
+What is MAC address? MAC address which stands for Media Access Control is a unique address assigned to every network device and it cannot be changed.</description>
+    </item>
+    
+    <item>
+      <title>What Is FTP (File Transfer Protocol) Used For?</title>
+      <link>https://tooabstractive.com/networking/what-is-ftp-used-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-ftp-used-for/</guid>
+      <description>Transferring of files from your computer to the internet can be done through the use of a protocols called FTP.
+What is FTP and What is it used for? FTP stands for File Transfer Protocol. It is a protocol which is used for transferring files across network.
+It uses a client-server model in which the server host or store the files while the client (e.g. a computer) can connect, access, download, upload, rename and delete files which is hosted on the server.</description>
+    </item>
+    
+    <item>
+      <title>What Is ARP (Address Resolution Protocol) in Networking?</title>
+      <link>https://tooabstractive.com/networking/what-is-arp-in-networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-arp-in-networking/</guid>
+      <description>ARP is a protocol which allow computers or hosts to work on layer 2 (Data link Layer) with a known IP address.
+What is ARP in networking? ARP stands for address resolution protocol. It is an internet protocol in networking designed to discover a MAC address and then map it to an IP address.
+How does ARP works in networking? Let’s use the figure below which shows four computers that are connected to a switch to form a local network.</description>
+    </item>
+    
+    <item>
+      <title>What Is DNS (Domain Name Server) and How It Works?</title>
+      <link>https://tooabstractive.com/networking/what-is-dns-and-how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/what-is-dns-and-how-it-works/</guid>
+      <description>Every website can be accessed through an IP address but memorizing this addresses (written in such form 196.168.45.5) can be difficult rather, a name is given to a user in order to access the internet. The conversion or resolving of the domain name you are given to the actual IP address is a task carried out by DNS.
+What is DNS? DNS stands for Domain Name System. It is a system which is used to resolve or convert a domain name to IP address.</description>
+    </item>
+    
+    <item>
+      <title>Digital Transmission in Computer Networks | Line Coding</title>
+      <link>https://tooabstractive.com/networking/digital-transmission-in-computer-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/networking/digital-transmission-in-computer-networks/</guid>
+      <description>In a computer networks, data or information are transferred from one device across a network to another in form of a signal.
+Data such as human voice, audio, video, text and number to name a few needs to be converted to either an analog signal or digital signal.
+In this tutorial we would focus specifically on how to convert a digital data to a digital signal and the techniques used.</description>
+    </item>
+    
+  </channel>
+</rss>

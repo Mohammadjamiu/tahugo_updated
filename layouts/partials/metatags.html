@@ -1,0 +1,83 @@
+<!-- Title Tag -->
+
+{{ $title := print .Title " - " .Site.Title }} {{ if .IsHome }}{{ $title =
+.Site.Title }}{{ end }}
+<title>{{ $title }}</title>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<!--! Favicon -->
+<link
+  rel="shortcut icon"
+  href="{{ `favicon.ico` | relURL }}"
+  type="image/x-icon"
+/>
+<link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon" />
+
+<meta
+  name="description"
+  content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"
+/>
+{{ with site.Params.author }}
+<meta name="author" content="{{ . }}" />{{ end }} {{ hugo.Generator }}
+
+<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta property="og:site_name" content="{{ .Site.Params.Title }}" />
+
+{{/* `<!--! Description  Tags -->` | safeHTML */}}
+
+<meta name="description" content="{{ .Params.description }}" />
+<meta itemprop="description" content="{{ .Params.description }}" />
+<meta property="og:description" content="{{ .Params.description }}" />
+<meta name="twitter:description" content="{{ .Params.description }}" />
+
+{{/* `<!--! Link  Tags -->` | safeHTML */}}
+
+<base href="{{ .RelPermalink }}" />
+<link
+  rel="canonical"
+  href="https://tooabstractive.com{{ .RelPermalink }}"
+  itemprop="url"
+/>
+<meta name="url" content="{{ .RelPermalink }}" />
+<meta name="twitter:url" content="{{ .RelPermalink }}" />
+<meta property="og:url" content="{{ .RelPermalink }}" />
+<meta property="og:type" content="article" />
+<meta property="og:type" content="website" />
+
+{{/*
+<!--! Image  Tags -->` | safeHTML */}}
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="200" />
+
+{{ with .Params.image }}
+<meta itemprop="image" content="{{ . | absURL }}" />
+<meta property="og:image" content="{{ . | absURL }}" />
+<meta name="twitter:image" content="{{ . | absURL }}" />
+<meta name="twitter:image:src" content="{{ . | absURL }}" />
+{{ else }}
+<meta itemprop="image" content="{{ .Site.Params.image | absURL }}" />
+<meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
+<meta name="twitter:image" content="{{ .Site.Params.image | absURL }}" />
+<meta name="twitter:image:src" content="{{ .Site.Params.image | absURL }}" />
+{{ end }} {{/*
+<!--  'Sitemap  Tags' | safeHTML  -->*/}}
+
+<link
+  rel="sitemap"
+  type="application/xml"
+  title="Sitemap"
+  href='{{ "sitemap.xml" | absURL }}'
+/>
+
+{{/*
+<!-- Robot and Googlebot indexation -->
+*/}}
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />

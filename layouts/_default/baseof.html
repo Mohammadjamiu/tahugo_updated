@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head" .}}
+  </head>
+  <body>
+    <!-- Header Section -->
+
+    {{ partial "header" .}} {{block "main" .}} {{end}}
+
+    <!-- Footer Section -->
+
+    {{ partial "footer" .}}
+
+    <script src="/js/script.js"></script>
+  </body>
+</html>

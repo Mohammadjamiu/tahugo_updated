@@ -1,0 +1,56 @@
+baseURL: https://tooabstractive.com
+languageCode: en-us
+title: Tooabstractive
+enableEmoji: true
+enableRobotsTXT: true
+canonifyURLs: true
+paginate: 12
+ignoreErrors: ["error-remote-getjson"]
+params:
+  description: TA is here to demystify abstractive concepts ranging from (engineering - tech - writing)
+  author: Mohammad Jamiu
+  og_image: /images/tabluelogopng.png
+  social:
+    share:
+      facebook: true
+      pinterest: true
+      twitter: true
+      whatsapp: true
+      email: true
+build:
+  environment:
+    TZ: Africa/Lagos
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+menu:
+  main:
+    - name: Home &#127968;
+      url: /
+      weight: 1
+    - name: Posts &#128221;
+      url: /posts/
+      weight: 2
+    - name: Youtube &#128250;
+      url: /https://www.youtube.com/channel/UCm814Any5c0GvOrRCUE3z8g/
+      weight: 3
+    - name: Contact &#9742;
+      url: /contact/
+      weight: 4
+    - name: About &#8505;
+      url: /about/
+      weight: 5
+
+related:
+  threshold: 0
+  includeNewer: true
+  toLower: false
+  indices:
+    - name: categories
+      weight: 100
+    - name: date
+      weight: 10
+taxonomies:
+  category: categories
+  ebookcategory: ebookcategories

@@ -1,0 +1,86 @@
+<header>
+  <div class="container">
+    <!--! logo -->
+    <a href="/" aria-label="logo" class="logo">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="175"
+        height="30"
+        viewBox="0 0 175 30"
+      >
+        <g id="Group_43" data-name="Group 43" transform="translate(-20 -15)">
+          <text
+            id="Tooabstractive"
+            transform="translate(57 34)"
+            fill="#2d79e4"
+            font-family="MuliSemiBold, Muli"
+            font-weight="600"
+          >
+            <tspan x="0" y="0">Tooabstractive</tspan>
+          </text>
+          <g id="Group_2" data-name="Group 2" transform="translate(20 15)">
+            <rect
+              id="Rectangle_8"
+              data-name="Rectangle 8"
+              width="26"
+              height="25"
+              rx="6"
+              fill="#2d79e4"
+            />
+            <path
+              id="Path_261"
+              data-name="Path 261"
+              d="M1579.252,57.813c5.471,10.984-12.3.381-12.3.381l4.018,14.988S1573.783,46.832,1579.252,57.813Z"
+              transform="translate(-1558.517 -48.774)"
+              fill="none"
+              stroke="#fff"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="1.2"
+            />
+          </g>
+        </g>
+      </svg>
+    </a>
+
+    <div class="toogle-mode-with-harmburger">
+      <!-- Toogle Mode Button -->
+
+      <button
+        aria-label="dark and light mode toggle button"
+        class="toggle-mode"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="toggle-mode-btn"
+          width="26.1"
+          height="15.5"
+          viewBox="0 0 26.077 14.5"
+        >
+          <path
+            id="dark-mode-toggle-icon"
+            d="M16.134.843H5.647a5.648,5.648,0,0,0,0,11.3H15.49a6.653,6.653,0,0,0,3.884,1.25h.009A6.694,6.694,0,0,0,19.383,0h-.009a6.636,6.636,0,0,0-3.24.843Zm3.6,4.949.022,0a.7.7,0,0,1,.817-.5l.005-.022a.7.7,0,0,1-.505-.817l-.022-.005a.695.695,0,0,1-.817.505l-.005.022a.7.7,0,0,1,.505.817Zm1.878.854.027.006a.874.874,0,0,1,1.026-.634l.007-.027a.875.875,0,0,1-.635-1.026l-.027-.006a.874.874,0,0,1-1.026.634l-.007.027a.875.875,0,0,1,.635,1.026ZM19.633,3.539a2.577,2.577,0,1,0,2.743,4.326c.242-.195.492-.023.387.222a3.539,3.539,0,1,1-3.233-4.929c.342,0,.414.229.1.381ZM19.374.791h.009a5.9,5.9,0,1,1,0,11.807h-.009a5.9,5.9,0,1,1,0-11.807Z"
+            transform="translate(0 1)"
+            fill="#2d79e4"
+          />
+        </svg>
+      </button>
+
+      <!-- ! Menu icon -->
+      <div class="menu-icon">
+        <div class="menu-line-one"></div>
+        <div class="menu-line-two"></div>
+        <div class="menu-line-three"></div>
+      </div>
+    </div>
+  </div>
+
+  <nav>
+    <ul>
+      {{ range .Site.Menus.main}}
+      <li><a href="{{ .URL }}">{{ .Name | safeHTML }}</a></li>
+
+      {{ end }}
+    </ul>
+  </nav>
+</header>

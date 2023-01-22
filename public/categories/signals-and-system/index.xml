@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signals and System on Tooabstractive</title>
+    <link>https://tooabstractive.com/categories/signals-and-system/</link>
+    <description>Recent content in Signals and System on Tooabstractive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:56:27 +0000</lastBuildDate><atom:link href="https://tooabstractive.com/categories/signals-and-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is a Signal and its Different Types In Electronics And Communications?</title>
+      <link>https://tooabstractive.com/signal-and-system/what-is-a-signal-and-its-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/signal-and-system/what-is-a-signal-and-its-types/</guid>
+      <description>what is a signal? A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
+So anything that carries information is considered a signal e.g.
+The temperature of a room, Voltage and current in an electronic circuit Digital images, video, or audio Sounds or speeches etc. Position, speed, acceleration, or velocity of an object A stock market index The flow rate of fluid etc.</description>
+    </item>
+    
+    <item>
+      <title>How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?</title>
+      <link>https://tooabstractive.com/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/</link>
+      <pubDate>Sun, 01 Jan 2023 00:56:27 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/</guid>
+      <description>Before solving problems on energy and power signal, you need to understand what each of the signal means
+What are power and energy signals? A power signals are signals with finite power while energy signals are signals with finite energy.
+How do you solve energy and power signals? Here are the few things to remember in order to quickly identify if a signal is a power or an energy signal</description>
+    </item>
+    
+    <item>
+      <title>What Are the Basic Operations on Discrete Time Signals?</title>
+      <link>https://tooabstractive.com/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/</guid>
+      <description>The following are the basic operations that can be done on discrete time signal
+Addition Subtraction Multiplication Amplitude scaling Time shifting Time reversal Time scaling The first 4 operations are performed along the y or value axis while the last 3 are performed along the x or time axis.
+but before solving problems on it, let’s discuss briefly on what discrete-time signal mean.
+what is discrete-time signals or DTS? Discrete-time signalsrefers to signals that are defined only at discrete or finite time.</description>
+    </item>
+    
+    <item>
+      <title>Difference Between Power Signal and Energy Signal</title>
+      <link>https://tooabstractive.com/signal-and-system/difference-between-power-signal-and-energy-signal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/signal-and-system/difference-between-power-signal-and-energy-signal/</guid>
+      <description>In one of our previous post we discuss about how to solve energy and power signal problems step by step with tips and shortcut and we briefly talk about what power and energy signal is. But in this post we would be discussing about the differences between power signal and energy signal.
+Difference between power signal and energy signal Power signal Power signal has finite power
+It has an infinite energy</description>
+    </item>
+    
+    <item>
+      <title>What is a ramp signal?</title>
+      <link>https://tooabstractive.com/signal-and-system/what-is-a-ramp-signal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/signal-and-system/what-is-a-ramp-signal/</guid>
+      <description>What is a ramp signal?
+A ramp signal is a signal with neither energy nor power
+hrllo
+euieuiiu</description>
+    </item>
+    
+  </channel>
+</rss>

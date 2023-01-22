@@ -1,0 +1,350 @@
+/* Post Page/List Page Style */
+
+.post-page-hero {
+  background-color: #051530;
+  width: 100%;
+  padding: 5.5rem 0;
+  /* margin-bottom: 4rem; */
+}
+.post-page-hero .container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.post-page-hero h2 {
+  color: var(--btn-color);
+
+  font-size: 2.8rem;
+
+  margin: 1.4rem 0 2rem;
+
+  text-transform: capitalize;
+
+  font-family: "MuliBold", sans-serif;
+  text-align: center;
+}
+.post-page-hero h3 {
+  color: var(--btn-color);
+
+  font-family: Muli, sans-serif;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+
+  margin: 1.4rem 0 2rem;
+}
+
+h2.h2-after {
+  font-size: 1.9rem;
+  font-family: MuliBold, sans-serif;
+  position: relative;
+  margin-top: 4rem;
+}
+
+h2.h2-after:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: -1.2rem;
+  left: 0;
+  height: 0.8rem;
+  width: 7rem;
+  border-radius: 5rem;
+  background-color: var(--primary-color);
+}
+
+.tag-to-others {
+  list-style-type: none;
+  /* background-color: var(--footer-color); */
+
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  flex-wrap: wrap;
+  margin: 3rem 0;
+  text-transform: capitalize;
+  font-size: 1.64rem;
+  /* padding: 1rem; */
+  border-radius: 0.8rem;
+}
+.tag-to-others li {
+  border-radius: 0.8rem;
+  margin: 0.55rem 0.55rem 0.55rem 0;
+}
+.tag-to-others a {
+  display: inline-block;
+  font-size: 1.64rem;
+  font-family: Muli, sans-serif;
+  font-weight: 500;
+  padding: 0.5rem 0.8rem;
+}
+
+.tag-to-others a.tto-ca {
+  font-size: 1.5rem;
+  padding-right: 2rem;
+  color: var(--primary-color);
+  background: rgba(45, 121, 228, 0.3);
+  display: inline-block;
+  /* width: 24rem; */
+  /* padding: 0.5rem; */
+  border-radius: 0.4rem;
+  /* margin: 0.3em; */
+}
+
+.tag-to-others a.tto-emag {
+  font-size: 1.5rem;
+  padding-right: 2rem;
+  color: rgb(228, 152, 45);
+  background: rgba(228, 152, 45, 0.3);
+  display: inline-block;
+  /* width: 24rem; */
+  /* padding: 0.5rem; */
+  border-radius: 0.4rem;
+  /* margin: 0.3rem; */
+}
+
+.tag-to-others a.tto-pfe {
+  font-size: 1.5rem;
+  padding-right: 2rem;
+  /* background: rgba(45, 121, 228, 0.35); */
+  background: var(--footer-color);
+
+  /* width: 24rem; */
+  color: var(--primary-color);
+  display: inline-block;
+
+  /* padding: 0.5rem; */
+  border-radius: 0.4rem;
+  /* margin: 0.3rem; */
+}
+.tag-to-others a.tto-telecoms {
+  font-size: 1.5rem;
+  padding-right: 2rem;
+  color: rgb(116, 167, 230);
+  background: rgba(41, 94, 160, 0.4);
+  display: inline-block;
+  /* width: 24rem; */
+  /* padding: 0.5rem; */
+  border-radius: 0.4rem;
+  /* margin: 0.3rem; */
+}
+
+.all-posts-card {
+  /* background-color: #746d19; */
+  margin-top: 5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(34rem, 1fr));
+  gap: 3rem;
+}
+
+.all-post-box {
+  height: 32rem;
+
+  box-shadow: 0 0.3rem 0.6rem hsla(0, 0%, 0%, 0.08);
+}
+
+.all-post-img {
+  height: 14rem;
+  width: auto;
+  border-radius: 0.8rem 0.8rem 0 0 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+img.img-in-all-post {
+  display: inline;
+  max-width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 0.75rem 0.75rem 0 0;
+  padding: 0.1rem;
+  margin: 0;
+}
+.all-post-heading {
+  padding: 2rem 1.5rem;
+  height: 18rem;
+  background-color: var(--accent-color);
+  border-radius: 0 0 0.8rem 0.8rem;
+  box-shadow: 0 0.4rem 0.8rem hsla(0, 0%, 0%, 0.08);
+
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+}
+.all-post-heading h2 {
+  margin: 0;
+  font-family: MuliBold, sans-serif;
+  font-weight: 500;
+  font-size: 1.75rem;
+  align-self: flex-start;
+  color: var(--btn-color);
+}
+.all-post-heading .read-more {
+  font-family: MuliSemiBold, sans-serif;
+  font-weight: 500;
+  font-size: 1.6rem;
+
+  color: var(--primary-color);
+  position: absolute;
+  bottom: 2rem;
+}
+
+/* Category Container/Taxonomy Page Style */
+.category-container {
+  width: 100%;
+}
+
+.category-container h2.category-h2 {
+  font-size: 1.9rem;
+  font-family: MuliBold, sans-serif;
+  position: relative;
+  margin: 4rem 0;
+}
+
+.category-container h2.category-h2:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: -1.2rem;
+  left: 0;
+  height: 0.8rem;
+  width: 7rem;
+  border-radius: 5rem;
+  background-color: var(--primary-color);
+}
+
+.category-container ul {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 0;
+}
+.category-container li {
+  list-style-type: none;
+  /* background-color: blue; */
+  margin: 1rem 0;
+  border-radius: 0.4rem;
+  padding: 0.5rem 1.5rem;
+}
+.category-container li:before {
+  content: "\1f4cc";
+}
+
+h2.story-block {
+  font-size: 1.9rem;
+  font-family: MuliBold, sans-serif;
+  position: relative;
+  margin: 4rem 0;
+}
+
+h2.story-block:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: -1.2rem;
+  left: 0;
+  height: 0.8rem;
+  width: 6rem;
+  border-radius: 5rem;
+  background-color: var(--primary-color);
+}
+
+/* Single page post metadata */
+.single-page-container {
+  margin-top: 2.5rem;
+}
+.single-page-container h1 {
+  margin-top: 0.2rem;
+}
+.post-date {
+  color: var(--primary-color);
+}
+.post-metadata {
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+  width: fit-content;
+}
+
+.post-metadata p {
+  display: inline;
+  font-size: 1.4rem !important;
+  text-align: center;
+  align-self: flex-start;
+  text-align: left;
+  margin-left: 0;
+  /* margin-right: 1rem; */
+  min-width: 5rem;
+  padding-right: 1rem;
+}
+
+p.dot {
+  color: var(--text-color);
+  font-size: 1rem !important;
+}
+.bar-style {
+  background-color: #02142bcb;
+  height: 0.4rem;
+  width: 8rem;
+  border-radius: 0.8rem;
+
+  margin: 2.5rem 0 3.5rem;
+}
+
+div > iframe {
+  border-radius: 1rem !important;
+  box-sizing: border-box;
+  position: relative;
+}
+
+details summary {
+  font-family: MuliSemiBold, sans-serif;
+  font-size: 1.8rem;
+  margin: 1.5rem auto 3rem;
+  position: relative;
+  background-color: var(--footer-color);
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+summary::marker {
+  content: "\2193   ";
+  width: fit-content;
+  padding: 1rem;
+
+  /* position: absolute;
+  left: 5rem; */
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+nav#TableOfContents {
+  border-left: 0rem;
+  background-color: #091b3115;
+  padding: 1rem;
+  margin: 0.5rem 0 3rem;
+  border-radius: 1rem;
+}
+
+/* .content-summary h3 {
+  font-family: "MuliBold", sans-serif;
+  font-size: 2rem;
+} */
+nav#TableOfContents li {
+  list-style-type: circle;
+
+  font-size: 1.5rem;
+  margin: 1.1rem 0 1.1rem 0.6rem;
+  padding-left: 0.9rem;
+  line-height: 1.6;
+}
+
+/* For custom yt video */
+

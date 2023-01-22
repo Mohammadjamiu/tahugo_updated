@@ -1,0 +1,710 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+local_backend: true
+media_folder: /static/images/
+
+public_folder: /images/
+
+collections:
+  - name: "networking"
+    label: "Networking and Communications"
+    folder: "content/networking"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Networking and Communication",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Networking and Communication']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/networking-and-communication"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "signal and system"
+    label: "Signal and System"
+    folder: "content/signal-and-system"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Signal and System",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Signals and System']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/signals-and-system"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "digital electronics"
+    label: "Digital Electronics"
+    folder: "content/digital-electronics"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Digital Electronics",
+        }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Digital Electronics']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/digital-electronics"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "electronics"
+    label: "Electronics"
+    folder: "content/electronics"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Electronics",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Electronics']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/electronics"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "miscellenous post"
+    label: "Productivity and Writing"
+    folder: "content/misce-post"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Productivity and Guides",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Productivity and guides']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/productivity-and-guides"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "how to's and tech"
+    label: "Tech Stuff"
+    folder: "content/how-to-tech"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Tech Stuff",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['How-to-tech']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/how-to-tech"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "funmaths"
+    label: "Maths Stuff"
+    folder: "content/funmaths"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Maths Stuff",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Maths and Fun']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/maths-and-fun"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "em post"
+    label: "Electromagnetics Stuff"
+    folder: "content/em-post"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Electromagnetics Stuff",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Electromagnetics']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/electromagnetics/"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "circuit analysis"
+    label: "Circuit Analysis"
+    folder: "content/circuit-analysis"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LLL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Circuit Analysis",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ["['Circuit analysis']"],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          choose_url: true,
+          default: "/image/chocolate-dogecoin.jpg",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/circuit-analysis"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }

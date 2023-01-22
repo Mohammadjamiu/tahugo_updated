@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<div class="container category-container">
+    
+    <h1 class="category-h1">All posts for {{.Type | singularize }} "{{.Title}}"</h1>
+   
+    <div class="all-posts">
+     
+  
+      <div class="all-posts-card">
+      {{range .Data.Pages.ByWeight.Reverse }} 
+        <div class="all-post-box">
+          <div class="all-post-img">
+            <img
+              class="img-in-all-post"
+              src="{{.Params.image}}"
+              alt=""
+              srcset=""
+            />
+          </div>
+          <div class="all-post-heading">
+            <h2>{{.Title}}</h2>
+ <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+
+
+      <section  class="our-post">
+
+      
+ 
+       
+</section>
+</div>
+{{end}}

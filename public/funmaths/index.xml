@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fun-Maths on Tooabstractive</title>
+    <link>https://tooabstractive.com/funmaths/</link>
+    <description>Recent content in Fun-Maths on Tooabstractive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tooabstractive.com/funmaths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Crammer&#39;s rule - the technique to simplify circuit analysis equations</title>
+      <link>https://tooabstractive.com/funmaths/what-is-crammers-rule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/funmaths/what-is-crammers-rule/</guid>
+      <description>Solving simultaneous equations containing more than two variablescan be quite daunting if we use either elimination method orsubstitution method because, thing gets a little bit complex. Also,crammer&#39;s rule has been a technique used by engineers, students and by professors due to it compactibility and conciseness and lastly you can choose to use a calculator to help you solve that very fast.Now back to business, variable names can be x and y or a and b or Iaand Ib (as we do in circuit analysis for currents), it’s up to youto choose what you want.</description>
+    </item>
+    
+    <item>
+      <title> How to use a calculator to solve simultaneous equation fast - step by step</title>
+      <link>https://tooabstractive.com/funmaths/how-to-solve-equation-using-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/funmaths/how-to-solve-equation-using-calculator/</guid>
+      <description>In this post, we would solve a simultaneous equation in a very fastand short time step by step using a Casio fx – 991MS as thecalculator to help us achieve our goal.For example, let’s say our equation is [6x + 2y = 10] and [4x + y =4] and we are to solve for the variables x and y.Step 1 -Switch on the calculator and then reset it, this is due to the factthat sometimes we might have done some operation before which canthen alter our result for instance, if we put our calculator inradian, the value is different from if it is in degree so thereforealways reset your calculator when starting off a new calculation.</description>
+    </item>
+    
+  </channel>
+</rss>

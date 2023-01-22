@@ -1,0 +1,82 @@
+<section class="main">
+  <div class="container">
+    <div class="explore-more">
+      <h2>Explore More &#128204;</h2>
+      <div class="explore-more-card">
+        <div class="engineering-grasped">
+          <div class="engineering-grasped-icon explore-icon-box">
+            <img src="/images/grasp.svg" alt="" />
+          </div>
+          <div class="engineering-grasped-content explore-content-box">
+            <a href="/posts/">Engineering Grasped</a>
+          </div>
+        </div>
+        <!-- <div class="ebook-resources">
+          <div class="ebook-resources-icon explore-icon-box">
+            <img src="/images/ebook.svg" alt="" />
+          </div>
+          <div class="ebook-resources-content explore-content-box">
+            <a href="#">eBook and Resources</a>
+          </div>
+        </div> -->
+        <div class="tech-stuff">
+          <div class="tech-stuff-icon explore-icon-box">
+            <img src="/images/lightupx.svg" alt="" />
+          </div>
+          <div class="tech-stuff-content explore-content-box">
+            <a href="/categories/how-to-tech/">Tech Stuffs</a>
+          </div>
+        </div>
+        <div class="productivity-writing">
+          <div class="productivity-writing-icon explore-icon-box">
+            <img src="/images/content.svg" alt="" />
+          </div>
+          <div class="productivity-writing-content explore-content-box">
+            <a href="/categories/productivity-and-guides/"
+              >Productivity and <br />Writing</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{partial "snippet" .}} {{if .IsHome}}
+    <div class="youtube-content-box">
+      <h2>Youtube Contents &#128250;</h2>
+      <div class="youtube-content-wrapper">{{partial "ytcontent" .}}</div>
+      <a
+        href="https://www.youtube.com/channel/UCm814Any5c0GvOrRCUE3z8g"
+        class="recent-post-btn hero-btn"
+        >&#128073; Subscribe For More</a
+      >
+    </div>
+    {{end}}
+    <div class="recent-posts">
+      <h2>Recent Posts &#128357;</h2>
+      <div class="recent-posts-card">
+        {{range (where .Site.RegularPages.ByWeight.Reverse ".Type" "eq" "posts")
+        | first 8 }}
+
+        <div class="recent-post-box">
+          <div class="recent-post-img">
+            <img
+              class="img-in-recent-post"
+              src="{{.Params.image}}"
+              alt=""
+              srcset=""
+            />
+          </div>
+          <div class="recent-post-heading">
+            <h2>{{.Params.Title}}.</h2>
+
+            <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
+          </div>
+        </div>
+        {{end}}
+      </div>
+      <a href="/posts/" class="recent-post-btn hero-btn"
+        >&#128073; Read More and Explore</a
+      >
+    </div>
+  </div>
+</section>

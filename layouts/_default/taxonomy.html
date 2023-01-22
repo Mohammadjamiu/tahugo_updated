@@ -1,0 +1,18 @@
+{{ define "main"}}
+
+<div class="container category-container">
+  <h2 class="category-h2">All {{.Type}}</h2>
+  <ul>
+    {{range .Data.Pages }}
+    <li>
+      <a style="color: #1b6bdb" href="{{ .RelPermalink }}"> {{.Title}} </a>
+    </li>
+
+
+    
+    <br />
+    {{end}}
+  </ul>
+</div>
+
+{{ end }}

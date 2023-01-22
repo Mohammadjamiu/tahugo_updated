@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How-to-tech on Tooabstractive</title>
+    <link>https://tooabstractive.com/categories/how-to-tech/</link>
+    <description>Recent content in How-to-tech on Tooabstractive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tooabstractive.com/categories/how-to-tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create Barcode in Word In just few steps</title>
+      <link>https://tooabstractive.com/how-to-tech/how-to-create-barcode-in-word/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/how-to-tech/how-to-create-barcode-in-word/</guid>
+      <description>Barcodes are sometimes referred to as QR codes and it is a graphics with code embedded in it.
+The code in it can represent a link to a website, a word document, an excel file, a power point document, pdf and what have you.
+In this how-to guide I will show you how to create a Barcode or QR code in Microsoft word.
+Step 1: Open a word document
+Step 2: On the tab menu locate insert tab</description>
+    </item>
+    
+    <item>
+      <title>How to Create Qr Code for a Page in Microsoft Edge</title>
+      <link>https://tooabstractive.com/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</guid>
+      <description>There are just 3 steps to create a QR code for a website or in page in Microsoft edge.
+Step 1 : Browse any website you like to convert to a QR code.
+Step 2 : On the website, right click on the page and go to &amp;ldquo;Create QR cpde for this page&amp;rdquo;.
+Step 3 : Lastly, download or scan the QR code. Apart from creating a QR code for the page you are currently on, you can edit the URL before downloading and put a new URL of your choice and then download to your device or scan.</description>
+    </item>
+    
+    <item>
+      <title>Best Free Graphic Design Software for Graphics Designers [2022]</title>
+      <link>https://tooabstractive.com/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</guid>
+      <description>In this post we would be discussing on some free best graphic design software or to to use for design graphing as a graphic design.
+Free Graphics Design Software Inkscape is an open source vector based illustrator it is a free alternative to adobe illustrator and offer great feature which can be used to design simple to complex design.
+Some design ideas can be done on Inkscape are business card design, eBook cover design, design of mandala art with it great flexibility, logo design, icon design and also for website mockup.</description>
+    </item>
+    
+    <item>
+      <title>How to add sitemap to your site using netlify plugin</title>
+      <link>https://tooabstractive.com/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</guid>
+      <description>You are done building your website but you need an automatic way of generating sitemap for your website without having to do much work.
+Here is a simple guide on how to do just that.
+Note.
+Your website has to be built with plain old HTML or any SSG (Static Site Generator) such as Hugo, Gatsby, 11ty etc. and also must be uploaded to Netlify.
+You need to go to your Netlify dashboard Click on the Integrations tab On the integration dashboard, click on the search bar and type &amp;ldquo;sitemap&amp;rdquo; Then, click on enable The sitemap plugin prompt &amp;ldquo;install&amp;rdquo; will appear After clicking the install botton, you will be redirected to the dashboard.</description>
+    </item>
+    
+    <item>
+      <title>how to know the color of any image on firefox browser easily</title>
+      <link>https://tooabstractive.com/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tooabstractive.com/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</guid>
+      <description>Here is how to use Firefox browser Eyedropper to get the color of any image or text on the web
+Go to your Firefox browser or open any page you will like to get color from Click on the menu bar and then click on more tools Click on Eyedropper Lastly the eyedropper will appear with the hex code showing below it </description>
+    </item>
+    
+  </channel>
+</rss>
