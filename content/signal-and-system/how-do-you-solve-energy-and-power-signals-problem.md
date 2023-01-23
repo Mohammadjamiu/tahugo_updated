@@ -25,6 +25,8 @@ description: "Here are the few things to remember in order to quickly identify
 
 Before solving problems on energy and power signal, you need to understand what each of the signal means
 
+{{< youtube GeyaaJho38A How to solve energy and power signal >}}
+
 ## What are power and energy signals?
 
 A **power signals** are signals with finite power while **energy signals** are signals with finite energy.
@@ -42,18 +44,15 @@ $x(t) = e^{-9t}u(t)$ by looking at this signal $x(t)$ you can see that $e^{-9t}$
 
 So as the amplitude of the signal is zero then you know it is an energy signal and then if you wish you can proceed to solving it using the energy signal formula thar will be discussed shortly.
 
-
->Note:
+> Note:
 >
->**An aperiodic or non-periodic** signal is considered to be an energy signal because the area under the curve is finite
+> **An aperiodic or non-periodic** signal is considered to be an energy signal because the area under the curve is finite
 
  <br>
 
 Example of a non-periodic or energy signals
 
-<ul class="ul-in-post">
-<li>$Ae^{-at}u(t)$ e.g. $2e^{-at}u(t)$</li>
-</ul>
+- $Ae^{-at}u(t)$ e.g. $2e^{-at}u(t)$
 
 where A can be any constant value.
 <br>
@@ -65,19 +64,20 @@ $x(t) = 4\sin(wt)$ is a power signal as the amplitude is constant and it is equa
 
 <img loading="lazy" src="/images/signals_8 (2).webp" alt="Continuous time signals">
 
->Note:
+> Note:
 >
->From this then you need to note that all **periodic signals** or functions are power signals since they all have constant amplitude.
- <br>
+> From this then you need to note that all **periodic signals** or functions are power signals since they all have constant amplitude.
+
+<br>
+
+{{< youtube ePiQfTUwXHA How to solve energy and power signal >}}
 
 Examples of periodic or power signals
 
-<ul class="ul-in-post">
-<li>$A\sin(wt)$ e.g. $5\sin(2t)$</li> 
-<li>$A\cos(wt)$ e.g. $3\cos(4t)$</li>
-<li>$A\tan(wt)$ e.g. $2\tan(7t)$</li>
-<li>$Ae^{jwt}$ e.g. $4e^{j4t}$</li>
-</ul>
+- $A\sin(wt)$ e.g. $5\sin(2t)$
+- $A\cos(wt)$ e.g. $3\cos(4t)$
+- $A\tan(wt)$ e.g. $2\tan(7t)$
+- $Ae^{jwt}$ e.g. $4e^{j4t}$
 
 where A can be any constant value.
 
@@ -98,6 +98,8 @@ First here is a table below that tells if a signal is a power or an energy signa
 <img loading="lazy" src="/images/powertable_3.webp" alt="a power or an energy signal table">
 
 As you can see when a signal is an energy signal, it will have a finite energy and a zero average power. But when the signal is a power signal, it will have a finite power but an infinite energy.
+
+{{< youtube ri3WxwrQ5Tk How to solve energy and power signal example problem >}}
 
 ## Formula for energy signal and power signal
 

@@ -32,7 +32,7 @@ but before solving problems on it, let’s discuss briefly on what discrete-time
 
 ## what is discrete-time signals or DTS?
 
-**Discrete-time signals**refers to signals that are defined only at discrete or finite time.
+**Discrete-time signals** refers to signals that are defined only at discrete or finite time.
 
 Discrete time simply means that it exists at whole numbers or digits but not on fraction e.g. 1,2, 3,6 but not 0.5, 3.5.
 
@@ -83,10 +83,9 @@ Amplitude scaling is done on a single signal or waveform which takes the form $a
 
 Time shifting as the name implies is an operation done along the time axis. It is splited into two;
 
-<ul class="ul-in-post"> 
-<li>One has to do with shifting forward (or to the right) called **delay**</li>
-<li>The other has to do with shifting backward (or to the left) called **advance**</li>
-</ul>
+- One has to do with shifting forward (or to the right) called **delay**
+- The other has to do with shifting backward (or to the left) called **advance**
+
 
 shifting to the right by a factor of $a$ is denoted as $x(n – a)$ while shifting to the left by a factor of $a$ is denoted as $x(n + a)$.
 

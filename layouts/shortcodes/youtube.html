@@ -1,6 +1,6 @@
 {{ $ytid := .Get 0 }} {{ $title := .Get 1 }}
 
-<div style="width: 100%; max-width: 550px">
+<div style="width: 100%; max-width: 60rem; ">
   <div
     style="
       position: relative;
@@ -9,7 +9,8 @@
       overflow: hidden;
 
       box-shadow: 0 0.3rem 0.6rem hsla(0, 0%, 0%, 0.2);
-      border-radius: 0.8rem;
+      border-radius: 1rem;
+      max-width: 100%;
     "
   >
     <iframe
@@ -25,7 +26,6 @@
       ;
       srcdoc="<style>
         * {
-        padding: .1rem;
         margin: 0;
         overflow: hidden;
         
@@ -33,12 +33,14 @@
         }
         body, html {
           height: 100%;
+          max-width:100%;
         }
         img, svg {
           position: absolute;
           width: 100%;
           top: 0;
           bottom: 0;
+          left:0;
           margin: auto;
         }
         svg {
@@ -50,7 +52,7 @@
           transform: scale(1.2);
         }
       </style>
-      <a href='https://www.youtube.com/embed/{{ $ytid }}?autoplay=1'>
+      <a  href='https://www.youtube.com/embed/{{ $ytid }}?autoplay=1'>
         <img src='https://img.youtube.com/vi/{{ $ytid }}/sddefault.jpg' alt='{{ $title }}'>
         <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
       </a>
