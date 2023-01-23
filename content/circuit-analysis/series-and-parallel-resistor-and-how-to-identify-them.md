@@ -135,7 +135,6 @@ What will the equivalent resistance value be if R<sub>1</sub> = 6&#8486 and R<su
 try this and see answer below.
 </p>
 
-<button class="see-answer">See answer &darr;</button>
 <img loading="lazy" class="hide-show-image" src="/images/rinpex2.webp" alt="solution to parallel reistors">
 
 <h2>What happens when resistors are connected in parallel</h2>
