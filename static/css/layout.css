@@ -309,11 +309,18 @@ table tbody tr:last-of-type {
 
 #Tooabstractive {
   font-size: 16px;
+  text-align: center;
 }
 
 #Rectangle_8 {
   width: 30px;
   height: 30px;
+}
+.logo{
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header {
@@ -432,8 +439,7 @@ header nav {
   pointer-events: all;
 }
 .nav-active ul {
- margin: 0;
- padding: 0;
+ padding-top: 4rem;
 }
 
 
@@ -441,9 +447,7 @@ header nav {
   display: none;
 }
 
-header nav ul {
-  padding-top: 4rem;
-}
+
 
 header nav li {
   list-style-type: none;
