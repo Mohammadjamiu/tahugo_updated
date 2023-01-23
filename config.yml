@@ -33,7 +33,7 @@ menu:
       url: /posts/
       weight: 2
     - name: Youtube &#128250;
-      url: /https://www.youtube.com/channel/UCm814Any5c0GvOrRCUE3z8g/
+      url: https://www.youtube.com/channel/UCm814Any5c0GvOrRCUE3z8g/
       weight: 3
     - name: Contact &#9742;
       url: /contact/
