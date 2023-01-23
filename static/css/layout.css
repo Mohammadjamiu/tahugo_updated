@@ -120,7 +120,7 @@ html {
 
   scroll-padding-top: 2rem;
 
-  /* overflow-x: hidden; */
+  overflow-x: hidden !important;
 }
 
 body {
@@ -316,7 +316,7 @@ table tbody tr:last-of-type {
   width: 30px;
   height: 30px;
 }
-.logo{
+.logo {
   max-width: 100%;
   display: flex;
   justify-content: center;
@@ -439,15 +439,12 @@ header nav {
   pointer-events: all;
 }
 .nav-active ul {
- padding-top: 4rem;
+  padding-top: 4rem;
 }
-
 
 .logo-text-none {
   display: none;
 }
-
-
 
 header nav li {
   list-style-type: none;
