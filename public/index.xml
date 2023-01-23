@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Tooabstractive</title>
-    <link>https://tooabstractive.com/</link>
+    <link>/</link>
     <description>Recent content in Home on Tooabstractive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2023 23:43:06 +0000</lastBuildDate><atom:link href="https://tooabstractive.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 23:43:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The only way to learn and understand the basics of circuit analysis</title>
-      <link>https://tooabstractive.com/circuit-analysis/how-to-learn-circuit-analysis-basics/</link>
+      <link>/circuit-analysis/how-to-learn-circuit-analysis-basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/how-to-learn-circuit-analysis-basics/</guid>
+      <guid>/circuit-analysis/how-to-learn-circuit-analysis-basics/</guid>
       <description>When you ask someone how can I learn the basics of circuit analysis? Most times the answer is practice-practice-practice.
 Though that’s right but you can only practice stuff you find easier to understand and the necessary fundamentals to have are also right because, how can you even analyze or design a circuit if you don’t know how resistor works or you don’t love dealing with calculations.
 The case here is that don’t just learn circuit analysis techniques or concepts from textbooks as if they are somewhat abstract or different, try to learn how they link with each other or what can they be used for.</description>
@@ -20,19 +20,19 @@ The case here is that don’t just learn circuit analysis techniques or concepts
     
     <item>
       <title> Crammer&#39;s rule - the technique to simplify circuit analysis equations</title>
-      <link>https://tooabstractive.com/funmaths/what-is-crammers-rule/</link>
+      <link>/funmaths/what-is-crammers-rule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/funmaths/what-is-crammers-rule/</guid>
+      <guid>/funmaths/what-is-crammers-rule/</guid>
       <description>Solving simultaneous equations containing more than two variablescan be quite daunting if we use either elimination method orsubstitution method because, thing gets a little bit complex. Also,crammer&#39;s rule has been a technique used by engineers, students and by professors due to it compactibility and conciseness and lastly you can choose to use a calculator to help you solve that very fast.Now back to business, variable names can be x and y or a and b or Iaand Ib (as we do in circuit analysis for currents), it’s up to youto choose what you want.</description>
     </item>
     
     <item>
       <title>Why do we study circuit analysis or circuit theory?</title>
-      <link>https://tooabstractive.com/circuit-analysis/why-do-we-study-circuit-analysis/</link>
+      <link>/circuit-analysis/why-do-we-study-circuit-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/why-do-we-study-circuit-analysis/</guid>
+      <guid>/circuit-analysis/why-do-we-study-circuit-analysis/</guid>
       <description>First let’s look at what circuit analysis mean.
 What is circuit analysis or circuit theory? Circuit analysis or circuit theory basically deals with finding currents and voltages in a circuit or network of connected electronic components.
 Why do we study circuit analysis? If you are an electronics or electrical engineering student or even a hobbyist, studying circuit analysis is essential because before you can design your own electronics gadgets or robots, you need to learn the fundamentals behind circuits.</description>
@@ -40,29 +40,29 @@ Why do we study circuit analysis? If you are an electronics or electrical engine
     
     <item>
       <title>Resources to help you learn and understand Electromagnetics field theory from scratch</title>
-      <link>https://tooabstractive.com/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</link>
+      <link>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</guid>
+      <guid>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</guid>
       <description>In this post, I would be listing out the resources to help you self-learn electromagnetics fieldtheory from scratch and these resources are what I’ve came across over the years as an electricalengineering student trying to desperately learn electromagnetics field theory because, to be frankwith you it’s a difficult but interesting course.Note
 I will advise you not to limit your learning journey to these resources only but, try to exploremore and we would love to hear any recommendation from you on any stuff you have found usefulother than the ones listed here so we can help other engineers too.</description>
     </item>
     
     <item>
       <title>What Is Voltage, Current and Resistance In Simple Terms?</title>
-      <link>https://tooabstractive.com/circuit-analysis/what-is-voltage-current-and-resistance/</link>
+      <link>/circuit-analysis/what-is-voltage-current-and-resistance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/what-is-voltage-current-and-resistance/</guid>
+      <guid>/circuit-analysis/what-is-voltage-current-and-resistance/</guid>
       <description>Content SummaryCircuits are fascinating and can be found in our smartphones,computer, even the PS5 gaming pad and much more.A circuit or electric circuit is a close loop that allows the flowof electricity.The interconnections of circuit components without forming aclosed loop is called electrical network.Voltage is the pressure or force applied to push current through abranch in a circuit.Current is said to be the flow of electrons.</description>
     </item>
     
     <item>
       <title>10 Important facts you need to know about magnets and magnetic fields</title>
-      <link>https://tooabstractive.com/em-post/facts-about-magnets/</link>
+      <link>/em-post/facts-about-magnets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/em-post/facts-about-magnets/</guid>
+      <guid>/em-post/facts-about-magnets/</guid>
       <description>As human, we have once even by accident, played or saw a magnet and the only basic thing we know about it is that it attracts metal which is true but still, there are more to magnets and what we can do with it.
 So in this post we would be discussing few important facts that you need to know about a magnet.
 What is a magnet? Basically, a magnet is defined as a piece of material that has the ability to attract itself to other conductive materials like metals (iron, cobalt, e.</description>
@@ -70,28 +70,28 @@ What is a magnet? Basically, a magnet is defined as a piece of material that has
     
     <item>
       <title>Electronics Circuit Components And Their Functions Explained</title>
-      <link>https://tooabstractive.com/circuit-analysis/electronics-circuit-components-explained/</link>
+      <link>/circuit-analysis/electronics-circuit-components-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/electronics-circuit-components-explained/</guid>
+      <guid>/circuit-analysis/electronics-circuit-components-explained/</guid>
       <description>Content SummaryA battery is considered as one of the source of voltage.Resistor is a component that offers resistance to the flow ofcurrent in a circuit.Capacitor which in simple term is a passive device orcomponentthatstores charges or energy for a short period of time.An inductor works same way as the capacitor becausethey store charge but one of their difference is that it useswounded conductors rather than capacitor that uses plates separatedby air gap or dielectrics.</description>
     </item>
     
     <item>
       <title>Payoff skills that every engineering students needs to learn before leaving college or University</title>
-      <link>https://tooabstractive.com/misce-post/skills-every-engineering-student-needs-to-learn/</link>
+      <link>/misce-post/skills-every-engineering-student-needs-to-learn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/misce-post/skills-every-engineering-student-needs-to-learn/</guid>
+      <guid>/misce-post/skills-every-engineering-student-needs-to-learn/</guid>
       <description>This post is among the series of post tagged “4 years of college shouldn’t be a waste of time” wherewe discussed about how to be productive, have better grades and even develop skills that payoff onthe long run.Without doubt, we all know that engineering is an interesting but a complex field to study and mosttimes, it is due to the fact that the standard we are being taught with is quite outdated or notthat useful in the industry or the world we are in today.</description>
     </item>
     
     <item>
       <title>The Easiest Way to Study Electromagnetics</title>
-      <link>https://tooabstractive.com/em-post/the-easiest-way-to-study-electromagnetics/</link>
+      <link>/em-post/the-easiest-way-to-study-electromagnetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/em-post/the-easiest-way-to-study-electromagnetics/</guid>
+      <guid>/em-post/the-easiest-way-to-study-electromagnetics/</guid>
       <description>As an electrical engineering student, we all have that one course that frightens us and one of them is electromagnetics field theory sometimes called engineering electromagnetics.
 In this section, I would discuss why it is difficult to learn and understand electromagnetics field theory and then proceed to how we can grasp the concepts using some techniques and tips.
 Why is electromagnetics field theory difficult to learn? It is difficult to learn because, it is full of abstractions (meaning concepts that can’t be seen physically with the naked eye except by imagination, experience or by accident) for example an electric field, a magnetic field, or electricity.</description>
@@ -99,37 +99,37 @@ Why is electromagnetics field theory difficult to learn? It is difficult to lear
     
     <item>
       <title> How to use a calculator to solve simultaneous equation fast - step by step</title>
-      <link>https://tooabstractive.com/funmaths/how-to-solve-equation-using-calculator/</link>
+      <link>/funmaths/how-to-solve-equation-using-calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/funmaths/how-to-solve-equation-using-calculator/</guid>
+      <guid>/funmaths/how-to-solve-equation-using-calculator/</guid>
       <description>In this post, we would solve a simultaneous equation in a very fastand short time step by step using a Casio fx – 991MS as thecalculator to help us achieve our goal.For example, let’s say our equation is [6x + 2y = 10] and [4x + y =4] and we are to solve for the variables x and y.Step 1 -Switch on the calculator and then reset it, this is due to the factthat sometimes we might have done some operation before which canthen alter our result for instance, if we put our calculator inradian, the value is different from if it is in degree so thereforealways reset your calculator when starting off a new calculation.</description>
     </item>
     
     <item>
       <title>What Is Ohms Law In Simple Terms? And Why Is It Useful</title>
-      <link>https://tooabstractive.com/circuit-analysis/what-is-ohms-law/</link>
+      <link>/circuit-analysis/what-is-ohms-law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/what-is-ohms-law/</guid>
+      <guid>/circuit-analysis/what-is-ohms-law/</guid>
       <description>Content SummaryThe ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematicalexpressions. Ohms law is the law that most other techniques (e.g. kirchoffs law, nodal analysis and mesh analysis) are derived from.what is ohm&#39;s law and why do we need itThe ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematicalexpressions which says V = IR.</description>
     </item>
     
     <item>
       <title> Series and parallel combination of resistors explained with how to identify them</title>
-      <link>https://tooabstractive.com/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</link>
+      <link>/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</guid>
+      <guid>/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</guid>
       <description>Content SummaryResistors in series are connected head to tail.A resistor in series allows the same current to flow throughthem.But different voltage will bedropped across them if their resistance value is different and also if the resistors are of the same value then same voltage will be dropped across them.Resistors in parallel are connected head to head and tail totail.A resistor in parallel have same voltage but different current will beflowing through each resistor depending on their resistance value.</description>
     </item>
     
     <item>
       <title>What is diode used for? All you need to know to start designing simple circuits</title>
-      <link>https://tooabstractive.com/electronics/what-is-a-diode-used-for/</link>
+      <link>/electronics/what-is-a-diode-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/what-is-a-diode-used-for/</guid>
+      <guid>/electronics/what-is-a-diode-used-for/</guid>
       <description>Basically diode is an electronic device or component that every circuits that we might think of has, be it the circuit inside a radio, a lamp, or your smartphone etc.
 So knowing what it is or what it is used for and the different types of diode is vital for an electronics hobbyist, or even electrical engineering students trying to design their own circuit.
 What is a diode? A diode is an electronic component that has two terminals positive (+ve) and negative (-ve) (also referred to as PN junction diode) which allows current to flow only in one direction.</description>
@@ -137,29 +137,29 @@ What is a diode? A diode is an electronic component that has two terminals posit
     
     <item>
       <title>Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home</title>
-      <link>https://tooabstractive.com/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</link>
+      <link>/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</guid>
+      <guid>/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</guid>
       <description>Are you a nerd or electronics hobbyist that have some mini electronics gadget laying around. why not jump start and repair few of them using some of the tips I have found useful while troubleshooting or repairing my own gadgets.
 So here are some of the list of the mini electronics gadgets and what you can do before you throw them away or call the attention of an expert.</description>
     </item>
     
     <item>
       <title>Star - Delta Transformation Explained With Tips On How To Recall The Formulas</title>
-      <link>https://tooabstractive.com/circuit-analysis/delta-and-star-connection-of-resistors-explained/</link>
+      <link>/circuit-analysis/delta-and-star-connection-of-resistors-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/delta-and-star-connection-of-resistors-explained/</guid>
+      <guid>/circuit-analysis/delta-and-star-connection-of-resistors-explained/</guid>
       <description>Content SummaryThe star and delta transformation involves converting from star to delta or delta to star and we do this when our resistors are not connected in parallel or series.The delta can be structured in two ways as having a triangleshape or pie shape. The star has awye or T shape.Why and how do we do star to delta or delta to star transformationThe star and delta transformation involves converting from star to delta or delta to star and we dothis when our resistors are not connected in parallel or series.</description>
     </item>
     
     <item>
       <title>A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget.</title>
-      <link>https://tooabstractive.com/electronics/a-beginners-guide-to-using-a-multimeter/</link>
+      <link>/electronics/a-beginners-guide-to-using-a-multimeter/</link>
       <pubDate>Wed, 04 Jan 2023 23:31:20 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/a-beginners-guide-to-using-a-multimeter/</guid>
+      <guid>/electronics/a-beginners-guide-to-using-a-multimeter/</guid>
       <description>A multimeter is a multi-purpose tool that every electronics hobbyist or engineer need to have because it allows you to be able to troubleshoot most electronics problem you have at home.
 So in this post I would be discussing on some of the important things you need to know about a multimeter and some of the things you can do with it.
 What type of multimeter should I buy? I would say, as a beginner, all you need is a basic and cheap but functional multimeter that get your job done instead of buying a costly multimeter.</description>
@@ -167,10 +167,10 @@ What type of multimeter should I buy? I would say, as a beginner, all you need i
     
     <item>
       <title>Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</title>
-      <link>https://tooabstractive.com/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</link>
+      <link>/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</guid>
+      <guid>/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</guid>
       <description>Before diving into what the Kirchhoff’s law is, can you solve this circuit using ohm&amp;rsquo;s law to find all the currents flowing in each branch of the circuit.
 I probably know it will be frustrating to solve this circuit using ohm&amp;rsquo;s law because there are more than one connection of resistors and also more than one loop which means ohm&amp;rsquo;s law won’t be a perfect technique to use
 Rather, we need an optimized technique which still is based on ohm&amp;rsquo;s law (as ohm&amp;rsquo;s law is the base that relates voltage, current and resistance) but it is a little bit easier to work with.</description>
@@ -178,10 +178,10 @@ Rather, we need an optimized technique which still is based on ohm&amp;rsquo;s l
     
     <item>
       <title>What are the Differences Between POP3 and IMAP</title>
-      <link>https://tooabstractive.com/networking/what-is-the-difference-between-pop3-and-imap/</link>
+      <link>/networking/what-is-the-difference-between-pop3-and-imap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-the-difference-between-pop3-and-imap/</guid>
+      <guid>/networking/what-is-the-difference-between-pop3-and-imap/</guid>
       <description>POP3 and IMAP are the two protocols of message access protocols. They are used in retrieving messages from the server to the client&amp;rsquo;s end.
 There are differences between POP3 and IMAP even though they are used for receiving emails only and that’s what we are going to discuss below.
 What is POP3? POP3 stands for Post Office Protocol, version 3. it is a simple protocol with limited functionality which is used in retrieving emails over the mail server.</description>
@@ -189,10 +189,10 @@ What is POP3? POP3 stands for Post Office Protocol, version 3. it is a simple pr
     
     <item>
       <title>How to study smart in engineering and have better grades without over stressing.</title>
-      <link>https://tooabstractive.com/misce-post/how-to-study-better-in-engineering/</link>
+      <link>/misce-post/how-to-study-better-in-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/misce-post/how-to-study-better-in-engineering/</guid>
+      <guid>/misce-post/how-to-study-better-in-engineering/</guid>
       <description>Over the years of been an engineering student, I have met some good medical and engineering students.
 And I have learned from them some tactics and strategies that help them study better and have good grades without over stressing.
 Here in this post, I will be sharing most of them with you so you can fast track your engineering journey and make it fun.
@@ -201,10 +201,10 @@ Aim to study for many hours but split it into chunks We all know that engineerin
     
     <item>
       <title>Thevenin&#39;s Theorem Explained With Solved Examples</title>
-      <link>https://tooabstractive.com/circuit-analysis/thevenins-theorem-explain-with-examples/</link>
+      <link>/circuit-analysis/thevenins-theorem-explain-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/circuit-analysis/thevenins-theorem-explain-with-examples/</guid>
+      <guid>/circuit-analysis/thevenins-theorem-explain-with-examples/</guid>
       <description>Thevenin theorem is a theorem used to model complex circuits into a simple circuit with an equivalent voltage source and resistance.
 As the theorem states that;
 ‘any two terminals of a network can be replaced by an equivalent voltage source and an equivalent series resistance.
@@ -214,30 +214,30 @@ The series resistance is the resistance of the network measured between two term
     
     <item>
       <title>11 simple ways student can improve their writing skill</title>
-      <link>https://tooabstractive.com/misce-post/simple-ways-student-can-improve-their-writing-skill/</link>
+      <link>/misce-post/simple-ways-student-can-improve-their-writing-skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/misce-post/simple-ways-student-can-improve-their-writing-skill/</guid>
+      <guid>/misce-post/simple-ways-student-can-improve-their-writing-skill/</guid>
       <description>Being a student that loves to write and help others learn abstractive stuffs, I have been struggling a lot to improve my writing skill because it pays off a lot while in school and even out of school.
 So in this post I will be sharing some of the most important ways (in no specific order) that can really help student improve their writing skill and in essence, become a better writer.</description>
     </item>
     
     <item>
       <title>Simple essay writing tips to help students write better essays and have good grades</title>
-      <link>https://tooabstractive.com/misce-post/simple-essay-writing-tips-for-student/</link>
+      <link>/misce-post/simple-essay-writing-tips-for-student/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/misce-post/simple-essay-writing-tips-for-student/</guid>
+      <guid>/misce-post/simple-essay-writing-tips-for-student/</guid>
       <description>Sometimes, writing an essay can be really intimidating due to lot of researches to be done and most likely at the end of writing the essay, it might even result in a bad grade which makes student sad or unhappy.
 In this post I will be discussing some of the tips that can really impact your essay writing as a student because, to be frank am just a student like you and have been in your shoe too – which means this has most of the tips I have learnt along the way of me trying to write my own essay.</description>
     </item>
     
     <item>
       <title>How do solar cells work to generate electricity explained simply?</title>
-      <link>https://tooabstractive.com/electronics/how-do-solar-cells-work-to-generate-electricity/</link>
+      <link>/electronics/how-do-solar-cells-work-to-generate-electricity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/how-do-solar-cells-work-to-generate-electricity/</guid>
+      <guid>/electronics/how-do-solar-cells-work-to-generate-electricity/</guid>
       <description>The way solar cells work to generate electricity is by absorbing energy from the sun (which constitutes tiny particles called photons).
 This energy from the sun strikes the solar cells thereby resulting in electrons being knocked out from their normal position and then being allowed to move freely, resulting to be the current that flows through our circuits or light bulb at home.
 But there is more physics behind how solar cells work to generate electricity so let’s look into that.</description>
@@ -245,39 +245,39 @@ But there is more physics behind how solar cells work to generate electricity so
     
     <item>
       <title>22 Resources for Learning Electronics From Scratch (For Beginners)</title>
-      <link>https://tooabstractive.com/electronics/resources-for-learning-electronics-from-scratch/</link>
+      <link>/electronics/resources-for-learning-electronics-from-scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/resources-for-learning-electronics-from-scratch/</guid>
+      <guid>/electronics/resources-for-learning-electronics-from-scratch/</guid>
       <description>Learning electronics can be fun sometimes but for other times can be really frustrating. So having good resources around can help reduce those frustration and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets.
 Because electronics is not something to just study as a theory but needed to be applied practically, and on your way of getting your hands on electronics, you will become better at it.</description>
     </item>
     
     <item>
       <title>Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network.</title>
-      <link>https://tooabstractive.com/networking/how-computers-are-connected-through-wired-network/</link>
+      <link>/networking/how-computers-are-connected-through-wired-network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/how-computers-are-connected-through-wired-network/</guid>
+      <guid>/networking/how-computers-are-connected-through-wired-network/</guid>
       <description>In most small offices or homes, to access the internet, it can bedone through turning on our mobile hostpot so other devices canconnect to it and use the internet. But connecting more devicesmakes our signal weak, also moving the mobile phone away from otherdevices that are connected to it, makes the signal to go down. Thatswhy wired network are used at big companies, small offices andsometimes at home if one is able to afford for a mini setup.</description>
     </item>
     
     <item>
       <title>Importance of Programming to Electrical and Electronics Engineering</title>
-      <link>https://tooabstractive.com/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</link>
+      <link>/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</guid>
+      <guid>/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</guid>
       <description>Programming is important to electrical and electronics engineering (or EEE for short) because EEE is all about problem-solving and these problems are solved using mathematics, physics, and programming (sometimes referred to as coding).
 But what is programming all about? Programming is a skill or tool that is used for commanding or instructing computers or hardware devices to do a specific task most especially those that are repetitive and need precision because a human can&amp;rsquo;t, or those tasks that help to make life easier for us.</description>
     </item>
     
     <item>
       <title>What Is a Resistor Used For? All You Need To know About Resistors Explained Simply</title>
-      <link>https://tooabstractive.com/electronics/what-is-a-resistor-used-for/</link>
+      <link>/electronics/what-is-a-resistor-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/what-is-a-resistor-used-for/</guid>
+      <guid>/electronics/what-is-a-resistor-used-for/</guid>
       <description>Before going in depth of what a resistor is used for and the other things you need to know about it, you need to know what it is.
 What is a resistor? A resistor is an electronics component that limits (or reduce) the flow of current in a circuit, as well as cause voltage to be dropped across it.
 In other words, it main purpose or function in a circuit is to control current flow.</description>
@@ -285,10 +285,10 @@ In other words, it main purpose or function in a circuit is to control current f
     
     <item>
       <title>What Is a Signal and its Different Types In Electronics And Communications?</title>
-      <link>https://tooabstractive.com/signal-and-system/what-is-a-signal-and-its-types/</link>
+      <link>/signal-and-system/what-is-a-signal-and-its-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/signal-and-system/what-is-a-signal-and-its-types/</guid>
+      <guid>/signal-and-system/what-is-a-signal-and-its-types/</guid>
       <description>what is a signal? A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
 So anything that carries information is considered a signal e.g.
 The temperature of a room, Voltage and current in an electronic circuit Digital images, video, or audio Sounds or speeches etc. Position, speed, acceleration, or velocity of an object A stock market index The flow rate of fluid etc.</description>
@@ -296,10 +296,10 @@ The temperature of a room, Voltage and current in an electronic circuit Digital 
     
     <item>
       <title>How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?</title>
-      <link>https://tooabstractive.com/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/</link>
+      <link>/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/</link>
       <pubDate>Sun, 01 Jan 2023 00:56:27 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/</guid>
+      <guid>/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/</guid>
       <description>Before solving problems on energy and power signal, you need to understand what each of the signal means
 What are power and energy signals? A power signals are signals with finite power while energy signals are signals with finite energy.
 How do you solve energy and power signals? Here are the few things to remember in order to quickly identify if a signal is a power or an energy signal</description>
@@ -307,20 +307,20 @@ How do you solve energy and power signals? Here are the few things to remember i
     
     <item>
       <title>What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques</title>
-      <link>https://tooabstractive.com/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</link>
+      <link>/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</guid>
+      <guid>/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</guid>
       <description>Without modulation, it might seem impossible for human to communicate over a long distance. Because when we speak, it get propagated into space and dies out and the information can only be gotten if the person we want to communicate with is close.
 Know that the frequency of human voice is around the range of 20hz to 20Khz which is low and can&amp;rsquo;t travel far. With this in mind, a third party is needed to carry the information over a long distance just as if you throw a piece of paper on the ground, it takes longer to go down because air makes it to float but if you tie a stone to the paper, it goes down quickly.</description>
     </item>
     
     <item>
       <title>What are radio waves? What are radio waves used for? All you need to know</title>
-      <link>https://tooabstractive.com/electronics/what-are-radio-waves-and-what-are-they-used-for/</link>
+      <link>/electronics/what-are-radio-waves-and-what-are-they-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/what-are-radio-waves-and-what-are-they-used-for/</guid>
+      <guid>/electronics/what-are-radio-waves-and-what-are-they-used-for/</guid>
       <description>The major reason why we can communicate wirelessly is through the adventure of radio waves.
 What are radio waves? Radio waves are part of the electromagnetic spectrum family with frequencies in the range of 3Khz to 300Ghz which consist of radio frequency RF waves and microwaves.
 It can also be defined as an electromagnetic wave with an electric field (E) and magnetic field (H) components.
@@ -330,10 +330,10 @@ Know
     
     <item>
       <title>What Are the Basic Operations on Discrete Time Signals?</title>
-      <link>https://tooabstractive.com/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/</link>
+      <link>/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/</guid>
+      <guid>/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/</guid>
       <description>The following are the basic operations that can be done on discrete time signal
 Addition Subtraction Multiplication Amplitude scaling Time shifting Time reversal Time scaling The first 4 operations are performed along the y or value axis while the last 3 are performed along the x or time axis.
 but before solving problems on it, let’s discuss briefly on what discrete-time signal mean.
@@ -342,10 +342,10 @@ what is discrete-time signals or DTS? Discrete-time signalsrefers to signals tha
     
     <item>
       <title>Why Optical Fiber Communication Is Preferred Over Other Means of Communication?</title>
-      <link>https://tooabstractive.com/networking/why-optical-fiber-communication-is-prefered/</link>
+      <link>/networking/why-optical-fiber-communication-is-prefered/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/why-optical-fiber-communication-is-prefered/</guid>
+      <guid>/networking/why-optical-fiber-communication-is-prefered/</guid>
       <description>In fiber optics communication, a fiber which is a dielectric material (plastic or glass) is used as a channel or link to guide or transmit light waves over a short or long distance.
 The fiber optic has a core which diameter is relatively the diameter of a hair strand.
 The cladding which serves as a protective coating is also light in weight. Hence a fiber optics is still light in weight compared to coaxial cables or copper wires.</description>
@@ -353,10 +353,10 @@ The cladding which serves as a protective coating is also light in weight. Hence
     
     <item>
       <title>What Are the Different Causes of Transmission Impairments?</title>
-      <link>https://tooabstractive.com/networking/what-are-the-different-causes-of-transmission-impairments/</link>
+      <link>/networking/what-are-the-different-causes-of-transmission-impairments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-are-the-different-causes-of-transmission-impairments/</guid>
+      <guid>/networking/what-are-the-different-causes-of-transmission-impairments/</guid>
       <description>Transmission impairment is as a result of imperfections in a transmission medium. It occurs when the signal at the receiving end is different from the signal been sent (at the transmitting end).
 Note
 Know that transmission medium can be wired or wireless. In wired, a cable like coaxial cable is used and in wireless, the free space is used. As medium is different the impairments varies.Causes of transmission impairments There are three types of transmission impairments which you can recall as DAN.</description>
@@ -364,10 +364,10 @@ Know that transmission medium can be wired or wireless. In wired, a cable like c
     
     <item>
       <title>What is decibel (dB)? A better explanation for students</title>
-      <link>https://tooabstractive.com/electronics/decibel-explained-simply/</link>
+      <link>/electronics/decibel-explained-simply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/decibel-explained-simply/</guid>
+      <guid>/electronics/decibel-explained-simply/</guid>
       <description>Decibel (dB) is a logarithmic unit used by engineers to measure power, voltage/current or sound level.
 It is mostly used when there is loss or gain in power (or signal strength), pressure, voltage or sound level.
 In essence the dB is a measure of the ratio between two parameters. The parameter can be a signal strength from one point to another in a transmission line, pressure between two points, voltage between two points etc.</description>
@@ -375,10 +375,10 @@ In essence the dB is a measure of the ratio between two parameters. The paramete
     
     <item>
       <title>Baseband and Broadband Transmission in Communication System Explained</title>
-      <link>https://tooabstractive.com/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</link>
+      <link>/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</guid>
+      <guid>/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</guid>
       <description>Baseband and broadband transmission are ways in which digital signals can be transmitted from one point to another.
 Baseband transmission Baseband transmission refers to transmission in which a digital signal is sent over a channel without changing or converting the digital signal to an analog signal.
 Broadband transmission Broadband transmission sometimes referred to as modulation means changing or converting a digital signal to analog signal for transmission.
@@ -388,10 +388,10 @@ The conversion from digital to analog is possible with modulation.</description>
     
     <item>
       <title>What Is Simplex, Half-Duplex and Full-Duplex mode of communication?</title>
-      <link>https://tooabstractive.com/networking/what-is-simplex-half-duplex-and-full-duplex/</link>
+      <link>/networking/what-is-simplex-half-duplex-and-full-duplex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-simplex-half-duplex-and-full-duplex/</guid>
+      <guid>/networking/what-is-simplex-half-duplex-and-full-duplex/</guid>
       <description>The communication between two devices can be said to be simplex, half-duplex and full duplex.
 Simplex mode of communication In simplex mode, the direction at which devices communicate is unidirectional i.e. one can only send while the other can receive and not the other way round.
 Examples of device that use simplex mode;
@@ -400,10 +400,10 @@ Keyboard Monitor Speaker For example, a keyboard can only send to a monitor, and
     
     <item>
       <title>Digital to Analog Signal Conversion Explained</title>
-      <link>https://tooabstractive.com/electronics/digital-to-analog-signal-conversion/</link>
+      <link>/electronics/digital-to-analog-signal-conversion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/digital-to-analog-signal-conversion/</guid>
+      <guid>/electronics/digital-to-analog-signal-conversion/</guid>
       <description>Digital to analog signal conversion involves the process of changing or modifying one of the characteristics of an analog signal in accordance to the information in the digital data.
 But before discussing on what the techniques used for converting a digital signal to analog signal lets first discuss on what digital and analog signals are.
 Digital signalsare signals that carries information (data) in form of sequence of pulses with discrete value.</description>
@@ -411,10 +411,10 @@ Digital signalsare signals that carries information (data) in form of sequence o
     
     <item>
       <title>What Is Electricity and How Does It Work? A Simple Explanation</title>
-      <link>https://tooabstractive.com/electronics/what-is-electricity-and-how-does-it-work/</link>
+      <link>/electronics/what-is-electricity-and-how-does-it-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/what-is-electricity-and-how-does-it-work/</guid>
+      <guid>/electronics/what-is-electricity-and-how-does-it-work/</guid>
       <description>Electricity is basically what flows through a wire or a conductor and then power up our light bulb, TV, and other electronic gadgets at home. And it works by letting tiny particles called electrons to flow or move through a conductive closed path.
 In essence, a wire which is a conductor allows those electrons to flow through it resulting in what is called electric current or electricity.
 But to understand what electricity is and how it works on a deeper level, we need to zoom down to zero and understand the physics behind it.</description>
@@ -422,20 +422,20 @@ But to understand what electricity is and how it works on a deeper level, we nee
     
     <item>
       <title>4 Differences Between WDM and DWDM Multiplexing Technique</title>
-      <link>https://tooabstractive.com/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</link>
+      <link>/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</guid>
+      <guid>/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</guid>
       <description>WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal which can then be transmitted through a common link or channel.
 As it is seen that these techniques are used for the combination of multiple signal into just a single signal. So you might ask what is now the difference between these techniques.</description>
     </item>
     
     <item>
       <title>What is multiplexing and its techniques (FDM, WDM and TDM)? All you need to know</title>
-      <link>https://tooabstractive.com/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</link>
+      <link>/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</guid>
+      <guid>/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</guid>
       <description>In this modern day, the rate of data transmission is high and as data and telecommunication needs increases, there is need for higher bandwidth which will allow high transmission rate of data.
 One way to efficiently utilize the data link which is used for the transmission of data is by implementing multiplexing techniques.
 What is multiplexing Multiplexing involves the use of some techniques in order to allow the simultaneous transmission of several or multiple signals through a single data link.</description>
@@ -443,10 +443,10 @@ What is multiplexing Multiplexing involves the use of some techniques in order t
     
     <item>
       <title>Linear and Nonlinear Scattering Losses in Optical Fiber Explained Simply</title>
-      <link>https://tooabstractive.com/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</link>
+      <link>/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
+      <guid>/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
       <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022In optical fibers, there are lots of factors that contributes to degradation of transmitted optical power which includes attenuation, dispersion and scattering.
 So in this post I would be discussing what the scattering losses are in optical fiber.
 Scattering losses in optical fiber is categorized into;
@@ -457,30 +457,30 @@ Rayleigh scatteringMie scatteringNonlinear scattering</description>
     
     <item>
       <title>Baseband and Passband Signal and Their Difference in Communication</title>
-      <link>https://tooabstractive.com/electronics/baseband-and-passband-signal-and-their-difference/</link>
+      <link>/electronics/baseband-and-passband-signal-and-their-difference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/baseband-and-passband-signal-and-their-difference/</guid>
+      <guid>/electronics/baseband-and-passband-signal-and-their-difference/</guid>
       <description>In communication, baseband signal is the original or natural information (i.e. the information we are interested to send) e.g. voice, image, or video. Baseband is also called the message signal.
 But to carry this baseband signal over a long distance as it has a low frequency, modulation needs to take place. If the baseband or original message is used to modify a carrier wave (i.e. modulation process) then after modulation, the information that is transferred is the passband signal.</description>
     </item>
     
     <item>
       <title>Basic Difference Between Programmable Array Logic (PAL) and Programmable Logic Array (PLA)</title>
-      <link>https://tooabstractive.com/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</link>
+      <link>/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
+      <guid>/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
       <description>** Programmable logic array (PLA) and programmable array logic (PAL)** are generally known as programmable logic devices (PLDs) that have programmable AND array but with a difference in which one has additional fixed OR array while the other has an additional programmable OR array. But what is a programmable logic device?
 Programmable logic device (PLD) can be thought of as a blank slate device that can be programmed or reprogrammed depending on the type to perform a logical operation or function.</description>
     </item>
     
     <item>
       <title>Difference Between Random Process and Random Variable</title>
-      <link>https://tooabstractive.com/networking/difference-between-random-process-and-random-variable/</link>
+      <link>/networking/difference-between-random-process-and-random-variable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/difference-between-random-process-and-random-variable/</guid>
+      <guid>/networking/difference-between-random-process-and-random-variable/</guid>
       <description>When any experiment or scenario involves probability or the need for probabilistic model then a random process and random variable must be considered.
 what is a random process? Random process can be thought of as the collection of random variables. It can also be defined as a time varying function that assign the outcome of a random event or experiment to each time instant. e.g. a signal.
 what is a random variable?</description>
@@ -488,10 +488,10 @@ what is a random variable?</description>
     
     <item>
       <title>What is radio wave propagation? and the modes of radio wave propagation explained</title>
-      <link>https://tooabstractive.com/networking/modes-of-radio-wave-propagation/</link>
+      <link>/networking/modes-of-radio-wave-propagation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/modes-of-radio-wave-propagation/</guid>
+      <guid>/networking/modes-of-radio-wave-propagation/</guid>
       <description>In order for electromagnetic (radio) waves to travel, a transmitting antenna and a receiving antenna is required. The path or mode in which the radio waves follow or can travel is termed as radio wave propagation.
 There are three (3) modes of radio wave propagation is as follows;
 Ground wave or surface wave propagationSpace wave and line of sight (LOS) propagationSkywave propagationGround wave propagation Ground wave propagation is a mode of propagation in which the electromagnetic wave follows the curvature or contour of the earth.</description>
@@ -499,30 +499,30 @@ Ground wave or surface wave propagationSpace wave and line of sight (LOS) propa
     
     <item>
       <title>What is dispersion loss in optical fiber and types of dispersion loss?</title>
-      <link>https://tooabstractive.com/networking/what-is-dispersion-in-optical-fiber-and-the-types/</link>
+      <link>/networking/what-is-dispersion-in-optical-fiber-and-the-types/</link>
       <pubDate>Wed, 04 Jan 2023 23:43:06 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-dispersion-in-optical-fiber-and-the-types/</guid>
+      <guid>/networking/what-is-dispersion-in-optical-fiber-and-the-types/</guid>
       <description>In fiber optics communication, there are several transmission impairments which degrades signal strength as light pulses travel along a fiber. Among the transmission impairment, is dispersion and it is discussed below.
 what is dispersion? Dispersion refers to the broadening or spreading of transmitted light pulses as they travel along the fiber. As each light pulse broadens and overlap with neighboring pulse, Inter-symbol Interference (ISI) occurs which makes the pulses indistinguishable at the receiver.</description>
     </item>
     
     <item>
       <title>What Is Fiber Optics Cable, Modes of Propagation and How Does Light Travels Through It</title>
-      <link>https://tooabstractive.com/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</link>
+      <link>/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</guid>
+      <guid>/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</guid>
       <description>There are several guided medium which are used for the transmission of data e.g. coaxial cable and fiber optics cable. But fiber optics cable provides better advantage to coaxial cable as it uses light as optical source while coaxial cable uses electric signal.
 What is fiber optics cable? Fiber optics cable is a dielectric (or insulated) material (e.g. glass) which is used to transmit light pulses or optical signal. The optical sources are mostly LASER or LED.</description>
     </item>
     
     <item>
       <title>Circuit Switching, Message Switching and Packet Switching Techniques Explained</title>
-      <link>https://tooabstractive.com/networking/circuit-message-and-packet-switching-techniques-explained/</link>
+      <link>/networking/circuit-message-and-packet-switching-techniques-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/circuit-message-and-packet-switching-techniques-explained/</guid>
+      <guid>/networking/circuit-message-and-packet-switching-techniques-explained/</guid>
       <description>Switching in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple path.
 This is to ensure that the efficient use of channels is achieved and to make communication and transmission reliable.
 There are three types of switching techniques;
@@ -531,10 +531,10 @@ Circuit switchingMessage switching andPacket switchingWhat is circuit switchi
     
     <item>
       <title>The Seven Layers of the OSI Model Explained</title>
-      <link>https://tooabstractive.com/networking/the-seven-layers-of-the-osi-model-explained/</link>
+      <link>/networking/the-seven-layers-of-the-osi-model-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/the-seven-layers-of-the-osi-model-explained/</guid>
+      <guid>/networking/the-seven-layers-of-the-osi-model-explained/</guid>
       <description>OSI Model which is termed as Open System Interconnection is a model which is used for standardizing communication across network or it can be said to be a standard architecture which is used for designing network.
 It helps to make troubleshooting of network problem easily as it breaks a complex network into several manageable segments. The OSI model consist of 7 layers.
 Even though the OSI model is obsolete, it is still considered to be a reference model to understand how a network works.</description>
@@ -542,10 +542,10 @@ Even though the OSI model is obsolete, it is still considered to be a reference 
     
     <item>
       <title>Difference Between Unicast, Multicast, Broadcast and Anycast Transmission Types</title>
-      <link>https://tooabstractive.com/networking/difference-between-unicast-multicast-broadcast-and-anycast/</link>
+      <link>/networking/difference-between-unicast-multicast-broadcast-and-anycast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/difference-between-unicast-multicast-broadcast-and-anycast/</guid>
+      <guid>/networking/difference-between-unicast-multicast-broadcast-and-anycast/</guid>
       <description>Unicast, Multicast, Broadcast and Anycast are the transmission types or the form in which network traffics can be transported from a single source to another destination.
 Note
 The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipent side over a communication link or channel.Unicast - (One - Cast) Unicast is termed as a one to one transmission in which traffic (consisting of streams of packets) is transmitted from a single source to a single destination device.</description>
@@ -553,40 +553,40 @@ The term cast is referred to as the streams of bits (called packets) which are t
     
     <item>
       <title>Frequency Range of Radio Waves, EM (Band) Spectrum and Their Applications</title>
-      <link>https://tooabstractive.com/electronics/frequency-range-of-radio-waves/</link>
+      <link>/electronics/frequency-range-of-radio-waves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/frequency-range-of-radio-waves/</guid>
+      <guid>/electronics/frequency-range-of-radio-waves/</guid>
       <description>The frequency range of radio waves are specified in the table below with the EM spectrum (band) and their respective application.
 s/n frequency range EM spectrum (Band) Application 1. 30Hz - 300Hz ELF Power line communications 2. 300Hz - 3KHz Voice/ speech Frequency Speech, voice communication 3. 3KHz - 30KHz VLF Long-range radio navigation 4. 30KHz - 300KHz LF navigational locator, submarine communication 5. 300KHz - 3MHz MF AM Radio 6.</description>
     </item>
     
     <item>
       <title>What Is TCP/IP and How It Is Different From OSI Model</title>
-      <link>https://tooabstractive.com/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</link>
+      <link>/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</guid>
+      <guid>/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</guid>
       <description>TCP/IP is termed as transmission control protocol /with internet protocol. It is a model which is used for standardizing communications across network.
 It is similar to the OSI model but it makes the layers quite simple as it consists of 4 layers. If you can understand the OSI model (as it is the reference model and it consist of 7 layers) then you will be able to grasp TCP/IP in no time.</description>
     </item>
     
     <item>
       <title>What is MAC Layer and the Different Types of Multiple Access Protocol</title>
-      <link>https://tooabstractive.com/networking/what-is-mac-layer-and-the-different-types-of-protocol/</link>
+      <link>/networking/what-is-mac-layer-and-the-different-types-of-protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-mac-layer-and-the-different-types-of-protocol/</guid>
+      <guid>/networking/what-is-mac-layer-and-the-different-types-of-protocol/</guid>
       <description>MAC is termed as Media Access Control and it is a sublayer under the data-link layer which consist of protocols (called Multiple Access Protocol) that coordinate the access of nodes (or stations) to a link or multipoint.
 Why is MAC necessary The reason why a MAC is needed is that when nodes or devices are connected to a common link (multipoint), a protocol is needed to help control or coordinate the way each node transmits data mostly in order to avoid collision and traffic jam.</description>
     </item>
     
     <item>
       <title>How Do You Know if a MAC Address is a Unicast, Multicast or Broadcast MAC address</title>
-      <link>https://tooabstractive.com/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</link>
+      <link>/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</guid>
+      <guid>/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</guid>
       <description>In order to know if a MAC address is a unicast MAC address, multicast MAC address or Broadcast MAC address, you need to understand what a MAC address is.
 We have gone into details about that. But in this we will briefly explained it and also solve some examples.
 A MAC address consist of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A But the main point needed in order to identify if a MAC address is a unicast or multicast is the first byte.</description>
@@ -594,40 +594,40 @@ A MAC address consist of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A
     
     <item>
       <title>What is a MAC Address? Explained With Examples</title>
-      <link>https://tooabstractive.com/networking/what-is-a-mac-address-with-examples/</link>
+      <link>/networking/what-is-a-mac-address-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-a-mac-address-with-examples/</guid>
+      <guid>/networking/what-is-a-mac-address-with-examples/</guid>
       <description>MAC address is termed as Media Access Control address. It is a unique address assigned to every network device and cannot be altered or changed. This address is also called a physical address which is attached to a device by the manufacturer.
 The MAC address resides on the Layer 2 of the OSI model. It consists of 48-bits or 6-bytes and it is sometimes called MAC–48 or EUI-48 (Extension Unique Identifier).</description>
     </item>
     
     <item>
       <title>The 7 Logic Gates (AND, OR, NOT, NAND, NOR, XOR and XNOR) Explained With Their Truth Table</title>
-      <link>https://tooabstractive.com/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</link>
+      <link>/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</guid>
+      <guid>/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</guid>
       <description>Logic gates are electronic circuits or devices that forms the basic building block for combinational circuits. It can be used to implement boolean expressions such as addition, subtraction etc.
 There are no digital circuits without a logic gate. The logic gates are termed logic gate as they perform some logic function by either comparing input signals, adding, subtracting, multiplying etc. of input signal and then resulting in an output signal.</description>
     </item>
     
     <item>
       <title>How to start reading books as a beginner (11 Tips on how to read 2 books a week)</title>
-      <link>https://tooabstractive.com/misce-post/how-to-start-reading-books-as-a-beginner/</link>
+      <link>/misce-post/how-to-start-reading-books-as-a-beginner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/misce-post/how-to-start-reading-books-as-a-beginner/</guid>
+      <guid>/misce-post/how-to-start-reading-books-as-a-beginner/</guid>
       <description>Most people are frightened out and unmotivated when they hear people say I used to read three books a week or I read 100 books a year.
 The truth of the matter is that yes most people are able to do so but in reality the way you think they read books is not actually how they do read and I have been in such state and was intrigued about it but at long last I was able to find my way through because even if I desire to read a fascinating book, I just get discourage over time as not all the pages or chapter will be interesting.</description>
     </item>
     
     <item>
       <title>How to Take Good Note in Class</title>
-      <link>https://tooabstractive.com/misce-post/how-to-take-good-note-in-class/</link>
+      <link>/misce-post/how-to-take-good-note-in-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/misce-post/how-to-take-good-note-in-class/</guid>
+      <guid>/misce-post/how-to-take-good-note-in-class/</guid>
       <description>Taking good notes in class can not only enhance your study performance but also increase your academic points.
 That’s why to take good notes is vital as a student because there are times whereby you write down some things in your note, studied it and understood it well but as exams approaches,
 you get back to your note after some time and still you find it difficult to even understand what you wrote.</description>
@@ -635,60 +635,60 @@ you get back to your note after some time and still you find it difficult to eve
     
     <item>
       <title>Memory Hierarchy Explained With Diagram</title>
-      <link>https://tooabstractive.com/digital-electronics/memory-hierarchy-explained-with-diagram/</link>
+      <link>/digital-electronics/memory-hierarchy-explained-with-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/memory-hierarchy-explained-with-diagram/</guid>
+      <guid>/digital-electronics/memory-hierarchy-explained-with-diagram/</guid>
       <description>Data storage in a computer is possible with the help of a memory system. The memory system helps in holding data for a short period of time during processing and also to store data and programs for long period of time.
 A memory system consists of several types of memory, such as registers (which is used for storing bits), cache (which is used for storing data for easy access), hard disk (which is used for storing data mostly on a permanent basis) etc.</description>
     </item>
     
     <item>
       <title>Differences Between Step-Index and Graded-Index Optical Fiber</title>
-      <link>https://tooabstractive.com/networking/difference-between-step-index-and-graded-index-optical-fiber/</link>
+      <link>/networking/difference-between-step-index-and-graded-index-optical-fiber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/difference-between-step-index-and-graded-index-optical-fiber/</guid>
+      <guid>/networking/difference-between-step-index-and-graded-index-optical-fiber/</guid>
       <description>One of the major difference between a step index fiber and a graded index fiber is that, a step index fiber has a core with constant refractive index and make a step change from the core - cladding interface while a graded index fiber does not have a core with constant refractive index and it makes a gradual change from the core - cladding interface.
 Difference between step index and graded index fiber Step index fiber It has a constant core refractive index.</description>
     </item>
     
     <item>
       <title>What Is Horn Antenna? Its uses, Types, Design parameters and Applications.</title>
-      <link>https://tooabstractive.com/electronics/what-is-horn-antenna-and-its-uses/</link>
+      <link>/electronics/what-is-horn-antenna-and-its-uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/what-is-horn-antenna-and-its-uses/</guid>
+      <guid>/electronics/what-is-horn-antenna-and-its-uses/</guid>
       <description>Horn antenna is an antenna which is constructed by flaring (or opening) of a waveguide (a metallic material) in order to direct electromagnetic waves in one direction.
 What is a horn antenna used for? It is a directional antenna which is used to increase directivity It helps in improving impedance matching because the waveguide mostly has impedance of about 50Ω while the impedance of the free space is 377Ω. In order to match out the impedance so as to reduce power loss, a flaring is used to kind of concentrate the electromagnetic waves.</description>
     </item>
     
     <item>
       <title>What Is Optical Amplifier and Its Types?</title>
-      <link>https://tooabstractive.com/networking/what-is-optical-amplifier-and-its-types/</link>
+      <link>/networking/what-is-optical-amplifier-and-its-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-optical-amplifier-and-its-types/</guid>
+      <guid>/networking/what-is-optical-amplifier-and-its-types/</guid>
       <description>In long haul data transmission, transmission impairments (like attenuation or noise) takes place as signal travels through an optical fiber which results in reduction of signal strength.
 In order to reduce these transmission impairments, an optical amplifier is used which helps to amplify the weak signal. But unlike a repeater (which converts an optical signal into an electrical signal, and the electrical signal is then amplified and converted back to an optical signal),</description>
     </item>
     
     <item>
       <title>What Is Network Address Translation (NAT) and Its Types?</title>
-      <link>https://tooabstractive.com/networking/what-is-nat-and-its-types/</link>
+      <link>/networking/what-is-nat-and-its-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-nat-and-its-types/</guid>
+      <guid>/networking/what-is-nat-and-its-types/</guid>
       <description>Every device needs an IP address (or public IP address) to access the internet. For that reason, engineers in the 1970’s decided to do some research so as to know how long an IP address needs to be.
 Put in mind that a data packet (or information) often contains a sender IP and receiver IP address (or source and destination IP address) and the aim of the engineers also is to keep the packet as small as possible.</description>
     </item>
     
     <item>
       <title>Difference Between Power Signal and Energy Signal</title>
-      <link>https://tooabstractive.com/signal-and-system/difference-between-power-signal-and-energy-signal/</link>
+      <link>/signal-and-system/difference-between-power-signal-and-energy-signal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/signal-and-system/difference-between-power-signal-and-energy-signal/</guid>
+      <guid>/signal-and-system/difference-between-power-signal-and-energy-signal/</guid>
       <description>In one of our previous post we discuss about how to solve energy and power signal problems step by step with tips and shortcut and we briefly talk about what power and energy signal is. But in this post we would be discussing about the differences between power signal and energy signal.
 Difference between power signal and energy signal Power signal Power signal has finite power
 It has an infinite energy</description>
@@ -696,10 +696,10 @@ It has an infinite energy</description>
     
     <item>
       <title>What Is a Random Process With Examples?</title>
-      <link>https://tooabstractive.com/networking/what-is-a-random-process-with-examples/</link>
+      <link>/networking/what-is-a-random-process-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-a-random-process-with-examples/</guid>
+      <guid>/networking/what-is-a-random-process-with-examples/</guid>
       <description>Note: don’t fright out over the equation or formulas present in this article as we are to explain each bit by bit.
 What is a random process? A random process is also termed as a stochastic process and it is a process in which consist of several random variables over time. So you might ask what is a random variable?
 A random variable is a variable with set of random numbers.</description>
@@ -707,10 +707,10 @@ A random variable is a variable with set of random numbers.</description>
     
     <item>
       <title>13 Differences Between Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)</title>
-      <link>https://tooabstractive.com/networking/difference-between-tcp-and-udp/</link>
+      <link>/networking/difference-between-tcp-and-udp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/difference-between-tcp-and-udp/</guid>
+      <guid>/networking/difference-between-tcp-and-udp/</guid>
       <description>Transmission Control Protocol (TCP) TCP is termed as Transmission Control Protocol
 TCP is connection oriented protocol meaning that before any message will be sent, it must establish a connection with the receiving device.
 It undertakes a three handshake process for the establishment of connection by sending a SYN message and the receiving device replying with an ACK SYN and lastly the sending device will respond with ACK received
@@ -719,30 +719,30 @@ In terms of reliability, TCP is better than UDP and it is also secure than UDP</
     
     <item>
       <title>What Are the Differences Between Primary Memory and Secondary Memory with examples</title>
-      <link>https://tooabstractive.com/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</link>
+      <link>/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</guid>
+      <guid>/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</guid>
       <description>In a computer, there are mainly two types of memory which are the primary memory and secondary memory.
 The memories are what make a computer work efficiently and the major difference between both of these memories is that the primary memory is used for caching as it stores temporary data and it is fast in terms of the access time while the secondary memory is used for storing permanent files and it is slow in comparison to primary memory.</description>
     </item>
     
     <item>
       <title>What Is SMTP (Simple Mail Transfer Protocol) Used For?</title>
-      <link>https://tooabstractive.com/networking/what-is-smtp-used-for/</link>
+      <link>/networking/what-is-smtp-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-smtp-used-for/</guid>
+      <guid>/networking/what-is-smtp-used-for/</guid>
       <description>SMTP stands for Simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet.
 This protocol is used in two stages, one is from the client sending the mail to the sender server and from this server to another server close to the recipient of the mail. The email can then be retrieved by the client receiving the email from the server using the POP3 or IMAP protocol.</description>
     </item>
     
     <item>
       <title>Difference Between Packets and Frames In Networking</title>
-      <link>https://tooabstractive.com/networking/difference-between-packets-and-frames/</link>
+      <link>/networking/difference-between-packets-and-frames/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/difference-between-packets-and-frames/</guid>
+      <guid>/networking/difference-between-packets-and-frames/</guid>
       <description>Generally, packets and frames is almost the same but are given different names based on the layer they resides at.
 In order words both packet and frames deals with unit of data called bits.
 The way I like to think of these two terms is;
@@ -752,30 +752,30 @@ Difference between packet and frame Packets Frames 1 A packet is composed of str
     
     <item>
       <title>Difference Between SATA(Serial ATA) and eSATA (external Serial ATA)</title>
-      <link>https://tooabstractive.com/networking/difference-between-sata-and-esata/</link>
+      <link>/networking/difference-between-sata-and-esata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/difference-between-sata-and-esata/</guid>
+      <guid>/networking/difference-between-sata-and-esata/</guid>
       <description>Both SATA and eSATA are connectors which are used for connecting storage devices. SATA is used to connect internal storage devices while eSATA is used to connect external devices.
 Difference between SATA and eSATA SATA eSATA 1 SATA stand for Serial Advanced Technology Attachment eSATA stands for external Serial Advanced Technology Attachment 2 SATA is a connector which is used to connect internal storage devices eSATA is a connector which is used to connect external storage devices 3 SATA has a cable length of 1m or 3.</description>
     </item>
     
     <item>
       <title>Types of Network Protocols</title>
-      <link>https://tooabstractive.com/networking/types-of-network-protocols/</link>
+      <link>/networking/types-of-network-protocols/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/types-of-network-protocols/</guid>
+      <guid>/networking/types-of-network-protocols/</guid>
       <description>There are several types of protocol that exist in computer and networking and these protocol are what ensure that the connection between several computers and server is established based on specific rule because if there are no protocols, devices might be connected but would not be communicating.
 What is a network protocol or protocol? A protocol is defined as a set of rules that govern data communications. There are three key elements of a protocol and they are</description>
     </item>
     
     <item>
       <title>How to Create Barcode in Word In just few steps</title>
-      <link>https://tooabstractive.com/how-to-tech/how-to-create-barcode-in-word/</link>
+      <link>/how-to-tech/how-to-create-barcode-in-word/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/how-to-tech/how-to-create-barcode-in-word/</guid>
+      <guid>/how-to-tech/how-to-create-barcode-in-word/</guid>
       <description>Barcodes are sometimes referred to as QR codes and it is a graphics with code embedded in it.
 The code in it can represent a link to a website, a word document, an excel file, a power point document, pdf and what have you.
 In this how-to guide I will show you how to create a Barcode or QR code in Microsoft word.
@@ -785,10 +785,10 @@ Step 2: On the tab menu locate insert tab</description>
     
     <item>
       <title>How to Create Qr Code for a Page in Microsoft Edge</title>
-      <link>https://tooabstractive.com/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</link>
+      <link>/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</guid>
+      <guid>/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</guid>
       <description>There are just 3 steps to create a QR code for a website or in page in Microsoft edge.
 Step 1 : Browse any website you like to convert to a QR code.
 Step 2 : On the website, right click on the page and go to &amp;ldquo;Create QR cpde for this page&amp;rdquo;.
@@ -797,20 +797,20 @@ Step 3 : Lastly, download or scan the QR code. Apart from creating a QR code for
     
     <item>
       <title>What Is the Difference Between MAC Address and IP Address</title>
-      <link>https://tooabstractive.com/networking/what-is-the-difference-between-mac-address-and-ip-address/</link>
+      <link>/networking/what-is-the-difference-between-mac-address-and-ip-address/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-the-difference-between-mac-address-and-ip-address/</guid>
+      <guid>/networking/what-is-the-difference-between-mac-address-and-ip-address/</guid>
       <description>Both MAC address and IP address are used to identify a device in a network but the only difference between a MAC address and an IP address is that, MAC address is available on a local network while an IP address is available on a global network (Internet).
 What is MAC address? MAC address which stands for Media Access Control is a unique address assigned to every network device and it cannot be changed.</description>
     </item>
     
     <item>
       <title>What Is FTP (File Transfer Protocol) Used For?</title>
-      <link>https://tooabstractive.com/networking/what-is-ftp-used-for/</link>
+      <link>/networking/what-is-ftp-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-ftp-used-for/</guid>
+      <guid>/networking/what-is-ftp-used-for/</guid>
       <description>Transferring of files from your computer to the internet can be done through the use of a protocols called FTP.
 What is FTP and What is it used for? FTP stands for File Transfer Protocol. It is a protocol which is used for transferring files across network.
 It uses a client-server model in which the server host or store the files while the client (e.g. a computer) can connect, access, download, upload, rename and delete files which is hosted on the server.</description>
@@ -818,10 +818,10 @@ It uses a client-server model in which the server host or store the files while 
     
     <item>
       <title>What Is the Difference Between RAM (Random Access Memory) and ROM (Read Only Memory)</title>
-      <link>https://tooabstractive.com/digital-electronics/what-is-the-difference-between-ram-and-rom/</link>
+      <link>/digital-electronics/what-is-the-difference-between-ram-and-rom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/what-is-the-difference-between-ram-and-rom/</guid>
+      <guid>/digital-electronics/what-is-the-difference-between-ram-and-rom/</guid>
       <description>RAM which stands for Random Access Memory and ROM which stands for Read Only Memory are the major categories or types of semiconductor memories.
 RAM is responsible for storing or holding data which are temporary and can be erased when power is lost hence it is called volatile memory while ROM stores data permanently and can hold data even if power is turned off hence it is non-volatile.
 Difference Between RAM and ROM RAM RAM stands for Random Access Memory.</description>
@@ -829,10 +829,10 @@ Difference Between RAM and ROM RAM RAM stands for Random Access Memory.</descrip
     
     <item>
       <title>What Are the Units of Computer Memory | Bits, Bytes, Kilobytes and other units</title>
-      <link>https://tooabstractive.com/digital-electronics/what-are-the-units-of-computer-memory/</link>
+      <link>/digital-electronics/what-are-the-units-of-computer-memory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/what-are-the-units-of-computer-memory/</guid>
+      <guid>/digital-electronics/what-are-the-units-of-computer-memory/</guid>
       <description>Computers only understands zero’s and one’s which represent off and on. This zero’s and one’s are called binary digits or bits for short.
 This means that a bit consists of a zero and a one. This bit is the smallest unit of computer memory unit.
 What is computer memory units? A computer memory unit is the measure of memory or storage which is used to represent data.
@@ -841,10 +841,10 @@ Like the example of on and off which is a binary digit 0 and 1.</description>
     
     <item>
       <title>What Is ARP (Address Resolution Protocol) in Networking?</title>
-      <link>https://tooabstractive.com/networking/what-is-arp-in-networking/</link>
+      <link>/networking/what-is-arp-in-networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-arp-in-networking/</guid>
+      <guid>/networking/what-is-arp-in-networking/</guid>
       <description>ARP is a protocol which allow computers or hosts to work on layer 2 (Data link Layer) with a known IP address.
 What is ARP in networking? ARP stands for address resolution protocol. It is an internet protocol in networking designed to discover a MAC address and then map it to an IP address.
 How does ARP works in networking? Let’s use the figure below which shows four computers that are connected to a switch to form a local network.</description>
@@ -852,10 +852,10 @@ How does ARP works in networking? Let’s use the figure below which shows four 
     
     <item>
       <title>Best Free Graphic Design Software for Graphics Designers [2022]</title>
-      <link>https://tooabstractive.com/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</link>
+      <link>/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</guid>
+      <guid>/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</guid>
       <description>In this post we would be discussing on some free best graphic design software or to to use for design graphing as a graphic design.
 Free Graphics Design Software Inkscape is an open source vector based illustrator it is a free alternative to adobe illustrator and offer great feature which can be used to design simple to complex design.
 Some design ideas can be done on Inkscape are business card design, eBook cover design, design of mandala art with it great flexibility, logo design, icon design and also for website mockup.</description>
@@ -863,20 +863,20 @@ Some design ideas can be done on Inkscape are business card design, eBook cover 
     
     <item>
       <title>What Is DNS (Domain Name Server) and How It Works?</title>
-      <link>https://tooabstractive.com/networking/what-is-dns-and-how-it-works/</link>
+      <link>/networking/what-is-dns-and-how-it-works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/what-is-dns-and-how-it-works/</guid>
+      <guid>/networking/what-is-dns-and-how-it-works/</guid>
       <description>Every website can be accessed through an IP address but memorizing this addresses (written in such form 196.168.45.5) can be difficult rather, a name is given to a user in order to access the internet. The conversion or resolving of the domain name you are given to the actual IP address is a task carried out by DNS.
 What is DNS? DNS stands for Domain Name System. It is a system which is used to resolve or convert a domain name to IP address.</description>
     </item>
     
     <item>
       <title>Why is Frequency Domain Analysis Better Than Time Domain Analysis</title>
-      <link>https://tooabstractive.com/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</link>
+      <link>/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</guid>
+      <guid>/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</guid>
       <description>Frequency domain analysis is better and preferred than time domain analysis because of some characteristics possessed by signals in frequency domain and that would be discussed below.
 First what is time domain signal and frequency domain signal.
 What is Time domain signal? Signals in time domain is a signal plotted with the amplitude on the vertical or y axis with respect to time on the horizontal axis or X-axis.
@@ -885,10 +885,10 @@ Signals in time domain are measured in seconds or s.</description>
     
     <item>
       <title>Digital Transmission in Computer Networks | Line Coding</title>
-      <link>https://tooabstractive.com/networking/digital-transmission-in-computer-networks/</link>
+      <link>/networking/digital-transmission-in-computer-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/networking/digital-transmission-in-computer-networks/</guid>
+      <guid>/networking/digital-transmission-in-computer-networks/</guid>
       <description>In a computer networks, data or information are transferred from one device across a network to another in form of a signal.
 Data such as human voice, audio, video, text and number to name a few needs to be converted to either an analog signal or digital signal.
 In this tutorial we would focus specifically on how to convert a digital data to a digital signal and the techniques used.</description>
@@ -896,10 +896,10 @@ In this tutorial we would focus specifically on how to convert a digital data to
     
     <item>
       <title>What is a ramp signal?</title>
-      <link>https://tooabstractive.com/signal-and-system/what-is-a-ramp-signal/</link>
+      <link>/signal-and-system/what-is-a-ramp-signal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/signal-and-system/what-is-a-ramp-signal/</guid>
+      <guid>/signal-and-system/what-is-a-ramp-signal/</guid>
       <description>What is a ramp signal?
 A ramp signal is a signal with neither energy nor power
 hrllo
@@ -908,10 +908,10 @@ euieuiiu</description>
     
     <item>
       <title>How to add sitemap to your site using netlify plugin</title>
-      <link>https://tooabstractive.com/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</link>
+      <link>/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</guid>
+      <guid>/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</guid>
       <description>You are done building your website but you need an automatic way of generating sitemap for your website without having to do much work.
 Here is a simple guide on how to do just that.
 Note.
@@ -921,38 +921,38 @@ You need to go to your Netlify dashboard Click on the Integrations tab On the in
     
     <item>
       <title>how to know the color of any image on firefox browser easily</title>
-      <link>https://tooabstractive.com/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</link>
+      <link>/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</guid>
+      <guid>/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</guid>
       <description>Here is how to use Firefox browser Eyedropper to get the color of any image or text on the web
 Go to your Firefox browser or open any page you will like to get color from Click on the menu bar and then click on more tools Click on Eyedropper Lastly the eyedropper will appear with the hex code showing below it </description>
     </item>
     
     <item>
       <title>About TA</title>
-      <link>https://tooabstractive.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>https://tooabstractive.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/contact/</guid>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://tooabstractive.com/privacy-policy/</link>
+      <link>/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/privacy-policy/</guid>
+      <guid>/privacy-policy/</guid>
       <description>At tooabstractive, accessible from tooabstractive.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by tooabstractive and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in tooabstractive.</description>
@@ -960,10 +960,10 @@ This Privacy Policy applies only to our online activities and is valid for visit
     
     <item>
       <title>Terms and conditions</title>
-      <link>https://tooabstractive.com/terms-and-conditions/</link>
+      <link>/terms-and-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/terms-and-conditions/</guid>
+      <guid>/terms-and-conditions/</guid>
       <description>Welcome to Tooabstractive.com!
 These terms and conditions outline the rules and regulations for the use of TA Website, located at tooabstractive.com.
 By accessing this website, we assume you accept these terms and conditions. Do not continue to use tooabstractive if you do not agree to take all of the terms and conditions stated on this page.

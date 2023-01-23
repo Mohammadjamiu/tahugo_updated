@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tooabstractive</title>
-    <link>https://tooabstractive.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Tooabstractive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2023 23:43:06 +0000</lastBuildDate><atom:link href="https://tooabstractive.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 23:43:06 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Networking and Communication</title>
-      <link>https://tooabstractive.com/categories/networking-and-communication/</link>
+      <link>/categories/networking-and-communication/</link>
       <pubDate>Wed, 04 Jan 2023 23:43:06 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/networking-and-communication/</guid>
+      <guid>/categories/networking-and-communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electronics</title>
-      <link>https://tooabstractive.com/categories/electronics/</link>
+      <link>/categories/electronics/</link>
       <pubDate>Wed, 04 Jan 2023 23:31:20 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/electronics/</guid>
+      <guid>/categories/electronics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signals and System</title>
-      <link>https://tooabstractive.com/categories/signals-and-system/</link>
+      <link>/categories/signals-and-system/</link>
       <pubDate>Sun, 01 Jan 2023 00:56:27 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/signals-and-system/</guid>
+      <guid>/categories/signals-and-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circuit analysis</title>
-      <link>https://tooabstractive.com/categories/circuit-analysis/</link>
+      <link>/categories/circuit-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/circuit-analysis/</guid>
+      <guid>/categories/circuit-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital Electronics</title>
-      <link>https://tooabstractive.com/categories/digital-electronics/</link>
+      <link>/categories/digital-electronics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/digital-electronics/</guid>
+      <guid>/categories/digital-electronics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electromagnetics</title>
-      <link>https://tooabstractive.com/categories/electromagnetics/</link>
+      <link>/categories/electromagnetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/electromagnetics/</guid>
+      <guid>/categories/electromagnetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How-to-tech</title>
-      <link>https://tooabstractive.com/categories/how-to-tech/</link>
+      <link>/categories/how-to-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/how-to-tech/</guid>
+      <guid>/categories/how-to-tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maths and Fun</title>
-      <link>https://tooabstractive.com/categories/maths-and-fun/</link>
+      <link>/categories/maths-and-fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/maths-and-fun/</guid>
+      <guid>/categories/maths-and-fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity and guides</title>
-      <link>https://tooabstractive.com/categories/productivity-and-guides/</link>
+      <link>/categories/productivity-and-guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/categories/productivity-and-guides/</guid>
+      <guid>/categories/productivity-and-guides/</guid>
       <description></description>
     </item>
     

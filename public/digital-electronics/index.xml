@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Electronics on Tooabstractive</title>
-    <link>https://tooabstractive.com/digital-electronics/</link>
+    <link>/digital-electronics/</link>
     <description>Recent content in Digital Electronics on Tooabstractive</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tooabstractive.com/digital-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/digital-electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Difference Between Programmable Array Logic (PAL) and Programmable Logic Array (PLA)</title>
-      <link>https://tooabstractive.com/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</link>
+      <link>/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
+      <guid>/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
       <description>** Programmable logic array (PLA) and programmable array logic (PAL)** are generally known as programmable logic devices (PLDs) that have programmable AND array but with a difference in which one has additional fixed OR array while the other has an additional programmable OR array. But what is a programmable logic device?
 Programmable logic device (PLD) can be thought of as a blank slate device that can be programmed or reprogrammed depending on the type to perform a logical operation or function.</description>
     </item>
     
     <item>
       <title>The 7 Logic Gates (AND, OR, NOT, NAND, NOR, XOR and XNOR) Explained With Their Truth Table</title>
-      <link>https://tooabstractive.com/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</link>
+      <link>/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</guid>
+      <guid>/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</guid>
       <description>Logic gates are electronic circuits or devices that forms the basic building block for combinational circuits. It can be used to implement boolean expressions such as addition, subtraction etc.
 There are no digital circuits without a logic gate. The logic gates are termed logic gate as they perform some logic function by either comparing input signals, adding, subtracting, multiplying etc. of input signal and then resulting in an output signal.</description>
     </item>
     
     <item>
       <title>Memory Hierarchy Explained With Diagram</title>
-      <link>https://tooabstractive.com/digital-electronics/memory-hierarchy-explained-with-diagram/</link>
+      <link>/digital-electronics/memory-hierarchy-explained-with-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/memory-hierarchy-explained-with-diagram/</guid>
+      <guid>/digital-electronics/memory-hierarchy-explained-with-diagram/</guid>
       <description>Data storage in a computer is possible with the help of a memory system. The memory system helps in holding data for a short period of time during processing and also to store data and programs for long period of time.
 A memory system consists of several types of memory, such as registers (which is used for storing bits), cache (which is used for storing data for easy access), hard disk (which is used for storing data mostly on a permanent basis) etc.</description>
     </item>
     
     <item>
       <title>What Are the Differences Between Primary Memory and Secondary Memory with examples</title>
-      <link>https://tooabstractive.com/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</link>
+      <link>/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</guid>
+      <guid>/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</guid>
       <description>In a computer, there are mainly two types of memory which are the primary memory and secondary memory.
 The memories are what make a computer work efficiently and the major difference between both of these memories is that the primary memory is used for caching as it stores temporary data and it is fast in terms of the access time while the secondary memory is used for storing permanent files and it is slow in comparison to primary memory.</description>
     </item>
     
     <item>
       <title>What Is the Difference Between RAM (Random Access Memory) and ROM (Read Only Memory)</title>
-      <link>https://tooabstractive.com/digital-electronics/what-is-the-difference-between-ram-and-rom/</link>
+      <link>/digital-electronics/what-is-the-difference-between-ram-and-rom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/what-is-the-difference-between-ram-and-rom/</guid>
+      <guid>/digital-electronics/what-is-the-difference-between-ram-and-rom/</guid>
       <description>RAM which stands for Random Access Memory and ROM which stands for Read Only Memory are the major categories or types of semiconductor memories.
 RAM is responsible for storing or holding data which are temporary and can be erased when power is lost hence it is called volatile memory while ROM stores data permanently and can hold data even if power is turned off hence it is non-volatile.
 Difference Between RAM and ROM RAM RAM stands for Random Access Memory.</description>
@@ -59,10 +59,10 @@ Difference Between RAM and ROM RAM RAM stands for Random Access Memory.</descrip
     
     <item>
       <title>What Are the Units of Computer Memory | Bits, Bytes, Kilobytes and other units</title>
-      <link>https://tooabstractive.com/digital-electronics/what-are-the-units-of-computer-memory/</link>
+      <link>/digital-electronics/what-are-the-units-of-computer-memory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tooabstractive.com/digital-electronics/what-are-the-units-of-computer-memory/</guid>
+      <guid>/digital-electronics/what-are-the-units-of-computer-memory/</guid>
       <description>Computers only understands zero’s and one’s which represent off and on. This zero’s and one’s are called binary digits or bits for short.
 This means that a bit consists of a zero and a one. This bit is the smallest unit of computer memory unit.
 What is computer memory units? A computer memory unit is the measure of memory or storage which is used to represent data.

@@ -552,7 +552,7 @@ section.main {
   margin-top: 5rem;
   display: grid;
   /* max-width: 36rem; */
-  grid-template-columns: repeat(auto-fill, minmax(34rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(26rem, 1fr));
   gap: 3rem;
 }
 
@@ -642,7 +642,7 @@ section.main {
 }
 .youtube-content-wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(34rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(26rem, 1fr));
   position: relative;
   gap: 3rem;
   margin-top: 5rem;
@@ -695,7 +695,7 @@ section.main {
   margin-top: 5rem;
   display: grid;
 
-  grid-template-columns: repeat(auto-fill, minmax(34rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(26rem, 1fr));
   gap: 3rem;
 }
 
@@ -775,7 +775,7 @@ footer {
 
 .footer-content-block {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(34rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(26rem, 1fr));
   gap: 2rem;
   padding: 1rem;
 }
