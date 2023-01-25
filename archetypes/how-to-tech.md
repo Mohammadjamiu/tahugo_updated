@@ -7,7 +7,7 @@ alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
 categorylink: /categories/how-to-tech
-categories: ["How-to-tech"]
+categories: '["How-to-tech"]'
 type: posts
 Google_Ads: false
 wordcount: false

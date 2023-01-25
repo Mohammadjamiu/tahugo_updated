@@ -7,7 +7,7 @@ alt: ""
 weight: ""
 type: em-post
 author: {{ .Site.Params.author }}
-categories: ["Electromagnetics"]
+categories: '["Electromagnetics"]'
 categorylink: "/categories/electromagnetics/"
 wordcount: false
 Google_Ads: false

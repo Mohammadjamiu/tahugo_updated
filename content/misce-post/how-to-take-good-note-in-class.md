@@ -6,9 +6,9 @@ description: "Taking good notes in class can not only enhance your study perform
 alt: ""
 weight: "49"
 author: Mohammad Jamiu
-categorylabel: Productivity and Guides
-categorylink: /categories/productivity-and-guides
-categories: ["Productivity and guides"]
+categorylabel: Productivity and Writings
+categorylink: /categories/productivity-and-writings
+categories: '["Productivity and Writings"]'
 type: posts
 Google_Ads: true
 wordcount: false

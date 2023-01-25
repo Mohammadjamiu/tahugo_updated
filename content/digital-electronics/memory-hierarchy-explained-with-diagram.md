@@ -8,7 +8,7 @@ weight: "50"
 author: Mohammad Jamiu
 categorylabel: Digital Electronics
 categorylink: /categories/digital-electronics/
-categories: ["Digital Electronics"]
+categories: '["Digital Electronics"]'
 type: posts
 Google_Ads: true
 wordcount: false

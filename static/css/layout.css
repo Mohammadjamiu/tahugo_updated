@@ -440,6 +440,8 @@ header nav {
 }
 .nav-active ul {
   padding-top: 4rem;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .logo-text-none {
@@ -553,6 +555,7 @@ section.main {
   border-radius: 5rem;
   background-color: var(--primary-color);
 }
+
 
 .explore-more-card {
   /* background-color: #746d19; */

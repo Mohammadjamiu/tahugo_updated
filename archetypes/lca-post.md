@@ -6,7 +6,7 @@ description: ""
 alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
-categories: ["Circuit analysis"]
+categories: '["Circuit analysis"]'
 categorylink: /categories/circuit-analysis
 type: posts
 Google_Ads: false

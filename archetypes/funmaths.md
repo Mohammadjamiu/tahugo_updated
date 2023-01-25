@@ -7,7 +7,7 @@ alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
 categorylink: /categories/maths-and-fun
-categories: ["Maths and Fun"]
+categories: '["Maths and Fun"]'
 type: posts
 Google_Ads: false
 mathjax: false

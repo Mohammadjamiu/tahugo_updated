@@ -6,9 +6,9 @@ description: "Here are some tactics and strategies that helped some engineering 
 alt: ""
 weight: "8"
 author: Mohammad Abdul
-categorylabel: Productivity and Guides
-categorylink: /categories/productivity-and-guides
-categories: ["Productivity and guides"]
+categorylabel: Productivity and Writings
+categorylink: /categories/productivity-and-writings
+categories: '["Productivity and Writings"]'
 type: posts
 Google_Ads: true
 customads_grammarly: false

@@ -1,19 +1,76 @@
-{{ partial "metatags" . }} {{partial "links" .}}
-
-
-{{if .Params.mathjax}}
+{{ partial "metatags" . }} {{partial "links" .}} {{if .Params.mathjax}}
 
 <script>
-    MathJax = {
-        tex: {
-            inlineMath: [['$', '$'], ['\\(', '\\)']]
-        },
-        svg: {
-            fontCache: 'global'
-        }
-    };
+  MathJax = {
+    tex: {
+      inlineMath: [
+        ["$", "$"],
+        ["\\(", "\\)"],
+      ],
+    },
+    svg: {
+      fontCache: "global",
+    },
+  };
 </script>
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"
+></script>
 {{end}}
+
+<!-- Meta tags for verification -->
+
+<meta
+  name="google-site-verification"
+  content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
+/>
+<meta name="fo-verify" content="47615df9-ca6b-4ddf-94a2-931bcf97ae50" />
+
+<!-- GooagleAdsense  -->
+
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7879769699553347"
+  crossorigin="anonymous"
+></script>
+
+<!-- End og Google Adsense -->
+
+<!-- Google Tag Manager -->
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      "gtm.start": new Date().getTime(),
+      event: "gtm.js",
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-NWS8Z2G");
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=UA-207021925-1"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "UA-207021925-1");
+</script>
+
+<!-- End Google Analytics -->

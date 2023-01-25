@@ -9,7 +9,7 @@ weight: "4"
 author: Mohammad Abdul
 categorylabel: Maths Stuff
 categorylink: /categories/maths-and-fun
-categories: ["Maths and Fun"]
+categories: '["Maths and Fun"]'
 type: posts
 Google_Ads: true
 draft: false

@@ -16,7 +16,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -24,7 +24,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -40,12 +40,13 @@ collections:
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Networking and Communication']"],
+          options: ['["Networking and Communication"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -86,8 +87,8 @@ collections:
           default: true,
         }
 
-  - name: "signal and system"
-    label: "Signal and System"
+  - name: "signals and systems"
+    label: "Signals and Systems"
     folder: "content/signal-and-system"
     create: true
     slug: "{{fields.slug}}"
@@ -95,7 +96,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -103,7 +104,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -111,19 +112,20 @@ collections:
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
-          default: "Signal and System",
+          default: "Signals and Systems",
         }
 
       - {
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Signals and System']"],
+          options: ['["Signals and Systems"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -173,7 +175,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -181,7 +183,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -195,12 +197,13 @@ collections:
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Digital Electronics']"],
+          options: ['["Digital Electronics"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -250,7 +253,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -258,7 +261,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -273,12 +276,13 @@ collections:
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Electronics']"],
+          options: ['["Electronics"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -328,7 +332,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -336,7 +340,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -344,19 +348,20 @@ collections:
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
-          default: "Productivity and Guides",
+          default: "Productivity and Writings",
         }
 
       - {
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Productivity and guides']"],
+          options: ['["Productivity and Writings"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -377,7 +382,7 @@ collections:
           label: "CategoryLink",
           name: "categorylink",
           widget: "select",
-          options: ["/categories/productivity-and-guides"],
+          options: ["/categories/productivity-and-writings"],
         }
 
       - { label: "Body", name: "body", widget: "markdown" }
@@ -406,7 +411,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -414,7 +419,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -429,12 +434,13 @@ collections:
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['How-to-tech']"],
+          options: ['["How-to-tech"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -484,7 +490,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -492,7 +498,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -507,12 +513,13 @@ collections:
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Maths and Fun']"],
+          options: ['["Maths and Fun"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -562,7 +569,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -570,7 +577,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -585,12 +592,13 @@ collections:
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Electromagnetics']"],
+          options: ['["Electromagnetics"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },
@@ -640,7 +648,7 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
       - {
           label: "Publish Date",
           name: "postdate",
@@ -648,7 +656,7 @@ collections:
           default: "",
           date_format: "DD.MM.YYYY",
           time_format: false,
-          format: "LLL",
+          format: "LL",
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
@@ -663,12 +671,13 @@ collections:
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ["['Circuit analysis']"],
+          options: ['["Circuit analysis"]'],
         }
       - {
           label: "Featured Image",
           name: "image",
           widget: "image",
+          required: false,
           choose_url: true,
           default: "/image/chocolate-dogecoin.jpg",
           media_library: { config: { multiple: true } },

@@ -10,6 +10,7 @@ params:
   description: TA is here to demystify abstractive concepts ranging from (engineering - tech - writing)
   author: Mohammad Jamiu
   og_image: /images/tabluelogopng.png
+  dateFormat: "02 Jan 2006"
   social:
     share:
       facebook: true
@@ -44,13 +45,14 @@ menu:
 
 related:
   threshold: 0
-  includeNewer: true
+  includeNewer: false
   toLower: false
   indices:
     - name: categories
       weight: 100
     - name: date
-      weight: 10
+      weight: 9
+
 taxonomies:
   category: categories
   ebookcategory: ebookcategories

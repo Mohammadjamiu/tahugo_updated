@@ -6,16 +6,15 @@ Google_Ads: true
 author: Mohammad Abdul
 postdate: December 01, 2021
 date: 2023-01-01T00:56:27.623Z
-categorylabel: Signal and System
-categorylink: /categories/signals-and-system
+categorylabel: Signals and Systems
+categorylink: /categories/signals-and-systems
 title: How Do You Solve Energy and Power Signals Problem Step By Step With Tips
   and Shortcuts?
 weight: "17"
 mathjax: true
 type: posts
 image: /images/signals_10.webp
-categories:
-  - Signals and System
+categories: '["Signals and Systems"]'
 description: "Here are the few things to remember in order to quickly identify
   if a signal is a power or an energy signal - If the amplitude of the signal is
   zero at t tends to infinity, then the signal is an energy signal but if the

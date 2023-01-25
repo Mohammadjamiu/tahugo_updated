@@ -8,7 +8,7 @@ alt: "series and parallel resistors connection"
 weight: "5"
 author: Mohammad Abdul
 categorylabel: Circuit Analysis
-categories: ["Circuit analysis"]
+categories: '["Circuit analysis"]'
 categorylink: /categories/circuit-analysis
 type: posts 
 Google_Ads: true

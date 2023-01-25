@@ -6,8 +6,8 @@ description: ""
 alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
-categorylink: /categories/productivity-and-guides
-categories: ["Productivity and guides"]
+categorylink: /categories/productivity-and-writings
+categories: '["Productivity and Writings"]'
 type: posts
 Google_Ads: false
 wordcount: false

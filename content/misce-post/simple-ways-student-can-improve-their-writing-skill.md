@@ -6,9 +6,9 @@ description: "In this post I will be sharing some of the most important ways (in
 alt: ""
 weight: "9"
 author: Mohammad Abdul
-categorylabel: Productivity and Guides
-categorylink: /categories/productivity-and-guides
-categories: ["Productivity and guides"]
+categorylabel: Productivity and Writings
+categorylink: /categories/productivity-and-writings
+categories: '["Productivity and Writings"]'
 type: posts
 Google_Ads: true
 socialshare: true

@@ -2,8 +2,8 @@
 
 <div class="container category-container">
     
-    <h1 class="category-h1">All posts for {{.Type | singularize }} "{{.Title}}"</h1>
-   
+    <h1 class="category-h1">All posts for {{.Type | singularize }} {{$cat:= trim .Title "[ ]"}} {{$cat}} </h1>
+
     <div class="all-posts">
      
   

@@ -8,12 +8,12 @@ weight: "26"
 author: Mohammad Abdul
 categorylabel: Electronics
 categorylink: /categories/electronics
-categories: ["Electronics"]
+categories: '["Electronics"]'
 type: posts
 Google_Ads: true
 wordcount: false
 mathjax: true
-draft: true
+draft: false
 ---
 
 **Learning electronics** is fun because you can think of something and design or make it real. But where the problem lies is not knowing the route to take or what to learn.
@@ -22,15 +22,15 @@ So in this posts I will be highlighting how you can learn electronics as a begin
 
 ## Start with the fundamentals
 
-1. Learn <a href="" class="links-to-article">what a circuit</a> is
+1. Learn what a circuit is
 
-2. Learn <a href="" class="links-to-article"> what an electricity</a> is and also how does it flow
+2. Learn <a href="/electronics/what-is-electricity-and-how-does-it-work/" class="links-to-article"> what an electricity</a> is and also how does it flow
 
-3. Understand the concept of <a href="/learnca/what-is-voltage-current-and-resistance/" class="links-to-article">voltage, current and resistance </a> and the law that governs them which is <a href="/learnca/what-is-ohms-law/" class="links-to-article">Ohms law</a>
+3. Understand the concept of <a href="/circuit-analysis/what-is-voltage-current-and-resistance/" class="links-to-article">voltage, current and resistance </a> and the law that governs them which is <a href="/circuit-analysis/what-is-ohms-law/" class="links-to-article">Ohms law</a>
 
 4. Learn how to analyze and solve simple circuits on paper using some techniques
 
-5. Learn what the most important <a href="/learnca/electronics-circuit-components-explained/" class="links-to-article">electronics components</a> are and what they are used for
+5. Learn what the most important <a href="/circuit-analysis/electronics-circuit-components-explained/" class="links-to-article">electronics components</a> are and what they are used for
 
    <a href="/electronics/what-is-a-resistor-used-for/" class="links-to-article">Resistor</a> is used for limiting current as well as to cause voltage drop,
 

@@ -8,7 +8,7 @@ weight: "42"
 author: Mohammad Abdul
 categorylabel: Electronics
 categorylink: /categories/electronics
-categories: ["Electronics"]
+categories:  '["Electronics"]'
 type: posts
 Google_Ads: true
 wordcount: false

@@ -7,7 +7,7 @@ alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
 categorylink: /categories/electronics
-categories: ["Electronics"]
+categories: '["Electronics"]'
 type: posts
 Google_Ads: false
 wordcount: false

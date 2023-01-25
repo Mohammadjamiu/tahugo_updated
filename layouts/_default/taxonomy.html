@@ -5,7 +5,9 @@
   <ul>
     {{range .Data.Pages }}
     <li>
-      <a style="color: #1b6bdb" href="{{ .RelPermalink }}"> {{.Title}} </a>
+      <a style="color: #1b6bdb" href="{{ .RelPermalink }}"> {{$a:= substr .Title 2}} {{$b:= substr $a 0 -2}} {{$b}} </a>
+
+
     </li>
 
 

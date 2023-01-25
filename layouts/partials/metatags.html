@@ -4,21 +4,22 @@
 .Site.Title }}{{ end }}
 <title>{{ $title }}</title>
 
+<!-- End of Title Tags -->
+
 <meta charset="UTF-8" />
-<meta
-  name="viewport"
-  content="width=device-width, initial-scale=1"
-/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-<!--! Favicon -->
+<!-- Favicon -->
 <link
   rel="shortcut icon"
   href="{{ `favicon.ico` | relURL }}"
   type="image/x-icon"
 />
 <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon" />
+<!-- End of Favicon -->
 
+<!-- Meta Description -->
 <meta
   name="description"
   content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"
@@ -54,7 +55,7 @@
 <meta property="og:type" content="website" />
 
 {{/*
-<!--! Image  Tags -->` | safeHTML */}}
+<!-- Image  Tags -->` | safeHTML */}}
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="200" />
@@ -84,4 +85,3 @@
 */}}
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
-

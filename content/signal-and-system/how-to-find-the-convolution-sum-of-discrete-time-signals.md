@@ -6,9 +6,9 @@ description: ""
 alt: ""
 weight: ""
 author: Mohammad Abdul
-categorylabel: Signal and System
-categorylink: /categories/signals-and-system
-categories: ["Signals and System"]
+categorylabel: Signals and Systems
+categorylink: /categories/signals-and-systems
+categories: '["Signals and Systems"]'
 type: posts
 Google_Ads: true
 mathjax: true

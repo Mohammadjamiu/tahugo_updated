@@ -6,9 +6,9 @@ description: "The following are the basic operations that can be done on discret
 alt: "operation on discrete time signals"
 weight: "20"
 author: Mohammad Abdul
-categorylabel: Signal and System
-categorylink: /categories/signals-and-system
-categories: ["Signals and System"]
+categorylabel: Signals and Systems
+categorylink: /categories/signals-and-systems
+categories: '["Signals and Systems"]'
 type: posts
 Google_Ads: true
 mathjax: true
@@ -67,9 +67,9 @@ Same as the preceding operations, just multiply the amplitudes together making s
 
 <img loading="lazy" src="/images/dts_1 (1).webp" alt="multiplication of discrete time signal">
 
->Note:
+> Note:
 >
->On the signals below, there are signal present at the origin that's why it is slightly more dark.
+> On the signals below, there are signal present at the origin that's why it is slightly more dark.
 
  <br>
 
@@ -85,7 +85,6 @@ Time shifting as the name implies is an operation done along the time axis. It i
 
 - One has to do with shifting forward (or to the right) called **delay**
 - The other has to do with shifting backward (or to the left) called **advance**
-
 
 shifting to the right by a factor of $a$ is denoted as $x(n – a)$ while shifting to the left by a factor of $a$ is denoted as $x(n + a)$.
 

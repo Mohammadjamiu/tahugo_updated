@@ -6,9 +6,9 @@ description: "Most people are frightened out and unmotivated when they hear peop
 alt: ""
 weight: "48"
 author: Mohammad Jamiu
-categorylabel: Productivity and Guides
-categorylink: /categories/productivity-and-guides
-categories: ["Productivity and guides"]
+categorylabel: Productivity and Writings
+categorylink: /categories/productivity-and-writings
+categories: '["Productivity and Writings"]'
 type: posts
 Google_Ads: true
 wordcount: false

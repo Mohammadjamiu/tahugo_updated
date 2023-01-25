@@ -1,10 +1,10 @@
 ---
 title: how to know the color of any image on firefox browser easily
 slug: how to know the color of any image on firefox browser
-postdate: January 17, 2023 10:23 AM
+postdate: January 25, 2023
 description: Here is how to use firefox browser eyedropper to get any color on the web
 categorylabel: Tech Stuff
-categories: "['How-to-tech']"
+categories: '["How-to-tech"]'
 image: /images/eyedrpperpopup.webp
 weight: 77
 categorylink: /categories/how-to-tech

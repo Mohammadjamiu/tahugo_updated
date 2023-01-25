@@ -13,8 +13,7 @@ title: A beginners guide to using a digital multimeter at home for
 weight: "7"
 type: posts
 image: /images/insertingbattery_1.webp
-categories:
-  - Electronics
+categories: '["Electronics"]'
 description: A multimeter is a multi-purpose tool that every electronics
   hobbyist or engineer need to have because it allows you to be able to
   troubleshoot most electronics problem you have at home.

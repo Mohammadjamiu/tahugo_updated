@@ -1,19 +1,20 @@
 ---
-title: "Difference Between Power Signal and Energy Signal"
-postdate: July 27, 2022
-image: ""
-description: "A power signal has a finite power and an infinite energy while an energy signal has a finite energy and zero average power"
-alt: ""
-weight: "55"
-author: Mohammad Jamiu
-categorylabel: Signal and System
-categorylink: /categories/signals-and-system
-categories: ["Signals and System"]
-type: posts
-Google_Ads: true
-mathjax: false
-wordcount: false
 draft: false
+wordcount: false
+alt: ""
+title: Difference Between Power Signal and Energy Signal
+postdate: July 27, 2022
+description: A power signal has a finite power and an infinite energy while an
+  energy signal has a finite energy and zero average power
+categorylabel: Signals and Systems
+categories: '["Signals and Systems"]'
+image: ""
+weight: "55"
+categorylink: /categories/signals-and-systems
+type: posts
+author: Mohammad Jamiu
+mathjax: false
+Google_Ads: true
 ---
 
 In one of our previous post we discuss about how to solve <a href="/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/">energy and power signal problems</a> step by step with tips and shortcut and we briefly talk about what power and energy signal is. But in this post we would be discussing about the differences between power signal and energy signal.

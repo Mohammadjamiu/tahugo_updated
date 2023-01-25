@@ -304,33 +304,42 @@ div > iframe {
   position: relative;
 }
 
+details {
+  margin: 1.5rem auto 3rem;
+}
 details summary {
   font-family: MuliSemiBold, sans-serif;
   font-size: 1.8rem;
-  margin: 1.5rem auto 3rem;
+  color: #fff;
+  /* margin: 1.5rem auto 3rem; */
   position: relative;
-  background-color: var(--footer-color);
-  padding: 1rem 2rem;
-  border-radius: 1rem;
+  background-color: #295ea0;
+  /* background-color: var(--primary-color); */
+  padding: 0.4rem 1.4rem 0.9rem 0.9rem;
+  border-radius: 0.2rem;
   cursor: pointer;
+  width: fit-content;
 }
 summary::marker {
-  content: "\2193   ";
+  display: none;
+  content: " ";
   width: fit-content;
   padding: 1rem;
 
   /* position: absolute;
   left: 5rem; */
   font-size: 2rem;
-  color: var(--primary-color);
+
+  /* color: var(--primary-color); */
 }
 
 nav#TableOfContents {
   border-left: 0rem;
-  background-color: #091b3115;
+  background-color: #295ea0;
   padding: 1rem;
+  width: fit-content;
   margin: 0.5rem 0 3rem;
-  border-radius: 1rem;
+  border-radius: 0.2rem;
 }
 
 /* .content-summary h3 {
@@ -338,12 +347,54 @@ nav#TableOfContents {
   font-size: 2rem;
 } */
 nav#TableOfContents li {
-  list-style-type: circle;
-
+  list-style-type: square;
   font-size: 1.5rem;
   margin: 1.1rem 0 1.1rem 0.6rem;
   padding-left: 0.9rem;
+  padding-right: 0.9rem;
   line-height: 1.6;
 }
+nav#TableOfContents li a {
+  color: #fff;
+}
 
-/* For custom yt video */
+.readmore-recommend h2 {
+  font-size: 1.9rem;
+  font-family: MuliBold, sans-serif;
+  position: relative;
+  margin-bottom: 4rem;
+}
+.readmore-recommend h2:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: -1.1rem;
+  left: 0;
+  height: 0.8rem;
+  width: 6.5rem;
+  border-radius: 5rem;
+  background-color: var(--primary-color);
+}
+
+
+/* Form style */
+.my-form{
+  background-color:var(--footer-color);
+  padding: 2rem;
+  margin: 1rem auto 2rem;
+  max-width: 80rem;
+ border-radius: 1rem;
+}
+.my-form form{
+ display: flex;
+  flex-direction: column;
+ border: 0;
+}
+
+ form input, form textarea, button{
+  border: 0;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: .5rem;
+  /* background-color: #295ea0; */
+}

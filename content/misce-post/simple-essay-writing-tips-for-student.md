@@ -6,9 +6,9 @@ description: "Sometimes, writing an essay can be really intimidating due to lot 
 alt: ""
 weight: "10"
 author: Mohammad Abdul
-categorylabel: Productivity and Guides
-categorylink: /categories/productivity-and-guides
-categories: ["Productivity and guides"]
+categorylabel: Productivity and Writings
+categorylink: /categories/productivity-and-writings
+categories: '["Productivity and Writings"]'
 type: posts
 Google_Ads: true
 customads_grammarly: false

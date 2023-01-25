@@ -8,7 +8,7 @@ weight: "34"
 categorylabel: Digital Electronics
 author: Mohammad Abdul
 categorylink: /categories/digital-electronics/
-categories: ["Digital Electronics"]
+categories: '["Digital Electronics"]'
 type: posts
 Google_Ads: true
 wordcount: false

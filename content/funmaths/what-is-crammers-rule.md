@@ -1,18 +1,15 @@
 ---
-title: " Crammer's rule - the technique to simplify circuit analysis
-equations"
+title: "Crammer's rule - the technique to simplify circuit analysis equations"
 postdate: October 07, 2021
 image: "/images/det-of-x_2.webp"
-description: "Solving simultaneous equations containing more than two variables
-can be quite daunting if we use either elimination method or
-substitution method because, thing gets a little bit complex."
+description: "Solving simultaneous equations containing more than two variables can be quite daunting if we use either elimination method or substitution method because, thing gets a little bit complex."
 alt: "crammers rule"
 weight: "1"
 author: Mohammad Abdul
-categorylabel: Maths Stuff
+categorylabel: "Maths Stuff"
 categorylink: /categories/maths-and-fun
-categories: ["Maths and Fun"]
-type: posts 
+categories: '["Maths and Fun"]'
+type: posts
 Google_Ads: true
 draft: false
 ---

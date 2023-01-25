@@ -1,6 +1,6 @@
 {{define "main"}}
 <div class="container single-page-container">
-  <span class="post-date">{{ .Params.postdate }}</span>
+  <span class="post-date">{{.Params.postdate}}</span>
   <h1>{{.Params.title}}</h1>
   <div class="post-metadata">
     <p class="author">By {{ .Params.author}}</p>
@@ -21,29 +21,24 @@
   </div>
 
   <div class="bar-style"></div>
-<details>
-  <summary>Table Of Contents</summary>
-  {{ .Page.TableOfContents }}
-</details>
+  <details>
+    <summary>Table Of Contents</summary>
+    {{ .Page.TableOfContents }}
+  </details>
 
-
-   {{.Content}}
-
+  {{.Content}} {{partial "socialshare" . }}
   <div class="readmore-recommend">
-   
-    <h2>More For You</h2>
-
+    <h2 class="related-more">More For You <span style="color:#e4982d; font-size: 3rem; "> &#9732</span></h2>
 
     <!-- {{ $relatednew:= (.Site.RegularPages.Related .) | shuffle | first 5 }}  -->
-    {{ $related:= (.Site.Pages.Related .) | shuffle | first 5 }} 
-    {{ range $related }}
-    <ul class="ul-in-post">
+    {{ $related:= (.Site.Pages.Related .) | shuffle | first 5 }} {{ range
+    $related }}
+    <ul class="ul-in-post" style="list-style-type:square;">
       <li>
         <a class="links-to-others" href="{{.RelPermalink}}">{{.Title}}</a>
       </li>
     </ul>
     {{end}}
   </div>
-  
 </div>
 {{end}}

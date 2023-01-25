@@ -8,10 +8,10 @@ that useful in the industry or the
 world we are in today."
 WordCount: false
 weight: "3"
-categorylink: /categories/productivity-and-guides
+categorylabel: Productivity and Writings
+categorylink: /categories/productivity-and-writings
 author: Mohammad Abdul
-categorylabel: Productivity and Guides
-categories: ["Productivity and guides"]
+categories: '["Productivity and Writings"]'
 type: posts 
 Google_Ads: true
 draft: false

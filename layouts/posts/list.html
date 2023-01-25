@@ -17,8 +17,8 @@
         </a>
       </li> -->
       <li>
-        <a class="tto-pfe" href="/categories/productivity-and-guides/">
-          Productivity + guides</a
+        <a class="tto-pfe" href="/categories/productivity-and-writings/">
+          Productivity + Writing</a
         >
       </li>
       <li>
@@ -40,51 +40,49 @@
         >
       </li>
       <li>
-        <a class="tto-ca" href="/categories/signals-and-system">
+        <a class="tto-ca" href="/categories/signals-and-systems">
           Signals and System
         </a>
       </li>
       <li>
         <a class="tto-ca" href="/categories/how-to-tech"> How to's + Tech</a>
       </li>
+     
       <li>
         <a class="tto-pfe" href="/categories/digital-electronics/">
           Digital Electronics
         </a>
       </li>
+       <li>
+        <a class="tto-ca" href="/categories/electromagnetics"> Electromagnetics Stuff</a>
+      </li>
     </div>
   </section>
 
+  <div class="all-posts">
+    <h2 class="h2-after">All Posts</h2>
 
-   
-
-    <div class="all-posts">
-       <h2 class="h2-after">All Posts</h2>
-  
-      <div class="all-posts-card">
-
-
-          {{$pag :=  where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq" "posts"  }} 
-  {{ range (.Paginate $pag).Pages }}
-        <div class="all-post-box">
-          <div class="all-post-img">
-            <img
-              class="img-in-all-post"
-              src="{{.Params.image}}"
-              alt=""
-              srcset=""
-            />
-          </div>
-          <div class="all-post-heading">
-            <h2>{{.Title}}</h2>
- <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
-          </div>
+    <div class="all-posts-card">
+      {{$pag := where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq" "posts"
+      }} {{ range (.Paginate $pag).Pages }}
+      <div class="all-post-box">
+        <div class="all-post-img">
+          <img
+            class="img-in-all-post"
+            src="{{.Params.image}}"
+            alt=""
+            srcset=""
+          />
         </div>
-          {{end}}
+        <div class="all-post-heading">
+          <h2>{{.Title}}</h2>
+          <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
+        </div>
       </div>
-    {{ partial "pagination" .}}
+      {{end}}
     </div>
-
+    {{ partial "pagination" .}}
+  </div>
 </div>
 
 {{end}}

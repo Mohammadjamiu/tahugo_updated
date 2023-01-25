@@ -9,7 +9,7 @@ type: posts
 Google_Ads: true
 author: Mohammad Abdul
 categorylabel: Electromagnetics Stuff
-categories: ["Electromagnetics"]
+categories: '["Electromagnetics"]'
 categorylink: "/categories/electromagnetics/"
 draft: false
 wordcount: false

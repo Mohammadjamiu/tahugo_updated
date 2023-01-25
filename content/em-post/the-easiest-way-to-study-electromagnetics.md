@@ -9,7 +9,7 @@ weight: "3"
 type: posts
 author: Mohammad Abdul
 categorylabel: Electromagnetics Stuff
-categories: ["Electromagnetics"]
+categories: '["Electromagnetics"]'
 categorylink: "/categories/electromagnetics/"
 Google_Ads: true
 draft: false

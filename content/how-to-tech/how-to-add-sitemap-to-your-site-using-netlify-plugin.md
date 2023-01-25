@@ -1,11 +1,11 @@
 ---
 title: How to add sitemap to your site using netlify plugin
 slug: how to add sitemap to your site using netlify plugin
-postdate: January 17, 2023 8:35 AM
+postdate: January 25, 2023
 description: Here is a simple way to generate sitemap for your site
   automatically using netlify plugin
 categorylabel: Tech Stuff
-categories: "['How-to-tech']"
+categories: '["How-to-tech"]'
 image: /images/promptinstallplugin.webp
 weight: 76
 categorylink: /categories/how-to-tech
@@ -19,8 +19,6 @@ Google_Ads: true
 **You are done building your website but you need an automatic way of generating sitemap for your website without having to do much work.**
 
 Here is a simple guide on how to do just that.
-
-
 
 > **Note**.
 >

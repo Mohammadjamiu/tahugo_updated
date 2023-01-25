@@ -8,14 +8,13 @@ weight: "39"
 author: Mohammad Abdul
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
 ---
-
 
 **Switching** in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple path.
 

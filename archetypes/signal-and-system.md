@@ -7,7 +7,7 @@ alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
 categorylink: /categories/signals-and-system
-categories: ["Signals and System"]
+categories: '["Signals and System"]'
 type: posts
 Google_Ads: false
 mathjax: false
