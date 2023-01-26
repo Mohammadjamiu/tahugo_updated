@@ -75,19 +75,17 @@ The individual signals are then passed to a demodulator which helps in retrievin
 **Application of FDM**
 <br>
 
-<ul class="ul-in-post">
-<li>FDM is used in AM and FM radio broadcasting.</li>
-<ul>
+- FDM is used in AM and FM radio broadcasting.
 
-In AM, ranges of frequencies are assigned to AM so that all station works within this boundary so as not to cause interference of signal.
+    In AM, ranges of frequencies are assigned to AM so that all station works within this boundary so as not to cause interference of signal.
 
-The range of frequencies for AM are 530KHz to 1700KHz and each AM station is given 10Khz of bandwidth. The signals that goes to the space is the combinations of many signals and these signal are received by our radio (e.g. home radio).
+    The range of frequencies for AM are 530KHz to 1700KHz and each AM station is given 10Khz of bandwidth. The signals that goes to the space is the combinations of many signals and these signal are received by our radio (e.g. home radio).
 
-In the radio, there is a filter that helps filter the received signal so you can listen to your desired station.
+    In the radio, there is a filter that helps filter the received signal so you can listen to your desired station.
 
-So without multiplexing only a single AM signal can be sent to the space and results in wasteful of bandwidth.
+    So without multiplexing only a single AM signal can be sent to the space and results in wasteful of bandwidth.
 
-The same goes for FM but the only difference is that FM has a very high range of frequencies in the Megahertz range.
+    The same goes for FM but the only difference is that FM has a very high range of frequencies in the Megahertz range.
 
 ## Wavelength division multiplexing (WDM)
 
