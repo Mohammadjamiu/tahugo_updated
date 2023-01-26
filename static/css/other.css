@@ -375,26 +375,3 @@ nav#TableOfContents li a {
   border-radius: 5rem;
   background-color: var(--primary-color);
 }
-
-
-/* Form style */
-.my-form{
-  background-color:var(--footer-color);
-  padding: 2rem;
-  margin: 1rem auto 2rem;
-  max-width: 80rem;
- border-radius: 1rem;
-}
-.my-form form{
- display: flex;
-  flex-direction: column;
- border: 0;
-}
-
- form input, form textarea, button{
-  border: 0;
-  padding: 1rem;
-  margin-bottom: 1rem;
-  border-radius: .5rem;
-  /* background-color: #295ea0; */
-}

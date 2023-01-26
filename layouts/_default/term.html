@@ -1,38 +1,32 @@
 {{ define "main" }}
 
 <div class="container category-container">
-    
-    <h1 class="category-h1">All posts for {{.Type | singularize }} {{$cat:= trim .Title "[ ]"}} {{$cat}} </h1>
+  <h1 class="category-h1">
+    All posts for {{.Type | singularize }} {{$cat:= trim .Title "[ ]"}} {{$cat}}
+  </h1>
 
-    <div class="all-posts">
-     
-  
-      <div class="all-posts-card">
-      {{range .Data.Pages.ByWeight.Reverse }} 
-        <div class="all-post-box">
-          <div class="all-post-img">
-            <img
-              class="img-in-all-post"
-              src="{{.Params.image}}"
-              alt=""
-              srcset=""
-            />
-          </div>
-          <div class="all-post-heading">
-            <h2>{{.Title}}</h2>
- <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
-          </div>
+  <div class="all-posts">
+    <div class="all-posts-card">
+      {{range .Data.Pages.ByWeight.Reverse }}
+      <div class="all-post-box">
+        <div class="all-post-img">
+          <img
+            loading="lazy"
+            class="img-in-all-post"
+            src="{{if .Params.image}}{{.Params.image}}{{else}}{{`/images/imgph.webp`}}{{end}}"
+            alt="{{.Title}}"
+            srcset=""
+          />
         </div>
-        {{end}}
+        <div class="all-post-heading">
+          <h2>{{.Title}}</h2>
+          <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
+        </div>
       </div>
+      {{end}}
     </div>
+  </div>
 
-
-      <section  class="our-post">
-
-      
- 
-       
-</section>
+  <section class="our-post"></section>
 </div>
 {{end}}

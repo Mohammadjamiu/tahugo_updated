@@ -1,14 +1,14 @@
 ---
 title: "Differences Between Step-Index and Graded-Index Optical Fiber"
 postdate: July 22, 2022
-image: ""
+image: "/images/fiberoptics_3.webp"
 description: "A step index fiber is a fiber with constant core refractive index while a graded index fiber doesnot have a constant core refractive index"
 alt: ""
 weight: "51"
 author: Mohammad Jamiu
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: true
 wordcount: false

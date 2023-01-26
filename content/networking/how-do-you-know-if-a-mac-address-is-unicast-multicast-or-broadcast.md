@@ -1,14 +1,14 @@
 ---
 title: "How Do You Know if a MAC Address is a Unicast, Multicast or Broadcast MAC address"
 postdate: February 24, 2022
-image: ""
+image: "/images/macexample_3.webp"
 description: "A MAC address consist of a 48-bit or 6-byte. If the Least significant bit of the first byte is zero then it is unicast, if it is one then it is multicast while a broadcast has all its bit as 1's or FF."
 alt: ""
 weight: "45"
 author: Mohammad Abdul
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: true
 wordcount: false

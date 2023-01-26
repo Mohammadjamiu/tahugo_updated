@@ -1,14 +1,14 @@
 ---
 title: "What Is the Difference Between MAC Address and IP Address"
 postdate: August 07, 2022
-image: "diff-mac-ip.webp"
+image: "/images/diff-mac-ip.webp"
 description: "Both MAC address and IP address are used to identify a device in a network but the only difference between a MAC address and an IP address is that, MAC address is available on a local network while an IP address is available on a global network (Internet)."
 alt: "Difference Between MAC Address and IP Address"
 weight: "66"
 author: Mohammad Jamiu
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: true
 wordcount: false

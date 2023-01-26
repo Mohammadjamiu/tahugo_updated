@@ -1,14 +1,14 @@
 ---
 title: "Difference Between Unicast, Multicast, Broadcast and Anycast Transmission Types"
 postdate: February 13, 2022
-image: ""
+image: "/images/unicast_3.webp"
 description: "Unicast, Multicast, Broadcast and Anycast are the transmission types or the form in which network traffics can be transported from a single source to another destination"
 alt: ""
 weight: "41"
 author: Mohammad Abdul
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: true
 wordcount: false

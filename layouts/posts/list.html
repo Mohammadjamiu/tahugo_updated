@@ -47,14 +47,16 @@
       <li>
         <a class="tto-ca" href="/categories/how-to-tech"> How to's + Tech</a>
       </li>
-     
+
       <li>
         <a class="tto-pfe" href="/categories/digital-electronics/">
           Digital Electronics
         </a>
       </li>
-       <li>
-        <a class="tto-ca" href="/categories/electromagnetics"> Electromagnetics Stuff</a>
+      <li>
+        <a class="tto-ca" href="/categories/electromagnetics">
+          Electromagnetics Stuff</a
+        >
       </li>
     </div>
   </section>
@@ -68,9 +70,10 @@
       <div class="all-post-box">
         <div class="all-post-img">
           <img
+            loading="lazy"
             class="img-in-all-post"
-            src="{{.Params.image}}"
-            alt=""
+            src="{{if .Params.image}}{{.Params.image}}{{else}}{{`/images/imgph.webp`}}{{end}}"
+            alt="{{.Title}}"
             srcset=""
           />
         </div>

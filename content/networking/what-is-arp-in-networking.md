@@ -8,7 +8,7 @@ weight: "70"
 author: Mohammad Jamiu
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: false
 wordcount: false

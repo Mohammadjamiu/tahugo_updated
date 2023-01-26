@@ -1,8 +1,8 @@
 ---
 title: "How to Create Barcode in Word In just few steps"
 postdate: August 05, 2022
-image: ""
-description: ""
+image: "/images/stepqr.webp"
+description: "Steps on how to create a barcode is highlighted below"
 alt: ""
 weight: "64"
 author: Mohammad Jamiu

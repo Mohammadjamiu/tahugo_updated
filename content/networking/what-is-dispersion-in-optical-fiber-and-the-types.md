@@ -13,7 +13,7 @@ mathjax: false
 type: posts
 image: /images/disp_2.webp
 categorylabel: Networking and Communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 description: Dispersion refers to the broadening or spreading of transmitted
   light pulses as they travel along the fiber. The two types of dispersion loss
   are intramodal (chromatic dispersion) and intermodal (modal dispersion).

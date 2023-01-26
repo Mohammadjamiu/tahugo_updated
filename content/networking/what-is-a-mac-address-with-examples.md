@@ -1,14 +1,14 @@
 ---
 title: "What is a MAC Address? Explained With Examples"
 postdate: February 28, 2022
-image: ""
-description: ""
+image: "/images/macad_2.webp"
+description: "MAC address is termed as Media Access Control address. It is a unique address assigned to every network device and cannot be altered or changed. This address is also called a physical address which is attached to a device by the manufacturer."
 alt: ""
 weight: "46"
 author: Mohammad Abdul
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: true
 wordcount: false

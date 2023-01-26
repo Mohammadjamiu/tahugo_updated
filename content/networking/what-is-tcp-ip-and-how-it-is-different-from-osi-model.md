@@ -1,14 +1,14 @@
 ---
 title: "What Is TCP/IP and How It Is Different From OSI Model"
 postdate: February 19, 2022
-image: ""
+image: "/images/tcpcomp.webp"
 description: "TCP/IP is termed as transmission control protocol /with internet protocol. It is a model which is used for standardizing communications across network. It consist of 4 layers which are; the application layer, transport layer, internet layer and link layer."
 alt: ""
 weight: "43"
 author: Mohammad Abdul
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories: '["Networking and Communication"]'
 type: posts
 Google_Ads: true
 wordcount: false
