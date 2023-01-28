@@ -1,34 +1,33 @@
 ---
-title: "How to Create Barcode in Word In just few steps"
-postdate: August 05, 2022
-image: "/images/stepqr.webp"
-description: "Steps on how to create a barcode is highlighted below"
-alt: ""
-weight: "64"
-author: Mohammad Jamiu
-categorylabel: Tech Stuff
-categorylink: /categories/how-to-tech
-categories: '["How-to-tech"]'
-type: posts
-Google_Ads: true
-wordcount: false
-mathjax: false
 draft: false
+wordcount: false
+alt: ""
+title: How to Create Barcode in Word In just few steps
+postdate: August 05, 2022
+description: Steps on how to create a barcode is highlighted below
+categorylabel: Tech Stuff
+categories: '["How-to-tech"]'
+image: /images/stepqr.webp
+weight: "64"
+categorylink: /categories/how-to-tech
+type: posts
+author: Mohammad Jamiu
+mathjax: false
+Google_Ads: true
 ---
+Barcodes are sometimes referred to as QR codes, and it is a graphics with code embedded in it.
 
-Barcodes are sometimes referred to as QR codes and it is a graphics with code embedded in it.
+The code in it can represent a link to a website, a Word document, an Excel file, a PowerPoint document, PDF and what have you.
 
-The code in it can represent a link to a website, a word document, an excel file, a power point document, pdf and what have you.
-
-In this how-to guide I will show you how to create a Barcode or QR code in Microsoft word.
+In this how-to guide, I will show you how to create a Barcode or QR code in Microsoft Word.
 
 ## Step 1:
 
-Open a word document
+Open a Word document
 
 ## Step 2:
 
-On the tab menu locate insert tab
+On the tab menu, locate insert tab
 
 <img  loading="lazy" src="/images/step2qr.webp" alt="">
 
@@ -56,19 +55,19 @@ Click on "add" and continue
 
 <img loading="lazy" src="/images/step6qr.webp" alt="">
 
-The QR4Office box will show up in the right side bar
+The QR4Office box will show up in the right sidebar
 
 <img loading="lazy" src="/images/step9qr.webp" alt="">
 
 ## Step 7:
 
-The customization begins. At first there is a dropdown menu that displays “http://” or “https://” if you click on it, you will see different things you can create QR code for e.g. a URL, an email using the mailto:, your telephone number, SMS and geo location.
+The customization begins. At first there is a dropdown menu that displays “http://” or “https://” if you click on it, you will see different things you can create QR code for e.g. a URL, an email using the mail to:, your telephone number, SMS and geolocation.
 
 <img loading="lazy" src="/images/step7qr.webp" alt="">
 
 ## Step 8:
 
-If you want to convert a link or URL of a website, a pdf document or a google sheet which is online, just type in the URL in the box available.
+If you want to convert a link or URL of a website, a PDF document or a Google sheet which is online, just type in the URL in the box available.
 
 Remember if the already has https:// attached, make sure to remove it as you have already selected it in the dropdown menu. Also note that there is a difference between http:// and https:// which is, https:// is secure while http:// is not.
 
@@ -85,6 +84,6 @@ Make sure to choose a reasonable size as it might increase the file size of the 
 
 ## Step 10 :
 
-After you are done with customizing, you can insert the QR code in you document or just right click on the preview of the code and save a copy.
+After you are done with customizing, you can insert the QR code in your document or just right-click on the preview of the code and save a copy.
 
 <img loading="lazy" src="/images/step10qr.webp" alt="">

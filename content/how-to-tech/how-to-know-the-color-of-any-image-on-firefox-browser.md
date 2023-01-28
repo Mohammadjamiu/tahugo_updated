@@ -16,7 +16,7 @@ Google_Ads: true
 ---
 **Here is how to use Firefox browser Eyedropper to get the color of any image or text on the web**
 
-1. Go to your Firefox browser or open any page you will like to get color from
+1. Go to your Firefox browser or open any page you would like to get color from
 
 ![firefox browser](/images/firefox-browser.webp)
 
@@ -28,6 +28,6 @@ Google_Ads: true
 
 ![firefox eyedropper](/images/clickoneyedropper.webp)
 
-4. Lastly the eyedropper will appear with the **hex code** showing below it
+4. Lastly, the eyedropper will appear with the **hex code** showing below it
 
 ![eyedropper popup](/images/eyedrpperpopup.webp)

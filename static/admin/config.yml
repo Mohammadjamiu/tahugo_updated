@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-local_backend: false
+local_backend: true
 media_folder: /static/images/
 public_folder: /images/
 
@@ -47,7 +47,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -126,7 +126,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -204,7 +204,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -283,7 +283,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -362,7 +362,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -441,7 +441,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -520,7 +520,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -599,7 +599,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
@@ -678,7 +678,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/image/chocolate-dogecoin.jpg",
+          default: "/image/imgph.webp",
           media_library: { config: { multiple: true } },
         }
 
