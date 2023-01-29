@@ -44,7 +44,10 @@ status = 200
     to = "/404.html"
     status = 404
 
-[plugins.inputs]
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+  
+  [plugins.inputs]
     exclude = [
       '**/admin',
       '**/googlee75af150aebde3b0.html',
