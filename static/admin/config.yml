@@ -145,7 +145,7 @@ collections:
           label: "CategoryLink",
           name: "categorylink",
           widget: "select",
-          options: ["/categories/signals-and-system"],
+          options: ["/categories/signals-and-systems"],
         }
 
       - { label: "Body", name: "body", widget: "markdown" }

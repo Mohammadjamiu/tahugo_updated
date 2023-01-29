@@ -5,7 +5,7 @@ slug: how to configure a website netlifyCMS to access the admin page using
   google account
 postdate: January 26, 2023
 description: In today's mini guide, I will be explaining how to access the admin
-  page of a website e.g. www.yoursite.com/admin which is configured using
+  page of a website e.g. yoursite.com/admin which is configured using
   netlifyCMS using google account.
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'

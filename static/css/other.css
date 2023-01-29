@@ -310,15 +310,15 @@ details {
 }
 details summary {
   font-family: MuliSemiBold, sans-serif;
-  font-size: 1.65rem;
+  font-size: 1.6rem;
   /* color: #fff; */
   /* margin: 1.5rem auto 3rem; */
   position: relative;
   text-decoration: double;
   border: 0.1rem solid #1b4475;
-  /* background-color: #1b4475; */
+  background-color: transparent;
   /* background-color: var(--primary-color); */
-  padding: 0.3rem 1.3rem 0.8rem 0.8rem;
+  padding: 0.25rem 1.25rem 0.75rem 0.75rem;
   border-radius: 0.4rem;
   cursor: pointer;
   width: fit-content;
@@ -338,7 +338,7 @@ summary::marker {
 
 nav#TableOfContents {
   border-left: 0rem;
-  background-color: #1b4475;
+  background-color: #14365e;
   padding: 1rem;
   width: fit-content;
   margin: 0.5rem 0 3rem;
@@ -381,25 +381,28 @@ nav#TableOfContents li a {
 
 /* Chroma Code block */
 div.highlight {
-  background-color: #08162c !important;
-  padding: 1rem;
-  /* overflow-x: auto; */
-  /* -webkit-overflow-scrolling: touch; */
-  /* overflow-y: hidden; */
- margin-top: 5rem !important;
- margin-bottom: 3.5rem !important;
-  border-radius: 0 0 0.6rem.6rem !important;
+  background-color: #071c3d !important;
+  padding-left: 1.2rem;
+  padding-right: 1rem;
+  padding-top: 2.8rem;
+  padding-bottom: 0.7rem;
+
+  border-radius: 0.6rem !important;
+  max-width: 80rem;
+  margin: 5rem auto 3.5rem !important;
+
+  position: relative;
 }
 
+
 div.highlight pre {
-   
-  background-color: #08162c !important;
-  padding: 1rem 1rem 2rem;
+  /* background-color: #08162c !important; */
+
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   overflow-y: hidden;
   border-radius: 0.6rem !important;
-  scrollbar-color: var(--footer-color-dark) #e9e9e9;
+  scrollbar-color: var(--footer-color-dark) #e2e2e2;
   scrollbar-width: thin;
 }
 
@@ -417,7 +420,6 @@ div.highlight span {
 /* PreWrapper */
 .chroma {
   color: #f5a97f;
-  background-color: #24273a;
 }
 /* Other */
 .chroma .x {
@@ -797,41 +799,32 @@ div.highlight span {
 .highlight {
   position: relative;
   z-index: 0;
-  padding: 0;
   /* margin: 40px 0 10px 0; */
   border-radius: 4px;
-    
 }
 
 .highlight > .chroma {
-
   position: static;
   z-index: 1;
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px;
-  border-bottom-left-radius: 4px;
-  border-bottom-right-radius: 4px;
-  padding: 10px;
+
+  padding-bottom: 4rem;
 }
 
 .copy-code-button {
   position: absolute;
   z-index: 2;
   right: 0;
-  top: -2.7rem;
+  top: 0;
   font-size: 13px;
   font-weight: 700;
   line-height: 14px;
   letter-spacing: 0.5px;
-  width: 7rem;
+  /* width: 7rem; */
   color: #ffffff;
   background-color: #1b4475;
   /* border: 1.25px solid #232326; */
   border: 0;
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
-  border-bottom-right-radius: 0px;
-  border-bottom-left-radius: 0px;
+  border-radius: 0 0.6rem 0;
   white-space: nowrap;
   padding: 6px 6px 7px 6px;
   /* margin: 0 0 0 1px; */
@@ -839,14 +832,20 @@ div.highlight span {
   /* opacity: 0.6; */
   font-family: MuliSemiBold, sans-serif;
   font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.copy-code-button:before {
+  padding-right: .4rem;
+content: url('https://api.iconify.design/uil/clipboard-blank.svg?color=white');
 }
 
 .copy-code-button:hover,
 .copy-code-button:focus,
 .copy-code-button:active,
 .copy-code-button:active:hover {
-
-  background-color:#133053;
+  background-color: #133053;
   /* opacity: 0.8; */
 }
 
@@ -855,27 +854,4 @@ div.highlight span {
   height: 0;
   z-index: -1;
   opacity: 0.01;
-}
-.chroma [data-lang]:before {
-  position: absolute;
-font-family: MuliSemiBold, sans-serif;
-  font-weight: 500;
-  z-index: 0;
-  top: -2.9rem;
-  left: 0;
-  content: attr(data-lang);
-  font-size: 1.3rem;
-  color: white;
-  /* background-color: black; */
-  background-color: #1b4475;
-  border-radius: 0.4rem 0.4rem 0 0;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-  padding: 6px 6px 7px 6px;
-  line-height: 14px;
-  /* opacity: 0.6; */
-  position: absolute;
-  letter-spacing: 0.5px;
-  border: 1.25px solid #1b4475;
-  /* margin: 0 0 0 1px; */
 }

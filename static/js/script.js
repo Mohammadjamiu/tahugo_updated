@@ -103,9 +103,11 @@ document.querySelectorAll(".snippet-carousel").forEach((snippetCarousel) => {
 
 function createCopyButton(highlightDiv) {
   const button = document.createElement("button");
+
+
   button.className = "copy-code-button";
   button.type = "button";
-  button.innerText = "Copy";
+  button.innerHTML = "Copy";
   button.addEventListener("click", () =>
     copyCodeToClipboard(button, highlightDiv)
   );
