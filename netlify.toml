@@ -43,3 +43,9 @@ status = 200
     from = "/*"
     to = "/404.html"
     status = 404
+
+[plugins.inputs]
+    exclude = [
+      '**/admin',
+      '**/googlee75af150aebde3b0.html',
+    ]
