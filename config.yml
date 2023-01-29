@@ -66,6 +66,3 @@ related:
       weight: 100
     - name: date
       weight: 9
-
-taxonomies:
-  category: categories
