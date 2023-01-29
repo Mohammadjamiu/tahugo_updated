@@ -16,7 +16,7 @@ wordcount: false
 draft: false
 ---
 
-## what is a signal?
+## What is a signal?
 
 A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
 
@@ -169,9 +169,9 @@ $$\int_{-∞}^{∞} |x(t)|^{2} dt$$
 
 You can read more on what <a href="/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/"> power and energy signals </a> are with some shortcut to help you know if a signal is a power or an energy signal.
 
-## causal, Anti-causal and Non-causal signal
+## Causal, Anti-causal and Non-causal signal
 
-**causal signal** is a signal that has zero value for all negative time.
+**Causal signal** is a signal that has zero value for all negative time.
 
 **Anti-causal signal** is the opposite of causal as it has zero value for all positive time.
 

@@ -29,8 +29,8 @@ markup:
     anchorLineNos: false
     codeFences: true
     guessSyntax: false
-    hl_Lines: ''
-    lineAnchors: ''
+    hl_Lines: ""
+    lineAnchors: ""
     lineNoStart: 1
     lineNos: false
     lineNumbersInTable: true
@@ -38,7 +38,7 @@ markup:
     noHl: false
     style: monokailight
     tabWidth: 4
-    
+
 menu:
   main:
     - name: Home &#127968;
@@ -69,4 +69,3 @@ related:
 
 taxonomies:
   category: categories
-  ebookcategory: ebookcategories
