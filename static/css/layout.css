@@ -154,7 +154,7 @@ h4 {
 }
 p {
   font-family: Muli, sans-serif;
-  font-size: 1.68rem;
+  font-size: 1.695rem;
   font-weight: 500;
   margin: 1.5rem auto;
 }
@@ -177,7 +177,7 @@ blockquote {
 ol,
 ul {
   font-family: Muli, sans-serif;
-  font-size: 1.68rem;
+  font-size: 1.695rem;
   font-weight: 500;
   margin: 1.5rem auto;
   padding-left: 3rem;
@@ -281,7 +281,7 @@ table td {
 }
 
 table th {
-  font-size: 1.68rem;
+  font-size: 1.695rem;
   font-family: "MuliSemiBold", sans-serif;
   font-weight: 500;
 }
@@ -556,7 +556,6 @@ section.main {
   border-radius: 5rem;
   background-color: var(--primary-color);
 }
-
 
 .explore-more-card {
   /* background-color: #746d19; */
