@@ -1,6 +1,6 @@
 ---
-title: Online Learning Tools for College Students
-slug: online learning tools for college students
+title: 27+ Online Tools for College Students to Use
+slug: ""
 postdate: January 30, 2023
 description: Over 17 tools or software programs to help student learn are listed
   such as Grammarly for checking grammar mistake to making citation in a
@@ -12,7 +12,7 @@ weight: 80
 categorylink: /categories/how-to-tech
 type: posts
 author: Mohammad Jamiu
-draft: false
+draft: true
 mathjax: false
 Google_Ads: true
 ---
