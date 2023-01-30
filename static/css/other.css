@@ -310,16 +310,16 @@ details {
 }
 details summary {
   font-family: MuliSemiBold, sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.55rem;
   /* color: #fff; */
   /* margin: 1.5rem auto 3rem; */
   position: relative;
   text-decoration: double;
-  border: 0.1rem solid #1b4475;
+  border: 0.2rem solid #1b4475;
   background-color: transparent;
-  /* background-color: var(--primary-color); */
-  padding: 0.25rem 1.25rem 0.75rem 0.75rem;
-  border-radius: 0.4rem;
+  /* background-color: var(--footer-color); */
+  padding: 0.24rem 1.24rem 0.74rem 0.74rem;
+  border-radius: 0.3rem;
   cursor: pointer;
   width: fit-content;
 }
