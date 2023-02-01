@@ -294,7 +294,7 @@ p.dot {
   /* background-color: #02142bcb; */
   height: 0.8rem;
   width: 8rem;
-  border-radius: 0.8rem;
+  border-radius: 0.35rem;
 
   margin: 2.5rem 0 3.5rem;
 }
@@ -308,26 +308,35 @@ div > iframe {
 details {
   margin: 1.5rem auto 3rem;
 }
+
 details summary {
   font-family: MuliSemiBold, sans-serif;
-  font-size: 1.55rem;
-  /* color: #fff; */
+  font-size: 1.5rem;
+  color: #fff;
   /* margin: 1.5rem auto 3rem; */
   position: relative;
   text-decoration: double;
-  border: 0.2rem solid #1b4475;
-  background-color: transparent;
+  /* border: 0.2rem solid #1b4475; */
+  background-color: #14365e;
+  border-left: 1.4rem solid #1d487e;;
   /* background-color: var(--footer-color); */
   padding: 0.24rem 1.24rem 0.74rem 0.74rem;
-  border-radius: 0.3rem;
+  border-radius: 0.15rem .5rem .5rem .15rem;
   cursor: pointer;
   width: fit-content;
 }
+
+details[open] summary{
+  background-color: #14365e;
+}
+
+
 summary::marker {
-  display: none;
+  /* display: \2139; */
   content: " ";
   width: fit-content;
   padding: 1rem;
+  color:var(--primary-color);
 
   /* position: absolute;
   left: 5rem; */
@@ -340,9 +349,11 @@ nav#TableOfContents {
   border-left: 0rem;
   background-color: #14365e;
   padding: 1rem;
-  width: fit-content;
+  /* width: fit-content; */
+  max-width: 60rem;
   margin: 0.5rem 0 3rem;
   border-radius: 0.4rem;
+  /* flex-wrap: wrap; */
 }
 
 /* .content-summary h3 {
@@ -393,7 +404,6 @@ div.highlight {
 
   position: relative;
 }
-
 
 div.highlight pre {
   /* background-color: #08162c !important; */
@@ -837,8 +847,8 @@ div.highlight span {
   justify-content: center;
 }
 .copy-code-button:before {
-  padding-right: .4rem;
-content: url('https://api.iconify.design/uil/clipboard-blank.svg?color=white');
+  padding-right: 0.4rem;
+  content: url("https://api.iconify.design/uil/clipboard-blank.svg?color=white");
 }
 
 .copy-code-button:hover,

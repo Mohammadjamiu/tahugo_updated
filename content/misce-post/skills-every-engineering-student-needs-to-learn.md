@@ -2,10 +2,7 @@
 title: "Payoff skills that every engineering students needs to learn before leaving college or University"
 postdate: October 05, 2021
 image: "/images/pclightup.webp"
-description: "Without doubt, we all know that engineering is an interesting but a complex field to study and most
-times, it is due to the fact that the standard we are being taught with is quite outdated or not
-that useful in the industry or the
-world we are in today."
+description: "Without doubt, we all know that engineering is an interesting but a complex field to study and most times, it is due to the fact that the standard we are being taught with is quite outdated or not that useful in the industry or the world we are in today."
 WordCount: false
 weight: "3"
 categorylabel: Productivity and Writings
