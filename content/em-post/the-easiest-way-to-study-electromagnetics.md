@@ -54,7 +54,7 @@ down.
 Now when you see anything related to vectors, you don’t just look at it as a mathematical expression or tool only
 rather, you see it also in the real world.
 
-## coulomb's law
+## Coulomb's law
 
 The second topic mostly, is the coulomb's law and it relates the force of attraction between electric
 charges but, here is something frightening, none of us has ever seen an electric charge even though

@@ -1,8 +1,7 @@
 <!-- Title Tag -->
-
-{{ $title := print .Title " - " .Site.Title }} {{ if .IsHome }}{{ $title =
+{{ $title := print .Title " - " .Site.Title }} {{$new:= replace $title "[" "" }}  {{$newTitle:= replace $new "]" "" }}{{ if .IsHome }}{{ $title =
 .Site.Title }}{{ end }}
-<title>{{ $title }}</title>
+<title>{{ $newTitle }}</title>
 
 <!-- End of Title Tags -->
 

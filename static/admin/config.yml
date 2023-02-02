@@ -85,6 +85,86 @@ collections:
           widget: "boolean",
           default: true,
         }
+  
+  - name: "science"
+    label: "Science Stuff"
+    folder: "content/science-stuff"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LL",
+          picker_utc: false,
+        }
+      - { label: "Description", name: "description", widget: "string" }
+
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Science Stuff",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ['["Science Stuff"]'],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/image/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/science-stuff"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
 
   - name: "signals and systems"
     label: "Signals and Systems"
