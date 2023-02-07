@@ -15,6 +15,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
+
 **You are done building your website, but you need an automatic way of generating sitemap for your website without having to do much work.**
 
 Here is a simple guide on how to do just that.
@@ -33,11 +34,11 @@ Here is a simple guide on how to do just that.
    ![sitemap plugin on Netlify dashboard](/images/presstheenablebtn.webp "sitemap plugin on Netlify dashboard")
 5. The sitemap plugin prompt "install" will appear
    ![install plugin prompt](/images/promptinstallplugin.webp "install plugin prompt")
-6. > After clicking the **"Install**" button, you will be redirected to the dashboard.
-   > ![dashboard after plugin install](/images/backtodb.webp "dashboard after plugin install")
+6. After clicking the **"Install**" button, you will be redirected to the dashboard.
+   ![dashboard after plugin install](/images/backtodb.webp "dashboard after plugin install")
    > Voilà, you are done! But one last thing to do is for you to clear the cache of your site and redeploy.
 7. You can do this by clicking on the production deploys tab then, you will see a page as below
    ![clear cache of site](/images/clearcachedeploy.webp "clear cache of site")
 8. Click on the **trigger deploy** dropdown and then click on clear cache. Wait for Netlify to do it's work and then visit your site URL and apply /sitemap.xml e.g. yoursite.com/sitemap.xml
-
+UPDATE
 ![your site url sitemap](/images/yoursitesitemapurl.webp "your site url sitemap")

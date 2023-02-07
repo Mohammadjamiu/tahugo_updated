@@ -66,7 +66,3 @@ related:
       weight: 100
     - name: date
       weight: 9
-
-caches:
-  getjson:
-    maxAge: 0

@@ -85,7 +85,7 @@ collections:
           widget: "boolean",
           default: true,
         }
-  
+
   - name: "science"
     label: "Science Stuff"
     folder: "content/science-stuff"

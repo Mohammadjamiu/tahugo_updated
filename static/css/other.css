@@ -318,25 +318,24 @@ details summary {
   text-decoration: double;
   /* border: 0.2rem solid #1b4475; */
   background-color: #14365e;
-  border-left: 1.4rem solid #1d487e;;
+  border-left: 1.4rem solid #1d487e;
   /* background-color: var(--footer-color); */
   padding: 0.24rem 1.24rem 0.74rem 0.74rem;
-  border-radius: 0.15rem .5rem .5rem .15rem;
+  border-radius: 0.5rem 0.5rem;
   cursor: pointer;
   width: fit-content;
 }
 
-details[open] summary{
+details[open] summary {
   background-color: #14365e;
 }
-
 
 summary::marker {
   /* display: \2139; */
   content: " ";
   width: fit-content;
   padding: 1rem;
-  color:var(--primary-color);
+  color: var(--primary-color);
 
   /* position: absolute;
   left: 5rem; */
@@ -865,3 +864,16 @@ div.highlight span {
   z-index: -1;
   opacity: 0.01;
 }
+
+p > code {
+  background: #071c3d;
+  color: #fff;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.2rem;
+}
+/* p > em code {
+  background: #071c3d;
+  color: #fff;
+  padding: 0.2rem 0.4rem;
+
+} */
