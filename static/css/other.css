@@ -871,7 +871,7 @@ p > code {
   padding: 0rem 0.2rem;
   border-radius: 0.2rem;
   margin: .2rem .3rem 0 .2rem;
-  display: inline-block;
+  display: inline;
 }
 
 
