@@ -877,3 +877,34 @@ p > code {
   padding: 0.2rem 0.4rem;
 
 } */
+
+.disclaimer {
+  background-color: #e0551f;
+  padding: 1rem 2rem;
+  border-radius: 0.4rem;
+  color: #fff;
+}
+
+
+#book-contents {
+  margin-bottom: 4rem !important;
+}
+#book-contents,
+#book-description {
+  font-size: 1.9rem;
+  font-family: MuliBold, sans-serif;
+  position: relative;
+  margin-bottom: 2rem;
+}
+#book-contents:after,
+#book-description:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: -1.2rem;
+  left: 0;
+  height: 0.8rem;
+  width: 7rem;
+  border-radius: 5rem;
+  background-color: var(--primary-color);
+}

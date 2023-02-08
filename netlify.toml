@@ -50,6 +50,5 @@ status = 200
   [plugins.inputs]
     exclude = [
       '**/admin',
-      '**/ebookcategories',
       '**/googlee75af150aebde3b0.html',
     ]
