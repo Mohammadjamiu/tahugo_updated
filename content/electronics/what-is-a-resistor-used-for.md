@@ -1,20 +1,23 @@
 ---
-title: "What Is a Resistor Used For? All You Need To know About Resistors Explained Simply"
-postdate: November 02, 2021
-image: "/images/resistoruse_10.webp"
-description: "A resistor is an electronics component that limits (or reduce) the flow of current in a circuit, as well as cause voltage to be dropped across it."
-alt: "resistor explained"
-weight: "15"
-author: Mohammad Abdul
-categorylabel: Electronics
-categorylink: /categories/electronics
-categories:  '["Electronics"]'
-type: posts
-Google_Ads: true
-wordcount: false
 draft: false
+wordcount: false
+alt: resistor explained
+title: What Is a Resistor Used For? All You Need To know About Resistors
+  Explained Simply
+postdate: November 02, 2021
+description: A resistor is an electronics component that limits (or reduce) the
+  flow of current in a circuit, as well as cause voltage to be dropped across
+  it.
+categorylabel: Electronics
+categories: '["Electronics"]'
+image: /images/resistoruse_10.webp
+weight: "15"
+categorylink: /categories/electronics
+type: posts
+author: Mohammad Abdul
+mathjax: true
+Google_Ads: true
 ---
-
 Before going in depth of what a resistor is used for and the other things you need to know about it, you need to know what it is.
 
 ## What is a resistor?
@@ -57,7 +60,7 @@ Before knowing how to identify the power rating of a resistor, you need to under
 
 Resistor as we say limit current flow. But do you know that the current it is impeding (or resisting) is stored within it and it is converted into heat and if it goes beyond what it can handle, it releases more energy as heat and will be destroyed.
 
-That’s why for every circuit design, resistor's power rating must be considered. And it is done using one of these formulas for power calculation.**P = I<sup>2</sup>R**,**P = IV** or**P = V/R**
+That’s why for every circuit design, resistor's power rating must be considered. And it is done using one of these formulas for power calculation.**P = I<sup>2</sup>R**,**P = IV** or **P = V/R**
 
 <img loading="lazy" src="/images/resistoruse_11.webp" alt="">
 
@@ -92,12 +95,6 @@ Here is an example and a basic formula to help you calculate the desired voltage
 
    But by using a resistor in series with the LED, you can use any voltage source to power up your LED but putting in mind or account of the resistance value of the resistor and the power rating.
 
-   <blockquote class="blockquote">
-   <p class="little-nugget">Note</p>
-   <p class="quote-text">As a recommendation, when designing circuit, go for a power rating more than the calculated power rating.
-   </p>
-   </blockquote>
-
    For example, if you have 9v battery at hand, here's how you can use a resistor to limit the current as well as voltage.
 
 <img loading="lazy" src="/images/voltagetodrop.webp" alt="using resistor to limit current and cause voltage drop">
@@ -127,10 +124,10 @@ Now this bring us to the section where the different types of resistors are disc
 These type of resistors have similar structure but one of the difference between them is the material used in manufacturing them.
 And they are mostly available in the following wattage. e.g. ¼W (quarter watt), ½W (half watt) and 1W (one watt).
 
-<img loading="lazy" src="/images/carbonfilmr.jpeg" alt="">
+<img loading="lazy" src="/images/carbonfilmr.webp" alt="">
 <p class="img-desc ">image source: Carbon Film_HB Labs</p>
 
-<img loading="lazy" src="/images/metalfilmr.jpeg" alt="">
+<img loading="lazy" src="/images/metalfilmr.webp" alt="">
 <p class="img-desc ">image source: Metal Film_IndiaMART</p>
 
 **Wire wound resistor** - this type of resistor has a higher power rating or wattage. And it is made of metal alloys wounded to create the resistance and because of that, it is used in designing circuits that needs high amount of current.
@@ -140,22 +137,22 @@ And they are mostly available in the following wattage. e.g. ¼W (quarter watt),
 
 **Potentiometer (or pot)** – this type of resistor is pretty much popular and it is used mostly with microcontrollers like Arduino Uno. It is referred to as a variable resistor because it has a knob that allows you to change the value of resistance up to the maximum resistance rating of the potentiometer.
 
-<img loading="lazy" src="/images/pot.jpeg" alt="">
+<img loading="lazy" src="/images/pot.webp" alt="">
 <p class="img-desc ">image source: Potentiometer_westerfertility</p>
 
 **Trimmer** – it’s kind of a small potentiometer (that why it is sometimes called trimpot) because it also has a knob but it is used for precise resistance value because it seems compact and stable.
 
-<img loading="lazy" src="/images/trimpot.jpeg" alt="">
+<img loading="lazy" src="/images/trimpot.webp" alt="">
 <p class="img-desc ">image source: Trimpot_probots</p>
 
 **LDR (light dependent resistor) or photo-resistors** - this type of resistor is use in circuits to detects light or dark. i.e. the resistance value decreases with increase in light intensity and increases with decrease in light intensity.
 
-<img loading="lazy" src="/images/ldr.jpeg" alt="">
+<img loading="lazy" src="/images/ldr.webp" alt="">
 <p class="img-desc ">image source: LDR_PotentialLabs</p>
 
 **Thermistor** – is a type of resistor that has it resistance value changed as the temperature changes. This type or resistor is used in electric irons to detect if the iron is very hot or cold.
 
-<img loading="lazy" src="/images/ntcthermistor.jpeg" alt="">
+<img loading="lazy" src="/images/ntcthermistor.webp" alt="">
 <p class="img-desc ">image source: Thermistor_IndiaMART</p>
 
 Here comes the end to some of the things you need to know about resistors. Hope it helps.

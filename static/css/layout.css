@@ -735,7 +735,7 @@ img.img-in-recent-post {
   margin: 0;
 }
 .recent-post-heading {
-  padding: 2rem 1.5rem;
+  padding: 0.5rem 1.5rem 2rem;
   height: 18rem;
   background-color: var(--accent-color);
   border-radius: 0 0 0.8rem 0.8rem;

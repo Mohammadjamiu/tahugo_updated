@@ -430,16 +430,12 @@ div.highlight span {
 .chroma {
   color: #f5a97f;
 }
-/* Other */
-.chroma .x {
-}
+
 /* Error */
 .chroma .err {
   color: #ed8796;
 }
-/* CodeLine */
-.chroma .cl {
-}
+
 /* LineLink */
 .chroma .lnlinks {
   outline: none;
@@ -566,9 +562,7 @@ div.highlight span {
 .chroma .nn {
   color: #eed49f;
 }
-/* NameOther */
-.chroma .nx {
-}
+
 /* NameProperty */
 .chroma .py {
   color: #b7bdf8;
@@ -577,9 +571,7 @@ div.highlight span {
 .chroma .nt {
   color: #c6a0f6;
 }
-/* NameVariable */
-.chroma .nv {
-}
+
 /* NameVariableClass */
 .chroma .vc {
   color: #b7bdf8;
@@ -596,12 +588,7 @@ div.highlight span {
 .chroma .vm {
   color: #b7bdf8;
 }
-/* Literal */
-.chroma .l {
-}
-/* LiteralDate */
-.chroma .ld {
-}
+
 /* LiteralString */
 .chroma .s {
   color: #a6da95;
@@ -658,27 +645,7 @@ div.highlight span {
 .chroma .ss {
   color: #a6da95;
 }
-/* LiteralNumber */
-.chroma .m {
-}
-/* LiteralNumberBin */
-.chroma .mb {
-}
-/* LiteralNumberFloat */
-.chroma .mf {
-}
-/* LiteralNumberHex */
-.chroma .mh {
-}
-/* LiteralNumberInteger */
-.chroma .mi {
-}
-/* LiteralNumberIntegerLong */
-.chroma .il {
-}
-/* LiteralNumberOct */
-.chroma .mo {
-}
+
 /* Operator */
 .chroma .o {
   color: #91d7e3;
@@ -727,9 +694,7 @@ div.highlight span {
   color: #8aadf4;
   font-style: italic;
 }
-/* Generic */
-.chroma .g {
-}
+
 /* GenericDeleted */
 .chroma .gd {
   color: #ee99a0;
@@ -751,9 +716,7 @@ div.highlight span {
 .chroma .gi {
   color: #a6da95;
 }
-/* GenericOutput */
-.chroma .go {
-}
+
 /* GenericPrompt */
 .chroma .gp {
   color: #6e738d;
@@ -772,9 +735,7 @@ div.highlight span {
 .chroma .gt {
   color: #ee99a0;
 }
-/* GenericUnderline */
-.chroma .gl {
-}
+
 /* TextWhitespace */
 .chroma .w {
   color: #363a4f;
@@ -870,11 +831,10 @@ p > code {
   color: #fff;
   padding: 0rem 0.2rem;
   border-radius: 0.2rem;
-  margin: .2rem .3rem 0 .2rem;
+  margin: 0.2rem 0.3rem 0 0.2rem;
   display: inline;
   word-wrap: break-word;
 }
-
 
 .disclaimer {
   background-color: #e0551f;
@@ -882,7 +842,6 @@ p > code {
   border-radius: 0.4rem;
   color: #fff;
 }
-
 
 #book-contents {
   margin-bottom: 4rem !important;
