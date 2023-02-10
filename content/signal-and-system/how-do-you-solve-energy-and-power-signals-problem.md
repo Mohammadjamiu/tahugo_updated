@@ -2,24 +2,24 @@
 draft: false
 wordcount: false
 alt: power and energy signal
-Google_Ads: true
-author: Mohammad Abdul
 postdate: December 01, 2021
+author: Mohammad Abdul
+Google_Ads: true
 date: 2023-01-01T00:56:27.623Z
-categorylabel: Signals and Systems
-categorylink: /categories/signals-and-systems
 title: How Do You Solve Energy and Power Signals Problem Step By Step With Tips
   and Shortcuts?
-weight: "17"
-mathjax: true
-type: posts
-image: /images/signals_10.webp
-categories: '["Signals and Systems"]'
 description: "Here are the few things to remember in order to quickly identify
   if a signal is a power or an energy signal - If the amplitude of the signal is
   zero at t tends to infinity, then the signal is an energy signal but if the
   amplitude of the signal is constant t at tends to infinity then the signal is
   a power signal "
+categorylabel: Signals and Systems
+categories: '["Signals and Systems"]'
+image: /images/signals_10.webp
+weight: "17"
+categorylink: /categories/signals-and-systems
+type: posts
+mathjax: true
 ---
 
 Before solving problems on energy and power signal, you need to understand what each of the signal means
@@ -104,22 +104,22 @@ As you can see when a signal is an energy signal, it will have a finite energy a
 
 <br>
 
-$$E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt$$
+$$E =\lim*{T \rightarrow ∞ } = \int*{-T}^{T} |x(t)|^{2} dt$$
 
 or
 
 $$E =  \int_{-∞}^{∞} |x(t)|^{2} dt$$
 
-$$P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$$
+$$P = \lim*{ T\rightarrow ∞}\frac{1}{2T} \int*{-T}^{T} |x(t)|^{2} dt$$
 <br>
 
 Steps to follow are;
 
-0. If you are given a function $x(t)$
-1. Find the modulus or absolute value of the signal $|x(t)|$
-2. Find the integral of the square of the modulus of the signal $\int_{-T}^{T} |x(t)|^{2} dt$
-3. Take the limit as it tends to infinity of the above integral to find what the energy is $E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt=$
-4. Then proceed to finding what the power is by dividing the energy by the total period - as power is energy over time. $P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$
+1. If you are given a function $x(t)$
+2. Find the modulus or absolute value of the signal $|x(t)|$
+3. Find the integral of the square of the modulus of the signal $\int_{-T}^{T} |x(t)|^{2} dt$
+4. Take the limit as it tends to infinity of the above integral to find what the energy is $E =\lim*{T \rightarrow ∞ } = \int*{-T}^{T} |x(t)|^{2} dt=$
+5. Then proceed to finding what the power is by dividing the energy by the total period - as power is energy over time. $P = \lim*{ T\rightarrow ∞}\frac{1}{2T} \int*{-T}^{T} |x(t)|^{2} dt$
    <br>
 
 ## Energy and power signals - solved examples
@@ -130,7 +130,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $|x(t)| = e^{-at}u(t)$
 
-   $\int_{-T}^{T} |x(t)|^{2} dt = \int_{-T}^{T} |e^{-at}u(t)|^{2}dt$
+   $\int*{-T}^{T} |x(t)|^{2} dt = \int*{-T}^{T} |e^{-at}u(t)|^{2}dt$
 
    $\int_{-T}^{T} e^{-2at}(u(t))^{2}dt$
 
@@ -142,7 +142,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    But also $u(t)$ is always defined for $t>0$
 
-   $\therefore$ The limit changes from $\int_{-T}^{T}$ to $\int_{0}^{T}$ and then $u(t)$ will be eliminated
+   $\therefore$ The limit changes from $\int*{-T}^{T}$ to $\int*{0}^{T}$ and then $u(t)$ will be eliminated
 
    hence, $\int_{0}^{T} e^{-2at}dt$
 
@@ -150,7 +150,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $\frac{e^{-2at}}{-2a}\mid_{0}^{T}$ = $\frac{e^{-2aT}}{-2a}$ - $\frac{e^{-2a(0)}}{-2a}$
 
-   Since $E =\lim_{T \rightarrow ∞ }\int_{-T}^{T} |x(t)|^{2} dt$
+   Since $E =\lim*{T \rightarrow ∞ }\int*{-T}^{T} |x(t)|^{2} dt$
 
    then $E =\lim_{T \rightarrow ∞ } (\frac{e^{-2aT}}{-2a} - \frac{e^{-2a(0)}}{-2a})$ =
 
@@ -177,7 +177,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $|x(t)| = 4\sin(2\pi t)$
 
-   $\int_{-T}^{T} |x(t)|^{2} dt = \int_{-T}^{T} |4\sin(2\pi t)|^{2}dt$
+   $\int*{-T}^{T} |x(t)|^{2} dt = \int*{-T}^{T} |4\sin(2\pi t)|^{2}dt$
 
    $16\int_{-T}^{T} \sin^{2}(2\pi t)dt$
 
@@ -187,21 +187,21 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $16\int_{-T}^{T} \frac{1 - \cos\ (4 \pi t)}{2}dt$
 
-   $\frac{16}{2}\int_{-T}^{T} {1 - \cos\(4 \pi t)} dt$ =
+   $\frac{16}{2}\int_{-T}^{T} {1 - \cos(4 \pi t)} dt$ =
 
-   $8[\int_{-T}^{T} {1} dt - \int_{-T}^{T} {\cos\(4 \pi t)} dt]$ =
+   $8[\int*{-T}^{T} {1} dt - \int*{-T}^{T} {\cos(4 \pi t)} dt]$ =
 
-   $8[t - \frac{\sin(4 \pi t)}{4 \pi}] \mid_{-T}^{T}$ =
+   $8\[t - \frac{\sin(4 \pi t)}{4 \pi}] \mid_{-T}^{T}$ =
 
-   $E = lim_{T \rightarrow ∞ } 8[t - \frac{\sin(4 \pi t)}{4 \pi}] \mid_{-T}^{T}$ =
+   $E = lim*{T \rightarrow ∞ } 8\[t - \frac{\sin(4 \pi t)}{4 \pi}] \mid*{-T}^{T}$ =
 
    Note: The limit of $\sin$ or $\cos$ → to &infin; is zero so $\frac{\sin(4 \pi t)}{4 \pi}$ also will be zero.
 
    So our function is now simpler,
 
-   $E = lim_{T \rightarrow ∞ } 8[t] \mid_{-T}^{T}$ = $E = lim_{T \rightarrow ∞ } 8[T - (-T)]$ =
+   $E = lim*{T \rightarrow ∞ } 8\[t] \mid*{-T}^{T}$ = $E = lim_{T \rightarrow ∞ } 8\[T - (-T)]$ =
 
-   $E = lim_{T \rightarrow ∞ } 8[T + T]$ = $E = lim_{T \rightarrow ∞ } 8[2T]$ =
+   $E = lim*{T \rightarrow ∞ } 8\[T + T]$ = $E = lim*{T \rightarrow ∞ } 8\[2T]$ =
 
    $E = lim_{T \rightarrow ∞ } 16T$ = ∞
 
@@ -210,3 +210,33 @@ Find whether the following signals are energy signals or power signals or neithe
    $P = lim_{T \rightarrow ∞ } 8$ = 8;
 
    So as Energy is ∞ and Power is Finite (i.e. 8) then the signal is a power signal.
+
+3. $x(t) = tu(t), -\infty < t < \infty$
+
+   $| x(t)| = |tu(t)| = tu(t)$ \
+   \
+   $| x(t)|^2 = |tu(t)|^2 =$
+
+   $ t^2(u(t))^2 = t^2u(t)$, Since $u(t)$ has a value of one so if you square it it will still be one.
+
+   $\int_{-T}^{T} | x(t)|^2 dt =$
+
+   $\int_{-T}^{T} t^2u(t) dt$
+
+   $\int\_{0}^{T} t^2dt = \frac{t^3}{3}|\_{0}^{T}$
+
+   $= \frac{T^3}{3} - 0$
+
+   $\therefore \int_{-T}^{T} | x(t)|^2 dt =$
+
+   $\frac{T^3}{3}$
+
+   $E = \lim_{T \rightarrow \infty} \frac{T^3}{3} =$
+
+   $\frac{\infty^3}{3} = \infty$
+
+   $P =  \lim_{T \rightarrow \infty} \frac{1}{2T} \frac{T^3}{3} =$
+
+   $\frac{T^2}{6} = \frac{\infty^2}{6} = \infty$
+
+Since both Energy and Power are infinity, they are neither power nor energy signal.
