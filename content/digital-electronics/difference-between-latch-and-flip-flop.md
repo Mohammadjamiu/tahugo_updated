@@ -1,5 +1,5 @@
 ---
-title: Differences Between Latch and Flip flop
+title: Differences Between Latch and Flip-flop
 slug: difference between latch and flip flop
 postdate: February 10, 2023
 description: difference between latch and flip flop
@@ -14,7 +14,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-Latches and flip-flops are both types of circuits used in digital electronics to store binary information. But with this similarity, there are some key differences between them.
+**Latches and flip-flops** are both types of circuits used in digital electronics to store binary information. But with this similarity, there are some key differences between them.
 
 ## What is a Latch?
 

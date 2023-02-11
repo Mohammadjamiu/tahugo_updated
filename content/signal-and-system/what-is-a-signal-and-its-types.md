@@ -1,21 +1,22 @@
 ---
-title: "What Is a Signal and its Different Types In Electronics And Communications?"
-postdate: November 30, 2021
-image: "/images/signals_6 (2).webp"
-description: "A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon. So anything that carries information is considered a signal"
-alt: "What Is a Signal and its Different Types"
-weight: "16"
-author: Mohammad Abdul
-categorylabel: Signals and Systems
-categorylink: /categories/signals-and-systems
-categories: '["Signals and Systems"]'
-type: posts
-Google_Ads: true
-mathjax: true
-wordcount: false
 draft: false
+wordcount: false
+alt: What Is a Signal and its Different Types
+title: What Is a Signal and its Different Types In Electronics And Communications?
+postdate: November 30, 2021
+description: A signal is a function of an independent variable (e.g. of space,
+  time, or density) that carries information representing a physical phenomenon.
+  So anything that carries information is considered a signal
+categorylabel: Signals and Systems
+categories: '["Signals and Systems"]'
+image: /images/signals_6 (2).webp
+weight: "16"
+categorylink: /categories/signals-and-systems
+type: posts
+author: Mohammad Abdul
+mathjax: true
+Google_Ads: true
 ---
-
 ## What is a signal?
 
 A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
@@ -70,7 +71,7 @@ human voice is an example of an analog signal and that why all sort of signal in
 
 **A digital signal** on the other hand refers to a signal that can have only a limited number of values. It waveform is in form of pulses which seems like that of periodic or non-periodic signal.
 
-> _Note:_
+> *Note:*
 >
 > **Analog and digital signals**
 >
@@ -104,8 +105,8 @@ It is same as that of continuous but instead of having a continuous value, it ha
 **Periodic signal** is a signal that repeat itself at regular interval of time (t).
 It is defined by $x(t) = x(t + T)$ where $T$ is the period.
 
-<p> **Non-periodic signal** is also called aperiodic signal and it is a signal that don’t repeat itself at regular interval of time (t).
-It is defined by $x(t) &ne; x(t + T)$.</p>
+**Non-periodic signal** is also called aperiodic signal and it is a signal that don’t repeat itself at regular interval of time (t).
+It is defined by $x(t) &ne; x(t + T)$.
 
 <img loading="lazy" src="/images/signals_2 (2).webp" alt="Periodic and non-periodic signals">
 
@@ -129,7 +130,7 @@ It is defined by $x(t) &ne; x(t + T)$.</p>
 
    So if the both equations are rewritten then we can see that $t^{2} + 1 = t^{2} + 1$
 
-   $\begin{cases} x(t) = t^{2} + 1 &\\& x(-t) = t^{2} + 1\end{cases}$
+   $\begin{cases} x(t) = t^{2} + 1 &\& x(-t) = t^{2} + 1\end{cases}$
 
    Therefore, $x(t) = x(-t)$ which means this is an even function.
 
@@ -151,7 +152,7 @@ It is defined by $x(t) &ne; x(t + T)$.</p>
 
    hence, $-x(-t) = 2t$. So if the both equations are rewritten then we can see that $2t = 2t$
 
-   $\begin{cases} x(t) = 2t &\\& -x(-t) = 2t\end{cases} $
+   $\begin{cases} x(t) = 2t &\& -x(-t) = 2t\end{cases} $
 
    Therefore, $x(t) = -x(-t)$ which means this is an odd function
 
@@ -159,11 +160,11 @@ It is defined by $x(t) &ne; x(t + T)$.</p>
 
 **A power signal** is a signal with finite power. It can be calculated using;
 
-$$P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$$
+$$P = \lim*{ T\rightarrow ∞}\frac{1}{2T} \int*{-T}^{T} |x(t)|^{2} dt$$
 
 **An energy signal**is a signal with finite energy. It can be calculated using;
 
-$$E =\lim_{T \rightarrow ∞ } \int_{-T}^{T} |x(t)|^{2} dt = $$
+$$E =\lim*{T \rightarrow ∞ } \int*{-T}^{T} |x(t)|^{2} dt = $$
 
 $$\int_{-∞}^{∞} |x(t)|^{2} dt$$
 
