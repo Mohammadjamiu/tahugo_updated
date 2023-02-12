@@ -36,15 +36,15 @@ Logic gates mostly have at least two input terminal and one output terminal with
 6. XOR gate and
 7. XNOR gate
 
-Among these logic gates, some are universal while others are basic. The term ** universal gate** is derived from the idea that operations that can be performed with the basic logic gates such as AND, OR, and NOT can be performed with just a single logic gate.
+Among these logic gates, some are universal while others are basic. The term **universal gate** is derived from the idea that operations that can be performed with the basic logic gates such as AND, OR, and NOT can be performed with just a single logic gate.
 
-** The universal logic gates are two: NAND (NOT – AND) and NOR (NOT – OR)**.
+**The universal logic gates are two: NAND (NOT – AND) and NOR (NOT – OR)**.
 
 While XOR (exclusive OR) and XNOR (exclusive NOR) are logic gates that has the combination of some AND, OR or NOT gate, they are not universal but are used to reduce the number of gates in a circuit.
 
 Before discussing on each logic gates, their symbol, function and truth table, we have to explain some basic terms.
 
-> ** The truth table** is the table that tells how different input to a logic gate yields an output. In essence it is a table showing the relationship between the input signal and the output signal.
+> **The truth table** is the table that tells how different input to a logic gate yields an output. In essence it is a table showing the relationship between the input signal and the output signal.
 
 </br>
 
