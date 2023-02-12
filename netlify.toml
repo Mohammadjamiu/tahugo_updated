@@ -52,3 +52,9 @@ status = 200
       '**/admin',
       '**/googlee75af150aebde3b0.html',
     ]
+
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "db44ujlqj"
