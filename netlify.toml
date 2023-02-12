@@ -2,7 +2,7 @@
 
 [build]
 publish = "public"
-# command = "hugo --gc --minify"
+command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.109.0"
@@ -53,8 +53,3 @@ status = 200
       '**/googlee75af150aebde3b0.html',
     ]
 
-[[plugins]]
-  package = "netlify-plugin-cloudinary"
-
-  [plugins.inputs]
-  cloudName = "db44ujlqj"
