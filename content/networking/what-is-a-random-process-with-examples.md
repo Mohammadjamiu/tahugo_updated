@@ -48,8 +48,8 @@ Therefore, X(t) = {x<sub>1</sub>(t), x<sub>2</sub>(t), x<sub>3</sub>(t)}.
 
 ## Type of random processes
 
-**Strict sense stationary random process **
+**Strict sense stationary random process**
 A random process is said to be strict sense stationary or simply stationary if none of its statistics is affected by a shift in time origin. i.e. the occurrence of a function x(t1) at t1 is same at x(t2) when there is a shift from 1 to 2.
 
-**Wide sense random process **
+**Wide sense random process**
 A random process is said to be wide sense stationary if two of its statistics (mean and autocorrelation) is not affected by a shift in time origin or do not vary with a shift in time.

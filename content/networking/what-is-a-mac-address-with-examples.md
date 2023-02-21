@@ -38,15 +38,15 @@ The first 3 bytes or 24-bits are designated as the OUI (Organizational Unique Id
 
 The unicast MAC address is mostly the address of the sender or a particular device.
 
-An example of a unicast MAC address is **4A:30:10:21:10:1A **
+An example of a unicast MAC address is **4A:30:10:21:10:1A**
 
 Multicast address is the address of group of computers or devices in a network.
 
-An example of a multicast MAC address is **10:00:5E:00:01:01 **
+An example of a multicast MAC address is **10:00:5E:00:01:01**
 
 Broadcast address is an address for sending broadcast message. It allows ARP request to be possible.
 
-An example of a broadcast MAC address is **FF:FF:FF:FF:FF:FF **
+An example of a broadcast MAC address is **FF:FF:FF:FF:FF:FF**
 
 ## How do you Identify a MAC address?
 

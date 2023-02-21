@@ -80,7 +80,7 @@
             />
           </div>
           <div class="recent-post-heading">
-            <h2>{{.Params.Title}}.</h2>
+            <h2>{{.Params.Title | truncate 115}}.</h2>
 
             <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
           </div>

@@ -59,7 +59,7 @@ Generally, there are two types of modes that support propagation of light along 
 
 As it is seen, there is single mode and multimode. The multimode is further then classified as step index and graded index fiber.
 
-**Single mode fiber **
+**Single mode fiber**
 <br>
 
 as the name implies, allow one light ray to travel through it. It is simple, has small diameter and leads to less dispersion as compared to multimode which is discussed below.
