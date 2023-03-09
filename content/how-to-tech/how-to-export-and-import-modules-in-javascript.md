@@ -5,7 +5,7 @@ postdate: March 9, 2023
 description: A simple explanation of how to import and export modules in javascript
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
-image: /images/imgph.webp
+image: /images/codes.webp
 weight: 99
 categorylink: /categories/how-to-tech
 type: posts
