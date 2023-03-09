@@ -175,6 +175,7 @@ blockquote {
   border-radius: 0.35rem;
   font-family: "Muli", sans-serif;
   margin: 2rem auto;
+  max-width: 800px;
 }
 
 ol,
