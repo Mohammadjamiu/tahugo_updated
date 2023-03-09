@@ -1,12 +1,12 @@
 ---
 title: "[Solved] A silica optical fiber with a core diameter large enough to be
-  considered by ray theory analysis has a core refractive index of 1.50 and a
-  cladding refractive index of 1.47."
+  considered by ray theory analysis has a core ..."
 slug: A silica optical fiber with a core diameter large enough to be considered
   by ray theory analysis has a core refractive index of and a cladding
   refractive index
 postdate: February 21, 2023
-description: prob
+description: A silica optical fiber with a core diameter large enough to be
+  considered by ray theory analysis has a core ...
 categorylabel: Networking and Communication
 categories: '["Networking and Communication"]'
 image: /images/imgph.webp
@@ -20,12 +20,11 @@ Google_Ads: true
 ---
 ## Question:
 
-### A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core refractive index of 1.50 and a cladding refractive index of 1.47. 
+### A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core refractive index of 1.50 and a cladding refractive index of 1.47.
 
-### Determine: (a) the critical angle at the core–cladding interface; (b) the NA for the fiber; (c) the acceptance angle in air for the fiber. 
+### Determine: (a) the critical angle at the core–cladding interface; (b) the NA for the fiber; (c) the acceptance angle in air for the fiber.
 
-
-### Solution/Given
+## Solution/Given:
 
 **Here are the given from the question.**
 
@@ -45,14 +44,12 @@ Acceptance angle in air for the fiber (θ<sub>a</sub>) = ?
 
 **(b) The NA can be found by using the equation,** NA = (n<sub>1</sub><sup>2</sup> - n<sub>2</sub><sup>2</sup>)<sup>0.5</sup>
 
-= (<sub>1.5</sub><sup>2</sup> - <sub>1.47</sub><sup>2</sup>)<sup>0.5</sup>
+\= (<sub>1.5</sub><sup>2</sup> - <sub>1.47</sub><sup>2</sup>)<sup>0.5</sup>
 
-= (2.25 − 2.16)<sup>0.5</sup> = 0.3
+\= (2.25 − 2.16)<sup>0.5</sup> = 0.3
 
 **(c) The acceptance angle in air θ<sub>a</sub>**
 
-= θ<sub>a</sub>  = sin<sup>−1</sup>(NA) = sin<sup>−1</sup>(0.30)
+\= θ<sub>a</sub>  = sin<sup>−1</sup>(NA) = sin<sup>−1</sup>(0.30)
 
-= 17.4°
-
-
+\= 17.4°
