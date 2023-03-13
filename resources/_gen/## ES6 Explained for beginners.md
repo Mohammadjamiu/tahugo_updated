@@ -84,7 +84,7 @@ Spread syntax: The spread syntax allows you to "spread" the elements of an array
 
 ```js
 const array = [1, 2, 3];
-const newArray = { ...array, 4,5 }; // { 0: 1, 1: 2, 2: 3 }
+const newArray = { ...array, 4,5 }; // { 0: 1, 1: 2, 2: 3, 4: 4, 5: 5 }
 
 
 ```
