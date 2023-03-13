@@ -19,11 +19,11 @@ Google_Ads: true
 
 Here are some of the key features of ES6 explained for beginners:
 
-**let and const keywords**: let and const are two new ways to declare variables in JavaScript. Variables declared with let are block-scoped, meaning they are only accessible within the block they are declared in, and can be reassigned. Variables declared with const are also block-scoped, but cannot be reassigned.
+**1. let and const keywords**: let and const are two new ways to declare variables in JavaScript. Variables declared with let are block-scoped, meaning they are only accessible within the block they are declared in, and can be reassigned. Variables declared with const are also block-scoped, but cannot be reassigned.
 
 > In the old version of JavaScript, the `Var` keyword is used and it is not block-scoped. i.e it can be accessed from anywhere which can cause bugs in codes.
 
-**Arrow functions:** Arrow functions are a shorthand way of writing functions in JavaScript. They use a => syntax and have a more concise syntax than traditional function declarations.
+**2. Arrow functions:** Arrow functions are a shorthand way of writing functions in JavaScript. They use a => syntax and have a more concise syntax than traditional function declarations.
 
 The traditional way of writing functions
 
@@ -47,7 +47,7 @@ regularFunc();
 // The keyword `function` is removed
 ```
 
-**Template literals:** Template literals are a way of writing strings in JavaScript that allow for variable interpolation and multi-line strings. They use backticks (`) instead of single or double quotes.
+**3. Template literals:** Template literals are a way of writing strings in JavaScript that allow for variable interpolation and multi-line strings. They use backticks (`) instead of single or double quotes.
 
 The traditional way
 
@@ -71,7 +71,7 @@ console.log(`Seven is (a + b)`);
 
 > In the template literal way, no use of `+` and `" "` rather `(` `)`
 
-**Destructuring:** Destructuring is a way of extracting values from arrays or objects and assigning them to variables in a single line of code. This can help simplify code and make it more readable.
+**4. Destructuring:** Destructuring is a way of extracting values from arrays or objects and assigning them to variables in a single line of code. This can help simplify code and make it more readable.
 
 ```js
 const x = [apple, 100, happy];
@@ -95,7 +95,7 @@ const x = [apple, 100, happy];
 const [fruit, number, mood] = x;
 ```
 
-**Spread syntax:** The spread syntax allows you to “spread” the elements of an array or object into another array or object. This can be useful when creating new arrays or objects or passing arguments to functions.
+**5. Spread syntax:** The spread syntax allows you to “spread” the elements of an array or object into another array or object. This can be useful when creating new arrays or objects or passing arguments to functions.
 
 ```js
 const array = [1, 2, 3];
@@ -104,14 +104,14 @@ const newArray = { ...array, 4,5 }; // { 0: 1, 1: 2, 2: 3 }
 
 > Now `newArray` has the value of `array` and thenit own unique value 5,6
 
-**Classes:** ES6 introduced a new syntax for defining classes in JavaScript, making it easier to create and work with object-oriented code.
+**6. Classes:** ES6 introduced a new syntax for defining classes in JavaScript, making it easier to create and work with object-oriented code.
 
-**Promises:** Promises are a way of handling asynchronous code in JavaScript. They allow you to write code that will run when an asynchronous operation is completed, rather than waiting for the operation to finish.
+**7. Promises:** Promises are a way of handling asynchronous code in JavaScript. They allow you to write code that will run when an asynchronous operation is completed, rather than waiting for the operation to finish.
 
-**Modules:** ES6 introduced a standard syntax for creating and importing modules in JavaScript. This allows for better organization and separation of code, and makes it easier to share code between different files and projects.
+**8. Modules:** ES6 introduced a standard syntax for creating and importing modules in JavaScript. This allows for better organization and separation of code, and makes it easier to share code between different files and projects.
 
-**Default parameters:** Default parameters allow you to specify default values for function parameters, which will be used if no value is provided when the function is called.
+**9. Default parameters:** Default parameters allow you to specify default values for function parameters, which will be used if no value is provided when the function is called.
 
-**Rest parameters:** Rest parameters allow you to pass an arbitrary number of arguments to a function as an array. This can be useful when working with functions that take a variable number of arguments.
+**10. Rest parameters:** Rest parameters allow you to pass an arbitrary number of arguments to a function as an array. This can be useful when working with functions that take a variable number of arguments.
 
 These are just a few of the many new features and improvements introduced in ES6. By learning and using these features, you can write cleaner, more efficient, and more readable JavaScript code.
