@@ -1,29 +1,19 @@
 <div class="carousel-container">
-  <h2>Snippet of the Day</h2>
-  <div class="snippet-carousel">
-    <div class="snippet-box snippet-box-active">
-      <img
-        class="img-in-recent-post"
-        src="/images/120ohmsadd.webp"
-        alt=""
-        srcset=""
-      />
-    </div>
-    <div class="snippet-box">
-      <img
-        class="img-in-recent-post"
-        src="/images/3rinp.webp"
-        alt=""
-        srcset=""
-      />
-    </div>
-    <div class="snippet-box">
-      <img
-        class="img-in-recent-post"
-        src="/images/120ohmsadd.webp"
-        alt=""
-        srcset=""
-      />
-    </div>
+  <h2>What’s on Your Mind &#129300;</h2>
+  <p>
+    Is there any abstractive question on your mind? <br />
+    share it and let see if we can help.
+  </p>
+
+  <div class="abstractive__info-form">
+    <form name="submit-to-google-sheet">
+      <textarea
+        name="Abstractive_texts"
+        placeholder="Enter what's on your mind..."
+        required="required"
+      ></textarea>
+      <button type="submit">Submit</button>
+      <span id="msg"></span>
+    </form>
   </div>
 </div>

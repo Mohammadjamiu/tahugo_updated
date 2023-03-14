@@ -2,8 +2,9 @@
 title: Javascript ES6 (ECMAScript 6) Explained for Beginners
 slug: explain es6 in detail
 postdate: March 13, 2023
-description: ES6, or ECMAScript 6, is a version of JavaScript that comes several
-  new features and improvements to the language
+description:
+  ES6, or ECMAScript 6, is a version of JavaScript that comes with several
+  new features and improvements to the language.
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/code-944499_640.webp
@@ -15,6 +16,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
+
 **ES6, or ECMAScript 6**, is a version of JavaScript that comes with several new features and improvements to the language.
 
 Here are some of the key features of ES6 explained for beginners:
@@ -23,7 +25,7 @@ Here are some of the key features of ES6 explained for beginners:
 
 > In the old version of JavaScript, the `Var` keyword is used and it is not block-scoped. i.e it can be accessed from anywhere which can cause bugs in codes.
 
-**2. Arrow functions:** Arrow functions are a shorthand way of writing functions in JavaScript. They use a => syntax and have a more concise syntax than traditional function declarations.
+**2. Arrow functions:** Arrow functions are a shorthand way of writing functions in JavaScript. They use a `=>` syntax and have a more concise syntax than traditional function declarations.
 
 The traditional way of writing functions
 

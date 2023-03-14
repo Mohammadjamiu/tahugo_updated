@@ -3,17 +3,17 @@
   <span class="post-date">{{.Params.postdate}}</span>
   <h1>{{.Params.title}}</h1>
   <div class="post-metadata">
-    <p class="author">By {{ .Params.author}}</p>
-    <p class="dot">&#8226;</p>
-    <p class="weight">{{ .Params.weight }}</p>
-    <p class="dot">&#8226;</p>
+    <p><img src="/images/author_jamiu.jpg" alt=""></p>
+    <p class="author">{{ .Params.author}} </p>
+      <p class="dot">/</p><p class="weight">{{ .Params.weight }} </p>  <p class="dot">/</p>
     <p class="post-category">
       <a class="on-what-topic" href="{{.Params.categorylink}}"
         >{{if isset .Params "categorylabel" }}{{ .Params.categorylabel
         }}{{end}}</a
       >
     </p>
-    <p class="dot">&#8226;</p>
+    <p class="dot">/</p>
+    <!-- <p class="dot">&#8226;</p> -->
     <p class="read-time">
       Read Time &#128352; - {{ $readingTime := .ReadingTime }} {{ print
       $readingTime "mins" | safeHTML }}
@@ -26,7 +26,10 @@
     {{ .Page.TableOfContents }}
   </details> -->
 
-  {{.Content}} {{partial "socialshare" . }}
+  {{.Content}} 
+   
+    {{partial "socialshare" . }}
+     {{partial "snippet" .}} 
   <div class="readmore-recommend">
     <h2 class="related-more">More For You <span style="color:#e4982d; font-size: 3rem; "> &#9732</span></h2>
 
