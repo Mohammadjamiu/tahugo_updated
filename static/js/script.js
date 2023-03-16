@@ -181,5 +181,9 @@ form.addEventListener("submit", (e) => {
       }, 5000);
       form.reset();
     })
-    .catch((error) => console.error("Error!", error.message));
+    .catch((error) =>   {  msg.innerHTML = "Network Failed!";
+  setTimeout(function () {
+    msg.innerHTML = "";
+  }, 5000);
+  form.reset();});
 });

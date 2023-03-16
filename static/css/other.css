@@ -284,17 +284,18 @@ h2.story-block:after {
   min-width: 5rem;
   padding-right: .75rem;
 }
-p img{
-  display: inline-block;
- margin-bottom: -.5rem !important;
-  max-width: 2rem;
-  height: 2rem;
-  border-radius: 50%;
-  margin: 0;
-  padding: 0;
-  width:fit-content;
-  border: 0;
-  margin-right: -.5rem !important;
+.post-metadata .author__img{
+    margin: 0 !important;
+  display: inline-block !important;
+ margin-bottom: -.55rem !important;
+  max-width: 2rem !important;
+  height: 2rem !important;
+  border-radius: 20%;
+
+  padding: 0 !important;
+  width:fit-content !important;
+  border: 0 !important;
+  margin-right: -.3rem !important;
 
 }
 p.dot {
@@ -302,12 +303,12 @@ p.dot {
   font-size: 1.2rem !important;
 }
 .bar-style {
-  background-color: #1b4475;
-  /* background-color: #02142bcb; */
-  height: 0.8rem;
-  width: 8rem;
-  border-radius: 0.35rem;
-
+  background-color: #0f2b4d;
+  /* background-color: #1b4475; */
+  
+  height: 0.6rem;
+  width: 7rem;
+  border-radius: 0.3rem ;
   margin: 2.5rem 0 3.5rem;
 }
 
