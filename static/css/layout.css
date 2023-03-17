@@ -60,6 +60,7 @@
 
   scroll-behavior: smooth;
   scrollbar-width: thin;
+  position: relative;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -423,7 +424,7 @@ header .container {
 
 header nav {
   height: 100vh;
-  position: fixed;
+  position: absolute;
   top: 5.9rem;
   left: 0;
   right: 0;
