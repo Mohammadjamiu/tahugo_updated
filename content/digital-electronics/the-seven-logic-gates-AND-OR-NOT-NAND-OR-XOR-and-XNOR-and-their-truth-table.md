@@ -109,7 +109,7 @@ Therefore, the purpose of an AND gate can be said to check when a certain condit
 
 #### Application of an AND gate
 
-It can be used to make an Enable/Inhibit i.e. to allow the flow or passage of pulse signal from one point to another for a certain amount of time / to prevent the passage of flow of pulse signal at other times).
+It can be used to make an Enable/Inhibit i.e. to allow the flow or passage of pulse signal from one point to another for a certain amount of time to prevent the passage of flow of pulse signal at other times).
 
 The function of an AND gate in this case is to output a HIGH when the clock signal is applied and the enable signal is also HIGH. If the enable is off, then there will be no clock to clock the counter.
 
