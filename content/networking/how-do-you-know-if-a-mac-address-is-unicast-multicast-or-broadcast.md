@@ -45,7 +45,7 @@ But a broadcast MAC address is generic and does not need to be noted using the L
 
    Next step is to use a pattern noted as *8 4 2 1* because if you sum up the value you get 15.
 
-   Now all we need to do is pick 4A which is our target and split it up into 4 and A. from the *8 4 2 1* pattern locate 4 and put one under it (i.e. you are turning it ON) while you have to turn OFF the rest by putting zero. The result will be 0100.
+   Now all we need to do is pick 4A which is our target and split it up into 4 and A. from the *8 4 2 1* pattern locate 4 and put one under it (i.e., you are turning it ON) while you have to turn OFF the rest by putting zero. The result will be 0100.
 
    For A, since it is 10 you need to look for combinations which will result in 10, and I guess it is 8 and 2 then, just turn them ON and switch the rest OFF as shown below, so you will get 1010.
 
@@ -53,9 +53,15 @@ But a broadcast MAC address is generic and does not need to be noted using the L
 2. **08:00:27:EC:10:61**
 
    08 – will yield 0000 1000 and since it is ending with zero then it is a unicast MAC address.
+
+   ![unicast mac address another example](/images/macexample_3.webp "unicast mac address another example")
 3. **54:04:A6:3F:0B:00**
 
    54 – will yield 0101 0100 and since it is also ending with zero then it is a unicast MAC address.
+
+   ![unicast mac address](/images/macexample_2.webp "unicast mac address")
 4. **01:00:5E:00:01:01**
 
    01 – will yield 0000 0001 and since it is ending with one then it is a multicast MAC address.
+
+   ![multicast mac address](/images/macexample_1.webp "multicast mac address")
