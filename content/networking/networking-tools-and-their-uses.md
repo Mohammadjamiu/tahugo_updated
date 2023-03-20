@@ -14,7 +14,9 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-While installing, maintaining, and troubleshooting computer networks, technicians need the right networking gear tools. Each one serves a particular purpose in the networking process and comes in a variety of shapes and sizes, including handheld gadgets, power tools, and larger equipment. 
+While installing, maintaining, and troubleshooting computer networks, technicians need the right networking gear tools. 
+
+Each one serves a particular purpose in the networking process and comes in a variety of shapes and sizes, including handheld gadgets, power tools, and larger equipment. 
 
 ![networking tools](/images/patch-panel-install.webp "networking tools")
 

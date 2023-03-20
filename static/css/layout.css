@@ -136,25 +136,24 @@ body {
 /* Utilities */
 
 h1 {
-    font-family: MuliBold, sans-serif;
-  font-size: 2.6rem;
+  font-family: MuliBold, sans-serif;
+  font-size: 2.65rem;
   margin: 2rem auto;
 }
 
 h2 {
   font-family: MuliBold, sans-serif;
-  font-size: 2.3rem;
+  font-size: 2.35rem;
   margin: 1.5rem auto;
-
 }
 h3 {
   font-family: MuliBold, sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.95rem;
   margin: 1.5rem auto;
 }
 h4 {
   font-family: MuliBold, sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   margin: 1.5rem auto;
 }
 p {
