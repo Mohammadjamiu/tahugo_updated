@@ -959,29 +959,57 @@ img.footer-icon {
     margin-top: 5rem !important;
   }
 
-  .abstractive__info-form textarea,
-  .abstractive__info-form button {
-    max-width: 36rem; margin: auto;
-  }
+.abstractive__info-form form textarea,
+.abstractive__info-form form input[type="email"],
+.abstractive__info-form form button {
+  width: 36rem;
+}
+}
+
+.snippet-container {
+  margin: 3rem 0 4rem;
+  background-color: #0b2444;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center !important;
+  align-items: center !important;
+
+  padding: 2rem 2rem 4rem;
+  border-radius: 1rem;
+  color: #fff;
+}
+
+.snippet__text-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .abstractive__info-form {
   display: flex;
   flex-direction: column;
-  width: 100%;
   justify-content: center;
   align-items: center;
-}
-.abstractive__info-form form {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  justify-content: center;
-  align-items: center;
- 
+  max-width: 100%;
 }
 
-.abstractive__info-form textarea {
+.abstractive__info-form form {
+  max-width: 40rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.abstractive__info-form form textarea,
+.abstractive__info-form form input[type="email"],
+.abstractive__info-form form button {
+
+  width: 32rem;
+}
+
+form textarea {
   width: 100%;
 
   height: 20rem;
@@ -1017,7 +1045,6 @@ img.footer-icon {
 }
 
 .abstractive__info-form input[type="email"] {
-width: 36rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
   height: 4rem;
@@ -1053,26 +1080,13 @@ width: 36rem;
   text-align: center;
 }
 
-.carousel-container {
-  margin: 3rem 0 4rem;
-  background-color: #0b2444;
-  max-width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center !important;
-  align-items: center !important;
-
-  padding: 2rem 2rem 4rem;
-  border-radius: 1rem;
-  color: #fff;
-}
-.carousel-container > h2 {
+.snippet-container .snippet__text-content > h2 {
   font-size: 2.2rem;
   font-family: MuliBold, sans-serif;
   position: relative;
 }
 
-.carousel-container > h2:after {
+.snippet-container .snippet__text-content > h2:after {
   content: "";
   position: absolute;
   bottom: -1.2rem;
@@ -1083,46 +1097,9 @@ width: 36rem;
   background-color: var(--primary-color);
 }
 
-.carousel-container p {
+.snippet-container p {
   font-size: 1.5rem;
   font-family: Muli, sans-serif;
   text-align: center;
   margin: 3.5rem 0;
-}
-
-.snippet-box {
-  position: absolute;
-  border-radius: 1rem;
-  height: 100%;
-  /* width: 30rem; */
-  background-color: var(--body-color);
-  display: none;
-}
-.snippet-box-active {
-  display: block;
-}
-
-.carousel-nav {
-  background-color: transparent;
-  padding: 2rem 0;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  text-align: center;
-  display: block;
-  border-radius: 1rem;
-}
-
-.carousel-btn {
-  background-color: var(--accent-color);
-  height: 1.5rem;
-  width: 1.5rem;
-  display: inline-block;
-  border-radius: 50%;
-  margin: 0 0.5rem;
-  cursor: pointer;
-}
-.carousel-btn-active {
-  background-color: var(--primary-color);
 }
