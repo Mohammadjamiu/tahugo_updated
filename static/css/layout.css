@@ -60,7 +60,6 @@
 
   scroll-behavior: smooth;
   scrollbar-width: thin;
-  position: relative;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -423,7 +422,7 @@ header .container {
 /*  Header Navbar style */
 
 header nav {
-  height: 100vh;
+  height: calc(100vh - 5.9rem);
   position: absolute;
   top: 5.9rem;
   left: 0;
@@ -537,7 +536,6 @@ a.hero-btn {
 /* Main Section */
 
 section.main {
-  /* height: 40vh; */
   margin: 3rem auto;
 }
 
@@ -785,10 +783,12 @@ footer {
   width: 100%;
 
   margin-top: 5rem;
-  position: static;
+  position: static !important;
   bottom: 0;
   left: 0;
   right: 0;
+
+  /* display: none; */
 }
 
 .footer-content-block {
@@ -961,8 +961,7 @@ img.footer-icon {
 
   .abstractive__info-form textarea,
   .abstractive__info-form button {
-    max-width: 36rem;
-    margin: auto;
+    max-width: 36rem; margin: auto;
   }
 }
 
@@ -979,6 +978,7 @@ img.footer-icon {
   width: 100%;
   justify-content: center;
   align-items: center;
+ 
 }
 
 .abstractive__info-form textarea {
@@ -1014,6 +1014,21 @@ img.footer-icon {
 .abstractive__info-form textarea::-webkit-scrollbar-thumb {
   background-color: var(--footer-color-dark);
   border-radius: 1rem;
+}
+
+.abstractive__info-form input[type="email"] {
+width: 36rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  height: 4rem;
+  display: inline;
+  border: 0;
+  padding: 1.2rem 0.8rem;
+  border-radius: 0.6rem !important;
+
+  outline: 0;
+  box-shadow: 0 0.3rem 0.6rem hsla(0, 0%, 0%, 0.1);
+  border: 0.2rem solid var(--primary-color);
 }
 
 .abstractive__info-form button {

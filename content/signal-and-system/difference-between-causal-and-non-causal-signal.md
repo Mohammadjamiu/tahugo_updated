@@ -1,5 +1,5 @@
 ---
-title: Difference(s) Between Causal and Non-Causal Signal
+title: Differences Between Causal and Non-Causal Signal
 slug: difference between causal and non causal signal
 postdate: March 20, 2023
 description: A causal signal is a type of signal that only depends on past or
@@ -33,7 +33,7 @@ In other words, a causal signal can be predicted or can only exist by looking on
 
 ## What is a Non-causal Signal?
 
-**A non-causal signal** is a type of signal that depends not only on the past and present values of time but also on the future.
+**A non-causal signal** is a type of signal that depends not only on the past and present values of time, but also on the future.
 
 In other words, a non-causal signal cannot be predicted by looking only at past and present values of time, but requires knowledge of future values as well.
 
@@ -47,7 +47,7 @@ In other words, a non-causal signal cannot be predicted by looking only at past 
 2. Causal signals can be processed using a wide range of signal processing techniques, such as filtering, convolution, and Fourier analysis.
 3. Causal signals are physically realizable, since they only depend on past and present values of time that can be measured and recorded.
 4. x(t) = e^(-at) * sin(ωt) is a damped sine wave and an example of a causal signal as it only depends on past and present values of time, and will eventually decay to zero as time goes to infinity. In this equation, a is a damping factor, ω is the frequency of the sine wave, and t is time.
-5. x(t) = u(t) is a step function and it is an example of causal signal also as it turns on at t=0 and remains constant thereafter. The function u(t) is the unit step function, which is defined as u(t)=0 for t < 0 and u(t) = 1 for t >= 0.
+5. x(t) = u(t) is a step function, and it is an example of causal signal also, as it turns on at t=0 and remains constant thereafter. The function u(t) is the unit step function, which is defined as u(t)=0 for t < 0 and u(t) = 1 for t >= 0.
 6. Causal signal is a signal that has zero value for all negative time.
 
 
@@ -57,6 +57,6 @@ In other words, a non-causal signal cannot be predicted by looking only at past 
 1. Non-causal signals depend on past, present, and future values of time.
 2. Non-causal signals require more advanced signal processing techniques that can account for future values of time, such as time-reversal methods or prediction algorithms.
 3. Non-causal signals, however, are not physically realizable, as they require knowledge of future events that cannot be measured or recorded in advance.
-4. x(t) = a + bt + ct^2 + dt^3 + et^4 + ... is a signal that can be used to predict stock prices. This signal represents a polynomial function of time, where the coefficients a, b, c, d, e, etc. are determined by fitting the function to past stock prices. While this signal can be used to predict future stock prices, it is non-causal, since it depends on both past and future values of time.
-5. x(t) = sin(ωt) + sin(2ωt) + sin(3ωt) + ...  is a signal that can be used to predict the weather. This signal represents a sum of sine waves with different frequencies, which are determined by analyzing past weather data. While this signal can be used to predict future weather patterns, it is non-causal, since it depends on both past and future values of time.
+4. x(t) = a + bt + ct^2 + dt^3 + et^4 + … is a signal that can be used to predict stock prices. This signal represents a polynomial function of time, where the coefficients a, b, c, d, e, etc. are determined by fitting the function to past stock prices. While this signal can be used to predict future stock prices, it is non-causal, since it depends on both past and future values of time.
+5. x(t) = sin(ωt) + sin(2ωt) + sin(3ωt) + … is a signal that can be used to predict the weather. This signal represents a sum of sine waves with different frequencies, which are determined by analyzing past weather data. While this signal can be used to predict future weather patterns, it is non-causal, since it depends on both past and future values of time.
 6. Non-causal signal has no zero values in both the positive and negative time.
