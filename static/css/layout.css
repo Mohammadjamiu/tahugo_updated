@@ -959,11 +959,11 @@ img.footer-icon {
     margin-top: 5rem !important;
   }
 
-.abstractive__info-form form textarea,
-.abstractive__info-form form input[type="email"],
-.abstractive__info-form form button {
-  width: 36rem;
-}
+  .abstractive__info-form form textarea,
+  .abstractive__info-form form input[type="email"],
+  .abstractive__info-form form button {
+    width: 36rem;
+  }
 }
 
 .snippet-container {
@@ -994,21 +994,18 @@ img.footer-icon {
   justify-content: center;
   align-items: center;
   max-width: 100%;
-  padding: 1rem 1.2rem;
-
+  padding: 1rem 1.5rem;
 }
 
 .abstractive__info-form form {
   max-width: 40rem;
   display: flex;
   flex-direction: column;
-  
 }
 
 .abstractive__info-form form textarea,
 .abstractive__info-form form input[type="email"],
 .abstractive__info-form form button {
-
   width: 30rem;
 }
 
