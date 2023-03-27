@@ -14,6 +14,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
+
 While installing, maintaining, and troubleshooting computer networks, technicians need the right networking gear tools.
 
 Each one serves a particular purpose in the networking process and comes in a variety of shapes and sizes, including handheld gadgets, power tools, and larger equipment.
@@ -36,8 +37,6 @@ Some cable crimpers also have a built-in wire stripper, which allows you to stri
 ## 2/ [Punch-Down Tool](https://amzn.to/3KbhFCj)
 
 **A punch-down tool** is a networking tool used to punch wires into a connection block, keystone jack, or patch panel. It is commonly used in network cabling installations, particularly for terminating twisted-pair cables, such as Category 5e or Category 6 Ethernet cables.
-
-
 
 ![Punch down tool](/images/punch_down_013116_022744_pm-1-.webp "Punch down tool")
 
@@ -131,7 +130,7 @@ Cable ties are commonly used in networking installations to keep cables and wire
 
 ## 13/ [Scissors](https://amzn.to/3KaJ9b1)
 
-Scissors can be a useful tool in networking for cutting cables and wires. They are commonly used in conjunction with wire strippers and cable cutters to trim and shape cables to the desired length. 
+**Scissors** can be a useful tool in networking for cutting cables and wires. They are commonly used in conjunction with wire strippers and cable cutters to trim and shape cables to the desired length.
 
 Scissors with a serrated edge can help prevent the wires from slipping while cutting, and those with a pointed tip can be useful for precise cuts in tight spaces.
 
