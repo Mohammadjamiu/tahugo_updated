@@ -16,7 +16,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-Here are 12 essential tools every engineering student must have. This purpose of these tools is to help engineering student succeed in their coursework, have a nice time studying and be productive.
+Here are 12 essential tools every engineering student must have. The purpose of these tools is to help engineering student succeed in their coursework and career, have a nice time studying and be productive.
 
 ## 1/ Scientific Calculator
 
@@ -29,8 +29,6 @@ Some scientific calculator you might want to consider having:
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B086Z79HXS&asins=B086Z79HXS&linkId=6c12ddb45d18f29cb8e546ba9812989a&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B086Z71GQ3&asins=B086Z71GQ3&linkId=bad2835b498452d2a0ac69d27008e4a4&show_border=true&link_opens_in_new_window=true"></iframe>
-
-
 
 ## 2/ Drawing Tools
 
@@ -81,8 +79,6 @@ This is essential to have because there are some vital documents that need not b
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07CRG94G3&asins=B07CRG94G3&linkId=6b00688a479a12494b4b0243cda997cf&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08JVCQPZL&asins=B08JVCQPZL&linkId=b9cafd545ea851e87349953ac0986d67&show_border=true&link_opens_in_new_window=true"></iframe>
-
-
 
 ## 9/ Portable Charger and Power Bank
 
