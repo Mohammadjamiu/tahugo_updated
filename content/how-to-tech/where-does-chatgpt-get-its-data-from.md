@@ -1,5 +1,5 @@
 ---
-title: Where does ChatGPT get data from?
+title: Where does ChatGPT get its data from?
 slug: where does ChatGPT get data from
 postdate: March 28, 2023
 description: The ChatGPT model, is trained on a large dataset of text data which
@@ -17,6 +17,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
+
 ![chatgpt](/images/ilgmyzin-agfmimwypso-unsplash-1-.webp "chatgpt")
 
 ## Key Terminologies
@@ -31,7 +32,7 @@ AI systems are designed to learn and improve over time, using algorithms that ca
 
 **Machine learning** is a field of artificial intelligence (AI) that focuses on the development of computer algorithms that can learn from and make predictions on data. The goal of machine learning is to create models that can automatically learn patterns in data, and use these patterns to make accurate predictions or decisions without being explicitly programmed.
 
-## Where does ChatGPT get data?
+## Where does ChatGPT get data its data from?
 
 **ChatGPT** is a large language model developed by OpenAI, based on the GPT architecture. GPT stands for “Generative Pre-trained Transformer,” which is a type of neural network architecture used for natural language processing tasks, such as text generation, language translation, and question answering.
 

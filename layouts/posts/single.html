@@ -28,8 +28,14 @@
   </details> -->
 
   {{.Content}} 
-   
+  
     {{partial "socialshare" . }}
+    {{if .Params.Affliate_Links}}
+   <blockquote>
+    <p>Disclosure: Some of the links above are affiliate links. This means that, at zero cost to you, I will earn an affiliate commission if you click through the link and finalize a purchase.</p>
+   </blockquote>
+    {{end}}
+  
      {{partial "snippet" .}} 
   <div class="readmore-recommend">
     <h2 class="related-more">More For You <span style="color:#e4982d; font-size: 3rem; "> &#9732</span></h2>

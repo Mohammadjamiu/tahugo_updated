@@ -77,6 +77,12 @@ collections:
           widget: "string",
           default: Mohammad Jamiu,
         }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
+        }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
       - {
@@ -157,6 +163,12 @@ collections:
           widget: "string",
           default: Mohammad Jamiu,
         }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
+        }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
       - {
@@ -236,6 +248,12 @@ collections:
           widget: "string",
           default: Mohammad Jamiu,
         }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
+        }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
       - {
@@ -313,6 +331,12 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -393,6 +417,12 @@ collections:
           widget: "string",
           default: Mohammad Jamiu,
         }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
+        }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
       - {
@@ -471,6 +501,12 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -551,6 +587,12 @@ collections:
           widget: "string",
           default: Mohammad Jamiu,
         }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
+        }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
       - {
@@ -629,6 +671,12 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -709,6 +757,12 @@ collections:
           widget: "string",
           default: Mohammad Jamiu,
         }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
+        }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
       - {
@@ -787,6 +841,12 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: true,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }

@@ -11,6 +11,7 @@ image: /images/studentessay.webp
 weight: 110
 categorylink: /categories/how-to-tech
 type: posts
+Affliate_Links: true
 author: Mohammad Jamiu
 draft: false
 mathjax: false
