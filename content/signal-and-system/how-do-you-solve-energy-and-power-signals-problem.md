@@ -104,13 +104,13 @@ As you can see when a signal is an energy signal, it will have a finite energy a
 
 <br>
 
-$$E =\lim*{T \rightarrow ∞ } = \int*{-T}^{T} |x(t)|^{2} dt$$
+$$E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt$$
 
 or
 
 $$E =  \int_{-∞}^{∞} |x(t)|^{2} dt$$
 
-$$P = \lim*{ T\rightarrow ∞}\frac{1}{2T} \int*{-T}^{T} |x(t)|^{2} dt$$
+$$P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$$
 <br>
 
 Steps to follow are;
@@ -118,8 +118,8 @@ Steps to follow are;
 1. If you are given a function $x(t)$
 2. Find the modulus or absolute value of the signal $|x(t)|$
 3. Find the integral of the square of the modulus of the signal $\int_{-T}^{T} |x(t)|^{2} dt$
-4. Take the limit as it tends to infinity of the above integral to find what the energy is $E =\lim*{T \rightarrow ∞ } = \int*{-T}^{T} |x(t)|^{2} dt=$
-5. Then proceed to finding what the power is by dividing the energy by the total period - as power is energy over time. $P = \lim*{ T\rightarrow ∞}\frac{1}{2T} \int*{-T}^{T} |x(t)|^{2} dt$
+4. Take the limit as it tends to infinity of the above integral to find what the energy is $E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt=$
+5. Then proceed to finding what the power is by dividing the energy by the total period - as power is energy over time. $P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$
    <br>
 
 ## Energy and power signals - solved examples
@@ -130,7 +130,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $|x(t)| = e^{-at}u(t)$
 
-   $\int*{-T}^{T} |x(t)|^{2} dt = \int*{-T}^{T} |e^{-at}u(t)|^{2}dt$
+   $\int_{-T}^{T} |x(t)|^{2} dt = \int_{-T}^{T} |e^{-at}u(t)|^{2}dt$
 
    $\int_{-T}^{T} e^{-2at}(u(t))^{2}dt$
 
@@ -142,7 +142,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    But also $u(t)$ is always defined for $t>0$
 
-   $\therefore$ The limit changes from $\int*{-T}^{T}$ to $\int*{0}^{T}$ and then $u(t)$ will be eliminated
+   $\therefore$ The limit changes from $\int_{-T}^{T}$ to $\int_{0}^{T}$ and then $u(t)$ will be eliminated
 
    hence, $\int_{0}^{T} e^{-2at}dt$
 
@@ -150,7 +150,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $\frac{e^{-2at}}{-2a}\mid_{0}^{T}$ = $\frac{e^{-2aT}}{-2a}$ - $\frac{e^{-2a(0)}}{-2a}$
 
-   Since $E =\lim*{T \rightarrow ∞ }\int*{-T}^{T} |x(t)|^{2} dt$
+   Since $E =\lim_{T \rightarrow ∞ }\int_{-T}^{T} |x(t)|^{2} dt$
 
    then $E =\lim_{T \rightarrow ∞ } (\frac{e^{-2aT}}{-2a} - \frac{e^{-2a(0)}}{-2a})$ =
 
@@ -177,7 +177,9 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $|x(t)| = 4\sin(2\pi t)$
 
-   $\int*{-T}^{T} |x(t)|^{2} dt = \int*{-T}^{T} |4\sin(2\pi t)|^{2}dt$
+   $\int\_{-T}^{T} |x(t)|^{2} dt = $
+
+   $\int_{-T}^{T} |4\sin(2\pi t)|^{2}dt$
 
    $16\int_{-T}^{T} \sin^{2}(2\pi t)dt$
 
@@ -189,19 +191,19 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $\frac{16}{2}\int_{-T}^{T} {1 - \cos(4 \pi t)} dt$ =
 
-   $8[\int*{-T}^{T} {1} dt - \int*{-T}^{T} {\cos(4 \pi t)} dt]$ =
+   $8[\int_{-T}^{T} {1} dt - \int_{-T}^{T} {\cos(4 \pi t)} dt]$ =
 
    $8\[t - \frac{\sin(4 \pi t)}{4 \pi}] \mid_{-T}^{T}$ =
 
-   $E = lim*{T \rightarrow ∞ } 8\[t - \frac{\sin(4 \pi t)}{4 \pi}] \mid*{-T}^{T}$ =
+   $E = lim_{T \rightarrow ∞ } 8\[t - \frac{\sin(4 \pi t)}{4 \pi}] \mid_{-T}^{T}$ =
 
    Note: The limit of $\sin$ or $\cos$ → to &infin; is zero so $\frac{\sin(4 \pi t)}{4 \pi}$ also will be zero.
 
    So our function is now simpler,
 
-   $E = lim*{T \rightarrow ∞ } 8\[t] \mid*{-T}^{T}$ = $E = lim_{T \rightarrow ∞ } 8\[T - (-T)]$ =
+   $E = lim_{T \rightarrow ∞ } 8\[t] \mid_{-T}^{T}$ = $E = lim_{T \rightarrow ∞ } 8\[T - (-T)]$ =
 
-   $E = lim*{T \rightarrow ∞ } 8\[T + T]$ = $E = lim*{T \rightarrow ∞ } 8\[2T]$ =
+   $E = lim_{T \rightarrow ∞ } 8\[T + T]$ = $E = lim_{T \rightarrow ∞ } 8\[2T]$ =
 
    $E = lim_{T \rightarrow ∞ } 16T$ = ∞
 
