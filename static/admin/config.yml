@@ -82,6 +82,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -168,6 +169,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -253,6 +255,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -337,6 +340,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -422,6 +426,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -507,6 +512,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -592,6 +598,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -677,6 +684,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -762,6 +770,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
@@ -847,6 +856,7 @@ collections:
           name: "Affliate_Links",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }

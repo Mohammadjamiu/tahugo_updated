@@ -28,6 +28,12 @@ So, if you're ready to take your electronics hobby to the next level, here are s
 
 **A multimeter** is an electronics tool that is used for measuring different electrical properties in a circuit, like voltage, current, resistance, continuity, diodes, and transistors. It helps in identifying if a circuit is working properly or not, which can be important in fixing problems. It's an important tool for anyone working with electronics.
 
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07YTZMSG1&asins=B07YTZMSG1&linkId=33168a036fda831089d1c0acd823c93e&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B018EXZO8M&asins=B018EXZO8M&linkId=51aacf88bdac26a3ad7945410d8ff824&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B000JQ4O2U&asins=B000JQ4O2U&linkId=85d08cec1637d7b4f457972eb042af76&show_border=false&link_opens_in_new_window=true"></iframe>
+
 ### 2/ Soldering Wire
 
 **Soldering wire** is a metal alloy that is melted to join electronic components together, creating reliable electrical connections. It is used for soldering components onto printed circuit boards, repairing damaged circuits, wiring connections, and creating custom cables. It is an essential tool in electronics, with different types of soldering wire available for different applications.
@@ -35,6 +41,10 @@ So, if you're ready to take your electronics hobby to the next level, here are s
 ### 3/ Soldering Iron
 
 **A soldering iron** is a tool used to melt and apply solder, which allows electronic components to be joined together to create electrical connections. It's used in electronics for joining wires, soldering components, circuit board repair, and prototyping. It's important to use a soldering iron safely and correctly to avoid damage to electronics or injury to yourself.
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08R3515SF&asins=B08R3515SF&linkId=f13565a75f49d0d33ecb65391c811058&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07Q2B4ZY9&asins=B07Q2B4ZY9&linkId=708d075b6f0b92ab52ce0cd18487cbbd&show_border=false&link_opens_in_new_window=true"></iframe>
 
 ### 4/ Desoldering Pump (Solder Sucker)
 

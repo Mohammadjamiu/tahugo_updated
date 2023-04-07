@@ -978,6 +978,8 @@ img.footer-icon {
   padding: 2rem 2rem 4rem;
   border-radius: 1rem;
   color: #fff;
+
+  display: none;
 }
 
 .snippet__text-content {
