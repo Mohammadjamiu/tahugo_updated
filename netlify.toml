@@ -3,7 +3,6 @@
 [build]
 publish = "public"
 command = hugo
-commandOrigin: config
 
 [context.production.environment]
 HUGO_VERSION = "0.109.0"
