@@ -56,7 +56,7 @@ Know that transmission medium can be wired or wireless. In wired, a cable like c
       
       <guid>/networking/what-is-simplex-half-duplex-and-full-duplex/</guid>
       <description>The communication between two devices can be said to be simplex, half-duplex and full duplex.
-Simplex mode of communication In simplex mode, the direction at which devices communicate is unidirectional i.e. one can only send while the other can receive and not the other way round.
+Simplex mode of communication In simplex mode, the direction at which devices communicate is unidirectional, i.e. one can only send while the other can receive and not the other way round.
 Examples of device that use simplex mode;
 Keyboard Monitor Speaker For example, a keyboard can only send to a monitor, and a monitor can only display the information on its screen.</description>
     </item>
@@ -67,7 +67,7 @@ Keyboard Monitor Speaker For example, a keyboard can only send to a monitor, and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</guid>
-      <description>WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal which can then be transmitted through a common link or channel.
+      <description>WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal, which can then be transmitted through a common link or channel.
 As it is seen that these techniques are used for the combination of multiple signal into just a single signal. So you might ask what is now the difference between these techniques.</description>
     </item>
     
@@ -88,12 +88,11 @@ What is multiplexing Multiplexing involves the use of some techniques in order t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
-      <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022In optical fibers, there are lots of factors that contributes to degradation of transmitted optical power which includes attenuation, dispersion and scattering.
+      <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022 In optical fibers, there are lots of factors that contribute to degradation of transmitted optical power which includes attenuation, dispersion and scattering.
 So in this post I would be discussing what the scattering losses are in optical fiber.
-Scattering losses in optical fiber is categorized into;
-Linear and non-linear scattering loss which are further categorized as below.
-Linear scattering
-Rayleigh scatteringMie scatteringNonlinear scattering</description>
+Scattering losses in optical fiber are categorized into;
+Linear and non-linear scattering loss, which are further categorized as below.
+Linear scattering Nonlinear scattering 1. Linear scattering Linear scattering results in the transfer of some or all of the optical (light) power contained within one propagating mode to a different mode linearly.</description>
     </item>
     
     <item>
@@ -102,9 +101,9 @@ Rayleigh scatteringMie scatteringNonlinear scattering</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-random-process-and-random-variable/</guid>
-      <description>When any experiment or scenario involves probability or the need for probabilistic model then a random process and random variable must be considered.
-what is a random process? Random process can be thought of as the collection of random variables. It can also be defined as a time varying function that assign the outcome of a random event or experiment to each time instant. e.g. a signal.
-what is a random variable?</description>
+      <description>When any experiment or scenario involves probability or the need for a probabilistic model, then a random process and random variable must be considered.
+What is a random process? Random process can be thought of as the collection of random variables. It can also be defined as a time varying function that assign the outcome of a random event or experiment to each time instant. e.g. a signal.
+What is a random variable?</description>
     </item>
     
     <item>
@@ -113,9 +112,9 @@ what is a random variable?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/modes-of-radio-wave-propagation/</guid>
-      <description>In order for electromagnetic (radio) waves to travel, a transmitting antenna and a receiving antenna is required. The path or mode in which the radio waves follow or can travel is termed as radio wave propagation.
+      <description>In order for electromagnetic (radio) waves to travel, a transmitting antenna and a receiving antenna are required. The path or mode in which the radio waves follow or can travel is termed as radio wave propagation.
 There are three (3) modes of radio wave propagation is as follows;
-Ground wave or surface wave propagationSpace wave and line of sight (LOS) propagationSkywave propagationGround wave propagation Ground wave propagation is a mode of propagation in which the electromagnetic wave follows the curvature or contour of the earth.</description>
+Ground wave or surface wave propagation Space wave and line of sight (LOS) propagation Sky wave propagation Ground wave propagation Ground wave propagation is a mode of propagation in which the electromagnetic wave follows the curvature or contour of the earth.</description>
     </item>
     
     <item>
@@ -144,10 +143,10 @@ What is fiber optics cable? Fiber optics cable is a dielectric (or insulated) ma
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/circuit-message-and-packet-switching-techniques-explained/</guid>
-      <description>Switching in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple path.
+      <description>Switching in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple paths.
 This is to ensure that the efficient use of channels is achieved and to make communication and transmission reliable.
 There are three types of switching techniques;
-Circuit switchingMessage switching andPacket switchingWhat is circuit switching? In circuit switching, a dedicated path or route is established between the sender and the receiver.</description>
+Circuit switching Message switching and Packet switching What is circuit switching? In circuit switching, a dedicated path or route is established between the sender and the receiver.</description>
     </item>
     
     <item>
@@ -156,7 +155,7 @@ Circuit switchingMessage switching andPacket switchingWhat is circuit switchi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/the-seven-layers-of-the-osi-model-explained/</guid>
-      <description>OSI Model which is termed as Open System Interconnection is a model which is used for standardizing communication across network or it can be said to be a standard architecture which is used for designing network.
+      <description>OSI Model which is termed as Open System Interconnection is a model which is used for standardizing communication across network, or it can be said to be a standard architecture which is used for designing network.
 It helps to make troubleshooting of network problem easily as it breaks a complex network into several manageable segments. The OSI model consist of 7 layers.
 Even though the OSI model is obsolete, it is still considered to be a reference model to understand how a network works.</description>
     </item>
@@ -168,8 +167,9 @@ Even though the OSI model is obsolete, it is still considered to be a reference 
       
       <guid>/networking/difference-between-unicast-multicast-broadcast-and-anycast/</guid>
       <description>Unicast, Multicast, Broadcast and Anycast are the transmission types or the form in which network traffics can be transported from a single source to another destination.
-Note
-The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipent side over a communication link or channel.Unicast - (One - Cast) Unicast is termed as a one to one transmission in which traffic (consisting of streams of packets) is transmitted from a single source to a single destination device.</description>
+Note:
+The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipient side over a communication link or channel.
+Unicast - (One - Cast) Unicast is termed as a one to one transmission in which traffic (consisting of streams of packets) is transmitted from a single source to a single destination device.</description>
     </item>
     
     <item>
@@ -199,8 +199,8 @@ Why is MAC necessary The reason why a MAC is needed is that when nodes or device
       
       <guid>/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</guid>
       <description>In order to know if a MAC address is a unicast MAC address, multicast MAC address or Broadcast MAC address, you need to understand what a MAC address is.
-We have gone into details about that. But in this we will briefly explained it and also solve some examples.
-A MAC address consist of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A But the main point needed in order to identify if a MAC address is a unicast or multicast is the first byte.</description>
+We have gone into details about that. But in this we will briefly explain it and also solve some examples.
+A MAC address consists of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A But the main point needed in order to identify if a MAC address is a unicast or multicast is the first byte.</description>
     </item>
     
     <item>
@@ -219,8 +219,8 @@ The MAC address resides on the Layer 2 of the OSI model. It consists of 48-bits 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-step-index-and-graded-index-optical-fiber/</guid>
-      <description>One of the major difference between a step index fiber and a graded index fiber is that, a step index fiber has a core with constant refractive index and make a step change from the core - cladding interface while a graded index fiber does not have a core with constant refractive index and it makes a gradual change from the core - cladding interface.
-Difference between step index and graded index fiber Step index fiber It has a constant core refractive index.</description>
+      <description>One of the major difference between a step index fiber and a graded index fiber is that, a step index fiber has a core with constant refractive index and make a step change from the core – cladding interface while a graded index fiber does not have a core with constant refractive index, and it makes a gradual change from the core – cladding interface.
+Difference between step index and graded index fiber s/n Step Index Fiber Graded Index Fiber 1 Refractive Index It has a constant core refractive index.</description>
     </item>
     
     <item>
@@ -260,10 +260,7 @@ A random variable is a variable with set of random numbers.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-tcp-and-udp/</guid>
-      <description>Transmission Control Protocol (TCP) TCP is termed as Transmission Control Protocol
-TCP is connection oriented protocol meaning that before any message will be sent, it must establish a connection with the receiving device.
-It undertakes a three handshake process for the establishment of connection by sending a SYN message and the receiving device replying with an ACK SYN and lastly the sending device will respond with ACK received
-In terms of reliability, TCP is better than UDP and it is also secure than UDP</description>
+      <description>Transmission Control Protocol (TCP) TCP is termed as Transmission Control Protocol TCP is a connection oriented protocol, meaning that before any message will be sent, it must establish a connection with the receiving device. It undertakes a three handshake process for the establishment of connection by sending a SYN message and the receiving device replying with an ACK SYN and lastly the sending device will respond with ACK received In terms of reliability, TCP is better than UDP, and it is also secure than UDP It is slow since there is a lot of control protocol that exist The header size of TCP is 20 bytes It consists of more than eight fields in the message header and some of them are source port, destination port, length, checksum, sequence number, acknowledgement number etc.</description>
     </item>
     
     <item>
@@ -282,10 +279,10 @@ This protocol is used in two stages, one is from the client sending the mail to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-packets-and-frames/</guid>
-      <description>Generally, packets and frames is almost the same but are given different names based on the layer they resides at.
-In order words both packet and frames deals with unit of data called bits.
+      <description>Generally, packets and frames are almost the same but are given different names based on the layer they reside at.
+In order words, both packet and frames deals with a unit of data called bits.
 The way I like to think of these two terms is;
-Packets are streams of bits while Frames are composed of packets.
+Packets are streams of bits, while Frames are composed of packets.
 Difference between packet and frame Packets Frames 1 A packet is composed of streams of bits packed to form a packet A frame is composed of packets of (bits) packed into frames 2 A packet resides on layer 3 which is the network layer of the OSI model A Frame resides on layer 2 which is the data link layer of the OSI model 3 The packet which can be found on the network layer is the IP packet which consist of both source and destination address The Frame which can be found on the data link layer is the Ethernet frame which consist of both source and destination MAC address </description>
     </item>
     
@@ -295,8 +292,8 @@ Difference between packet and frame Packets Frames 1 A packet is composed of str
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-sata-and-esata/</guid>
-      <description>Both SATA and eSATA are connectors which are used for connecting storage devices. SATA is used to connect internal storage devices while eSATA is used to connect external devices.
-Difference between SATA and eSATA SATA eSATA 1 SATA stand for Serial Advanced Technology Attachment eSATA stands for external Serial Advanced Technology Attachment 2 SATA is a connector which is used to connect internal storage devices eSATA is a connector which is used to connect external storage devices 3 SATA has a cable length of 1m or 3.</description>
+      <description>Both SATA and eSATA are connectors which are used for connecting storage devices. SATA is used to connect internal storage devices, while eSATA is used to connect external devices.
+Difference between SATA and eSATA SATA eSATA 1 SATA stand for Serial Advanced Technology Attachment eSATA stands for external Serial Advanced Technology Attachment 2 SATA is a connector which is used to connect internal storage devices eSATA is a connector which is used to connect external storage devices 3 SATA has a cable length of 1 m or 3.</description>
     </item>
     
     <item>
@@ -357,9 +354,31 @@ What is DNS? DNS stands for Domain Name System. It is a system which is used to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/digital-transmission-in-computer-networks/</guid>
-      <description>In a computer networks, data or information are transferred from one device across a network to another in form of a signal.
+      <description>In a computer networks, data or information are transferred from one device across a network to another in the form of a signal.
 Data such as human voice, audio, video, text and number to name a few needs to be converted to either an analog signal or digital signal.
-In this tutorial we would focus specifically on how to convert a digital data to a digital signal and the techniques used.</description>
+In this tutorial, we would focus specifically on how to convert a digital data to a digital signal and the techniques used.</description>
+    </item>
+    
+    <item>
+      <title>[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ...</title>
+      <link>/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</guid>
+      <description>Question: A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core refractive index of 1.50 and a cladding refractive index of 1.47. Determine: (a) the critical angle at the core–cladding interface; (b) the NA for the fiber; (c) the acceptance angle in air for the fiber. Solution/Given: Here are the given from the question.
+Core refractive index (n1) = 1.50</description>
+    </item>
+    
+    <item>
+      <title>11&#43; Networking Tools and Their Uses</title>
+      <link>/networking/networking-tools-and-their-uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/networking/networking-tools-and-their-uses/</guid>
+      <description>While installing, maintaining, and troubleshooting computer networks, technicians need the right networking gear tools.
+Each one serves a particular purpose in the networking process and comes in a variety of shapes and sizes, including handheld gadgets, power tools, and larger equipment.
+Lists of Networking Tools and Their Uses Here are some lists of commonly used networking tools and their uses:
+1/ Cable Crimper A cable crimper, also called a wire crimper, is a hand-held tool used to join two or more wires together by crimping a metal connector onto the ends of the wires.</description>
     </item>
     
   </channel>

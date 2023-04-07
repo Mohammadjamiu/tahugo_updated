@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Tooabstractive</title>
+    <title>Tooabstractive</title>
     <link>/</link>
-    <description>Recent content in Home on Tooabstractive</description>
+    <description>Recent content on Tooabstractive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jan 2023 23:43:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,29 @@ The case here is that don’t just learn circuit analysis techniques or concepts
     </item>
     
     <item>
-      <title> Crammer&#39;s rule - the technique to simplify circuit analysis equations</title>
+      <title>[PDF] Digital Fundamentals 11th Edition by Thomas L. Floyd</title>
+      <link>/ebooks/ee-files/digital-fundamentals-11th-edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/digital-fundamentals-11th-edition/</guid>
+      <description>Book Content CHAPTER 1 Introductory Concepts
+CHAPTER 2 Number Systems, Operations, and Codes
+CHAPTER 3 Logic Gates
+CHAPTER 4 Boolean Algebra and Logic Simplification
+CHAPTER 5 Combinational Logic Analysis
+CHAPTER 6 Functions of Combinational Logic
+CHAPTER 7 Latches, Flip-Flops, and Timers
+CHAPTER 8 Shift Registers
+CHAPTER 9 Counters
+CHAPTER 10 Programmable Logic
+CHAPTER 11 Data Storage
+CHAPTER 12 Signal Conversion and Processing
+CHAPTER 13 Data Transmission
+CHAPTER 14 Data Processing and Control</description>
+    </item>
+    
+    <item>
+      <title>Crammer&#39;s rule - the technique to simplify circuit analysis equations</title>
       <link>/funmaths/what-is-crammers-rule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -39,6 +61,26 @@ Why do we study circuit analysis? If you are an electronics or electrical engine
     </item>
     
     <item>
+      <title>[PDF] Analog and Digital Electronics By U.A Bakshi A.P Godse</title>
+      <link>/ebooks/ee-files/analog-and-digital-electronics-u-a-bakshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/analog-and-digital-electronics-u-a-bakshi/</guid>
+      <description>Book content Chapter 1 Special Diodes
+Chapter 2 Frequency Response
+Chapter 3 Feedback Amplifier
+Chapter 4 Oscillator
+Chapter 5 Combinational Logic Circuits
+Chapter 6 Sequeential Logic Circuits
+Chapter 7 Shift Registers
+Chapter 8 Counters
+Chapter 9 OP-amp Application
+Chapter 10 Voltage Regulators
+Chapter 11 Memories
+Book Description Author&amp;rsquo;s Name U.A Bashi and A.P Godse Format PDF File Size 21 MB </description>
+    </item>
+    
+    <item>
       <title>Resources to help you learn and understand Electromagnetics field theory from scratch</title>
       <link>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,6 +97,23 @@ I will advise you not to limit your learning journey to these resources only but
       
       <guid>/circuit-analysis/what-is-voltage-current-and-resistance/</guid>
       <description>Content SummaryCircuits are fascinating and can be found in our smartphones,computer, even the PS5 gaming pad and much more.A circuit or electric circuit is a close loop that allows the flowof electricity.The interconnections of circuit components without forming aclosed loop is called electrical network.Voltage is the pressure or force applied to push current through abranch in a circuit.Current is said to be the flow of electrons.</description>
+    </item>
+    
+    <item>
+      <title>[PDF] Circuit Theory by U.A Bakshi and A.V Bakshi</title>
+      <link>/ebooks/ee-files/circuit-theory-by-u-a-bakshi-pdf-download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/circuit-theory-by-u-a-bakshi-pdf-download/</guid>
+      <description>Book Contents Chapter 1 Basic Circuit Analysis and Network Reduction Techniques
+Chapter 2 Mesh and Node Analysis for A.C and D.C Circuits
+Chapter 3 Network Theorem for A.C and D.C Circuits
+Chapter 4 Resonance
+Chapter 5 Coupled Circuits
+Chapter 6 Transient Response for D.C Circuits
+Chapter 7 Laplace Transform in Network Analysis
+Chapter 8 Analysing Three Phase Circuits
+Book Description Author&amp;rsquo;s Name U.A Bakshi and A.V Bakshi Format PDF File Size 8 MB </description>
     </item>
     
     <item>
@@ -107,6 +166,28 @@ Why is electromagnetics field theory difficult to learn? It is difficult to lear
     </item>
     
     <item>
+      <title>[PDF] Network Analysis and Synthesis by Ravish R. Singh</title>
+      <link>/ebooks/ee-files/network-analysis-and-synthesis-by-ravish-singh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/network-analysis-and-synthesis-by-ravish-singh/</guid>
+      <description>Book Contents Chapter 1 Basic Network Concept
+Chapter 2 Elementary Network Theorems
+Chapter 3 Network Theorems (Application To dc Networks)
+Chapter 4 Single-Phase ac Circuits
+Chapter 5 Resonance
+Chapter 6 Network Theorems (Application To ac Circuits)
+Chapter 7 Coupled Circuits
+Chapter 8 Three-Phase Circuits
+Chapter 9 Network Toplogy
+Chapter 10 Transient Analysis
+Chapter 11 Laplace Transform and its Application
+Chapter 12 Network Functions
+Chapter 13 Two-Port Networks
+Chapter 14 Fourier Analysis</description>
+    </item>
+    
+    <item>
       <title>What Is Ohms Law In Simple Terms? And Why Is It Useful</title>
       <link>/circuit-analysis/what-is-ohms-law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -122,6 +203,30 @@ Why is electromagnetics field theory difficult to learn? It is difficult to lear
       
       <guid>/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</guid>
       <description>Content SummaryResistors in series are connected head to tail.A resistor in series allows the same current to flow throughthem.But different voltage will bedropped across them if their resistance value is different and also if the resistors are of the same value then same voltage will be dropped across them.Resistors in parallel are connected head to head and tail totail.A resistor in parallel have same voltage but different current will beflowing through each resistor depending on their resistance value.</description>
+    </item>
+    
+    <item>
+      <title>[PDF] The Art of Electronics By Paul Horowitz And Winfield Hill</title>
+      <link>/ebooks/ee-files/the-art-of-electronics-paul-horowitz-pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/the-art-of-electronics-paul-horowitz-pdf/</guid>
+      <description>Book Contents Chapter 1 Foundations
+Chapter 2 Bipolar Transistors
+Chapter 3 Field-Effect Transistors
+Chapter 4 Operational Amplifiers
+Chapter 5 Precision Circuits
+Chapter 6 Filters
+Chapter 7 Ocillators and Timers
+Chapter 8 Low-Noise Techniques
+Chapter 9 Voltage Regulation and Power Conversion
+Chapter 10 Digital Logic
+Chapter 11 Programmable Logic Devices
+Chapter 12 Logic Interfacing
+Chapter 13 Digital meets Analog
+Chapter 14 Computers, Controllers, and Data Links
+Chapter 15 Microcontrollers
+Book Description Author&amp;rsquo;s Name Paul Horowitz and Winfield Hill Format PDF File Size 29 MB </description>
     </item>
     
     <item>
@@ -166,6 +271,23 @@ What type of multimeter should I buy? I would say, as a beginner, all you need i
     </item>
     
     <item>
+      <title>[PDF] Electronics Engineering By U.A Bakshi and A.P Godse</title>
+      <link>/ebooks/ee-files/electronics-engineering-by-u.a-bakshi-and-a.p-godse-pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/electronics-engineering-by-u.a-bakshi-and-a.p-godse-pdf/</guid>
+      <description>Book Contents Chapter 1 Semiconductor Diodes and Applications
+Chapter 2 Zener Diode and Applications
+Chapter 3 Bipolar Junction Transistor
+Chapter 4 Transistor Amplifier
+Chapter 5 Field Effect Transistor
+Chapter 6 Operational Amplifiers
+Chapter 7 Switching Theory and Logic Design
+Chapter 8 Electronics Instrument
+Book Description Author&amp;rsquo;s Name U.A Bakshi and A.P Godse Format PDF File Size 28.6 MB </description>
+    </item>
+    
+    <item>
       <title>Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</title>
       <link>/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -185,6 +307,26 @@ Rather, we need an optimized technique which still is based on ohm&amp;rsquo;s l
       <description>POP3 and IMAP are the two protocols of message access protocols. They are used in retrieving messages from the server to the client&amp;rsquo;s end.
 There are differences between POP3 and IMAP even though they are used for receiving emails only and that’s what we are going to discuss below.
 What is POP3? POP3 stands for Post Office Protocol, version 3. it is a simple protocol with limited functionality which is used in retrieving emails over the mail server.</description>
+    </item>
+    
+    <item>
+      <title>[PDF] Engineering Electromagnetics 8th Edition by William Hayt</title>
+      <link>/ebooks/ee-files/engineering-electromagnetics-8e-by-william-hayt-pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/engineering-electromagnetics-8e-by-william-hayt-pdf/</guid>
+      <description>Book Contents Chapter 1 Vector Analysis
+Chapter 2 Coulomb’s Law and Electric Field Intensity
+Chapter 3 Electric Flux Density, Gauss’s Law, and Divergence
+Chapter 4 Energy and Potential
+Chapter 5 Conductors and Dielectrics
+Chapter 6 Capacitance
+Chapter 7 The Steady Magnetic Field
+Chapter 8 Magnetic Forces, Materials, and Inductance
+Chapter 9 Time-Varying Fields and Maxwell’s Equations
+Chapter 10 Transmission Lines
+Chapter 11 The Uniform Plane Wave
+Chapter 12 Plane Wave Reflection and Dispersion</description>
     </item>
     
     <item>
@@ -210,6 +352,15 @@ As the theorem states that;
 ‘any two terminals of a network can be replaced by an equivalent voltage source and an equivalent series resistance.
 The voltage source is the voltage across the two terminals with load, if any, removed.
 The series resistance is the resistance of the network measured between two terminals with load removed and constant voltage source being replaced by its internal resistance (or if it is not given with zero resistance, i.</description>
+    </item>
+    
+    <item>
+      <title>[PDF] Electrical And Electronics Engineering By U.A Bakshi and V.U Bakshi</title>
+      <link>/ebooks/ee-files/electrical-and-electronics-engineering-by-u-a-bakshi-pdf-download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ebooks/ee-files/electrical-and-electronics-engineering-by-u-a-bakshi-pdf-download/</guid>
+      <description>Book Contents Book Description Author&amp;rsquo;s Name U.A Bakshi and V.U Bakshi Format PDF File Size 23 MB </description>
     </item>
     
     <item>
@@ -289,7 +440,7 @@ In other words, it main purpose or function in a circuit is to control current f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/signal-and-system/what-is-a-signal-and-its-types/</guid>
-      <description>what is a signal? A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
+      <description>What is a signal? A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
 So anything that carries information is considered a signal e.g.
 The temperature of a room, Voltage and current in an electronic circuit Digital images, video, or audio Sounds or speeches etc. Position, speed, acceleration, or velocity of an object A stock market index The flow rate of fluid etc.</description>
     </item>
@@ -324,8 +475,8 @@ Know that the frequency of human voice is around the range of 20hz to 20Khz whic
       <description>The major reason why we can communicate wirelessly is through the adventure of radio waves.
 What are radio waves? Radio waves are part of the electromagnetic spectrum family with frequencies in the range of 3Khz to 300Ghz which consist of radio frequency RF waves and microwaves.
 It can also be defined as an electromagnetic wave with an electric field (E) and magnetic field (H) components.
-Know
-- **Radio waves** are called wireless wave because the word &#34;</description>
+Know:
+Radio waves are called wireless wave because the word &amp;ldquo;radio&amp;rdquo; is used to signify &amp;ldquo;wireless communication&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -337,7 +488,7 @@ Know
       <description>The following are the basic operations that can be done on discrete time signal
 Addition Subtraction Multiplication Amplitude scaling Time shifting Time reversal Time scaling The first 4 operations are performed along the y or value axis while the last 3 are performed along the x or time axis.
 but before solving problems on it, let’s discuss briefly on what discrete-time signal mean.
-what is discrete-time signals or DTS? Discrete-time signalsrefers to signals that are defined only at discrete or finite time.</description>
+what is discrete-time signals or DTS? Discrete-time signals refers to signals that are defined only at discrete or finite time.</description>
     </item>
     
     <item>
@@ -393,9 +544,22 @@ The conversion from digital to analog is possible with modulation.</description>
       
       <guid>/networking/what-is-simplex-half-duplex-and-full-duplex/</guid>
       <description>The communication between two devices can be said to be simplex, half-duplex and full duplex.
-Simplex mode of communication In simplex mode, the direction at which devices communicate is unidirectional i.e. one can only send while the other can receive and not the other way round.
+Simplex mode of communication In simplex mode, the direction at which devices communicate is unidirectional, i.e. one can only send while the other can receive and not the other way round.
 Examples of device that use simplex mode;
 Keyboard Monitor Speaker For example, a keyboard can only send to a monitor, and a monitor can only display the information on its screen.</description>
+    </item>
+    
+    <item>
+      <title>19 Steps for Learning Electronics as a Beginner (2022)</title>
+      <link>/electronics/19-steps-for-learning-electronics-as-a-beginner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/19-steps-for-learning-electronics-as-a-beginner/</guid>
+      <description>Learning electronics is fun because you can think of something and design or make it real. But where the problem lies is not knowing the route to take or what to learn.
+So in this posts I will be highlighting how you can learn electronics as a beginner.
+Start with the fundamentals Learn what a circuit is
+Learn what an electricity is and also how does it flow
+Understand the concept of voltage, current and resistance and the law that governs them which is Ohms law</description>
     </item>
     
     <item>
@@ -426,7 +590,7 @@ But to understand what electricity is and how it works on a deeper level, we nee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</guid>
-      <description>WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal which can then be transmitted through a common link or channel.
+      <description>WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal, which can then be transmitted through a common link or channel.
 As it is seen that these techniques are used for the combination of multiple signal into just a single signal. So you might ask what is now the difference between these techniques.</description>
     </item>
     
@@ -447,12 +611,11 @@ What is multiplexing Multiplexing involves the use of some techniques in order t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
-      <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022In optical fibers, there are lots of factors that contributes to degradation of transmitted optical power which includes attenuation, dispersion and scattering.
+      <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022 In optical fibers, there are lots of factors that contribute to degradation of transmitted optical power which includes attenuation, dispersion and scattering.
 So in this post I would be discussing what the scattering losses are in optical fiber.
-Scattering losses in optical fiber is categorized into;
-Linear and non-linear scattering loss which are further categorized as below.
-Linear scattering
-Rayleigh scatteringMie scatteringNonlinear scattering</description>
+Scattering losses in optical fiber are categorized into;
+Linear and non-linear scattering loss, which are further categorized as below.
+Linear scattering Nonlinear scattering 1. Linear scattering Linear scattering results in the transfer of some or all of the optical (light) power contained within one propagating mode to a different mode linearly.</description>
     </item>
     
     <item>
@@ -471,7 +634,8 @@ But to carry this baseband signal over a long distance as it has a low frequency
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
-      <description>** Programmable logic array (PLA) and programmable array logic (PAL)** are generally known as programmable logic devices (PLDs) that have programmable AND array but with a difference in which one has additional fixed OR array while the other has an additional programmable OR array. But what is a programmable logic device?
+      <description>Programmable logic array (PLA) and programmable array logic (PAL) are generally known as programmable logic devices (PLDs) that have programmable AND array, but with a difference in which one has an additional fixed OR array while the other has an additional programmable OR array.
+But what is a programmable logic device?
 Programmable logic device (PLD) can be thought of as a blank slate device that can be programmed or reprogrammed depending on the type to perform a logical operation or function.</description>
     </item>
     
@@ -481,9 +645,9 @@ Programmable logic device (PLD) can be thought of as a blank slate device that c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-random-process-and-random-variable/</guid>
-      <description>When any experiment or scenario involves probability or the need for probabilistic model then a random process and random variable must be considered.
-what is a random process? Random process can be thought of as the collection of random variables. It can also be defined as a time varying function that assign the outcome of a random event or experiment to each time instant. e.g. a signal.
-what is a random variable?</description>
+      <description>When any experiment or scenario involves probability or the need for a probabilistic model, then a random process and random variable must be considered.
+What is a random process? Random process can be thought of as the collection of random variables. It can also be defined as a time varying function that assign the outcome of a random event or experiment to each time instant. e.g. a signal.
+What is a random variable?</description>
     </item>
     
     <item>
@@ -492,9 +656,9 @@ what is a random variable?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/modes-of-radio-wave-propagation/</guid>
-      <description>In order for electromagnetic (radio) waves to travel, a transmitting antenna and a receiving antenna is required. The path or mode in which the radio waves follow or can travel is termed as radio wave propagation.
+      <description>In order for electromagnetic (radio) waves to travel, a transmitting antenna and a receiving antenna are required. The path or mode in which the radio waves follow or can travel is termed as radio wave propagation.
 There are three (3) modes of radio wave propagation is as follows;
-Ground wave or surface wave propagationSpace wave and line of sight (LOS) propagationSkywave propagationGround wave propagation Ground wave propagation is a mode of propagation in which the electromagnetic wave follows the curvature or contour of the earth.</description>
+Ground wave or surface wave propagation Space wave and line of sight (LOS) propagation Sky wave propagation Ground wave propagation Ground wave propagation is a mode of propagation in which the electromagnetic wave follows the curvature or contour of the earth.</description>
     </item>
     
     <item>
@@ -523,10 +687,10 @@ What is fiber optics cable? Fiber optics cable is a dielectric (or insulated) ma
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/circuit-message-and-packet-switching-techniques-explained/</guid>
-      <description>Switching in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple path.
+      <description>Switching in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple paths.
 This is to ensure that the efficient use of channels is achieved and to make communication and transmission reliable.
 There are three types of switching techniques;
-Circuit switchingMessage switching andPacket switchingWhat is circuit switching? In circuit switching, a dedicated path or route is established between the sender and the receiver.</description>
+Circuit switching Message switching and Packet switching What is circuit switching? In circuit switching, a dedicated path or route is established between the sender and the receiver.</description>
     </item>
     
     <item>
@@ -535,7 +699,7 @@ Circuit switchingMessage switching andPacket switchingWhat is circuit switchi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/the-seven-layers-of-the-osi-model-explained/</guid>
-      <description>OSI Model which is termed as Open System Interconnection is a model which is used for standardizing communication across network or it can be said to be a standard architecture which is used for designing network.
+      <description>OSI Model which is termed as Open System Interconnection is a model which is used for standardizing communication across network, or it can be said to be a standard architecture which is used for designing network.
 It helps to make troubleshooting of network problem easily as it breaks a complex network into several manageable segments. The OSI model consist of 7 layers.
 Even though the OSI model is obsolete, it is still considered to be a reference model to understand how a network works.</description>
     </item>
@@ -547,8 +711,9 @@ Even though the OSI model is obsolete, it is still considered to be a reference 
       
       <guid>/networking/difference-between-unicast-multicast-broadcast-and-anycast/</guid>
       <description>Unicast, Multicast, Broadcast and Anycast are the transmission types or the form in which network traffics can be transported from a single source to another destination.
-Note
-The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipent side over a communication link or channel.Unicast - (One - Cast) Unicast is termed as a one to one transmission in which traffic (consisting of streams of packets) is transmitted from a single source to a single destination device.</description>
+Note:
+The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipient side over a communication link or channel.
+Unicast - (One - Cast) Unicast is termed as a one to one transmission in which traffic (consisting of streams of packets) is transmitted from a single source to a single destination device.</description>
     </item>
     
     <item>
@@ -588,8 +753,8 @@ Why is MAC necessary The reason why a MAC is needed is that when nodes or device
       
       <guid>/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</guid>
       <description>In order to know if a MAC address is a unicast MAC address, multicast MAC address or Broadcast MAC address, you need to understand what a MAC address is.
-We have gone into details about that. But in this we will briefly explained it and also solve some examples.
-A MAC address consist of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A But the main point needed in order to identify if a MAC address is a unicast or multicast is the first byte.</description>
+We have gone into details about that. But in this we will briefly explain it and also solve some examples.
+A MAC address consists of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A But the main point needed in order to identify if a MAC address is a unicast or multicast is the first byte.</description>
     </item>
     
     <item>
@@ -649,8 +814,8 @@ A memory system consists of several types of memory, such as registers (which is
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-step-index-and-graded-index-optical-fiber/</guid>
-      <description>One of the major difference between a step index fiber and a graded index fiber is that, a step index fiber has a core with constant refractive index and make a step change from the core - cladding interface while a graded index fiber does not have a core with constant refractive index and it makes a gradual change from the core - cladding interface.
-Difference between step index and graded index fiber Step index fiber It has a constant core refractive index.</description>
+      <description>One of the major difference between a step index fiber and a graded index fiber is that, a step index fiber has a core with constant refractive index and make a step change from the core – cladding interface while a graded index fiber does not have a core with constant refractive index, and it makes a gradual change from the core – cladding interface.
+Difference between step index and graded index fiber s/n Step Index Fiber Graded Index Fiber 1 Refractive Index It has a constant core refractive index.</description>
     </item>
     
     <item>
@@ -695,6 +860,17 @@ It has an infinite energy</description>
     </item>
     
     <item>
+      <title>What are Dirichlet conditions for existence of Fourier series?</title>
+      <link>/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/</guid>
+      <description>It is said that periodic signals can be analyzed using Fourier series, while non-periodic signals can be analyzed using Fourier transform.
+But not all periodic signals will have a Fourier series expansion, hence here must be conditions a periodic signal have to meet for Fourier series to be used.
+These conditions are defined by the mathematician Dirichlet, hence it is named Dirichlet conditions or the conditions for existence of Fourier series.</description>
+    </item>
+    
+    <item>
       <title>What Is a Random Process With Examples?</title>
       <link>/networking/what-is-a-random-process-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -711,10 +887,7 @@ A random variable is a variable with set of random numbers.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-tcp-and-udp/</guid>
-      <description>Transmission Control Protocol (TCP) TCP is termed as Transmission Control Protocol
-TCP is connection oriented protocol meaning that before any message will be sent, it must establish a connection with the receiving device.
-It undertakes a three handshake process for the establishment of connection by sending a SYN message and the receiving device replying with an ACK SYN and lastly the sending device will respond with ACK received
-In terms of reliability, TCP is better than UDP and it is also secure than UDP</description>
+      <description>Transmission Control Protocol (TCP) TCP is termed as Transmission Control Protocol TCP is a connection oriented protocol, meaning that before any message will be sent, it must establish a connection with the receiving device. It undertakes a three handshake process for the establishment of connection by sending a SYN message and the receiving device replying with an ACK SYN and lastly the sending device will respond with ACK received In terms of reliability, TCP is better than UDP, and it is also secure than UDP It is slow since there is a lot of control protocol that exist The header size of TCP is 20 bytes It consists of more than eight fields in the message header and some of them are source port, destination port, length, checksum, sequence number, acknowledgement number etc.</description>
     </item>
     
     <item>
@@ -743,10 +916,10 @@ This protocol is used in two stages, one is from the client sending the mail to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-packets-and-frames/</guid>
-      <description>Generally, packets and frames is almost the same but are given different names based on the layer they resides at.
-In order words both packet and frames deals with unit of data called bits.
+      <description>Generally, packets and frames are almost the same but are given different names based on the layer they reside at.
+In order words, both packet and frames deals with a unit of data called bits.
 The way I like to think of these two terms is;
-Packets are streams of bits while Frames are composed of packets.
+Packets are streams of bits, while Frames are composed of packets.
 Difference between packet and frame Packets Frames 1 A packet is composed of streams of bits packed to form a packet A frame is composed of packets of (bits) packed into frames 2 A packet resides on layer 3 which is the network layer of the OSI model A Frame resides on layer 2 which is the data link layer of the OSI model 3 The packet which can be found on the network layer is the IP packet which consist of both source and destination address The Frame which can be found on the data link layer is the Ethernet frame which consist of both source and destination MAC address </description>
     </item>
     
@@ -756,8 +929,8 @@ Difference between packet and frame Packets Frames 1 A packet is composed of str
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/difference-between-sata-and-esata/</guid>
-      <description>Both SATA and eSATA are connectors which are used for connecting storage devices. SATA is used to connect internal storage devices while eSATA is used to connect external devices.
-Difference between SATA and eSATA SATA eSATA 1 SATA stand for Serial Advanced Technology Attachment eSATA stands for external Serial Advanced Technology Attachment 2 SATA is a connector which is used to connect internal storage devices eSATA is a connector which is used to connect external storage devices 3 SATA has a cable length of 1m or 3.</description>
+      <description>Both SATA and eSATA are connectors which are used for connecting storage devices. SATA is used to connect internal storage devices, while eSATA is used to connect external devices.
+Difference between SATA and eSATA SATA eSATA 1 SATA stand for Serial Advanced Technology Attachment eSATA stands for external Serial Advanced Technology Attachment 2 SATA is a connector which is used to connect internal storage devices eSATA is a connector which is used to connect external storage devices 3 SATA has a cable length of 1 m or 3.</description>
     </item>
     
     <item>
@@ -776,11 +949,11 @@ What is a network protocol or protocol? A protocol is defined as a set of rules 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/how-to-create-barcode-in-word/</guid>
-      <description>Barcodes are sometimes referred to as QR codes and it is a graphics with code embedded in it.
-The code in it can represent a link to a website, a word document, an excel file, a power point document, pdf and what have you.
-In this how-to guide I will show you how to create a Barcode or QR code in Microsoft word.
-Step 1: Open a word document
-Step 2: On the tab menu locate insert tab</description>
+      <description>Barcodes are sometimes referred to as QR codes, and it is a graphics with code embedded in it.
+The code in it can represent a link to a website, a Word document, an Excel file, a PowerPoint document, PDF and what have you.
+In this how-to guide, I will show you how to create a Barcode or QR code in Microsoft Word.
+Step 1: Open a Word document
+Step 2: On the tab menu, locate insert tab</description>
     </item>
     
     <item>
@@ -789,9 +962,9 @@ Step 2: On the tab menu locate insert tab</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</guid>
-      <description>There are just 3 steps to create a QR code for a website or in page in Microsoft edge.
+      <description>There are just 3 steps to create a QR code for a website or in page in Microsoft Edge.
 Step 1 : Browse any website you like to convert to a QR code.
-Step 2 : On the website, right click on the page and go to &amp;ldquo;Create QR cpde for this page&amp;rdquo;.
+Step 2 : On the website, right-click on the page and go to &amp;ldquo;Create QR code for this page&amp;rdquo;.
 Step 3 : Lastly, download or scan the QR code. Apart from creating a QR code for the page you are currently on, you can edit the URL before downloading and put a new URL of your choice and then download to your device or scan.</description>
     </item>
     
@@ -856,9 +1029,9 @@ How does ARP works in networking? Let’s use the figure below which shows four 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</guid>
-      <description>In this post we would be discussing on some free best graphic design software or to to use for design graphing as a graphic design.
-Free Graphics Design Software Inkscape is an open source vector based illustrator it is a free alternative to adobe illustrator and offer great feature which can be used to design simple to complex design.
-Some design ideas can be done on Inkscape are business card design, eBook cover design, design of mandala art with it great flexibility, logo design, icon design and also for website mockup.</description>
+      <description>In this post, we would be discussing on some free best graphic design software to use for design graphing as a graphic design.
+Free Graphics Design Software Inkscape is an open source vector based illustrator it is a free alternative to Adobe Illustrator and offer great feature which can be used to design simple to complex design.
+Some design ideas can be done on Inkscape are business card design, e-book cover design, design of mandala art with it great flexibility, logo design, icon design and also for website mockup.</description>
     </item>
     
     <item>
@@ -889,21 +1062,9 @@ Signals in time domain are measured in seconds or s.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/digital-transmission-in-computer-networks/</guid>
-      <description>In a computer networks, data or information are transferred from one device across a network to another in form of a signal.
+      <description>In a computer networks, data or information are transferred from one device across a network to another in the form of a signal.
 Data such as human voice, audio, video, text and number to name a few needs to be converted to either an analog signal or digital signal.
-In this tutorial we would focus specifically on how to convert a digital data to a digital signal and the techniques used.</description>
-    </item>
-    
-    <item>
-      <title>What is a ramp signal?</title>
-      <link>/signal-and-system/what-is-a-ramp-signal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/signal-and-system/what-is-a-ramp-signal/</guid>
-      <description>What is a ramp signal?
-A ramp signal is a signal with neither energy nor power
-hrllo
-euieuiiu</description>
+In this tutorial, we would focus specifically on how to convert a digital data to a digital signal and the techniques used.</description>
     </item>
     
     <item>
@@ -912,11 +1073,11 @@ euieuiiu</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</guid>
-      <description>You are done building your website but you need an automatic way of generating sitemap for your website without having to do much work.
+      <description>You are done building your website, but you need an automatic way of generating sitemap for your website without having to do much work.
 Here is a simple guide on how to do just that.
 Note.
 Your website has to be built with plain old HTML or any SSG (Static Site Generator) such as Hugo, Gatsby, 11ty etc. and also must be uploaded to Netlify.
-You need to go to your Netlify dashboard Click on the Integrations tab On the integration dashboard, click on the search bar and type &amp;ldquo;sitemap&amp;rdquo; Then, click on enable The sitemap plugin prompt &amp;ldquo;install&amp;rdquo; will appear After clicking the install botton, you will be redirected to the dashboard.</description>
+You need to go to your Netlify dashboard Click on the Integrations tab On the integration dashboard, click on the search bar and type &amp;ldquo;sitemap&amp;rdquo; Then, click on enable The sitemap plugin prompt &amp;ldquo;install&amp;rdquo; will appear After clicking the &amp;ldquo;Install&amp;rdquo; button, you will be redirected to the dashboard.</description>
     </item>
     
     <item>
@@ -926,7 +1087,377 @@ You need to go to your Netlify dashboard Click on the Integrations tab On the in
       
       <guid>/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</guid>
       <description>Here is how to use Firefox browser Eyedropper to get the color of any image or text on the web
-Go to your Firefox browser or open any page you will like to get color from Click on the menu bar and then click on more tools Click on Eyedropper Lastly the eyedropper will appear with the hex code showing below it </description>
+Go to your Firefox browser or open any page you would like to get color from Click on the menu bar and then click on more tools Click on Eyedropper Lastly, the eyedropper will appear with the hex code showing below it </description>
+    </item>
+    
+    <item>
+      <title>How to configure a website netlifyCMS to access the admin page using google account</title>
+      <link>/how-to-tech/how-to-configure-a-website-netlifycms-to-access-the-admin-page-using-google-account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-configure-a-website-netlifycms-to-access-the-admin-page-using-google-account/</guid>
+      <description>In today&amp;rsquo;s mini guide, I will be explaining how to access the admin page of a website e.g., yoursite.com/admin which is configured using netlifyCMS using google account.
+The first thing to do is, make sure that there is an admin folder in the root of your website, which has to contain two files: a config.yml and index.html.
+The important thing which allows Netlify to grant access to the admin page when a user goes to his or her website URL/admin is that you there must be a link that has to be embedded into the index.</description>
+    </item>
+    
+    <item>
+      <title>Best Coding Apps for Android: Learn and Practice in 2023</title>
+      <link>/how-to-tech/best-coding-apps-for-android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/best-coding-apps-for-android/</guid>
+      <description>Here are a list of the best coding apps for beginners to start learning how to code in 2023. These apps will help beginners and even intermediate programmers to learn concepts about programming, build projects and solve problems with programming.
+SoloLearn This program offers interactive lessons in several coding languages, including Python, Java, C, C++, C# and more. It also includes a code editor and a user community to help answer questions.</description>
+    </item>
+    
+    <item>
+      <title>27&#43; Online Tools for College Students to Become Smart and Productive (2023)</title>
+      <link>/how-to-tech/online-tools-for-college-students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/online-tools-for-college-students/</guid>
+      <description>Every student at some point in college will get overwhelmed due to the difficult task often faced with.
+But this difficulty can be reduced with the advent of technology as there are several online tools and software programs to help students learn more conveniently, make research easier, remove grammatical error from writing,
+scan document in high-definition, make citation, break complex problems down by using mind mapping apps and saving of files on the cloud and accessing them when needed even though a copy of the file stored on a hard drive has be lost.</description>
+    </item>
+    
+    <item>
+      <title>Netlify Sitemap Plugin: How to Exclude Certain Pages</title>
+      <link>/how-to-tech/netlify-sitemap-plugin-how-to-exclude-certain-pages-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/netlify-sitemap-plugin-how-to-exclude-certain-pages-/</guid>
+      <description>In one of the previous post, we discussed how to automatically generate a sitemap for a website (Specifically Static Site) using Netlify sitemap plugin.
+But in this post, we would be looking at how to exclude some certain pages that we don&amp;rsquo;t want to show on the sitemap page, since Google will crawl and index whatever it finds in the sitemap.
+Go to your netlify.toml config file and add the following code to it.</description>
+    </item>
+    
+    <item>
+      <title>Does Computer Science Teach Coding?</title>
+      <link>/how-to-tech/does-computer-science-teach-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/does-computer-science-teach-coding/</guid>
+      <description>Yes, computer science often includes teaching coding as a core part of the discipline.
+Coding involves writing instructions in a programming language to control the operation of a computer, and is an important tool for solving computer problems and creating software, applications, and systems.
+However, the focus of computer science education can vary, with some programs emphasizing on software and others emphasizing on theoretical computer science, algorithms, data structures, and other areas.</description>
+    </item>
+    
+    <item>
+      <title>What Programming Languages are Taught in Computer Science?</title>
+      <link>/how-to-tech/what-programming-languages-are-taught-in-computer-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/what-programming-languages-are-taught-in-computer-science/</guid>
+      <description>The specific programming languages taught can vary depending on the institution, the course level (e.g., introductory, intermediate, advanced), and the focus of the course (e.g., web development, data science, game development, etc.).
+In addition to learning specific programming languages, computer science courses typically teach fundamental concepts of computer science such as algorithms, data structures, and software development methodologies.
+These concepts can be applied to many programming languages, making them valuable skills for a computer science graduate, regardless of the specific language(s) they learned in their studies.</description>
+    </item>
+    
+    <item>
+      <title>How to Record Video or Audio without Background Noise</title>
+      <link>/how-to-tech/how-to-record-video-or-audio-without-background-noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-record-video-or-audio-without-background-noise/</guid>
+      <description>Do you want to record a video or an audio, but your environment is noisy, and you have nothing to do but to record the video so when you turn up to watch the video or listen to the audio,
+It turns out that it is noisy beyond acceptance after ward you hop up to google and type how to remove noise from video or an audio?
+No worries, you are a few steps away from removing noise from your file and making it sound as if it was recorded in a professional studio.</description>
+    </item>
+    
+    <item>
+      <title>Why is the Troposphere the Most Important Layer of the Atmosphere?</title>
+      <link>/science-stuff/why-is-the-troposphere-the-most-important-layer-of-the-atmosphere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/science-stuff/why-is-the-troposphere-the-most-important-layer-of-the-atmosphere/</guid>
+      <description>The atmosphere consists of three main zones – the troposphere, the stratosphere, and the ionosphere.
+The troposphere is the lowest layer of the earth&amp;rsquo;s atmosphere and the most important layer in terms of its influence on life on Earth.
+This is the layer where all our weather occurs, and it is also the layer where all the plants and animals on Earth live.
+The troposphere extends from the earth&amp;rsquo;s surface to about 7–20 kilometers, depending on the location and the season.</description>
+    </item>
+    
+    <item>
+      <title>How to remove plugins from Netlify?</title>
+      <link>/how-to-tech/how-to-remove-plugins-from-netlify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-remove-plugins-from-netlify/</guid>
+      <description>In one of our previous post, we discussed on how to install plugins on Netlify.
+But in this post, we are going to be looking at how to remove plugins from Netlify.
+Plugins might be very important because it helps to automate task like generating sitemap for a website or minifying of CSS, JS, or HTML files but with its advantage, it also has downside.
+Because plugins, do increase the build time for deploying a site or even does the opposite of making a site fast.</description>
+    </item>
+    
+    <item>
+      <title>What is a photoresistor and what is it used for?</title>
+      <link>/science-stuff/what-is-a-photoresistor-and-what-is-it-used-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/science-stuff/what-is-a-photoresistor-and-what-is-it-used-for/</guid>
+      <description>Light is a form of electromagnetic radiation that is visible to the human eye. Light travels in straight lines and has both wave-like and particle-like properties. The effect of light can cause changes in the behavior of electrons.
+It can also transfer energy to electrons and cause them to become more mobile or to change their state. This is what makes a photoresistor function.
+What is a Photoresistor? A photoresistor, also known as a light-dependent resistor (LDR), is a type of electronic component that can be used to detect light.</description>
+    </item>
+    
+    <item>
+      <title>How to fix “Uncaught SyntaxError: import declarations may only appear at top level of a module” | Javascript</title>
+      <link>/how-to-tech/how-to-fix-uncaught-syntaxerror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-uncaught-syntaxerror/</guid>
+      <description>The first time I tried to use import * as Math from &amp;quot;./math.js&amp;quot;;
+I got an error saying “Uncaught SyntaxError: import declarations may only appear at top level of a module”
+I tried solving the issue by adding type=&amp;quot;module” to the html script tag.
+&amp;lt;script src=&amp;#34;/js/script.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; // is changed to &amp;lt;script src=&amp;#34;/js/script.js&amp;#34; type=&amp;#34;module&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Which should work in most cases. Make sure to use “./”, “../” or “/” to kind of help in locating where the file exists.</description>
+    </item>
+    
+    <item>
+      <title>5 Steps on How to Get Youtube Video Data in JSON Format</title>
+      <link>/how-to-tech/how-to-get-youtube-video-data-in-json-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-get-youtube-video-data-in-json-format/</guid>
+      <description>To get your YouTube video data such as link, title in JSON format, here are the steps to follow
+Go to RSS-to-JSON Online converter
+Go to your YouTube channel and grab your channel ID To grab your ID you need to go to your YouTube channel and on the URL of your YouTube page, you will see some code after the https://www.youtube.com/channel/which in my case is UCm814ttdg5c0GvOrRCUE3z8gthat&amp;rsquo;s your channel ID.</description>
+    </item>
+    
+    <item>
+      <title>How to fix &#34;No utility classes were detected in your source files&#34;</title>
+      <link>/how-to-tech/no-utility-classes-were-detected-in-your-source-files-fixed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/no-utility-classes-were-detected-in-your-source-files-fixed/</guid>
+      <description>In this post, I am going to highlight how to troubleshoot &amp;ldquo;No utility classes were detected in your source files&amp;rdquo; error in tailwindcss.
+The problem comes most time due to file path not configured properly. So if you don&amp;rsquo;t have a tailwindcss config file in your project, then that might be one of the issue.
+To make a tailwindcss config file, you need to run this command -
+npx tailwindcss init A tailwind.</description>
+    </item>
+    
+    <item>
+      <title>Advantages of Flip-Flop over Latch</title>
+      <link>/digital-electronics/advantages-of-flip-flop-over-latch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/digital-electronics/advantages-of-flip-flop-over-latch/</guid>
+      <description>The use of flip-flops in digital electronics has several advantages over latches. Here are some of the advantages:
+Advantages of Flip-flops over Latches Clock Input: Flip-flops have a clock input that allows them to change state only when a clock signal is present. This makes flip-flops useful in synchronous circuits, where all events must occur synchronously.
+Stability: Flip-flops are always stable, while latches can be unstable. The stability of flip-flops makes them useful in systems where the state of the system must be maintained even when the input is not stable.</description>
+    </item>
+    
+    <item>
+      <title>Differences Between Latch and Flip-flop</title>
+      <link>/digital-electronics/difference-between-latch-and-flip-flop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/digital-electronics/difference-between-latch-and-flip-flop/</guid>
+      <description>Latches and flip-flops are both types of circuits used in digital electronics to store binary information. But with this similarity, there are some key differences between them.
+What is a Latch? A latch is a circuit that has two stable states and can store one bit of information. It is a level-sensitive device, which means that its output depends on the level of the inputs.
+Latches are often used to store the state of a system and are used in many applications, such as data storage, memory, and sequential logic.</description>
+    </item>
+    
+    <item>
+      <title>What are the differences between Fuse and Circuit Breaker</title>
+      <link>/science-stuff/difference-between-fuse-and-ciruit-breaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/science-stuff/difference-between-fuse-and-ciruit-breaker/</guid>
+      <description>Fuses and circuit breakers are both electrical safety devices used to protect electrical circuits from damage or destruction in the event of an overcurrent or short circuit. However, there are some key differences between the two:
+What is a fuse? A fuse is a type of safety device that works by melting and breaking a circuit when the current through it exceeds a certain limit. Fuses are relatively simple and inexpensive devices made of metal wire or filament designed to melt when the current through it becomes too much.</description>
+    </item>
+    
+    <item>
+      <title>List of Google Chrome Useful Keyboard Shortcut Keys (2023)</title>
+      <link>/how-to-tech/list-of-chrome-keyboard-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/list-of-chrome-keyboard-shortcuts/</guid>
+      <description>Google Chrome keyboard shortcuts offer several benefits that can improve your browsing experience. They allow you to complete tasks faster, reducing time spent on the computer and increasing productivity.
+By reducing the need for repetitive mouse movements, keyboards can also reduce hand and wrist strain, especially for those who spend long periods of time in front of a computer. In addition, keyboard shortcuts can improve usability for users with disabilities or mobility impairments by making it easier to navigate the site and use content.</description>
+    </item>
+    
+    <item>
+      <title>Tailwind CSS: how do you add :before and :after pseudo-element?</title>
+      <link>/how-to-tech/how-to-add-before-and-after-pseudo-tailwind-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-add-before-and-after-pseudo-tailwind-css/</guid>
+      <description>Tailwind CSS is a nice way to write CSS without having to leave your HTML file, which makes it good for large projects.
+But one of it downside is that you need to be good at CSS to use it.
+In this article, we are going to be looking at how to add the :before and :after pseudo-element to an HTML element.
+Know that :before and ::before is the same, the only difference is that the former (:before or :after) is the old version while the later (::before or ::after) is used in CSS3 – the new version to separate pseudo-elements from pseudo-classes.</description>
+    </item>
+    
+    <item>
+      <title>How to Use Vite with React? Learn How to Create React App with Vite</title>
+      <link>/how-to-tech/how-to-use-vite-with-react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-use-vite-with-react/</guid>
+      <description>Vite is a popular build tool among developers which offers fast development and reduced build times.
+It is packed with features like instant server start, hot module reload (HMR) and pre-bundling.
+Why should you use Vite to Create React App (CRA)? If you have ever used the normal create react app offered by the developers of React, you will see that it takes time to create a React app even though you just want to use it for a simple project.</description>
+    </item>
+    
+    <item>
+      <title>[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ...</title>
+      <link>/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</guid>
+      <description>Question: A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core refractive index of 1.50 and a cladding refractive index of 1.47. Determine: (a) the critical angle at the core–cladding interface; (b) the NA for the fiber; (c) the acceptance angle in air for the fiber. Solution/Given: Here are the given from the question.
+Core refractive index (n1) = 1.50</description>
+    </item>
+    
+    <item>
+      <title>How to Import and Export Modules in Javascript | Simple Explanation</title>
+      <link>/how-to-tech/how-to-export-and-import-modules-in-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-export-and-import-modules-in-javascript/</guid>
+      <description>What is and Why use Module?
+A module in simple term is a broken piece from a huge file. Or let say you have several files and instead of jamming everything into a single js file you can split it into several js files and import each file where necessary.
+It makes code easier to manage and also to help abstract some stuff so you would just focus on executing.</description>
+    </item>
+    
+    <item>
+      <title>How to Preview Markdown(.md) File in VSCode</title>
+      <link>/how-to-tech/how-to-preview-markdown-md-file-in-vscode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-preview-markdown-md-file-in-vscode/</guid>
+      <description>Markdown is a simple and lightweight markup language that is easy to learn and versatile, making it a popular choice among developers for creating formatted documents, notes, and documentation.
+It can be easily managed with version control systems, integrated with other tools and platforms, and helps maintain consistency in formatting. A markdown file ends with (.md) extension.
+How to Preview Markdown(.md) File in Visual Studio Code To preview Markdown files in Visual Studio Code (VSCode), here are the steps you can follow:</description>
+    </item>
+    
+    <item>
+      <title>Classification of generation stations (or power plants)</title>
+      <link>/science-stuff/classification-of-generation-stations-or-power-plants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/science-stuff/classification-of-generation-stations-or-power-plants/</guid>
+      <description>Generation stations, also known as power plants or power stations, are facilities that generate (or produce) electrical power from various energy sources.
+They convert energy from sources such as fossil fuels, nuclear fuels or renewable sources such as solar, wind, hydro or geothermal energy into electricity that can be used in homes, businesses, and industries.
+Classification of generation stations (or power plants) Generation stations (or power stations) can be classified based on several criteria, including the type of fuel used, the size of the station, the type of technology used, and the location of the station.</description>
+    </item>
+    
+    <item>
+      <title>Advantages of Electricity (Electrical Energy) Over Other Forms of Energy</title>
+      <link>/science-stuff/advantages-of-electrical-energy-over-other-forms-of-energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/science-stuff/advantages-of-electrical-energy-over-other-forms-of-energy/</guid>
+      <description>Electricity is a form of energy resulting from the movement of charged particles, such as electrons or ions. It is a fundamental force of nature that is generated by a variety of natural and human-made processes.
+It is typically produced by converting other forms of energy, such as mechanical, thermal, or chemical energy, into electrical energy. This can be done using a variety of technologies, such as generators, batteries, or solar panels.</description>
+    </item>
+    
+    <item>
+      <title>Disadvantages of Electrical Energy Over Other Forms of Energy</title>
+      <link>/science-stuff/disadvantages-of-electrical-energy-over-other-forms-of-energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/science-stuff/disadvantages-of-electrical-energy-over-other-forms-of-energy/</guid>
+      <description>Although electricity has many advantages over other types of energy, there are also some disadvantages to consider. Here are some potential disadvantages of electricity:
+Disadvantages of Electrical Energy Over Other Forms of Energy Energy storage: Electricity is difficult to store on a large scale, which can make it difficult to balance energy supply and demand. This can cause problems with power outages or network fluctuations.
+Production and transmission losses: In the production and transmission of electricity, losses occur due to the resistance of electric lines, transformers and other equipment.</description>
+    </item>
+    
+    <item>
+      <title>Javascript ES6 (ECMAScript 6) Explained for Beginners</title>
+      <link>/how-to-tech/explain-es6-in-detail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/explain-es6-in-detail/</guid>
+      <description>ES6, or ECMAScript 6, is a version of JavaScript that comes with several new features and improvements to the language.
+Here are some of the key features of ES6 explained for beginners:
+1. let and const keywords: let and const are two new ways to declare variables in JavaScript. Variables declared with let are block-scoped, meaning they are only accessible within the block they are declared in, and can be reassigned.</description>
+    </item>
+    
+    <item>
+      <title>HTML “textarea” Required Attribute Not Working | How to Fix?</title>
+      <link>/how-to-tech/html-textarea-required-attribute-not-working/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/html-textarea-required-attribute-not-working/</guid>
+      <description>To make an HTML form “textarea” to have a required attribute, all you need to do is to add required or required=&amp;quot;required&amp;quot;
+But sometimes when you add the required attribute to force the user to input data, it does not work. Here&amp;rsquo;s how to fix it.
+Make sure that the &amp;lt;textarea&amp;gt;&amp;lt;/textarea&amp;gt; does not have space in between because if it does have then you have already input some character or text.</description>
+    </item>
+    
+    <item>
+      <title>11&#43; Networking Tools and Their Uses</title>
+      <link>/networking/networking-tools-and-their-uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/networking/networking-tools-and-their-uses/</guid>
+      <description>While installing, maintaining, and troubleshooting computer networks, technicians need the right networking gear tools.
+Each one serves a particular purpose in the networking process and comes in a variety of shapes and sizes, including handheld gadgets, power tools, and larger equipment.
+Lists of Networking Tools and Their Uses Here are some lists of commonly used networking tools and their uses:
+1/ Cable Crimper A cable crimper, also called a wire crimper, is a hand-held tool used to join two or more wires together by crimping a metal connector onto the ends of the wires.</description>
+    </item>
+    
+    <item>
+      <title>Differences Between Causal and Non-Causal Signal</title>
+      <link>/signal-and-system/difference-between-causal-and-non-causal-signal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/difference-between-causal-and-non-causal-signal/</guid>
+      <description>A signal can be defined as any physical quantity that carries information and varies with time, space, density, and other independent variable(s). It can also be defined as a pattern of variation in a physical quantity, such as sound or light, that can be measured and analyzed.
+Signals can be classified into different categories or types based on various properties, such as the direction of the signal flow or the time-domain characteristics of the signal.</description>
+    </item>
+    
+    <item>
+      <title>Why Hexagonal Shape Is Preferred in Cellular Architecture</title>
+      <link>/how-to-tech/why-hexagonal-shape-is-preferred-in-cellular-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/why-hexagonal-shape-is-preferred-in-cellular-architecture/</guid>
+      <description>A cellular land area in cellular networks refers to the geographical area that is divided into smaller regions, or cells, each of which is served by a mobile phone base station. The size and shape of the cells depend on factors such as the number of users in the area, the terrain, and the availability of resources.
+The geometrical shape used in a cellular network can be circular, triangular, rectangular, or hexagonal.</description>
+    </item>
+    
+    <item>
+      <title>12 Essential Tools Engineering Students Need the Most</title>
+      <link>/how-to-tech/essential-tools-do-engineering-students-need/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/essential-tools-do-engineering-students-need/</guid>
+      <description>Here are 12 essential tools every engineering student must have. The purpose of these tools is to help engineering student succeed in their coursework and career, have a nice time studying and be productive.
+1/ Scientific Calculator A scientific calculator is a must-have for any engineering student. It is used to perform complex mathematical calculations, including logarithms, trigonometric functions, and exponential functions. These functions can be challenging to calculate manually, so a scientific calculator can make the process much easier, accurate and time -saving.</description>
+    </item>
+    
+    <item>
+      <title>Where does ChatGPT get its data from?</title>
+      <link>/how-to-tech/where-does-chatgpt-get-data-from/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/where-does-chatgpt-get-data-from/</guid>
+      <description>Key Terminologies What is an AI? AI is a short form for Artificial Intelligence. It refers to the development of computer systems that can perform tasks that normally require human intelligence, such as recognizing speech, understanding natural language, making decisions, and recognizing patterns in data.
+AI systems are designed to learn and improve over time, using algorithms that can identify patterns in data and make predictions based on that data.</description>
+    </item>
+    
+    <item>
+      <title>Basic Elements of Communication Systems</title>
+      <link>/electronics/basic-element-of-communication-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/basic-element-of-communication-system/</guid>
+      <description>What is a communication system? A communication system refers to devices, circuits, or networks used for the transmitting, receiving and processing of information or data (such as voice, computer data etc.) between two different points or users.
+Basic elements of communication systems In a communication system, there are generally five basic elements, which are:
+Information (or data, is the actual message such as human voice) Transmitter (a device used for transmitting the information received) Communication Channel (or medium, is the medium where the message can travel through) Noise (or random signal which is introduced while transmitting the information, can be caused due to several natural factors such as thunder, sun radiation etc.</description>
+    </item>
+    
+    <item>
+      <title>How to Determine if a Signal Is Even or Odd?</title>
+      <link>/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/</guid>
+      <description>Knowing if a signal is an even or an odd signal is very important because it helps to simplify calculations and reduce the number of terms that need to be considered in a Fourier series or Fourier transform.
+For example, when trying to find the Fourier analysis of a function, there are variables that need to be calculated, a0, an and bn where a0 is a constant value, an is the value associated with the even terms and bn is the value associated with the odd terms.</description>
     </item>
     
     <item>

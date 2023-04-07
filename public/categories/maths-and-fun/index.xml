@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maths and Fun on Tooabstractive</title>
+    <title>[&#34;Maths and Fun&#34;] on Tooabstractive</title>
     <link>/categories/maths-and-fun/</link>
-    <description>Recent content in Maths and Fun on Tooabstractive</description>
+    <description>Recent content in [&#34;Maths and Fun&#34;] on Tooabstractive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/categories/maths-and-fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> Crammer&#39;s rule - the technique to simplify circuit analysis equations</title>
+      <title>Crammer&#39;s rule - the technique to simplify circuit analysis equations</title>
       <link>/funmaths/what-is-crammers-rule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

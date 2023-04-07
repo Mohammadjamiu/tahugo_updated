@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jan 2023 23:43:06 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Networking and Communication</title>
+      <title>[&#34;Networking and Communication&#34;]</title>
       <link>/categories/networking-and-communication/</link>
       <pubDate>Wed, 04 Jan 2023 23:43:06 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Electronics</title>
+      <title>[&#34;Electronics&#34;]</title>
       <link>/categories/electronics/</link>
       <pubDate>Wed, 04 Jan 2023 23:31:20 +0000</pubDate>
       
@@ -26,16 +26,16 @@
     </item>
     
     <item>
-      <title>Signals and System</title>
-      <link>/categories/signals-and-system/</link>
+      <title>[&#34;Signals and Systems&#34;]</title>
+      <link>/categories/signals-and-systems/</link>
       <pubDate>Sun, 01 Jan 2023 00:56:27 +0000</pubDate>
       
-      <guid>/categories/signals-and-system/</guid>
+      <guid>/categories/signals-and-systems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Circuit analysis</title>
+      <title>[&#34;Circuit analysis&#34;]</title>
       <link>/categories/circuit-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Digital Electronics</title>
+      <title>[&#34;Digital Electronics&#34;]</title>
       <link>/categories/digital-electronics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Electromagnetics</title>
+      <title>[&#34;Electromagnetics&#34;]</title>
       <link>/categories/electromagnetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>How-to-tech</title>
+      <title>[&#34;How-to-tech&#34;]</title>
       <link>/categories/how-to-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>Maths and Fun</title>
+      <title>[&#34;Maths and Fun&#34;]</title>
       <link>/categories/maths-and-fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -80,11 +80,20 @@
     </item>
     
     <item>
-      <title>Productivity and guides</title>
-      <link>/categories/productivity-and-guides/</link>
+      <title>[&#34;Productivity and Writings&#34;]</title>
+      <link>/categories/productivity-and-writings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/productivity-and-guides/</guid>
+      <guid>/categories/productivity-and-writings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[&#34;Science Stuff&#34;]</title>
+      <link>/categories/science-stuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science-stuff/</guid>
       <description></description>
     </item>
     

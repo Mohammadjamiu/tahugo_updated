@@ -1,13 +1,14 @@
 ---
 title: How to Determine if a Signal Is Even or Odd?
-slug: To determine if a signal is even or odd, when you are given a function
+slug: how to determine if a signal is even or odd
+postdate: April 6, 2023
+description:
+  To determine if a signal is even or odd, when you are given a function
   f(x) just substitute “-x” into the function f(x) which will result in f(-x).
   If f(-x) (the new function) is equal to the original function f(x) i.e., f(-x)
   = f(x) then, it is an even signal. But if f(-x) is equal to the negative
   version of the original function f(x) i.e f(-x) = -f(x) then, it is an odd
   signal.
-postdate: April 6, 2023
-description: odd signal
 categorylabel: Signals and Systems
 categories: '["Signals and Systems"]'
 image: /images/odd-signal-waveform.webp

@@ -4,13 +4,13 @@
     
 
  
+ 
 <title>The Seven Layers of the OSI Model Explained - Tooabstractive</title>
 
+
+
 <meta charset="UTF-8" />
-<meta
-  name="viewport"
-  content="width=device-width, initial-scale=1, maximum-scale=1"
-/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 
@@ -20,6 +20,8 @@
   type="image/x-icon"
 />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+
 
 <meta
   name="description"
@@ -81,6 +83,62 @@
 <link rel="stylesheet" href="/css/layout.css" />
 <link rel="stylesheet" href="/css/other.css" />
 
+ 
+
+
+
+<meta
+  name="google-site-verification"
+  content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
+/>
+<meta name="fo-verify" content="47615df9-ca6b-4ddf-94a2-931bcf97ae50" />
+
+
+
+
+
+
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      "gtm.start": new Date().getTime(),
+      event: "gtm.js",
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-NWS8Z2G");
+</script>
+
+
+
+
+
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-ZKBCM99NE5"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "G-ZKBCM99NE5");
+</script>
+
+
+
+
+<script
+  defer
+  src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+></script>
 
 
   </head>
@@ -114,7 +172,7 @@
               width="26"
               height="25"
               rx="6"
-              fill="#2d79e4"
+              fill="#236cd3"
             />
             <path
               id="Path_261"
@@ -150,7 +208,7 @@
             id="dark-mode-toggle-icon"
             d="M16.134.843H5.647a5.648,5.648,0,0,0,0,11.3H15.49a6.653,6.653,0,0,0,3.884,1.25h.009A6.694,6.694,0,0,0,19.383,0h-.009a6.636,6.636,0,0,0-3.24.843Zm3.6,4.949.022,0a.7.7,0,0,1,.817-.5l.005-.022a.7.7,0,0,1-.505-.817l-.022-.005a.695.695,0,0,1-.817.505l-.005.022a.7.7,0,0,1,.505.817Zm1.878.854.027.006a.874.874,0,0,1,1.026-.634l.007-.027a.875.875,0,0,1-.635-1.026l-.027-.006a.874.874,0,0,1-1.026.634l-.007.027a.875.875,0,0,1,.635,1.026ZM19.633,3.539a2.577,2.577,0,1,0,2.743,4.326c.242-.195.492-.023.387.222a3.539,3.539,0,1,1-3.233-4.929c.342,0,.414.229.1.381ZM19.374.791h.009a5.9,5.9,0,1,1,0,11.807h-.009a5.9,5.9,0,1,1,0-11.807Z"
             transform="translate(0 1)"
-            fill="#2d79e4"
+            fill="#236cd3"
           />
         </svg>
       </button>
@@ -173,7 +231,7 @@
       <li><a href="/posts/">Posts &#128221;</a></li>
 
       
-      <li><a href="/https/www.youtube.com/channel/ucm814any5c0gvorrcue3z8g/">Youtube &#128250;</a></li>
+      <li><a href="https://www.youtube.com/channel/UCm814Any5c0GvOrRCUE3z8g/">Youtube &#128250;</a></li>
 
       
       <li><a href="/contact/">Contact &#9742;</a></li>
@@ -186,45 +244,101 @@
   </nav>
 </header>
  
+
 <div class="container single-page-container">
   <span class="post-date">February 13, 2022</span>
   <h1>The Seven Layers of the OSI Model Explained</h1>
   <div class="post-metadata">
-    <p class="author">By Mohammad Abdul</p>
-    <p class="dot">&#8226;</p>
-    <p class="weight">40</p>
-    <p class="dot">&#8226;</p>
+    <p><img class="author__img" src="/images/author_jamiu.jpg" alt="mohammad jamiu"></img>
+    <p class="author">Mohammad Abdul </p>
+      <p class="dot">/</p><p class="weight">40 </p>  <p class="dot">/</p>
     <p class="post-category">
       <a class="on-what-topic" href="/categories/networking-and-communication"
         >Networking and Communication</a
       >
     </p>
-    <p class="dot">&#8226;</p>
+    <p class="dot">/</p>
+    
     <p class="read-time">
       Read Time &#128352; -  4mins
     </p>
   </div>
 
   <div class="bar-style"></div>
-<details>
-  <summary>Table Of Contents</summary>
-  <nav id="TableOfContents">
-  <ul>
-    <li><a href="#table-showing-the-osi-model-layers-and-their-fuctions">Table showing the OSI model layers and their fuctions</a></li>
-    <li><a href="#physical-layer">Physical Layer</a></li>
-    <li><a href="#data-link-layer">Data link Layer</a></li>
-    <li><a href="#network-layer">Network Layer</a></li>
-    <li><a href="#transport-layer">Transport layer</a></li>
-    <li><a href="#session-layer">Session Layer</a></li>
-    <li><a href="#presentation-layer">Presentation Layer</a></li>
-    <li><a href="#application-layer">Application Layer</a></li>
-    <li><a href="#summary">summary</a></li>
-  </ul>
-</nav>
-</details>
+  
 
+  <p><strong>OSI Model</strong> which is termed as Open System Interconnection is a model which is used for standardizing communication across network, or it can be said to be a standard architecture which is used for designing network.</p>
+ 
 
-   <p><strong>OSI Model</strong> which is termed as Open System Interconnection is a model which is used for standardizing communication across network or it can be said to be a standard architecture which is used for designing network.</p>
+<div style="width: 100%; max-width: 55rem">
+  <div
+    style="
+      position: relative;
+      padding-bottom: 56.15%;
+      height: 0;
+      overflow: hidden;
+
+      box-shadow: 0 0.3rem 0.6rem hsla(0, 0%, 0%, 0.2);
+      border-radius: 1rem;
+      max-width: 100%;
+    "
+  >
+    <iframe
+      style="
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      "
+      loading="lazy"
+      ;
+      srcdoc="<style>
+        * {
+        margin: 0;
+        overflow: hidden;
+        
+      font-family: MuliSemiBold, sans-serif;
+        }
+        body, html {
+          height: 100%;
+          max-width:100%;
+        }
+        img, svg {
+          position: absolute;
+          width: 100%;
+          top: 0;
+          bottom: 0;
+          left:0;
+          margin: auto;
+        }
+        svg {
+          filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));
+          transition: all 250ms ease-in-out;
+        }
+        body:hover svg {
+          filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
+          transform: scale(1.2);
+        }
+      </style>
+      <a  href='https://www.youtube.com/embed/jlLUPErqVvE?autoplay=1'>
+
+      </a>
+      "
+      src="https://www.youtube.com/embed/jlLUPErqVvE"
+      title="osi"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    >
+    </iframe>
+    
+
+    
+  </div>
+</div>
+
 <p>It helps to make troubleshooting of network problem easily as it breaks a complex network into several manageable segments. The OSI model consist of 7 layers.</p>
 <p>Even though the OSI model is obsolete, it is still considered to be a reference model to understand how a network works.</p>
 <p>The seven layers of an OSI model is as follows;</p>
@@ -236,49 +350,49 @@
 <p>2). Data link Layer</p>
 <p>1). Physical Layer</p>
 <p>The layers can be memorized or remembered with a mnemonics starting from top to bottom as <strong>(All People Seems To Need Data Processing)</strong> or from bottom to top as <strong>(Please Do Not Throw Sausage Pie Away)</strong>.</p>
-<h2 id="table-showing-the-osi-model-layers-and-their-fuctions">Table showing the OSI model layers and their fuctions</h2>
+<h2 id="table-showing-the-osi-model-layers-and-their-functions">Table showing the OSI model layers and their functions</h2>
 <table>
 <thead>
 <tr>
-<th style="text-align:left">no.</th>
-<th style="text-align:left">Layers</th>
+<th>no.</th>
+<th>Layers</th>
 <th>Function</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left">7</td>
-<td style="text-align:left">Application Layer</td>
+<td>7</td>
+<td>Application Layer</td>
 <td>responsible for managing the communication between applications</td>
 </tr>
 <tr>
-<td style="text-align:left">6</td>
-<td style="text-align:left">Presentation Layer</td>
+<td>6</td>
+<td>Presentation Layer</td>
 <td>responsible for translating data</td>
 </tr>
 <tr>
-<td style="text-align:left">5</td>
-<td style="text-align:left">Session Layer</td>
+<td>5</td>
+<td>Session Layer</td>
 <td>responsible for setting-up or terminating of sessions</td>
 </tr>
 <tr>
-<td style="text-align:left">4</td>
-<td style="text-align:left">Transport Layer</td>
+<td>4</td>
+<td>Transport Layer</td>
 <td>responsible for managing the delivery of packets</td>
 </tr>
 <tr>
-<td style="text-align:left">3</td>
-<td style="text-align:left">Network Layer</td>
+<td>3</td>
+<td>Network Layer</td>
 <td>responsible for addressing and routing</td>
 </tr>
 <tr>
-<td style="text-align:left">2</td>
-<td style="text-align:left">Data link Layer</td>
+<td>2</td>
+<td>Data link Layer</td>
 <td>responsible for putting streams of bit into frames</td>
 </tr>
 <tr>
-<td style="text-align:left">1</td>
-<td style="text-align:left">Physical Layer</td>
+<td>1</td>
+<td>Physical Layer</td>
 <td>responsible for the conveying of bits across network</td>
 </tr>
 </tbody>
@@ -287,86 +401,185 @@
 <p>The physical layer is the lowest layer and it is called layer 1. It is responsible for transferring or conveying of streams of bits across a network. The means of transferring the bits across a network may be either electrical or wireless (radio wave).</p>
 <p>This layer consists of devices and mediums such as cables, hubs, repeaters, network interface cards etc.</p>
 <h2 id="data-link-layer">Data link Layer</h2>
-<p>The data link layer is the second layer and it is responsible for putting the streams of bit (called packets) into frames.</p>
+<p>The data link layer is the second layer, and it is responsible for putting the streams of bit (called packets) into frames.</p>
 <p>The data link layer is also responsible for attaching a physical address (MAC address) to a device.</p>
 <p>The types of devices that are in layer 2 include
 Switches and bridges as they work with MAC address.</p>
 <h2 id="network-layer">Network Layer</h2>
-<p>This is the third layer in the OSI model and it is responsible for addressing and routing of packets or data.</p>
+<p>This is the third layer in the OSI model, and it is responsible for addressing and routing of packets or data.</p>
 <p>It uses an IP address and a MAC address.</p>
 <p>The device that can be found in layer 3 is a router.</p>
 <h2 id="transport-layer">Transport layer</h2>
-<p>The transport layer is the fourth layer in the OSI Model and it is responsible for managing the delivery of packets. In other words, it sends an acknowledgement when data is received (Yey! it is successful) or when data is lost or missing.</p>
-<p>This layer uses a TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) protocols. The TCP is quite similar to the UDP but TCP is reliable while UDP is unreliable. TCP is used for error handling and sequencing to ensure that there are no missing packets or data.</p>
+<p>The transport layer is the fourth layer in the OSI Model, and it is responsible for managing the delivery of packets. In other words, it sends an acknowledgement when data is received (Yey! It is successful) or when data is lost or missing.</p>
+<p>This layer uses a TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) protocols. The TCP is quite similar to the UDP, but TCP is reliable while UDP is unreliable. TCP is used for error handling and sequencing to ensure that there are no missing packets or data.</p>
 <h2 id="session-layer">Session Layer</h2>
-<p>The session layer is the fifth layer in the OSI model which is responsible for starting and stopping of sessions. In other words, it is responsible for setting up and terminating of communication between local and remote application.</p>
+<p>The session layer is the fifth layer in the OSI model, which is responsible for starting and stopping of sessions. In other words, it is responsible for setting up and terminating of communication between local and remote application.</p>
 <h2 id="presentation-layer">Presentation Layer</h2>
-<p>The presentation layer is the sixth layer of the OSI model and it is responsible for formatting or translation of data so that the receiving application can process the packet sent.</p>
+<p>The presentation layer is the sixth layer of the OSI model, and it is responsible for formatting or translation of data so that the receiving application can process the packet sent.</p>
 <p>It is also used for encryption/decryption and compression/decompression of data.</p>
 <h2 id="application-layer">Application Layer</h2>
-<p>The application layer which is the top layer and it is the layer that allows users and applications to communicate. In other words, it is responsible for managing the communication between applications.</p>
+<p>The application layer, which is the top layer, and it is the layer that allows users and applications to communicate. In other words, it is responsible for managing the communication between applications.</p>
 <p>This layer supports different protocols such as SMTP (which allows sending of email), HTTP (which is an application layer protocol for transmitting hypermedia document), FTP etc.</p>
-<h2 id="summary">summary</h2>
+<h2 id="summary">Summary</h2>
 <ol>
-<li>
-<p><strong>Physical layer</strong> is the layer 1 and it deals with bits.</p>
-</li>
-<li>
-<p><strong>Data-link layer</strong> is the layer 2 and it deals with putting packet of bits into frames.</p>
-</li>
-<li>
-<p><strong>Network layer</strong> is the layer 3 and it deals with routing and addressing of packets of data.</p>
-</li>
-<li>
-<p><strong>Transport layer</strong> is the layer 4 and it deals with managing the delivery of packets of data.</p>
-</li>
-<li>
-<p><strong>Session layer</strong> is the layer 5 and it deals with setting up and terminating of session.</p>
-</li>
-<li>
-<p><strong>Presentation layer</strong> is the layer 6 and it deals with translation of data.</p>
-</li>
-<li>
-<p><strong>Application layer</strong> is the layer 7 and it helps in managing the communication between application with the end user.</p>
-</li>
+<li><strong>Physical layer</strong> is the layer 1, and it deals with bits.</li>
+<li><strong>Data-link layer</strong> is the layer 2, and it deals with putting packet of bits into frames.</li>
+<li><strong>Network layer</strong> is the layer 3, and it deals with routing and addressing of packets of data.</li>
+<li><strong>Transport layer</strong> is the layer 4, and it deals with managing the delivery of packets of data.</li>
+<li><strong>Session layer</strong> is the layer 5, and it deals with setting up and terminating of session.</li>
+<li><strong>Presentation layer</strong> is the layer 6, and it deals with translation of data.</li>
+<li><strong>Application layer</strong> is the layer 7, and it helps in managing the communication between application with the end user.</li>
 </ol>
+ 
+  
+    
+<div class="socialshare-links" style="  display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin: 1rem 0; ">
 
 
-  <div class="readmore-recommend">
+
+  
+  
+  
+
+
+    <style>
+    
+    #share-buttons {display: block; vertical-align: middle; }
+    #share-buttons:after {content: ""; display: block; clear: both;}
+    #share-buttons > div {
+    position: relative;
+    text-align: left; 
+    height: 4rem; 
+    width:4rem; 
+    float: left; 
+    text-align: center;
    
-    <h2>More For You</h2>
+    }
 
+
+    
+    #share-buttons > a > svg {width: 20px;height: 20px; fill: var(--text-color); margin: .8rem 1.2rem; padding: 0 .3rem; box-sizing:content-box ;}
+    #share-buttons > a:hover {text-decoration:none;cursor: pointer;}
+    
+    #share-buttons > a.facebook > svg {height: 18px; margin-top: 9px; margin-right: 10px;}
+    #share-buttons > a.facebook:hover > svg {fill: #3B5998;}
+
+    #share-buttons > a.whatsapp > svg {height: 18px; margin-top: 9px; margin-right: 10px;}
+    #share-buttons > a.whatsapp:hover > svg {fill: #20bb59;}
+
+    #share-buttons > a.pinterest:hover > svg {fill: #CB2027;}
+    #share-buttons > a.mail:hover > svg {fill: #5c5c5c;}
+    #share-buttons > a.pinterest > svg {height: 17px; margin-top: 7px; margin-right: 10px;}
+    #share-buttons > a.mail > svg {height: 16px; margin-top: 10px;}
+    </style>
+
+    <p style="color: var(--text-color);margin:1.6rem 0 1.8rem;">Share on: </p>
+    
+    <div id="share-buttons">
+
+      
+      
+        <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.tooabstractive.com%2fnetworking%2fthe-seven-layers-of-the-osi-model-explained%2f" target="_blank" rel="noopener" title="Share this on Facebook" class="facebook">
+            <svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z"/></svg>
+        
+              </a>
+
+                  
+      
+     <a href="whatsapp://send?text=The%20Seven%20Layers%20of%20the%20OSI%20Model%20Explained%20-%20Tooabstractive%0a%0aOSI%20Model%20which%20is%20termed%20as%20Open%20System%20Interconnection%20is%20a%20model%20which%20is%20used%20for%20standardizing%20communication%20across%20network.%20It%20consist%20of%20seven%20layers.%20The%20Application%2c%20Presentation%2c%20Session%2c%20Transport%2c%20Network%2c%20Data%20link%20and%20Physical%20Layer%0a%0ahttps%3a%2f%2fwww.tooabstractive.com%2fnetworking%2fthe-seven-layers-of-the-osi-model-explained%2f%0a" target="_blank" class="whatsapp" title="Share this on WhatsApp">
+      <svg xmlns="http://www.w3.org/2000/svg" height="2rem" width="2rem" viewBox="0 0 24 24"><path d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"/></svg>
+     </a>
+
+    
+
+       
+       
+       <a class="pinterest" href="https://pinterest.com/pin/create/button?url=%2fnetworking%2fthe-seven-layers-of-the-osi-model-explained%2f&media=https%3a%2f%2ftooabstractive.com&description=OSI%20Model%20which%20is%20termed%20as%20Open%20System%20Interconnection%20is%20a%20model%20which%20is%20used%20for%20standardizing%20communication%20across%20network.%20It%20consist%20of%20seven%20layers.%20The%20Application%2c%20Presentation%2c%20Session%2c%20Transport%2c%20Network%2c%20Data%20link%20and%20Physical%20Layer" target="_blank" class="mail" title="Share this on Email">
+          <svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M256 597q0-108 37.5-203.5t103.5-166.5 152-123 185-78 202-26q158 0 294 66.5t221 193.5 85 287q0 96-19 188t-60 177-100 149.5-145 103-189 38.5q-68 0-135-32t-96-88q-10 39-28 112.5t-23.5 95-20.5 71-26 71-32 62.5-46 77.5-62 86.5l-14 5-9-10q-15-157-15-188 0-92 21.5-206.5t66.5-287.5 52-203q-32-65-32-169 0-83 52-156t132-73q61 0 95 40.5t34 102.5q0 66-44 191t-44 187q0 63 45 104.5t109 41.5q55 0 102-25t78.5-68 56-95 38-110.5 20-111 6.5-99.5q0-173-109.5-269.5t-285.5-96.5q-200 0-334 129.5t-134 328.5q0 44 12.5 85t27 65 27 45.5 12.5 30.5q0 28-15 73t-37 45q-2 0-17-3-51-15-90.5-56t-61-94.5-32.5-108-11-106.5z"/></svg>
+  
+          </a>
+      
+  
+       
+       
+       
+     <a href="mailto:?subject=Tooabstractive - The%20Seven%20Layers%20of%20the%20OSI%20Model%20Explained.&amp;body=The%20Seven%20Layers%20of%20the%20OSI%20Model%20Explained%20-%20Tooabstractive%0a%0aOSI%20Model%20which%20is%20termed%20as%20Open%20System%20Interconnection%20is%20a%20model%20which%20is%20used%20for%20standardizing%20communication%20across%20network.%20It%20consist%20of%20seven%20layers.%20The%20Application%2c%20Presentation%2c%20Session%2c%20Transport%2c%20Network%2c%20Data%20link%20and%20Physical%20Layer%0a%0ahttps%3a%2f%2fwww.tooabstractive.com%2fnetworking%2fthe-seven-layers-of-the-osi-model-explained%2f%0a" target="_blank" class="mail" title="Share this on Email">
+        <svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg>
+   
+        </a>
+    
+
+
+  
+
+
+</div>
+
+
+</div>
+ 
+    
+  
+     <div class="snippet-container">
+  <div class="snippet__text-content">
+    <h2>What’s on Your Mind &#129300;</h2>
+    <p>
+      Is there any abstractive question on your mind? <br />
+      share it and let see if we can help.
+    </p>
+  </div>
+
+  <div class="abstractive__info-form">
+    <form name="submit-to-google-sheet">
+      <textarea
+        name="Abstractive_texts"
+        placeholder="Enter what's on your mind..."
+        required="required"
+      ></textarea>
+      <input
+        type="email"
+        name="Email_List"
+        placeholder="Enter your email - so as to reach out!"
+        required
+      />
+      <button type="submit">Submit</button>
+      <span id="msg"></span>
+    </form>
+  </div>
+</div>
+ 
+  <div class="readmore-recommend">
+    <h2 class="related-more">More For You <span style="color:#e4982d; font-size: 3rem; "> &#9732</span></h2>
 
     
      
-    
-    <ul class="ul-in-post">
+    <ul class="ul-in-post" style="list-style-type:square;">
       <li>
-        <a class="links-to-others" href="/networking/difference-between-unicast-multicast-broadcast-and-anycast/">Difference Between Unicast, Multicast, Broadcast and Anycast Transmission Types</a>
+        <a class="links-to-others" href="/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/">Linear and Nonlinear Scattering Losses in Optical Fiber Explained Simply</a>
       </li>
     </ul>
     
-    <ul class="ul-in-post">
+    <ul class="ul-in-post" style="list-style-type:square;">
       <li>
-        <a class="links-to-others" href="/networking/modes-of-radio-wave-propagation/">What is radio wave propagation? and the modes of radio wave propagation explained</a>
+        <a class="links-to-others" href="/networking/difference-between-step-index-and-graded-index-optical-fiber/">Differences Between Step-Index and Graded-Index Optical Fiber</a>
       </li>
     </ul>
     
-    <ul class="ul-in-post">
+    <ul class="ul-in-post" style="list-style-type:square;">
       <li>
-        <a class="links-to-others" href="/networking/what-is-dispersion-in-optical-fiber-and-the-types/">What is dispersion loss in optical fiber and types of dispersion loss?</a>
+        <a class="links-to-others" href="/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/">[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ...</a>
       </li>
     </ul>
     
-    <ul class="ul-in-post">
+    <ul class="ul-in-post" style="list-style-type:square;">
       <li>
-        <a class="links-to-others" href="/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/">How Do You Know if a MAC Address is a Unicast, Multicast or Broadcast MAC address</a>
+        <a class="links-to-others" href="/networking/difference-between-packets-and-frames/">Difference Between Packets and Frames In Networking</a>
       </li>
     </ul>
     
-    <ul class="ul-in-post">
+    <ul class="ul-in-post" style="list-style-type:square;">
       <li>
-        <a class="links-to-others" href="/networking/what-is-smtp-used-for/">What Is SMTP (Simple Mail Transfer Protocol) Used For?</a>
+        <a class="links-to-others" href="/networking/what-is-the-difference-between-pop3-and-imap/">What are the Differences Between POP3 and IMAP</a>
       </li>
     </ul>
     
@@ -384,12 +597,13 @@ Switches and bridges as they work with MAC address.</p>
     <h3>Categories</h3>
     <ul class="footer-ul">
         <li><a href="/categories/electronics/">Electronics &#128251;</a></li>
+        <li><a href="/categories/science-stuff/">Science Stuff &#129516;</a></li>
         <li><a href="/categories/electromagnetics/">Electromagnetic Theory &#128225;</a></li>
-        <li><a href="/learnca/">Learn Circuit Analysis</a></li>
+        <li><a href="/categories/circuit-analysis/">Learn Circuit Analysis</a></li>
         <li><a href="/categories/maths-and-fun/">Maths and Fun &#129518;</a></li>
         <li><a href="/categories/networking-and-communication/">Networking and Communication &#128421;</a></li>
-        <li><a href="/categories/productivity-and-guides">Productivity and Guides &#128204;</a></li>
-        <li><a href="/categories/signals-and-system">Signals and System &#128246;</a></li>
+        <li><a href="/categories/productivity-and-writings">Productivity and Writings &#128204;</a></li>
+        <li><a href="/categories/signals-and-systems">Signals and Systems &#128246;</a></li>
         <li><a href="/categories/digital-electronics">Digital Electronics &#128190;</a></li>
 
     </ul>
@@ -516,7 +730,7 @@ Switches and bridges as they work with MAC address.</p>
 <svg xmlns="http://www.w3.org/2000/svg" width="39" height="38" viewBox="0 0 39 38">
     <g id="Group_44" data-name="Group 44" transform="translate(-4162 50)">
         <g id="Group_2" data-name="Group 2" transform="translate(4163 -47)">
-        <rect id="Rectangle_8" data-name="Rectangle 8" width="29" height="28" rx="6" fill="#2d79e4"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="29" height="28" rx="6" fill="#236cd3"/>
         <path id="Path_261" data-name="Path 261" d="M1577.985,54.536c1.237,0,2.392,1.111,3.531,3.4,1.284,2.577,1.574,4.369.886,5.479a2.707,2.707,0,0,1-2.495,1.122,15.961,15.961,0,0,1-5.506-1.419,108.429,108.429,0,0,0-2.163,12.535.677.677,0,0,1-1.327.1l-4.535-16.913a.677.677,0,0,1,1-.757,68.132,68.132,0,0,0,6.12,3.172C1574.805,56.676,1576.239,54.536,1577.985,54.536Zm1.922,8.644c.694,0,1.146-.162,1.344-.481.233-.377.42-1.418-.947-4.163-1.189-2.388-2.018-2.646-2.318-2.646-.376,0-1.693.436-3.233,5.9A15.324,15.324,0,0,0,1579.907,63.18Zm-6.767-.6c-1.956-.867-3.818-1.852-5.036-2.524l3.228,12.039A95.408,95.408,0,0,1,1573.14,62.579Z" transform="translate(-1559.767 -50.855)" fill="#fff"/>
         </g>
     </g>
@@ -529,6 +743,35 @@ Switches and bridges as they work with MAC address.</p>
 
 </footer>
 
-    <script src="/js/script.js"></script>
+
+
+    <script defer src="/js/script.js"></script>
+    <script type="text/javascript">
+      
+      var lazyadsense2 = false;
+      window.addEventListener(
+        "scroll",
+        function () {
+          if (
+            (document.documentElement.scrollTop != 0 &&
+              lazyadsense2 === false) ||
+            (document.body.scrollTop != 0 && lazyadsense2 === false)
+          ) {
+            (function () {
+              var ad = document.createElement("script");
+              ad.setAttribute("data-ad-client", "ca-pub-7879769699553347");
+              ad.async = true;
+              ad.src =
+                "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+              var sc = document.getElementsByTagName("script")[0];
+              sc.parentNode.insertBefore(ad, sc);
+            })();
+            lazyadsense2 = true;
+          }
+        },
+        true
+      );
+      
+    </script>
   </body>
 </html>

@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/signal-and-system/what-is-a-signal-and-its-types/</guid>
-      <description>what is a signal? A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
+      <description>What is a signal? A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
 So anything that carries information is considered a signal e.g.
 The temperature of a room, Voltage and current in an electronic circuit Digital images, video, or audio Sounds or speeches etc. Position, speed, acceleration, or velocity of an object A stock market index The flow rate of fluid etc.</description>
     </item>
@@ -38,7 +38,7 @@ How do you solve energy and power signals? Here are the few things to remember i
       <description>The following are the basic operations that can be done on discrete time signal
 Addition Subtraction Multiplication Amplitude scaling Time shifting Time reversal Time scaling The first 4 operations are performed along the y or value axis while the last 3 are performed along the x or time axis.
 but before solving problems on it, let’s discuss briefly on what discrete-time signal mean.
-what is discrete-time signals or DTS? Discrete-time signalsrefers to signals that are defined only at discrete or finite time.</description>
+what is discrete-time signals or DTS? Discrete-time signals refers to signals that are defined only at discrete or finite time.</description>
     </item>
     
     <item>
@@ -53,15 +53,34 @@ It has an infinite energy</description>
     </item>
     
     <item>
-      <title>What is a ramp signal?</title>
-      <link>/signal-and-system/what-is-a-ramp-signal/</link>
+      <title>What are Dirichlet conditions for existence of Fourier series?</title>
+      <link>/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/signal-and-system/what-is-a-ramp-signal/</guid>
-      <description>What is a ramp signal?
-A ramp signal is a signal with neither energy nor power
-hrllo
-euieuiiu</description>
+      <guid>/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/</guid>
+      <description>It is said that periodic signals can be analyzed using Fourier series, while non-periodic signals can be analyzed using Fourier transform.
+But not all periodic signals will have a Fourier series expansion, hence here must be conditions a periodic signal have to meet for Fourier series to be used.
+These conditions are defined by the mathematician Dirichlet, hence it is named Dirichlet conditions or the conditions for existence of Fourier series.</description>
+    </item>
+    
+    <item>
+      <title>Differences Between Causal and Non-Causal Signal</title>
+      <link>/signal-and-system/difference-between-causal-and-non-causal-signal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/difference-between-causal-and-non-causal-signal/</guid>
+      <description>A signal can be defined as any physical quantity that carries information and varies with time, space, density, and other independent variable(s). It can also be defined as a pattern of variation in a physical quantity, such as sound or light, that can be measured and analyzed.
+Signals can be classified into different categories or types based on various properties, such as the direction of the signal flow or the time-domain characteristics of the signal.</description>
+    </item>
+    
+    <item>
+      <title>How to Determine if a Signal Is Even or Odd?</title>
+      <link>/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/</guid>
+      <description>Knowing if a signal is an even or an odd signal is very important because it helps to simplify calculations and reduce the number of terms that need to be considered in a Fourier series or Fourier transform.
+For example, when trying to find the Fourier analysis of a function, there are variables that need to be calculated, a0, an and bn where a0 is a constant value, an is the value associated with the even terms and bn is the value associated with the odd terms.</description>
     </item>
     
   </channel>

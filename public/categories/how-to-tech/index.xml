@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>How-to-tech on Tooabstractive</title>
+    <title>[&#34;How-to-tech&#34;] on Tooabstractive</title>
     <link>/categories/how-to-tech/</link>
-    <description>Recent content in How-to-tech on Tooabstractive</description>
+    <description>Recent content in [&#34;How-to-tech&#34;] on Tooabstractive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/categories/how-to-tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,11 +12,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/how-to-create-barcode-in-word/</guid>
-      <description>Barcodes are sometimes referred to as QR codes and it is a graphics with code embedded in it.
-The code in it can represent a link to a website, a word document, an excel file, a power point document, pdf and what have you.
-In this how-to guide I will show you how to create a Barcode or QR code in Microsoft word.
-Step 1: Open a word document
-Step 2: On the tab menu locate insert tab</description>
+      <description>Barcodes are sometimes referred to as QR codes, and it is a graphics with code embedded in it.
+The code in it can represent a link to a website, a Word document, an Excel file, a PowerPoint document, PDF and what have you.
+In this how-to guide, I will show you how to create a Barcode or QR code in Microsoft Word.
+Step 1: Open a Word document
+Step 2: On the tab menu, locate insert tab</description>
     </item>
     
     <item>
@@ -25,9 +25,9 @@ Step 2: On the tab menu locate insert tab</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/how-to-create-qr-code-for-a-page-in-microsoft-edge/</guid>
-      <description>There are just 3 steps to create a QR code for a website or in page in Microsoft edge.
+      <description>There are just 3 steps to create a QR code for a website or in page in Microsoft Edge.
 Step 1 : Browse any website you like to convert to a QR code.
-Step 2 : On the website, right click on the page and go to &amp;ldquo;Create QR cpde for this page&amp;rdquo;.
+Step 2 : On the website, right-click on the page and go to &amp;ldquo;Create QR code for this page&amp;rdquo;.
 Step 3 : Lastly, download or scan the QR code. Apart from creating a QR code for the page you are currently on, you can edit the URL before downloading and put a new URL of your choice and then download to your device or scan.</description>
     </item>
     
@@ -37,9 +37,9 @@ Step 3 : Lastly, download or scan the QR code. Apart from creating a QR code for
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/best-free-graphic-design-software-for-graphics-designers/</guid>
-      <description>In this post we would be discussing on some free best graphic design software or to to use for design graphing as a graphic design.
-Free Graphics Design Software Inkscape is an open source vector based illustrator it is a free alternative to adobe illustrator and offer great feature which can be used to design simple to complex design.
-Some design ideas can be done on Inkscape are business card design, eBook cover design, design of mandala art with it great flexibility, logo design, icon design and also for website mockup.</description>
+      <description>In this post, we would be discussing on some free best graphic design software to use for design graphing as a graphic design.
+Free Graphics Design Software Inkscape is an open source vector based illustrator it is a free alternative to Adobe Illustrator and offer great feature which can be used to design simple to complex design.
+Some design ideas can be done on Inkscape are business card design, e-book cover design, design of mandala art with it great flexibility, logo design, icon design and also for website mockup.</description>
     </item>
     
     <item>
@@ -48,11 +48,11 @@ Some design ideas can be done on Inkscape are business card design, eBook cover 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</guid>
-      <description>You are done building your website but you need an automatic way of generating sitemap for your website without having to do much work.
+      <description>You are done building your website, but you need an automatic way of generating sitemap for your website without having to do much work.
 Here is a simple guide on how to do just that.
 Note.
 Your website has to be built with plain old HTML or any SSG (Static Site Generator) such as Hugo, Gatsby, 11ty etc. and also must be uploaded to Netlify.
-You need to go to your Netlify dashboard Click on the Integrations tab On the integration dashboard, click on the search bar and type &amp;ldquo;sitemap&amp;rdquo; Then, click on enable The sitemap plugin prompt &amp;ldquo;install&amp;rdquo; will appear After clicking the install botton, you will be redirected to the dashboard.</description>
+You need to go to your Netlify dashboard Click on the Integrations tab On the integration dashboard, click on the search bar and type &amp;ldquo;sitemap&amp;rdquo; Then, click on enable The sitemap plugin prompt &amp;ldquo;install&amp;rdquo; will appear After clicking the &amp;ldquo;Install&amp;rdquo; button, you will be redirected to the dashboard.</description>
     </item>
     
     <item>
@@ -62,7 +62,237 @@ You need to go to your Netlify dashboard Click on the Integrations tab On the in
       
       <guid>/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</guid>
       <description>Here is how to use Firefox browser Eyedropper to get the color of any image or text on the web
-Go to your Firefox browser or open any page you will like to get color from Click on the menu bar and then click on more tools Click on Eyedropper Lastly the eyedropper will appear with the hex code showing below it </description>
+Go to your Firefox browser or open any page you would like to get color from Click on the menu bar and then click on more tools Click on Eyedropper Lastly, the eyedropper will appear with the hex code showing below it </description>
+    </item>
+    
+    <item>
+      <title>How to configure a website netlifyCMS to access the admin page using google account</title>
+      <link>/how-to-tech/how-to-configure-a-website-netlifycms-to-access-the-admin-page-using-google-account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-configure-a-website-netlifycms-to-access-the-admin-page-using-google-account/</guid>
+      <description>In today&amp;rsquo;s mini guide, I will be explaining how to access the admin page of a website e.g., yoursite.com/admin which is configured using netlifyCMS using google account.
+The first thing to do is, make sure that there is an admin folder in the root of your website, which has to contain two files: a config.yml and index.html.
+The important thing which allows Netlify to grant access to the admin page when a user goes to his or her website URL/admin is that you there must be a link that has to be embedded into the index.</description>
+    </item>
+    
+    <item>
+      <title>Best Coding Apps for Android: Learn and Practice in 2023</title>
+      <link>/how-to-tech/best-coding-apps-for-android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/best-coding-apps-for-android/</guid>
+      <description>Here are a list of the best coding apps for beginners to start learning how to code in 2023. These apps will help beginners and even intermediate programmers to learn concepts about programming, build projects and solve problems with programming.
+SoloLearn This program offers interactive lessons in several coding languages, including Python, Java, C, C++, C# and more. It also includes a code editor and a user community to help answer questions.</description>
+    </item>
+    
+    <item>
+      <title>27&#43; Online Tools for College Students to Become Smart and Productive (2023)</title>
+      <link>/how-to-tech/online-tools-for-college-students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/online-tools-for-college-students/</guid>
+      <description>Every student at some point in college will get overwhelmed due to the difficult task often faced with.
+But this difficulty can be reduced with the advent of technology as there are several online tools and software programs to help students learn more conveniently, make research easier, remove grammatical error from writing,
+scan document in high-definition, make citation, break complex problems down by using mind mapping apps and saving of files on the cloud and accessing them when needed even though a copy of the file stored on a hard drive has be lost.</description>
+    </item>
+    
+    <item>
+      <title>Netlify Sitemap Plugin: How to Exclude Certain Pages</title>
+      <link>/how-to-tech/netlify-sitemap-plugin-how-to-exclude-certain-pages-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/netlify-sitemap-plugin-how-to-exclude-certain-pages-/</guid>
+      <description>In one of the previous post, we discussed how to automatically generate a sitemap for a website (Specifically Static Site) using Netlify sitemap plugin.
+But in this post, we would be looking at how to exclude some certain pages that we don&amp;rsquo;t want to show on the sitemap page, since Google will crawl and index whatever it finds in the sitemap.
+Go to your netlify.toml config file and add the following code to it.</description>
+    </item>
+    
+    <item>
+      <title>Does Computer Science Teach Coding?</title>
+      <link>/how-to-tech/does-computer-science-teach-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/does-computer-science-teach-coding/</guid>
+      <description>Yes, computer science often includes teaching coding as a core part of the discipline.
+Coding involves writing instructions in a programming language to control the operation of a computer, and is an important tool for solving computer problems and creating software, applications, and systems.
+However, the focus of computer science education can vary, with some programs emphasizing on software and others emphasizing on theoretical computer science, algorithms, data structures, and other areas.</description>
+    </item>
+    
+    <item>
+      <title>What Programming Languages are Taught in Computer Science?</title>
+      <link>/how-to-tech/what-programming-languages-are-taught-in-computer-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/what-programming-languages-are-taught-in-computer-science/</guid>
+      <description>The specific programming languages taught can vary depending on the institution, the course level (e.g., introductory, intermediate, advanced), and the focus of the course (e.g., web development, data science, game development, etc.).
+In addition to learning specific programming languages, computer science courses typically teach fundamental concepts of computer science such as algorithms, data structures, and software development methodologies.
+These concepts can be applied to many programming languages, making them valuable skills for a computer science graduate, regardless of the specific language(s) they learned in their studies.</description>
+    </item>
+    
+    <item>
+      <title>How to Record Video or Audio without Background Noise</title>
+      <link>/how-to-tech/how-to-record-video-or-audio-without-background-noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-record-video-or-audio-without-background-noise/</guid>
+      <description>Do you want to record a video or an audio, but your environment is noisy, and you have nothing to do but to record the video so when you turn up to watch the video or listen to the audio,
+It turns out that it is noisy beyond acceptance after ward you hop up to google and type how to remove noise from video or an audio?
+No worries, you are a few steps away from removing noise from your file and making it sound as if it was recorded in a professional studio.</description>
+    </item>
+    
+    <item>
+      <title>How to remove plugins from Netlify?</title>
+      <link>/how-to-tech/how-to-remove-plugins-from-netlify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-remove-plugins-from-netlify/</guid>
+      <description>In one of our previous post, we discussed on how to install plugins on Netlify.
+But in this post, we are going to be looking at how to remove plugins from Netlify.
+Plugins might be very important because it helps to automate task like generating sitemap for a website or minifying of CSS, JS, or HTML files but with its advantage, it also has downside.
+Because plugins, do increase the build time for deploying a site or even does the opposite of making a site fast.</description>
+    </item>
+    
+    <item>
+      <title>How to fix “Uncaught SyntaxError: import declarations may only appear at top level of a module” | Javascript</title>
+      <link>/how-to-tech/how-to-fix-uncaught-syntaxerror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-uncaught-syntaxerror/</guid>
+      <description>The first time I tried to use import * as Math from &amp;quot;./math.js&amp;quot;;
+I got an error saying “Uncaught SyntaxError: import declarations may only appear at top level of a module”
+I tried solving the issue by adding type=&amp;quot;module” to the html script tag.
+&amp;lt;script src=&amp;#34;/js/script.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; // is changed to &amp;lt;script src=&amp;#34;/js/script.js&amp;#34; type=&amp;#34;module&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Which should work in most cases. Make sure to use “./”, “../” or “/” to kind of help in locating where the file exists.</description>
+    </item>
+    
+    <item>
+      <title>5 Steps on How to Get Youtube Video Data in JSON Format</title>
+      <link>/how-to-tech/how-to-get-youtube-video-data-in-json-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-get-youtube-video-data-in-json-format/</guid>
+      <description>To get your YouTube video data such as link, title in JSON format, here are the steps to follow
+Go to RSS-to-JSON Online converter
+Go to your YouTube channel and grab your channel ID To grab your ID you need to go to your YouTube channel and on the URL of your YouTube page, you will see some code after the https://www.youtube.com/channel/which in my case is UCm814ttdg5c0GvOrRCUE3z8gthat&amp;rsquo;s your channel ID.</description>
+    </item>
+    
+    <item>
+      <title>How to fix &#34;No utility classes were detected in your source files&#34;</title>
+      <link>/how-to-tech/no-utility-classes-were-detected-in-your-source-files-fixed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/no-utility-classes-were-detected-in-your-source-files-fixed/</guid>
+      <description>In this post, I am going to highlight how to troubleshoot &amp;ldquo;No utility classes were detected in your source files&amp;rdquo; error in tailwindcss.
+The problem comes most time due to file path not configured properly. So if you don&amp;rsquo;t have a tailwindcss config file in your project, then that might be one of the issue.
+To make a tailwindcss config file, you need to run this command -
+npx tailwindcss init A tailwind.</description>
+    </item>
+    
+    <item>
+      <title>List of Google Chrome Useful Keyboard Shortcut Keys (2023)</title>
+      <link>/how-to-tech/list-of-chrome-keyboard-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/list-of-chrome-keyboard-shortcuts/</guid>
+      <description>Google Chrome keyboard shortcuts offer several benefits that can improve your browsing experience. They allow you to complete tasks faster, reducing time spent on the computer and increasing productivity.
+By reducing the need for repetitive mouse movements, keyboards can also reduce hand and wrist strain, especially for those who spend long periods of time in front of a computer. In addition, keyboard shortcuts can improve usability for users with disabilities or mobility impairments by making it easier to navigate the site and use content.</description>
+    </item>
+    
+    <item>
+      <title>Tailwind CSS: how do you add :before and :after pseudo-element?</title>
+      <link>/how-to-tech/how-to-add-before-and-after-pseudo-tailwind-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-add-before-and-after-pseudo-tailwind-css/</guid>
+      <description>Tailwind CSS is a nice way to write CSS without having to leave your HTML file, which makes it good for large projects.
+But one of it downside is that you need to be good at CSS to use it.
+In this article, we are going to be looking at how to add the :before and :after pseudo-element to an HTML element.
+Know that :before and ::before is the same, the only difference is that the former (:before or :after) is the old version while the later (::before or ::after) is used in CSS3 – the new version to separate pseudo-elements from pseudo-classes.</description>
+    </item>
+    
+    <item>
+      <title>How to Use Vite with React? Learn How to Create React App with Vite</title>
+      <link>/how-to-tech/how-to-use-vite-with-react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-use-vite-with-react/</guid>
+      <description>Vite is a popular build tool among developers which offers fast development and reduced build times.
+It is packed with features like instant server start, hot module reload (HMR) and pre-bundling.
+Why should you use Vite to Create React App (CRA)? If you have ever used the normal create react app offered by the developers of React, you will see that it takes time to create a React app even though you just want to use it for a simple project.</description>
+    </item>
+    
+    <item>
+      <title>How to Import and Export Modules in Javascript | Simple Explanation</title>
+      <link>/how-to-tech/how-to-export-and-import-modules-in-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-export-and-import-modules-in-javascript/</guid>
+      <description>What is and Why use Module?
+A module in simple term is a broken piece from a huge file. Or let say you have several files and instead of jamming everything into a single js file you can split it into several js files and import each file where necessary.
+It makes code easier to manage and also to help abstract some stuff so you would just focus on executing.</description>
+    </item>
+    
+    <item>
+      <title>How to Preview Markdown(.md) File in VSCode</title>
+      <link>/how-to-tech/how-to-preview-markdown-md-file-in-vscode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-preview-markdown-md-file-in-vscode/</guid>
+      <description>Markdown is a simple and lightweight markup language that is easy to learn and versatile, making it a popular choice among developers for creating formatted documents, notes, and documentation.
+It can be easily managed with version control systems, integrated with other tools and platforms, and helps maintain consistency in formatting. A markdown file ends with (.md) extension.
+How to Preview Markdown(.md) File in Visual Studio Code To preview Markdown files in Visual Studio Code (VSCode), here are the steps you can follow:</description>
+    </item>
+    
+    <item>
+      <title>Javascript ES6 (ECMAScript 6) Explained for Beginners</title>
+      <link>/how-to-tech/explain-es6-in-detail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/explain-es6-in-detail/</guid>
+      <description>ES6, or ECMAScript 6, is a version of JavaScript that comes with several new features and improvements to the language.
+Here are some of the key features of ES6 explained for beginners:
+1. let and const keywords: let and const are two new ways to declare variables in JavaScript. Variables declared with let are block-scoped, meaning they are only accessible within the block they are declared in, and can be reassigned.</description>
+    </item>
+    
+    <item>
+      <title>HTML “textarea” Required Attribute Not Working | How to Fix?</title>
+      <link>/how-to-tech/html-textarea-required-attribute-not-working/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/html-textarea-required-attribute-not-working/</guid>
+      <description>To make an HTML form “textarea” to have a required attribute, all you need to do is to add required or required=&amp;quot;required&amp;quot;
+But sometimes when you add the required attribute to force the user to input data, it does not work. Here&amp;rsquo;s how to fix it.
+Make sure that the &amp;lt;textarea&amp;gt;&amp;lt;/textarea&amp;gt; does not have space in between because if it does have then you have already input some character or text.</description>
+    </item>
+    
+    <item>
+      <title>Why Hexagonal Shape Is Preferred in Cellular Architecture</title>
+      <link>/how-to-tech/why-hexagonal-shape-is-preferred-in-cellular-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/why-hexagonal-shape-is-preferred-in-cellular-architecture/</guid>
+      <description>A cellular land area in cellular networks refers to the geographical area that is divided into smaller regions, or cells, each of which is served by a mobile phone base station. The size and shape of the cells depend on factors such as the number of users in the area, the terrain, and the availability of resources.
+The geometrical shape used in a cellular network can be circular, triangular, rectangular, or hexagonal.</description>
+    </item>
+    
+    <item>
+      <title>12 Essential Tools Engineering Students Need the Most</title>
+      <link>/how-to-tech/essential-tools-do-engineering-students-need/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/essential-tools-do-engineering-students-need/</guid>
+      <description>Here are 12 essential tools every engineering student must have. The purpose of these tools is to help engineering student succeed in their coursework and career, have a nice time studying and be productive.
+1/ Scientific Calculator A scientific calculator is a must-have for any engineering student. It is used to perform complex mathematical calculations, including logarithms, trigonometric functions, and exponential functions. These functions can be challenging to calculate manually, so a scientific calculator can make the process much easier, accurate and time -saving.</description>
+    </item>
+    
+    <item>
+      <title>Where does ChatGPT get its data from?</title>
+      <link>/how-to-tech/where-does-chatgpt-get-data-from/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/where-does-chatgpt-get-data-from/</guid>
+      <description>Key Terminologies What is an AI? AI is a short form for Artificial Intelligence. It refers to the development of computer systems that can perform tasks that normally require human intelligence, such as recognizing speech, understanding natural language, making decisions, and recognizing patterns in data.
+AI systems are designed to learn and improve over time, using algorithms that can identify patterns in data and make predictions based on that data.</description>
     </item>
     
   </channel>

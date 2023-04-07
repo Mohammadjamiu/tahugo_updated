@@ -4,13 +4,19 @@
   <url>
     <loc>/circuit-analysis/how-to-learn-circuit-analysis-basics/</loc>
   </url><url>
+    <loc>/ebooks/ee-files/digital-fundamentals-11th-edition/</loc>
+  </url><url>
     <loc>/funmaths/what-is-crammers-rule/</loc>
   </url><url>
     <loc>/circuit-analysis/why-do-we-study-circuit-analysis/</loc>
   </url><url>
+    <loc>/ebooks/ee-files/analog-and-digital-electronics-u-a-bakshi/</loc>
+  </url><url>
     <loc>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</loc>
   </url><url>
     <loc>/circuit-analysis/what-is-voltage-current-and-resistance/</loc>
+  </url><url>
+    <loc>/ebooks/ee-files/circuit-theory-by-u-a-bakshi-pdf-download/</loc>
   </url><url>
     <loc>/em-post/facts-about-magnets/</loc>
   </url><url>
@@ -22,9 +28,13 @@
   </url><url>
     <loc>/funmaths/how-to-solve-equation-using-calculator/</loc>
   </url><url>
+    <loc>/ebooks/ee-files/network-analysis-and-synthesis-by-ravish-singh/</loc>
+  </url><url>
     <loc>/circuit-analysis/what-is-ohms-law/</loc>
   </url><url>
     <loc>/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</loc>
+  </url><url>
+    <loc>/ebooks/ee-files/the-art-of-electronics-paul-horowitz-pdf/</loc>
   </url><url>
     <loc>/electronics/what-is-a-diode-used-for/</loc>
   </url><url>
@@ -35,13 +45,19 @@
     <loc>/electronics/a-beginners-guide-to-using-a-multimeter/</loc>
     <lastmod>2023-01-04T23:31:20+00:00</lastmod>
   </url><url>
+    <loc>/ebooks/ee-files/electronics-engineering-by-u.a-bakshi-and-a.p-godse-pdf/</loc>
+  </url><url>
     <loc>/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</loc>
   </url><url>
     <loc>/networking/what-is-the-difference-between-pop3-and-imap/</loc>
   </url><url>
+    <loc>/ebooks/ee-files/engineering-electromagnetics-8e-by-william-hayt-pdf/</loc>
+  </url><url>
     <loc>/misce-post/how-to-study-better-in-engineering/</loc>
   </url><url>
     <loc>/circuit-analysis/thevenins-theorem-explain-with-examples/</loc>
+  </url><url>
+    <loc>/ebooks/ee-files/electrical-and-electronics-engineering-by-u-a-bakshi-pdf-download/</loc>
   </url><url>
     <loc>/misce-post/simple-ways-student-can-improve-their-writing-skill/</loc>
   </url><url>
@@ -77,6 +93,8 @@
     <loc>/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</loc>
   </url><url>
     <loc>/networking/what-is-simplex-half-duplex-and-full-duplex/</loc>
+  </url><url>
+    <loc>/electronics/19-steps-for-learning-electronics-as-a-beginner/</loc>
   </url><url>
     <loc>/electronics/digital-to-analog-signal-conversion/</loc>
   </url><url>
@@ -135,6 +153,8 @@
   </url><url>
     <loc>/signal-and-system/difference-between-power-signal-and-energy-signal/</loc>
   </url><url>
+    <loc>/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/</loc>
+  </url><url>
     <loc>/networking/what-is-a-random-process-with-examples/</loc>
   </url><url>
     <loc>/networking/difference-between-tcp-and-udp/</loc>
@@ -171,19 +191,85 @@
   </url><url>
     <loc>/networking/digital-transmission-in-computer-networks/</loc>
   </url><url>
-    <loc>/signal-and-system/what-is-a-ramp-signal/</loc>
-  </url><url>
     <loc>/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/</loc>
   </url><url>
     <loc>/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/</loc>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2023-01-04T23:43:06+00:00</lastmod>
+    <loc>/how-to-tech/how-to-configure-a-website-netlifycms-to-access-the-admin-page-using-google-account/</loc>
+  </url><url>
+    <loc>/how-to-tech/best-coding-apps-for-android/</loc>
+  </url><url>
+    <loc>/how-to-tech/online-tools-for-college-students/</loc>
+  </url><url>
+    <loc>/how-to-tech/netlify-sitemap-plugin-how-to-exclude-certain-pages-/</loc>
+  </url><url>
+    <loc>/how-to-tech/does-computer-science-teach-coding/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-programming-languages-are-taught-in-computer-science/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-record-video-or-audio-without-background-noise/</loc>
+  </url><url>
+    <loc>/science-stuff/why-is-the-troposphere-the-most-important-layer-of-the-atmosphere/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-remove-plugins-from-netlify/</loc>
+  </url><url>
+    <loc>/science-stuff/what-is-a-photoresistor-and-what-is-it-used-for/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-fix-uncaught-syntaxerror/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-get-youtube-video-data-in-json-format/</loc>
+  </url><url>
+    <loc>/how-to-tech/no-utility-classes-were-detected-in-your-source-files-fixed/</loc>
+  </url><url>
+    <loc>/digital-electronics/advantages-of-flip-flop-over-latch/</loc>
+  </url><url>
+    <loc>/digital-electronics/difference-between-latch-and-flip-flop/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-fuse-and-ciruit-breaker/</loc>
+  </url><url>
+    <loc>/how-to-tech/list-of-chrome-keyboard-shortcuts/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-add-before-and-after-pseudo-tailwind-css/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-use-vite-with-react/</loc>
+  </url><url>
+    <loc>/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-export-and-import-modules-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-preview-markdown-md-file-in-vscode/</loc>
+  </url><url>
+    <loc>/science-stuff/classification-of-generation-stations-or-power-plants/</loc>
+  </url><url>
+    <loc>/science-stuff/advantages-of-electrical-energy-over-other-forms-of-energy/</loc>
+  </url><url>
+    <loc>/science-stuff/disadvantages-of-electrical-energy-over-other-forms-of-energy/</loc>
+  </url><url>
+    <loc>/how-to-tech/explain-es6-in-detail/</loc>
+  </url><url>
+    <loc>/how-to-tech/html-textarea-required-attribute-not-working/</loc>
+  </url><url>
+    <loc>/networking/networking-tools-and-their-uses/</loc>
+  </url><url>
+    <loc>/signal-and-system/difference-between-causal-and-non-causal-signal/</loc>
+  </url><url>
+    <loc>/how-to-tech/why-hexagonal-shape-is-preferred-in-cellular-architecture/</loc>
+  </url><url>
+    <loc>/how-to-tech/essential-tools-do-engineering-students-need/</loc>
+  </url><url>
+    <loc>/how-to-tech/where-does-chatgpt-get-data-from/</loc>
+  </url><url>
+    <loc>/electronics/basic-element-of-communication-system/</loc>
+  </url><url>
+    <loc>/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/</loc>
   </url><url>
     <loc>/</loc>
     <lastmod>2023-01-04T23:43:06+00:00</lastmod>
   </url><url>
     <loc>/categories/networking-and-communication/</loc>
+    <lastmod>2023-01-04T23:43:06+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2023-01-04T23:43:06+00:00</lastmod>
   </url><url>
     <loc>/networking/</loc>
@@ -195,37 +281,47 @@
     <loc>/electronics/</loc>
     <lastmod>2023-01-04T23:31:20+00:00</lastmod>
   </url><url>
-    <loc>/categories/signals-and-system/</loc>
+    <loc>/categories/signals-and-systems/</loc>
     <lastmod>2023-01-01T00:56:27+00:00</lastmod>
   </url><url>
     <loc>/signal-and-system/</loc>
     <lastmod>2023-01-01T00:56:27+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-  </url><url>
     <loc>/categories/circuit-analysis/</loc>
   </url><url>
-    <loc>/contact/</loc>
-  </url><url>
     <loc>/categories/digital-electronics/</loc>
+  </url><url>
+    <loc>/ebookcategories/electrical-engineering/</loc>
+  </url><url>
+    <loc>/categories/electromagnetics/</loc>
+  </url><url>
+    <loc>/categories/how-to-tech/</loc>
+  </url><url>
+    <loc>/categories/maths-and-fun/</loc>
+  </url><url>
+    <loc>/categories/productivity-and-writings/</loc>
+  </url><url>
+    <loc>/categories/science-stuff/</loc>
+  </url><url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/contact/</loc>
   </url><url>
     <loc>/digital-electronics/</loc>
   </url><url>
     <loc>/ebookcategories/</loc>
   </url><url>
-    <loc>/categories/electromagnetics/</loc>
+    <loc>/ebooks/ee-files/</loc>
   </url><url>
     <loc>/em-post/</loc>
+  </url><url>
+    <loc>/ebooks/</loc>
   </url><url>
     <loc>/funmaths/</loc>
   </url><url>
     <loc>/how-to-tech/</loc>
   </url><url>
-    <loc>/categories/how-to-tech/</loc>
-  </url><url>
     <loc>/circuit-analysis/</loc>
-  </url><url>
-    <loc>/categories/maths-and-fun/</loc>
   </url><url>
     <loc>/misce-post/</loc>
   </url><url>
@@ -233,7 +329,7 @@
   </url><url>
     <loc>/privacy-policy/</loc>
   </url><url>
-    <loc>/categories/productivity-and-guides/</loc>
+    <loc>/science-stuff/</loc>
   </url><url>
     <loc>/terms-and-conditions/</loc>
   </url>

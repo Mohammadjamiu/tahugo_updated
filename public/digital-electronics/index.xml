@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
-      <description>** Programmable logic array (PLA) and programmable array logic (PAL)** are generally known as programmable logic devices (PLDs) that have programmable AND array but with a difference in which one has additional fixed OR array while the other has an additional programmable OR array. But what is a programmable logic device?
+      <description>Programmable logic array (PLA) and programmable array logic (PAL) are generally known as programmable logic devices (PLDs) that have programmable AND array, but with a difference in which one has an additional fixed OR array while the other has an additional programmable OR array.
+But what is a programmable logic device?
 Programmable logic device (PLD) can be thought of as a blank slate device that can be programmed or reprogrammed depending on the type to perform a logical operation or function.</description>
     </item>
     
@@ -67,6 +68,28 @@ Difference Between RAM and ROM RAM RAM stands for Random Access Memory.</descrip
 This means that a bit consists of a zero and a one. This bit is the smallest unit of computer memory unit.
 What is computer memory units? A computer memory unit is the measure of memory or storage which is used to represent data.
 Like the example of on and off which is a binary digit 0 and 1.</description>
+    </item>
+    
+    <item>
+      <title>Advantages of Flip-Flop over Latch</title>
+      <link>/digital-electronics/advantages-of-flip-flop-over-latch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/digital-electronics/advantages-of-flip-flop-over-latch/</guid>
+      <description>The use of flip-flops in digital electronics has several advantages over latches. Here are some of the advantages:
+Advantages of Flip-flops over Latches Clock Input: Flip-flops have a clock input that allows them to change state only when a clock signal is present. This makes flip-flops useful in synchronous circuits, where all events must occur synchronously.
+Stability: Flip-flops are always stable, while latches can be unstable. The stability of flip-flops makes them useful in systems where the state of the system must be maintained even when the input is not stable.</description>
+    </item>
+    
+    <item>
+      <title>Differences Between Latch and Flip-flop</title>
+      <link>/digital-electronics/difference-between-latch-and-flip-flop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/digital-electronics/difference-between-latch-and-flip-flop/</guid>
+      <description>Latches and flip-flops are both types of circuits used in digital electronics to store binary information. But with this similarity, there are some key differences between them.
+What is a Latch? A latch is a circuit that has two stable states and can store one bit of information. It is a level-sensitive device, which means that its output depends on the level of the inputs.
+Latches are often used to store the state of a system and are used in many applications, such as data storage, memory, and sequential logic.</description>
     </item>
     
   </channel>

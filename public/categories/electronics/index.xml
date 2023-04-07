@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Electronics on Tooabstractive</title>
+    <title>[&#34;Electronics&#34;] on Tooabstractive</title>
     <link>/categories/electronics/</link>
-    <description>Recent content in Electronics on Tooabstractive</description>
+    <description>Recent content in [&#34;Electronics&#34;] on Tooabstractive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jan 2023 23:31:20 +0000</lastBuildDate><atom:link href="/categories/electronics/index.xml" rel="self" type="application/rss+xml" />
@@ -100,8 +100,8 @@ Know that the frequency of human voice is around the range of 20hz to 20Khz whic
       <description>The major reason why we can communicate wirelessly is through the adventure of radio waves.
 What are radio waves? Radio waves are part of the electromagnetic spectrum family with frequencies in the range of 3Khz to 300Ghz which consist of radio frequency RF waves and microwaves.
 It can also be defined as an electromagnetic wave with an electric field (E) and magnetic field (H) components.
-Know
-- **Radio waves** are called wireless wave because the word &#34;</description>
+Know:
+Radio waves are called wireless wave because the word &amp;ldquo;radio&amp;rdquo; is used to signify &amp;ldquo;wireless communication&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -126,6 +126,19 @@ Baseband transmission Baseband transmission refers to transmission in which a di
 Broadband transmission Broadband transmission sometimes referred to as modulation means changing or converting a digital signal to analog signal for transmission.
 Note
 The conversion from digital to analog is possible with modulation.</description>
+    </item>
+    
+    <item>
+      <title>19 Steps for Learning Electronics as a Beginner (2022)</title>
+      <link>/electronics/19-steps-for-learning-electronics-as-a-beginner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/19-steps-for-learning-electronics-as-a-beginner/</guid>
+      <description>Learning electronics is fun because you can think of something and design or make it real. But where the problem lies is not knowing the route to take or what to learn.
+So in this posts I will be highlighting how you can learn electronics as a beginner.
+Start with the fundamentals Learn what a circuit is
+Learn what an electricity is and also how does it flow
+Understand the concept of voltage, current and resistance and the law that governs them which is Ohms law</description>
     </item>
     
     <item>
@@ -190,6 +203,17 @@ What is a horn antenna used for? It is a directional antenna which is used to in
 First what is time domain signal and frequency domain signal.
 What is Time domain signal? Signals in time domain is a signal plotted with the amplitude on the vertical or y axis with respect to time on the horizontal axis or X-axis.
 Signals in time domain are measured in seconds or s.</description>
+    </item>
+    
+    <item>
+      <title>Basic Elements of Communication Systems</title>
+      <link>/electronics/basic-element-of-communication-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/basic-element-of-communication-system/</guid>
+      <description>What is a communication system? A communication system refers to devices, circuits, or networks used for the transmitting, receiving and processing of information or data (such as voice, computer data etc.) between two different points or users.
+Basic elements of communication systems In a communication system, there are generally five basic elements, which are:
+Information (or data, is the actual message such as human voice) Transmitter (a device used for transmitting the information received) Communication Channel (or medium, is the medium where the message can travel through) Noise (or random signal which is introduced while transmitting the information, can be caused due to several natural factors such as thunder, sun radiation etc.</description>
     </item>
     
   </channel>
