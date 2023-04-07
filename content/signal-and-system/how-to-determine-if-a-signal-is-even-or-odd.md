@@ -72,7 +72,12 @@ Let see some examples;
 
    By applying the steps as above, f(-x) = 7(-x)<sup>3</sup>⁣ – 3(-x).
 
-   So f(-x) = 7x<sup>3</sup> + 3x as the cube of any negative number yields a negative number also the multiplication of a negative sign and another negative sign give s a positive sign.
+   So f(-x) = -7x<sup>3</sup> + 3x as the cube of any negative number yields a negative number also the multiplication of a negative sign and another negative sign give s a positive sign.
 
-   By comparing f(x) = 7x<sup>3</sup>⁣ – 3x and f(-x) = 7x<sup>3</sup> + 3x, as f(-x) is not equal to f(x) then it is considered to be an odd function.\
+   By comparing f(x) = 7x<sup>3</sup>⁣ – 3x and f(-x) = -7x<sup>3</sup> + 3x, as f(-x) is not equal to f(x) then it is considered to be an odd function.
+
+   >Note:
+   >You can see that f(-x) = -7x<sup>3</sup> + 3x can be written as -f(x) just by factorizing f(-x).
+   >i.e., f(-x) = -f(x) = -(7x<sup>3</sup> - 3x).
+   
    Other examples of an odd function is sin(x), x<sup>3</sup> etc.
