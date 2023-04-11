@@ -1,5 +1,5 @@
 ---
-title: "What Is Ohms Law In Simple Terms? And Why Is It Useful"
+title: "What Is Ohms Law In Simple Terms? And Why Is It Useful?"
 postdate: October 07, 2021
 image: "/images/ohmvariation_2.webp"
 description: "The ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematical
@@ -15,8 +15,6 @@ Google_Ads: true
 draft: false
 ---
 
-
-
 <div class="content-summary">
 <h3>Content Summary</h3>
 <ul>
@@ -31,7 +29,7 @@ Ohms law is the law that most other techniques (e.g. kirchoffs law, nodal analys
 </div>
 <br>
 <div class="content">
-<h2>what is ohm's law and why do we need it</h2>
+<h2>What is ohm's law and why do we need it</h2>
 <p>
 The ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematical
 expressions which says V = IR.

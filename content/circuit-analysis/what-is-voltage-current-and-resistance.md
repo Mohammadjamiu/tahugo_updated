@@ -1,5 +1,5 @@
 ---
-title: "What Is Voltage, Current and Resistance In Simple Terms?"
+title: "What Is Voltage, Current, and Resistance In Simple Terms?"
 postdate: October 07, 2021
 image: "/images/current-denote_1.webp"
 description: "Every wire or conductor is composed of atoms which consist of many protons, electrons and neutrons. These electrons are stationary and in order to make them move we apply a battery which provides force
