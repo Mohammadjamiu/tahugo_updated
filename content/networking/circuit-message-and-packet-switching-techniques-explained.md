@@ -18,15 +18,16 @@ author: Mohammad Abdul
 mathjax: false
 Google_Ads: true
 ---
+
 **Switching in computer network** is what help in deciding the best route for data transmission in a larger network if there are multiple paths.
 
 This is to ensure that the efficient use of channels is achieved and to make communication and transmission reliable.
 
 There are three types of switching techniques;
 
-* Circuit switching,
-* Message switching, and
-* Packet switching
+- Circuit switching,
+- Message switching, and
+- Packet switching
 
 ## What is Circuit Switching?
 
@@ -53,11 +54,9 @@ Unlike in circuit switching where a dedicated path is established, **a message s
 
 **Message switching**, is a method of transmitting data that involves dividing the data into messages.
 
-
-
-> **A message** is a unit of data that contains the complete information that needs to be transmitted from the source to the destination. It is usually considered as a single entity, and it can be of any size depending on the amount of data being transmitted. For example, an email message or a text message is a complete message that contains all the information that needs to be sent.
-
-
+> **A message** is a unit of data that contains the complete information that needs to be transmitted from the source to the destination. It is usually considered as a single entity, and it can be of any size depending on the amount of data being transmitted.
+>
+> For example, an email message or a text message is a complete message that contains all the information that needs to be sent.
 
 It uses a store and forward mechanism whereby a message is broken into pieces or chunks and are transferred to an intermediary node which helps to store the messages.
 
@@ -78,11 +77,8 @@ When the messages are completely stored, they are forwarded to their destination
 
 **In packet switching**, a message is broken into individual chunks called packets.
 
-
-
-> **A packet** is a small unit of data that is used to transmit a part of the message over the network. A message is divided into several packets, and each packet contains a part of the message along with some additional information such as the destination address, the sequence number, and error checking information.
-
-
+> **A packet** is a small unit of data that is used to transmit a part of the message over the network.
+> A message is divided into several packets, and each packet contains a part of the message along with some additional information such as the destination address, the sequence number, and error checking information.
 
 Each packet is sent individually with a source and destination IP address, and also with a sequence number to help in the reordering or rearrangement of the packets received at the receiver end.
 
@@ -98,8 +94,8 @@ This type of technique is used on the Internet.
 
 Packet switching is further divided into two;
 
-* Datagram packet switching and
-* Virtual circuit packet switching
+- Datagram packet switching and
+- Virtual circuit packet switching
 
 ## What is a Datagram Packet Switching?
 

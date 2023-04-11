@@ -26,85 +26,136 @@ Google_Ads: true
 <br>
 <!-- End of Unsplash Image Embed Code -->
 
-In optical fibers, there are lots of factors that contribute to degradation of transmitted optical power which includes attenuation, dispersion and scattering.
+**In optical fibers**, there are lots of factors that contribute to degradation of transmitted optical power which includes attenuation, dispersion, and scattering.
 
 So in this post I would be discussing what the scattering losses are in optical fiber.
 
-Scattering losses in optical fiber are categorized into;
+## What is Scattering?
 
-Linear and non-linear scattering loss, which are further categorized as below.
+**Scattering** is a phenomenon that occurs when a wave (such as light or sound) comes into contact with an object or a material. The wave is then redirected or scattered in different directions. This can cause the wave to spread out, change direction, or change the way it vibrates.
 
-1. Linear scattering
-2. Nonlinear scattering
+For example, imagine shining a flashlight beam onto a surface with tiny particles, such as dust or smoke. The light waves will interact with the particles and scatter in different directions, causing the beam to appear hazy or diffused. Similarly, when sound waves hit a wall, they are scattered and bounce back, which is why we can hear echoes.
 
-## 1. Linear scattering
+**Scattering** can also change the characteristics of the wave. For instance, the scattered wave might have a different direction, polarization, or intensity than the original wave.
 
-Linear scattering results in the transfer of some or all of the optical (light) power contained within one propagating mode to a different mode linearly.
+This concept is important in many fields, including optics, acoustics, and radar. For instance, in optics, scattering can cause light to be absorbed or scattered in optical fibers, which can affect the transmission of information. 
 
-Thus leads to attenuation of power because some of the transferred power may escape to a radiation mode which will absorb the power without reflecting it back.
+In acoustics, scattering can be used to create echoes and reverberation in concert halls. And in radar, scattering can be used to detect objects, such as airplanes or ships, by bouncing radio waves off of them and analyzing the scattered waves.
 
-## Rayleigh scattering
+## Types of Scattering Losses in Optical Fiber
 
-**Rayleigh scattering** is a form of an elastic scattering in which the photon (tiny particles) energy or frequency of the scattered light remains unchanged.
+Scattering losses in optical fiber are categorized into:
 
-You can think of this in terms of an elastic band where if you expand the band it can return to its original band whereas in an inelastic band the band is fixed so a scattering that exhibit inelastic will yield a fixed energy i.e. if particles collide, it just magnet itself to the other.
+1. Linear scattering (elastic scattering)
+2. Nonlinear scattering (inelastic scattering)
 
-## Mie scattering
+ Linear scattering is further categorized into:
 
-**Mie scattering** is as a result of the non-perfect cylindrical structure of an optical fiber and the irregularities at the core-cladding interface (or refractive index).
-<br>
+* Rayleigh scattering, and 
+* Mie scattering
 
-## 2. Nonlinear scattering
+while, Nonlinear scattering is further categorized into:
 
-The response of any dielectric material to intense light yields a nonlinear effect. As optical fibers are made up of glass which is a dielectric, hence there is nonlinear scattering.
+* Raman scattering, 
+* Brillouin scattering, 
+* Four-wave mixing,
+* Self-phase modulation (SPM), and
+* Cross-phase modulation (XPM)
 
-It is said that nonlinear scattering results in gain but with a shift in frequency.
+## 1/ Linear Scattering
 
-## Stimulated Brillouin Scattering (SBS)
+**Linear scattering** is a type of elastic scattering where the scattered wave has the same wavelength, frequency, and phase as the incident wave. The energy and momentum of the scattered wave are conserved in linear scattering. 
 
-**SBS** is as a result of the modulation of light through thermal (heat) molecular vibrations within an optical fiber.
-Or it can be said to be a scattering of light which is caused by acoustic waves (waves due to vibration).
+Linear scattering can cause the transfer of optical power from one propagating mode to another, resulting in attenuation of the transmitted light. 
 
-## Stimulated Raman Scattering (SRS)
+In order words, linear scattering is a type of scattering that happens when a wave (like light) hits an object and is scattered in different directions, but the scattered wave has the same wavelength, frequency (number of waves per second) and phase (position of the wave) as the original wave.
 
-**SRS** involves the scattering of light from vibrating silica molecules within an optical fiber.
+There are two types of linear scattering – Rayleigh scattering and Mie scattering. 
 
-SBS and SRS are quite similar with an exception that in SBS acoustic phonons (sound particles) are generated whereas in SRS, high-frequency optical phonons are generated.
+### **a) Rayleigh scattering**
 
-**Advantage of SRS**
+**Rayleigh scattering** is a form of an elastic scattering that occurs when light interacts with small particles or objects that are much smaller than the wavelength of the incident light. This type of scattering is named after Lord Rayleigh, who first described it in the late 19th century.
 
+Rayleigh scattering is responsible for the blue color of the sky and the white color of clouds. The scattering of sunlight by the Earth's atmosphere causes the shorter blue wavelengths of light to scatter more than the longer red wavelengths, making the sky appear blue. Similarly, clouds appear white because the water droplets that make up clouds scatter all wavelengths of light equally.
 
-SRS can act as an amplifier if the pump (laser) wavelength is chosen suitably.
+In optical fibers, Rayleigh scattering is the dominant intrinsic loss mechanism in the low-absorption window between the ultraviolet and infrared absorption tails. This occurs due to random inhomogeneities in the glass lattice that lead to refractive index fluctuations. These fluctuations cause the light to scatter as it propagates through the fiber, resulting in attenuation of the transmitted light.
 
-**Disadvantages of SRS**
+## b) Mie scattering
 
+**Mie scattering** is a type of scattering that occurs when light interacts with particles or objects that are comparable in size to the wavelength of the incident light. This type of scattering is named after Gustav Mie, who first described it in the early 20th century.
 
-It results in inter-channel crosstalk in WDM system.
+In optical fibers, Mie scattering occurs when light interacts with particles or inhomogeneities in the fiber core or cladding that are larger than the wavelength of the incident light. Unlike Rayleigh scattering, which is caused by random inhomogeneities in the glass lattice, Mie scattering is caused by intentional or unintentional inclusions in the fiber core or cladding.
 
-## Self-phase modulation (SPM)
+**Mie scattering** is responsible for modal noise in multimode fibers, which is a form of signal degradation that occurs when light propagates through multiple modes in a fiber. The presence of inclusions in the fiber core or cladding can cause light to scatter between modes, leading to variations in the optical power distribution among the different modes.
 
-**SPM** is a nonlinear effect which is as a result of the interaction of light-matter (molecules). The light pulses change its spectrum due to its own intensity from an induced varying refractive index of the medium.
+</br>
+
+## 2./ Nonlinear scattering
+
+**Non-linear scattering** is a type of inelastic scattering that occurs when light interacts with a material in a non-linear manner. Non-linear scattering can occur when the intensity of the incident light is high enough to cause changes in the material's refractive index or when the light interacts with molecules or particles that have non-linear optical properties. 
+
+In non-linear scattering, the intensity of the scattered light is not proportional to the intensity of the incident light, and the scattered light can be polarized in different planes than the incident light.
+
+In order words, non-linear scattering results in a scattered wave with different wavelength, frequency, or phase than the incident wave. The energy and momentum of the scattered wave are not conserved, hence, the scattered wave has different characteristics than the incident wave. 
+
+Non-linear scattering includes Raman scattering, Brillouin scattering, four-wave mixing, self-phase modulation (SPM), and cross-phase modulation (XPM).
+
+### a) Raman Scattering
+
+**Raman scattering,** is a type of inelastic scattering that occurs when light interacts with the vibrational modes of molecules in a material. In this process, the incident photon interacts with a molecule and excites it to a virtual state before being re-emitted in a different direction with a different frequency and energy.
+
+The frequency shift of the scattered light is directly related to the vibrational energy of the molecule, which is a characteristic property of the material. 
+
+This makes Raman scattering a powerful tool for chemical and material analysis, as it provides information about the molecular structure and composition of a sample.
+
+**Stimulated Raman scattering (SRS)** is a nonlinear optical process that can enhance Raman scattering by stimulating the vibrational modes of the molecules in a material. In SRS, a high-intensity pump beam is used to amplify the Raman signal, leading to a stronger and more easily detectable output signal.
+
+Raman scattering has many applications in science and engineering, including materials science, chemistry, and biology. It can be used to identify and characterize materials, monitor chemical reactions, and analyze biological samples, among other things.
+
+### b) Brillouin Scattering
+
+**Brillouin scattering** is a type of inelastic scattering that occurs when light interacts with a material, usually a solid or a liquid, causing the material to vibrate.
+
+It can also be said to be a scattering that occurs due to the interaction of an incident light with the acoustic wave in a material. 
+
+The vibrating material then scatters the light, shifting its frequency by an amount proportional to the frequency of the vibration.
+
+The scattering of the light by the vibrating material is known as Brillouin scattering, named after the French physicist Léon Brillouin who first observed it in 1922. Brillouin scattering can be either stimulated or spontaneous, depending on whether the material is excited by an external stimulus or if it oscillates on its own.
+
+**Stimulated Brillouin scattering (SBS)** is used in optical fibers and other waveguides to control and manipulate light signals. By tuning the frequency of the incident light to match the frequency of the vibrational modes of the fiber, the scattered light can be shifted to a new frequency, which allows for amplification or attenuation of the light signal.
+
+Brillouin scattering also has applications in materials science, where it can be used to study the mechanical properties of materials and to detect stress and strain in solid materials.
+
+Read On: [Difference Between Raman and Brillouin Scattering](/networking/difference-between-raman-and-brillouin-scattering/)
+
+### c) Self-phase modulation (SPM)
+
+**Self-phase modulation (SPM)** is a non-linear effect that occurs when a high-intensity optical signal travels through an optical fiber. The intensity of the signal causes a change in the refractive index of the fiber, which in turn causes a phase shift in the signal. 
+
+This phase shift can cause the signal to spread out in time and frequency, leading to distortion of the transmitted signal.
+
+In other words, it is a nonlinear effect which is as a result of the interaction of light-matter (molecules). The light pulses change its spectrum due to its own intensity from an induced varying refractive index of the medium.
 
 Pulse spectrum is the frequency distribution of the sine component of a pulse.
 
-## Cross-phase modulation (XPM)
+### d) Cross-phase modulation (XPM)
 
-**XPM** is a nonlinear optical effect which is as a result of the wavelength of one light affecting the phase of another wavelength of light.
+**Cross-phase modulation (XPM)** is a non-linear effect that occurs when two optical signals, typically from two different channels, interact with each other in an optical fiber.
+
+The interaction between the signals causes a change in the refractive index of the fiber, which in turn causes a phase shift in one of the signals. 
+
+This phase shift can cause distortion of the signal and can lead to crosstalk between different channels in a fiber optic communication system.
+
+In other words, it is a nonlinear optical effect which is as a result of the wavelength of one light affecting the phase of another wavelength of light.
 
 It does so using the Kerr effect (an effect which is the change of refractive index of a material in response to an electric field applied to the material).
 
 In this case, one wavelength results in refractive index change and this new refractive index change has an effect on another wavelength.
 
-**Advantage of XPM**
-<br>
+### e) Four-wave mixing (FWM)
 
-XPM results in the compression of ultrashort pulses.
+**Four-wave mixing** is a non-linear effect that occurs when two or more incident waves interact with each other in a non-linear medium and produce a new wave with a different frequency and phase. 
 
-**Disadvantages of XPM**
-<br>
+Four-wave mixing can be used for wavelength conversion and signal processing in optical fibers.
 
-It results in inter-channel crosstalk in WDM system.
-
-## Four-wave mixing (FWM)
-
-**FWM** involves the interaction of two or three wavelength which results in a new two or one wavelength.
+In other words, FWM involves the interaction of two or three wavelength which results in a new two or one wavelength.
