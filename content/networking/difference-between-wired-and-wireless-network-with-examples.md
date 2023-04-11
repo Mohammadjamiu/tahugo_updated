@@ -3,11 +3,11 @@ title: Difference Between Wired and Wireless Networks With Examples
 slug: difference between wired and wireless network with examples
 postdate: April 11, 2023
 description: difference between wired and wireless network with examples
-categorylabel: Electronics
-categories: '["Electronics"]'
+categorylabel: Networking and Communication
+categories: '["Networking and Communication"]'
 image: /images/radio.webp
 weight: 125
-categorylink: /categories/electronics
+categorylink: /categories/networking-and-communication
 type: posts
 author: Mohammad Jamiu
 Affliate_Links: false
