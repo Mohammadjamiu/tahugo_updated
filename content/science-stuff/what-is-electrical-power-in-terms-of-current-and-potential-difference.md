@@ -37,14 +37,16 @@ This formula can be rearranged to find any one of the three values if the other 
 
 For example, let's say we have a circuit with a voltage of 120 volts and a current of 2 amperes. Using the formula, we can calculate the power as follows:
 
-P = VI, P = 120 V × 2 A therefore, P = 240 watts
+**P = VI, P = 120 V × 2 A therefore, P = 240 watts**
 
 This means that the circuit is using or generating electrical power at a rate of 240 watts.
 
 In another example, if a light bulb is connected to a 120-volt electrical circuit and draws a current of 1 ampere, the electrical power used by the light bulb is:
 
-P = I × V, P = 1 A × 120 V = 120 watts.
+**P = I × V, P = 1 A × 120 V = 120 watts.**
 
 This means that the light bulb is using electrical power at a rate of 120 watts, which determines how bright the light will be.
 
-In practical applications, electric power is used to run electrical devices, such as lights, appliances, and motors. The amount of power required by these devices varies depending on their design and intended use. The higher the power rating of a device, the more electrical energy it consumes or generates per unit of time.
+In practical applications, electric power is used to run electrical devices, such as lights, appliances, and motors. The amount of power required by these devices varies depending on their design and intended use. 
+
+The higher the power rating of a device, the more electrical energy it consumes or generates per unit of time.
