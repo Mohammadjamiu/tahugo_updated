@@ -2,7 +2,9 @@
 title: Difference Between Raman and Brillouin Scattering
 slug: difference between raman and brillouin scattering
 postdate: April 10, 2023
-description: Difference Between Raman and Brillouin Scattering
+description: Raman scattering occur due to the interaction of light with the
+  vibrational modes of the material while Brillouin scattering occur due to the
+  interaction of light with the acoustic waves in the material.
 categorylabel: Networking and Communication
 categories: '["Networking and Communication"]'
 image: /images/fiber.webp

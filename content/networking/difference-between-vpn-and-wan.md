@@ -2,7 +2,9 @@
 title: Difference Between VPN and WAN
 slug: difference between vpn and wan
 postdate: April 11, 2023
-description: Difference Between VPN and WAN
+description: VPN is a technology that allows users to create a secure and
+  private connection over the internet while, WAN is a network that connects
+  devices over a large geographical area
 categorylabel: Networking and Communication
 categories: '["Networking and Communication"]'
 image: /images/networks-installment.webp

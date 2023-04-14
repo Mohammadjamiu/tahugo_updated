@@ -2,7 +2,8 @@
 title: Examples of Devices That Use Capacitors
 slug: examples of devices that use capacitors
 postdate: April 11, 2023
-description: Examples of Devices That Use Capacitors
+description: "Examples of Devices That Use Capacitors include: projectors,
+  computers, radios, cameras, television etc."
 categorylabel: Electronics
 categories: '["Electronics"]'
 image: /images/pexels-pixabay-163100.webp

@@ -2,7 +2,11 @@
 title: Difference Between Wired and Wireless Networks With Examples
 slug: difference between wired and wireless network with examples
 postdate: April 11, 2023
-description: difference between wired and wireless network with examples
+description: Wired networks are networks where devices (such as computers,
+  printers, and routers) are physically connected to each other and to the
+  internet or another network using cables while, Wireless networks use radio
+  waves or infrared signals to connect devices without the need for physical
+  cables.
 categorylabel: Networking and Communication
 categories: '["Networking and Communication"]'
 image: /images/radio.webp

@@ -2,7 +2,9 @@
 title: Why Is Laser Used in Optical Fiber Communication?
 slug: why is laser used in optical fiber communication
 postdate: April 13, 2023
-description: Why is laser used in optical fiber communication
+description: Laser is used in optical fiber communication because it can produce
+  a very high intensity, coherent beam of light that can carry a large amount of
+  information over long distances with minimal signal loss or attenuation.
 categorylabel: Networking and Communication
 categories: '["Networking and Communication"]'
 image: /images/laserworld-laserbeam-llqy3id5xxm-unsplash.webp
