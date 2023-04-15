@@ -29,11 +29,9 @@ Modulation is the process of using a carrier wave (which is of a high frequency 
 **Some key terms to note;**
 <br>
 
-<ul class="ul-in-post">
-<li>The third party that help you to carry your information over a long distance is referred to as the **carrier wave**.</li>
-
-<li>The information you want to pass is called the **baseband signal** and sometimes referred to as message signal or modulating signal.</li>
-</ul>
+>The third party that help you to carry your information over a long distance is referred to as the **carrier wave**
+>
+>The information you want to pass is called the **baseband signal** and sometimes referred to as message signal or modulating signal.
 
 ## Why do we need to modulate?
 
@@ -47,13 +45,12 @@ That’s why we modulate so as to use a frequency that is greater than the frequ
 
    But you might be wondering is there an antenna in my phone since information can only be transmitted using an antenna? Yes there is, but it is called a micro-strip antenna because it has small size and there are a lot more antennas shapes and size. Also some that we can find on the police phone, has a helix antenna.
 
-   <blockquote class="blockquote">
-   <p class="little-nugget">Terminology</p>
-   <p class="quote-text">Know that there are a lot of antennas with different size, shapes and use cases. Just as the police phone uses a helix antenna.
-   </p>
-    <p class="quote-text">**An antenna** is a transducer that serves as an interface for the transmission or reception of information that is in form of electromagnetic wave.
-   </p>
-   </blockquote>
+>**Terminology**
+>
+>Know that there are a lot of antennas with different size, shapes and use cases. Just as the police phone uses a helix antenna.
+>
+>**An antenna** is a transducer that serves as an interface for the transmission or reception of information that is in form of electromagnetic wave.
+
 
    So in order to reduce the height of an antenna, we need to know that the height of an antenna is a function of frequency and wavelength. By standard, the minimum height of an antenna is given by wavelength $\frac{\lambda}{4}$.
 
