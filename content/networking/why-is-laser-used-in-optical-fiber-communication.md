@@ -37,6 +37,8 @@ The light produced by a laser is monochromatic (meaning, it is of a single wavel
 
 **Laser light** is produced by a process called **stimulated emission**. In this process, photons (particles of light) are emitted from an excited atom or molecule when they are hit by another photon with the same energy and frequency. This creates a cascade of photons that are all in phase with each other, creating a highly coherent beam of light.
 
+**Read on:** [Optical Sources in Optical Fiber Communication](/networking/optical-sources-in-optical-fiber-communication/)
+
 In an optical fiber communication system, the laser light is modulated with the information that needs to be transmitted. This can be done by varying the intensity, frequency, or phase of the light in accordance with the data being transmitted. 
 
 For example, in a digital communication system, the laser can be turned on and off rapidly to represent binary 1s and 0s.
