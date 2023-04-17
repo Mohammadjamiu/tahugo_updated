@@ -1,9 +1,10 @@
 ---
 title: What Is Electrical Power in Terms of Current and Potential Difference?
-slug: "Electric power can be calculated using two basic measurements: current
-  and potential difference, which are related to each other by Ohm's law."
+slug: what is electrical power in terms of current and potential difference
 postdate: April 11, 2023
-description: What Is Electrical Power in Terms of Current and Potential Difference?
+description: "Electric power can be calculated using two basic measurements:
+  current and potential difference, which are related to each other by Ohm's
+  law."
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/polarityreverse_1.webp
