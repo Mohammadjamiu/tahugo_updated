@@ -2,10 +2,10 @@
 title: Where does ChatGPT get its data from?
 slug: where does ChatGPT get data from
 postdate: March 28, 2023
-description: The ChatGPT model, is trained on a large dataset of text data which
-  comes from a variety of sources, such as books, articles, websites, and social
-  media. The text data is carefully curated to ensure that it represents a
-  diverse range of topics and styles of writing.
+description: ChatGPT an AI chatbot is trained on a large dataset of text data
+  which comes from a variety of sources, such as books, articles, websites, and
+  social media. The text data is carefully curated to ensure that it represents
+  a diverse range of topics and styles of writing.
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/ilgmyzin-agfmimwypso-unsplash-1-.webp
