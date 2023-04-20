@@ -136,28 +136,28 @@ body {
 
 h1 {
   font-family: MuliBold, sans-serif;
-  font-size: 2.65rem;
+  font-size: 2.8rem;
   margin: 2.3rem auto;
 }
 
 h2 {
   font-family: MuliBold, sans-serif;
-  font-size: 2.35rem;
+  font-size: 2.5rem;
   margin: 2.1rem auto;
 }
 h3 {
   font-family: MuliBold, sans-serif;
-  font-size: 1.95rem;
+  font-size: 2.1rem;
   margin: 1.9rem auto;
 }
 h4 {
   font-family: MuliBold, sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   margin: 1.7rem auto;
 }
 p {
   font-family: Muli, sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   font-weight: 500;
   margin: 1.6rem auto;
 }
@@ -168,8 +168,9 @@ strong {
 }
 
 blockquote {
-  background-color: #2f7be426;
-  border-left: 0.6rem solid #6494d6;
+  background-color: #10294d1e;
+  border-left: 0.8rem solid #10294d;
+  /* border-left: 0.6rem solid #6494d6; */
   padding: 2rem 1.5rem 2rem 2rem;
   font-weight: 500;
   border-radius: 0.3rem;
