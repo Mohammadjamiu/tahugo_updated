@@ -913,11 +913,12 @@ img.footer-icon {
        padding: 0 2rem;
   }
 
-.recent-posts-card, .explore-more-card{
+.recent-posts-card, .explore-more-card,.youtube-content-wrapper{
 
   grid-template-columns: repeat(auto-fill, minmax(27rem, 1fr));
 
 }
+
 
   .container-grid {
     max-width: 1200px;
