@@ -193,6 +193,16 @@ img.img-in-all-post {
   position: absolute;
   bottom: 2rem;
 }
+@media (min-width: 760px) {
+ 
+.all-posts-card {
+  /* background-color: #746d19; */
+  margin-top: 5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(27rem, 1fr));
+  gap: 3rem;
+}
+}
 
 /* Category Container/Taxonomy Page Style */
 .category-container {
@@ -260,6 +270,7 @@ h2.story-block:after {
 /* Single page post metadata */
 .single-page-container {
   margin-top: 2.5rem;
+  padding: 0 2rem;
 }
 .single-page-container h1 {
   margin-top: 0.2rem;

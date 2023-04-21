@@ -908,13 +908,39 @@ img.footer-icon {
   }
 
   .container {
-    max-width: 1150px;
+    max-width: 1200px;
     margin: 0 auto;
+       padding: 0 2rem;
+  }
+
+.recent-posts-card, .explore-more-card{
+
+  grid-template-columns: repeat(auto-fill, minmax(27rem, 1fr));
+
+}
+
+  .container-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    /* flex-direction: row; */
+    gap: 2rem;
+    position: relative;
+  }
+
+  .sidebar {
+  
+    min-width: auto;
+    width: 100%;
+    max-width: 30rem;
+    margin-top: 2.5rem;
   }
 
   .single-page-container {
-    max-width: 920px;
-    margin: 0 auto;
+    max-width: 950px;
+
+  
   }
   .carousel-container {
     /* max-width: 1150px; */
@@ -979,7 +1005,6 @@ img.footer-icon {
   padding: 2rem 2rem 4rem;
   border-radius: 1rem;
   color: #fff;
-
 }
 
 .snippet__text-content {
