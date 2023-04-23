@@ -14,13 +14,14 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
+
 [Vite ](https://vitejs.dev/)is a popular build tool among developers which offers fast development and reduced build times.
 
 It is packed with features like instant server start, hot module reload (HMR) and pre-bundling.
 
 ## Why should you use Vite to Create React App (CRA)?
 
-If you have ever used the normal create react app offered by the developers of React, you will see that it takes time to create a React app even though you just want to use it for a simple project. 
+If you have ever used the normal create react app offered by the developers of React, you will see that it takes time to create a React app even though you just want to use it for a simple project.
 
 Another thing is that its folders are kind of bloated with files, which for a starter project might not be useful.
 
@@ -28,15 +29,15 @@ But with Vite, you can create a React app with less build time and the files in 
 
 ## How do I use Vite for React app?
 
-Here are the steps to follow to create a React app with Vite from scratch - 
+Here are the steps to follow to create a React app with Vite from scratch -
 
 > **Pre-requisite:**
 >
 > Make sure to have node installed on your machine.
 >
-> To see if you have node install, use the command `node -v` in your terminal to know the version of know you have.
+> To see if you have node install, use the command `node -v` in your terminal to know the version of node that you have.
 >
-> If you dont have node install, you can to their website and [install](https://nodejs.org/en/) on your machine - it is that straight forward.
+> If you dont have node install, you can go to their website and [install](https://nodejs.org/en/) it on your machine - it is that straight forward.
 
 1. Create a folder and name it whatever you want – in this example, **vite_react** is used as the name of the folder.
 
@@ -72,13 +73,13 @@ Here are the steps to follow to create a React app with Vite from scratch -
 
 ![vite choose react](/images/vite-choose-react.webp "vite choose react")
 
-7. It will also ask to choose a variant. The variant indicates if you would like to use Vanilla JavaScript or Typescript. So select your choice, but I will select JavaScript. 
+7. It will also ask to choose a variant. The variant indicates if you would like to use Vanilla JavaScript or Typescript. So select your choice, but I will select JavaScript.
 
    Then click enter.
 
 ![select variant](/images/vite-select-variant.webp "select variant")
 
-8. Now change your directory to the **"start-react-project"** by running `cd start-react-project` 
+8. Now change your directory to the **"start-react-project"** by running `cd start-react-project`
 
 ![vite ask to cd into folder](/images/vite-cd-to-project.webp "vite ask to cd into folder")
 
