@@ -22,13 +22,13 @@ It is similar to the <a href="/networking/the-seven-layers-of-the-osi-model-expl
 
 The TCP/IP layers are;
 
-4). Application layer
+4. Application layer
 
-3). Transport Layer
+5. Transport Layer
 
-2). Internet Layer
+6. Internet Layer
 
-1). Link Layer
+7. Link Layer
 
 In comparing the layers in TCP/IP and the layers in OSI model, you will find out that the application layer in TCP/IP consist of the 3 layers in the OSI model which are the application layer itself, presentation layer and the session layer.
 
@@ -38,16 +38,12 @@ The internet layer in TCP/IP is used to represent the network layer (in OSI mode
 
 And lastly, the Link layer comprises of the data-link and physical layer of the OSI model.
 
-<img src="/images/tcpcomp.webp" alt="comparison between TCP/IP and OSI model" loading="lazy">
+<img src="/images/tcpcomp.webp" alt="comparison between TCP/IP and OSI model">
 
-<blockquote class="blockquote">
-<p class="little-nugget">Note</p>
-<p class="quote-text">
-The 4 layer of the TCP/IP is called the original Layers but has been updated so it consists of 5 layers . There is no much difference between the 4 layer and the 5 layer TCP/IP as the link layer is remove and it is replaced with the data-link and physical layer.
-
-</p>
-</blockquote>
-<br>
+> _Note_
+>
+> The 4 layer of the TCP/IP is called the original Layers but has been updated so it consists of 5 layers.
+> There is no much difference between the 4 layer and the 5 layer TCP/IP as the link layer is remove and it is replaced with the data-link and physical layer.
 
 ## Application layer
 

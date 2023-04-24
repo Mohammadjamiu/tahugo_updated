@@ -217,7 +217,7 @@ a:focus {
 img {
   border: 0.18rem solid var(--accent-color);
   max-width: 100%;
-  height: 100%;
+  /* height: 100%; */
   margin: 2rem auto;
   display: inline-block;
   border-radius: 0.8rem;

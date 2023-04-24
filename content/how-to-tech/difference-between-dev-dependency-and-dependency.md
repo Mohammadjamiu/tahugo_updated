@@ -17,7 +17,6 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-
 ![Dependency and devDependency in pacakage.json](/images/dependency-nad-devdep.webp "Dependency and devDependency")
 
 **Dependency and devDependency** are external packages or libraries that a project or application relies on in order to function or execute properly.
@@ -107,7 +106,7 @@ These are the devDependencies.
 ## Difference Between Dev Dependency and Dependency
 
 |     | Dependency                                                                                                                                                                   | DevDependency                                                                                                                                                                                                                                              |
-| :-- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.  | **Dependency** is a package that is required for an application to function, and it is needed in the development process as well as in the production process.               | **DevDependency** is a package that is required for an application to function, and it is needed only in the development process.                                                                                                                          |
 | 2.  | A dependency package can be installed using npm (Node Package Manager) by running `npm install <package-name>` e.g., `npm install express` where **express** is the package. | A devDependency package can be installed using npm by running `npm install -D <package-name>` e.g., `npm install -D tailwindcss` where **tailwindcss** is the package. The flag `-D` is what differentiate a dependency package and that of devDependency. |
 | 3.  | It can be found inside the package.json file inside a project with the tag `"dependencies"`                                                                                  | It can be found inside the package.json file inside a project with the tag `"devDependencies"`                                                                                                                                                             |
