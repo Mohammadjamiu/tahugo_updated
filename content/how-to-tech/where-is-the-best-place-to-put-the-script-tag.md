@@ -1,5 +1,5 @@
 ---
-title: Where is the best place to put the script tag?
+title: Where Is the Best Place To Put an HTML Script Tag?
 slug: where is the best place to put the script tag
 postdate: April 30, 2023
 description: Place both inline scripts and external scripts at the bottom of the
@@ -64,8 +64,6 @@ An **inline script** is a script which is placed or written directly inside the 
 </html>
 ```
 
-
-
 The placement of the `<script>` tag in an HTML document can have an impact on how quickly the page loads and how it behaves once it has loaded.
 
 When a web browser loads an HTML page, it goes through a process called **parsing**, during which it reads and interprets the HTML code.
@@ -84,9 +82,7 @@ Here is an example of how the page below loads and the time frame.
 
 ![page speed and load time](/images/web-performance.webp "page speed and load time")
 
-
-
-## **Where Is the Best Place To Put the Script Tag?**
+## **Where Is the Best Place To Put the `<Script>` Tag?**
 
 ### 1/ Putting script tag in the head section
 
@@ -116,9 +112,9 @@ While scripts that are not critical are to be placed at the bottom section of th
 
 For example, let say your script contain scripts that allow for the dynamic functionality of the menu bar and other user authentication, you might consider placing the script at the bottom.
 
-Because as soon as a webpage load, the menubar is not the first thing the user will interact with, but rather it is the content that is displayed.
+Because as soon as a webpage load, the menu bar is not the first thing the user will interact with, but rather it is the content that is displayed.
 
-### 3/ Using the defer attribute to defer scripts
+### 3/ Using the `defer` attribute to defer scripts
 
 Another approach, if you want to place a script in the `<head>` section of an HTML document, is to use the `defer` keyword.
 
@@ -138,6 +134,28 @@ Also, there is no need putting the script tag with the **defer** keyword at the 
 
 > In other words, use this `<script src="external-script.js"></script>` as oppose to `<script defer src="external-script.js"></script>`
 
-**In few sentences**, place both inline scripts and external scripts at the bottom of the `<body>` section. 
+### 4/ Using the `async` attribute to load scripts asynchronously
+
+Just like the `defer` attribute, `async` keyword is another attribute which can be used instead of a defer attribute.
+
+When either “defer” or “async” attribute is used, the web browser downloads the script in the background, but the execution is what brought about their difference.
+
+The difference between the “defer” and “async” attribute is that, when defer is used, the script can only be executed once the HTML document is parsed completely.
+
+While for the async attribute, it allows for scripts to be executed asynchronously and the HTML must not be parsed completely before the execution. 
+
+i.e., if there are several script files imported, the second script can be executed before the first while the HTML continues to parse.
+
+`<script src="first-external-script.js" async></script>`
+
+`<script src="second-external-script.js" async></script>`
+
+In the case of the defer attribute, each is executed as it is imported (the first before the second).
+
+`<script src="first-external-script.js" defer></script>`
+
+`<script src="second-external-script.js" defer></script>`
+
+**In a few sentences**, place both inline scripts and external scripts at the bottom of the `<body>` section. 
 
 But if there is a need for script to be downloaded before an HTML document is completely parsed, then place the script at the `<head>` section.
