@@ -26,22 +26,24 @@ Here are some key terms that need to be understood or reference in order to unde
 
 > ### **What is an AI?**
 >
-> **AI** is a short form for **Artificial Intelligence**, and it refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. AI technologies enable machines to perform tasks that usually require human-like intelligence, such as speech recognition, decision-making, language translation, and problem-solving.
+> **AI** is a short form for **Artificial Intelligence**, and it refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. 
 >
-> **AI systems,** can be designed to perform specific tasks or to simulate human cognition more generally. They are also designed to learn and improve over time, using algorithms that can identify patterns in data and make predictions based on that data. 
+> AI technologies enable machines to perform tasks that usually require human-like intelligence, such as speech recognition, decision-making, language translation, and problem-solving.
+>
+> **AI systems,** can be designed to perform specific tasks or to simulate human cognition more generally. 
+>
+> They are also designed to learn and improve over time, using algorithms that can identify patterns in data and make predictions based on that data. 
 >
 > Some AI systems can also adapt to new situations and make decisions based on their past experiences.
-
-
-
+>
 > ### **What is NLP?**
 >
-> **NLP** stands for **Natural Language Processing**, and it is a technology that helps computers understand and use human language. It helps computers perform tasks such as recognizing speech, translating languages, analyzing sentiment, and answering questions. 
+> **NLP** stands for **Natural Language Processing**, and it is a technology that helps computers understand and use human language. 
+>
+> It helps computers perform tasks such as recognizing speech, translating languages, analyzing sentiment, and answering questions. 
 >
 > NLP algorithms use various techniques to process and analyze text data. 
-
-
-
+>
 > ### **What is Machine Learning?**
 >
 > **Machine learning** is a subfield or part of Artificial Intelligence (AI) that allows machines to learn from data without being explicitly programmed. 
@@ -64,7 +66,9 @@ It is based on the GPT architecture developed by OpenAI and was released to the 
 
 It uses natural language processing (NLP) techniques to generate human-like responses to user inputs. 
 
-ChatGPT has been trained on a large corpus of text data, allowing it to generate coherent and contextually relevant responses to user inputs. It is capable of understanding and responding to a wide range of topics and can be customized to suit the needs of different users and businesses.
+ChatGPT has been trained on a large corpus of text data, allowing it to generate coherent and contextually relevant responses to user inputs. 
+
+It is capable of understanding and responding to a wide range of topics and can be customized to suit the needs of different users and businesses.
 
 ## The GPT Architecture?
 
@@ -88,13 +92,13 @@ Other versions of the GPT architecture is GPT-3, GPT-3.5 and GPT-4 (the newest O
 
 ## Where does ChatGPT get its data from?
 
-**ChatGPT**, is trained on a large dataset of text data which comes from several sources, such as books, articles, Wikipedia and scientific journals. The text data is carefully curated to ensure that it represents a diverse range of topics and styles of writing.
+**ChatGPT**, is trained on a large dataset of text data which comes from several sources, such as books, articles, Wikipedia and scientific journals. 
+
+The text data is carefully curated to ensure that it represents a diverse range of topics and styles of writing.
 
 > ***A word of warning!***
 >
 > ChatGPT is not connected to the internet, and sometimes can produce incorrect answers or texts.
-
-
 
 Currently, ChatGPT is trained not only on top of GPT-3.5 architecture, but also on GPT-4 LLM.
 
@@ -102,4 +106,4 @@ Currently, ChatGPT is trained not only on top of GPT-3.5 architecture, but also 
 
 GPT-3.5 can only generate texts, but GPT-4 LLM can generate or accepts both texts and images.
 
-This newer version of ChatGPT called GPT-4 which is based on GPT-4 LLM is available to limited paid subscribers.
+This newer version of ChatGPT called GPT-4 which is based on GPT-4 LLM is available to limited paid subscribers only.

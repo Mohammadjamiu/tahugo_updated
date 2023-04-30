@@ -14,8 +14,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-
-Tailwind CSS is a nice way to write CSS without having to leave your HTML file, which makes it good for large projects.
+**Tailwind CSS** is a nice way to write CSS without having to leave your HTML file, which makes it good for large projects.
 
 But one of it downside is that you need to be good at CSS to use it.
 

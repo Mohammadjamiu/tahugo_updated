@@ -16,7 +16,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-In this post, I am going to highlight how to troubleshoot "No utility classes were detected in your source files" error in tailwindcss.
+In this post, I am going to highlight how to troubleshoot **“No utility classes were detected in your source files”** error in tailwindcss.
 
 The problem comes most time due to file path not configured properly. So if you don't have a tailwindcss config file in your project, then that might be one of the issue.
 
