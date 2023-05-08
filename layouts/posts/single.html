@@ -52,6 +52,20 @@
     {{end}}
   </div>
 </div>
-<aside class="sidebar"></aside>
+<aside class="sidebar">
+   <div class="readmore-recommend-desktop">
+    <h2 class="related-more">More For You <span style="color:#e4982d; font-size: 3rem; "> &#9732</span></h2>
+
+    <!-- {{ $relatednew:= (.Site.RegularPages.Related .) | shuffle | first 5 }}  -->
+    {{ $related:= (.Site.Pages.Related .) | shuffle | first 5 }} {{ range
+    $related }}
+    <ul class="ul-in-post" style="list-style-type:square;">
+      <li>
+        <a class="links-to-others" href="{{.RelPermalink}}">{{.Title}}</a>
+      </li>
+    </ul>
+    {{end}}
+  </div>
+</aside>
 </div>
 {{end}}

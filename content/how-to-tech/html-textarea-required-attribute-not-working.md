@@ -42,6 +42,6 @@ Make sure that the `<textarea></textarea>` does not have space in between becaus
 <textarea required="required" ></textarea>
 ```
 
-> Another reason why you need to make sure that the `textarea` tag are closed and no space is becasue if you add a `placeholder` attribute it wont work.
+> Another reason why you need to make sure that the `textarea` tag are closed and no space is because if you add a `placeholder` attribute it wont work.
 
 Voilà :tada: that's all.

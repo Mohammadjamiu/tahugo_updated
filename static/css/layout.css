@@ -58,6 +58,9 @@
   --scrollbar-color-dark: #10294d;
   --scrollbar-color-light: #e4e4e4;
 
+  --code-light: #1a273b3a;
+  --code-dark: #3e4d6148;
+
   scroll-behavior: smooth;
   scrollbar-width: thin;
 }
@@ -71,6 +74,7 @@
     --btn-color: var(--btn-color-dark);
     --accent-color: var(--accent-color-dark);
     --toggle-rotate: var(--toggle-rotate-dark);
+    --code-color: var(--code-dark);
   }
 }
 
@@ -83,6 +87,7 @@
     --btn-color: var(--btn-color-light);
     --accent-color: var(--accent-color-light);
     --toggle-rotate: var(--toggle-rotate-light);
+    --code-color: var(--code-light);
   }
 }
 
@@ -94,6 +99,7 @@
   --btn-color: var(--btn-color-dark);
   --accent-color: var(--accent-color-dark);
   --toggle-rotate: var(--toggle-rotate-dark);
+  --code-color: var(--code-dark);
 }
 
 [color-scheme="light"] {
@@ -104,6 +110,7 @@
   --btn-color: var(--btn-color-light);
   --accent-color: var(--accent-color-light);
   --toggle-rotate: var(--toggle-rotate-light);
+  --code-color: var(--code-light);
 }
 
 /* ! Base Style */
@@ -532,7 +539,6 @@ a.hero-btn {
   align-items: center;
   width: 100%;
   height: 100%;
-  
 }
 
 /* Main Section */

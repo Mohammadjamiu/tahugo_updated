@@ -1,5 +1,5 @@
 ---
-title: Difference Between Dev Dependency and Dependency?
+title: Difference Between Dev-Dependency and Dependency?
 slug: difference between dev dependency and dependency
 postdate: April 23, 2023
 description: The difference between a dependency and a devDependency is that
