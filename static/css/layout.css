@@ -644,6 +644,7 @@ section.main {
 /* Youtube content */
 
 .youtube-content-box {
+  display: none;
   margin-top: 4rem;
 }
 .youtube-content-box > h2 {
