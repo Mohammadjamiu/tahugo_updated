@@ -43,7 +43,7 @@ It allows developers to easily manage and install packages and their dependencie
 
 **NPM** (Node Package Manager) is also a package manager for Node.js that allows developers to easily manage and install packages and their dependencies for a Node.js project.
 
-## **Which Is Better Yarn or Npm?**
+## **Which Is Better Yarn or NPM?**
 
 When you want to create a new Node.js project, you typically start with an empty folder. 
 
