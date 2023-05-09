@@ -2,7 +2,9 @@
 title: Which Is Better Yarn or npm?
 slug: which is better yarn or npm
 postdate: May 2, 2023
-description: Which Is Better Yarn or Npm?
+description: Yarn is better than NPM when it comes to performance because it is
+  usually faster as it uses parallel downloads, caching, and other optimizations
+  to speed up the installation process.
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/work-smart-vs-work-hard-venn-diagram.webp

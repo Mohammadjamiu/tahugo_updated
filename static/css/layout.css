@@ -144,7 +144,8 @@ body {
 h1 {
   font-family: MuliBold, sans-serif;
   font-size: 2.8rem;
-  margin: 2.3rem auto;
+  margin: 2.3rem auto 2.3rem 0;
+  max-width: 700px;
 }
 
 h2 {
@@ -945,7 +946,7 @@ img.footer-icon {
   }
 
   .single-page-container {
-    max-width: 950px;
+    max-width: 860px;
   }
   .carousel-container {
     /* max-width: 1150px; */

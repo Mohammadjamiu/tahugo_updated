@@ -1,8 +1,12 @@
 ---
 title: Is package-lock.json needed for deployment?
-slug: Is package lock json needed for deployment
+slug: is package lock json needed for deployment
 postdate: May 8, 2023
-description: Is package lock json needed for deployment?
+description: Yes, the `package-lock.json` file is needed for deployment because
+  when you deploy your application, the package manager either npm or yarn will
+  use the information in the `package-lock.json` file to install the exact same
+  versions of the packages and dependencies that you have been working with
+  during development.
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/dependency-nad-devdep.webp

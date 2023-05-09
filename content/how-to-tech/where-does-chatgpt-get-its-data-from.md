@@ -70,6 +70,10 @@ ChatGPT has been trained on a large corpus of text data, allowing it to generate
 
 It is capable of understanding and responding to a wide range of topics and can be customized to suit the needs of different users and businesses.
 
+**Read on:** [Is Google Bard Better Than ChatGPT?](/how-to-tech/is-google-bard-better-than-chatgpt/)
+
+
+
 ## The GPT Architecture?
 
 There have been several versions of the GPT architecture, each with an increase in capacity and performance. The first version, **GPT-1**, was released by OpenAI in 2018, and had 117 million parameters. 

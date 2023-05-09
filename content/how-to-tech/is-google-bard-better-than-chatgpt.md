@@ -19,7 +19,9 @@ Google_Ads: true
 ---
 **ChatGPT** has set the tech industry ablaze with its unprecedented language processing capabilities. 
 
-It was released to the public in late November 2022 and in just few months, ChatGPT is able to reach over 100 millions users.
+It was released to the public in the late November 2022 and in just few months, ChatGPT is able to reach over 100 millions users.
+
+**Read on:** [Where does ChatGPT get its data from?](/how-to-tech/where-does-chatgpt-get-data-from/)
 
 News of its impact at Google has sparked a “code red” situation, prompting the CEO of Google Sundar Pichai to call on the company's founders to re-engage in discussions about AI's future as the tech giant. 
 
@@ -54,8 +56,6 @@ Bard is built on **LaMDA**, whereas ChatGPT is built on GPT-3.5. Finally, Bard i
 > **LaMDA** is a large language model chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
 
 **Read on:** [Where does ChatGPT get its data from](/how-to-tech/where-does-chatgpt-get-data-from/)
-
-
 
 ## **Which Is Better, Google Bard or ChatGPT?**
 
@@ -175,8 +175,6 @@ It also gives a concise response to queries or prompt, and also enhance user rea
 **Bard** makes it hard to access previously searched questions with answers. You can only have access to the prompt you asked it from the Bard Activity bar but if you want the response, you have to ask it again.
 
 ![google bard activity bar](/images/bard-activity-1.webp "google bard activity bar")
-
-
 
 ![google bard activity history](/images/bard-activity.webp "google bard activity history")
 
