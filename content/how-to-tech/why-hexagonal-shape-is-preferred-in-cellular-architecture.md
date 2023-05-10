@@ -1,11 +1,10 @@
 ---
-title: Why Hexagonal Shape Is Preferred in Cellular Architecture
+title: Why Hexagonal Shape Is Preferred in Cellular Architecture?
 slug: why hexagonal shape is preferred in cellular architecture
 postdate: March 27, 2023
-description: " The use of hexagons is based on the mathematical principle that
-  hexagons are the most efficient shape for covering a two-dimensional plane
-  with equal-sized cells, while minimizing the overlap between neighboring
-  cells."
+description: The hexagonal shape is preferred in cellular architecture because,
+  it allows for complete and balanced coverage with minimal overlap, which
+  reduces the number of base stations required to cover an area.
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/area-size-of-cell.webp
@@ -20,6 +19,16 @@ Google_Ads: true
 **A cellular land area** in cellular networks refers to the geographical area that is divided into smaller regions, or cells, each of which is served by a mobile phone base station. 
 
 The size and shape of the cells depend on factors such as the number of users in the area, the terrain, and the availability of resources.
+
+**The hexagonal shape is preferred in cellular architecture because, it allows for complete and balanced coverage with minimal overlap, which reduces the number of base stations required to cover an area.** 
+
+The use of hexagons ensures that the cells are as close to circular as possible, minimizing interference between neighboring cells. 
+
+The use of the hexagonal shape also allows for efficient use of available resources, such as power and bandwidth, by ensuring that the base stations are evenly distributed throughout the service area. 
+
+These benefits make the hexagonal shape a preferred choice for cellular network design.
+
+Let's look in detail why the hexagonal shape is preferred in cellular architecture.
 
 ![cellular land area](/images/cellular-land-areas.webp "cellular land area")
 
