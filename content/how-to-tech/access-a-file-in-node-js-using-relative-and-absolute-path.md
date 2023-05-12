@@ -1,9 +1,9 @@
 ---
-title: How To Access a File in Node.js? /, ./ and ../ Paths Explained
+title: How To Access a File in Node.js? ( /, ./, and ../ ) Paths Explained
 slug: access a file in node JS using relative and absolute path
 postdate: May 9, 2023
-description: / and ./ is similar, and it denotes “In the same directory” while
-  ../ means leave the directory you are in and go one level up
+description: "`/` and `./` is similar, and it denotes “In the same directory”
+  while `../` means leave the directory you are in and go one level up"
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/file-path-node.webp

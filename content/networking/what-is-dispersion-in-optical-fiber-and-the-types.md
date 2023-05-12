@@ -97,7 +97,7 @@ It is typically caused by fiber imperfections or stress-induced birefringence, w
 
 **Polarization mode dispersion** can be compensated for by using polarization controllers, polarization-maintaining fibers, or by using signal processing techniques.
 
-### Summary
+## Summary
 
 **Dispersion** is the broadening of light pulses which tend to degrade the transmitted signal strength.
 

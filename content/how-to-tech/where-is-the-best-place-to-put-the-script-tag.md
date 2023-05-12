@@ -3,8 +3,8 @@ title: Where Is the Best Place To Put an HTML Script Tag?
 slug: where is the best place to put the script tag
 postdate: April 30, 2023
 description: Place both inline scripts and external scripts at the bottom of the
-  "<body>" section. But if there is a need for script to be downloaded before an
-  HTML document is completely parsed, then place the script at the `<head>`
+  `body` section. But if there is a need for script to be downloaded before an
+  HTML document is completely parsed, then place the script at the `head`
   section.
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
