@@ -14,7 +14,7 @@ image: /images/fdm_5.webp
 weight: "31"
 categorylink: /categories/networking-and-communication
 type: posts
-author: Mohammad Abdul
+author: Mohammad Jamiu
 mathjax: true
 Google_Ads: true
 ---

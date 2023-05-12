@@ -14,7 +14,7 @@ image: /images/satellite.webp
 weight: "39"
 categorylink: /categories/networking-and-communication
 type: posts
-author: Mohammad Abdul
+author: Mohammad Jamiu
 mathjax: false
 Google_Ads: true
 ---
