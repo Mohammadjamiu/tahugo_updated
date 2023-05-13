@@ -1,20 +1,25 @@
 ---
-title: "What Are the Differences Between Primary Memory and Secondary Memory with examples"
-postdate: July 29, 2022
-image: ""
-description: "In a computer, there are mainly two types of memory which are the primary memory and secondary memory.
-The memories are what make a computer work efficiently and the major difference between both of these memories is that the primary memory is used for caching as it stores temporary data and it is fast in terms of the access time while the secondary memory is used for storing permanent files and it is slow in comparison to primary memory."
-alt: ""
-weight: "59"
-author: Mohammad Jamiu
-categorylabel: Digital Electronics
-categorylink: /categories/digital-electronics/
-categories: '["Digital Electronics"]'
-type: posts
-Google_Ads: true
-wordcount: false
-mathjax: false
 draft: false
+wordcount: false
+alt: ""
+title: What Are the Differences Between Primary Memory and Secondary Memory with
+  examples
+postdate: July 29, 2022
+description: In a computer, there are mainly two types of memory which are the
+  primary memory and secondary memory. The memories are what make a computer
+  work efficiently and the major difference between both of these memories is
+  that the primary memory is used for caching as it stores temporary data and it
+  is fast in terms of the access time while the secondary memory is used for
+  storing permanent files and it is slow in comparison to primary memory.
+categorylabel: Digital Electronics
+categories: '["Digital Electronics"]'
+image: ""
+weight: "59"
+categorylink: /categories/digital-electronics/
+type: posts
+author: Mohammad Jamiu
+mathjax: false
+Google_Ads: true
 ---
 
 In a computer, there are mainly two types of memory which are the primary memory and secondary memory.

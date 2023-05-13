@@ -1,19 +1,22 @@
 ---
-title: "22 Resources for Learning Electronics From Scratch (For Beginners)"
-postdate: October 29, 2021
-image: "/images/learnelectronics.webp"
-description: "Learning electronics can be fun sometimes but other times can be really frustrating.
-So having good resources around can help reduce those frustrations and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets."
-alt: "electronics resources"
-weight: "12"
-author: Mohammad Abdul
-categorylabel: Electronics
-categorylink: /categories/electronics
-categories:  '["Electronics"]'
-type: posts 
-Google_Ads: true
-wordcount: false
 draft: false
+wordcount: false
+alt: electronics resources
+title: 22 Resources for Learning Electronics From Scratch (For Beginners)
+postdate: October 29, 2021
+description: Learning electronics can be fun sometimes but other times can be
+  really frustrating. So having good resources around can help reduce those
+  frustrations and enhance your knowledge on how to build circuits or even how
+  to troubleshoot electronic gadgets.
+categorylabel: Electronics
+categories: '["Electronics"]'
+image: /images/learnelectronics.webp
+weight: "12"
+categorylink: /categories/electronics
+type: posts
+author: Mohammad Abdul
+mathjax: false
+Google_Ads: true
 ---
 
 <img loading="lazy" src="/images/learnelectronics.webp" alt="how to learn electronics from scratch or on your own">

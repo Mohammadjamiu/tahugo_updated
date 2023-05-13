@@ -2,16 +2,14 @@
 title: "Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network."
 postdate: November 01, 2021
 image: "/images/framework1_8.webp"
-description: "In most small offices or homes, to access the internet, it can be
-done through turning on our mobile hostpot so other devices can
-connect to it and use the internet. "
+description: "In most small offices or homes, to access the internet, it can be done through turning on our mobile hostpot so other devices can connect to it and use the internet."
 alt: "simple LAN connection"
 weight: "13"
 author: Mohammad Abdul
 categorylabel: Networking and Communication
 categorylink: /categories/networking-and-communication
 categories: '["Networking and Communication"]'
-type: posts 
+type: posts
 Google_Ads: true
 wordcount: false
 draft: false
