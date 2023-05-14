@@ -18,14 +18,13 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-
 ![chatgpt](/images/ilgmyzin-agfmimwypso-unsplash-1-.webp "chatgpt")
 
 ## **Key Terminologies**
 
 Here are some key terms that need to be understood or referenced in order to understand what you are about to read on **what is ChatGPT?,** and **where does it get its data from?**
 
-> ### **What is an AI?**
+> ### **\# What is an AI?**
 >
 > **AI** is a short form for **Artificial Intelligence**, and it refers to the simulation of human intelligence in machines that are programmed to think and learn like humans.
 >
@@ -37,7 +36,7 @@ Here are some key terms that need to be understood or referenced in order to und
 >
 > Some AI systems can also adapt to new situations and make decisions based on their past experiences.
 >
-> ### **What is NLP?**
+> ### **\# What is NLP?**
 >
 > **NLP** stands for **Natural Language Processing**, and it is a technology that helps computers understand and use human language.
 >
@@ -45,7 +44,7 @@ Here are some key terms that need to be understood or referenced in order to und
 >
 > NLP algorithms use various techniques to process and analyze text data.
 >
-> ### **What is Machine Learning?**
+> ### **\# What is Machine Learning?**
 >
 > **Machine learning** is a subfield or part of Artificial Intelligence (AI) that allows machines to learn from data without being explicitly programmed.
 >
@@ -95,13 +94,15 @@ Other versions of the GPT architecture is GPT-3, GPT-3.5 and GPT-4 (the newest O
 
 ## Where does ChatGPT get its data from?
 
-**ChatGPT**, is trained on a large dataset of text data which comes from several sources, such as books, articles, Wikipedia and scientific journals.
+**ChatGPT**, is trained on a large dataset of text data which comes from several sources, such as books, articles, Wikipedia and scientific journals, code repositories and social media posts.
 
 The text data is carefully curated to ensure that it represents a diverse range of topics and styles of writing.
 
-> **_A word of warning!_**
+> ***A word of warning!***
 >
 > ChatGPT is not connected to the internet, and sometimes can produce incorrect answers or texts.
+
+![chatgpt produce incorrect response](/images/chatgpt-false-response.webp "chatgpt produce incorrect response")
 
 Currently, ChatGPT is trained not only on top of GPT-3.5 architecture, but also on GPT-4 LLM.
 

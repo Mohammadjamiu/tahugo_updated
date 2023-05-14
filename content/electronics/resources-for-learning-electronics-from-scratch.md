@@ -14,7 +14,7 @@ image: /images/learnelectronics.webp
 weight: "12"
 categorylink: /categories/electronics
 type: posts
-author: Mohammad Abdul
+author: Mohammad Jamiu
 mathjax: false
 Google_Ads: true
 ---
