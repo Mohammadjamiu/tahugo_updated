@@ -47,10 +47,10 @@ To proceed with our discussion, let's ask ChatGPT the question “Does ChatGPT u
 
 Which is actually true. Because by default, **ChatGPT does not have direct access to the internet. But can be given the power to access the internet.**
 
-For example, you can use the **WebChatGPT** Chrome and Firefox extension, which allows ChatGPT to search or surf the web for information.
+For example, you can use the **WebChatGPT** Chrome and Firefox extension, which allows ChatGPT to search or surf the web for information. It adds relevant web results to your ChatGPT prompts for a more accurate and up-to-date conversations.
 
 * [WebChatGPT Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-* [WebChatGPT Chrome extension](<* https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn>)
+* [WebChatGPT Chrome extension](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn)
 
 In addition to that, OpenAI is working on plugins that will allow ChatGPT to access and process the information from the web or internet.
 
