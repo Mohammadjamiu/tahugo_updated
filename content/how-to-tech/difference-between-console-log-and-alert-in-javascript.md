@@ -1,5 +1,5 @@
 ---
-title: What is the difference between console.log() and alert() in JavaScript?
+title: What Is the Difference Between console.log() and alert() in JavaScript?
 slug: difference between console log and alert in javaScript
 postdate: May 16, 2023
 description: "`console.log()` is used for printing messages or values to the
@@ -18,7 +18,11 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-`console.log()` and `alert()` are functions in JavaScript that are used for displaying messages, but they are used for different purposes.
+`console.log()` and `alert()` are functions/methods in JavaScript that are used for displaying messages, but they are used for different purposes.
+
+> Method is just a function inside another function.
+
+The main difference between `console.log()` and `alert()` in JavaScript is that `console.log()` is part of the console object while `alert()` is part of the window object.
 
 ## What is `console.log()`?
 
@@ -34,6 +38,10 @@ console.log(x);
 The code above, will print out the value of `x` (which is 10) to the console, so you can see what the value is as your code runs.
 
 ![console.log() in javascript](/images/consolelog.webp "console.log() in javascript")
+
+**Read on:** *[Difference Between console.log() and document.write() in JavaScript?](/how-to-tech/difference-between-console.log-and-document.write-in-javascript/)*
+
+
 
 ## What is `alert()`?
 

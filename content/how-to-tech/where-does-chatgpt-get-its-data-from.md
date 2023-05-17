@@ -22,7 +22,7 @@ Google_Ads: true
 
 ## **Key Terminologies**
 
-Here are some key terms that need to be understood or referenced in order to understand what you are about to read on **what is ChatGPT?,** and **where does it get its data from?**
+Here are some key terms that need to be understood or referenced in order to understand what you are about to read on **what is ChatGPT?,** **where does it get its data from? And its capabilities.**
 
 > ### **\# What is an AI?**
 >
@@ -60,7 +60,7 @@ Here are some key terms that need to be understood or referenced in order to und
 
 ![ChatGPT Prompting](/images/chatgpt.webp "ChatGPT Prompting")
 
-It is based on the GPT architecture developed by OpenAI and was released to the public in November 2022.
+It is based on the [GPT architecture](/how-to-tech/what-version-of-gpt-is-chat-gpt-using/) developed by OpenAI and was released to the public in November 2022.
 
 > GPT stands for **“Generative Pre-trained Transformer”**, which is a type of neural network architecture used for natural language processing tasks, such as text generation, language translation, and question answering.
 
@@ -88,13 +88,17 @@ Other versions of the GPT architecture is GPT-3, GPT-3.5 and GPT-4 (the newest O
 
 **GPT-4** is estimated to be trained with over 1 trillion parameters.
 
+**Read more on:** *[Difference between GPT-1, GPT-2, GPT-3/3.5 and GPT-4](/how-to-tech/difference-between-gpt-1-gpt-2-gpt-3-gpt-4/)*
+
 ## What GPT architecture is ChatGPT is based on?
 
 **ChatGPT** is based on the **GPT-3.5 architecture**, and has been fine-tuned on a large corpus of conversational data, making it particularly adept or good at generating human-like responses to a wide range of prompts and questions.
 
+**Read more on:** *[What version of GPT is ChatGPT using?](/how-to-tech/what-version-of-gpt-is-chat-gpt-using/)*
+
 ## Where does ChatGPT get its data from?
 
-**ChatGPT**, is trained on a large dataset of text data which comes from several sources, such as books, articles, Wikipedia and scientific journals, code repositories and social media posts.
+**ChatGPT, is trained on a large dataset of text data which comes from several sources, such as books, articles, Wikipedia and scientific journals, code repositories and social media posts.**
 
 The text data is carefully curated to ensure that it represents a diverse range of topics and styles of writing.
 
@@ -111,3 +115,15 @@ Currently, ChatGPT is trained not only on top of GPT-3.5 architecture, but also 
 GPT-3.5 can only generate texts, but GPT-4 LLM can generate or accepts both texts and images.
 
 This newer version of ChatGPT called GPT-4 which is based on GPT-4 LLM is available to limited paid subscribers only.
+
+## ChatGPT Capabilities and Updates:
+
+ChatGPT has been constantly upgraded and improved with enhanced capabilities since December 2022. Some of the key updates include:
+
+* In December 2022, the ability to view past conversations and rename saved conversations was added.
+* In early January 2023, the ability to stop ChatGPT from generating responses was added, and factuality was improved across a wide range of topics.
+* In late January 2023, mathematical capabilities were added.
+* In early February 2023, OpenAI announced an experimental feature that allows users to select different versions of ChatGPT – the standard ChatGPT model (default version) and the optimized version (called turbo).
+* On March 14, 2023, GPT-4, the sequel to GPT-3/3.5, was announced. GPT-4 has enhanced capabilities such as advanced reasoning, the ability to work with complex instructions, and more creativity.
+* In late March 2023, OpenAI rolled out experimental support for AI plugins that can be used with ChatGPT. One of the plugins rolled out is the browsing plugin, which is an experimental model that knows when and how to surf or browse the web. Another is the code interpreter plugin that allows ChatGPT to use Python, and to handle uploads and downloads. The last is the third-party plugins.
+* In May 2023, the ability for users to turn off chat history and to export their data from the ChatGPT settings was added. Beta features of several plugins have also been released.

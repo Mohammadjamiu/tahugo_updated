@@ -1,5 +1,5 @@
 ---
-title: What version of GPT is ChatGPT using?
+title: What Version of GPT Is ChatGPT Using?
 slug: what version of gpt is chat gpt using
 postdate: May 15, 2023
 description: ChatGPT uses the GPT-3.5 model to have interactive conversations

@@ -16,7 +16,6 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-
 **File paths** are an essential part of navigating the file system while working on a Node.js project.
 
 Understanding how to specify file paths using the `/`, `./`, and `../` symbols is important for accessing files and directories.
@@ -73,7 +72,7 @@ However, it's generally recommended to use relative file paths whenever possible
 
 **Where:**
 
-- / and ./ is similar, and it denotes **“In the same directory”**
-- ../ means leave the directory you are in and go one level up
+* / and ./ is similar, and it denotes **“In the same directory”**
+* ../ means leave the directory you are in and go one level up
 
-Understanding how to use these symbols is crucial for navigating the file system and accessing files and directories in Node.js.
+Having knowledge on how to use these symbols is important for navigating the file system and accessing files and directories in Node.js.

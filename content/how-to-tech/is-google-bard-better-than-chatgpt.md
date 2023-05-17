@@ -37,38 +37,40 @@ Yes, **Google Bard is better than ChatGPT in terms of its ability to give inform
 
 But one of the shortcoming of Bard is that it is not robust as ChatGPT because it is release out of anxiety or fear of ChatGPT reducing its power as a tech giant or dominating the Internet.
 
-## **What are the similarities between Google Bard and ChatGPT?**
+## **What Are the Similarities Between Google Bard and ChatGPT?**
 
-**Google Bard and ChatGPT** are both AI language models trained on large datasets of text and code. 
+**Google Bard** and **ChatGPT** are both large language models (LLMs) that have been trained on vast datasets of text and code. 
 
-They can generate text, translate languages, write creative content, and answer questions in such a way that is informative. 
+They share the ability to generate text, translate languages, write creative content, and provide informative answers.
 
 Google Bard and ChatGPT are still in development but have learned to perform various tasks, such as following instructions, answering questions comprehensively, and generating diverse forms of text content, like poems, code, scripts, and musical pieces. 
 
 They aim to fulfill users' requirements thoughtfully, even if they are challenging or unusual.
 
-## **What are the differences between Google Bard and ChatGPT?**
+## **What Are the Differences Between Google Bard and ChatGPT?**
 
 **Google Bard and ChatGPT** differ in a few ways. Bard is trained on a continuously updated dataset chosen to improve its conversation skills, with real-time access to the internet, while ChatGPT uses a dataset dated up to 2021.
 
 Bard is built on **LaMDA**, whereas ChatGPT is built on GPT-3.5. Finally, Bard is currently in beta, while ChatGPT is more widely accessible.
 
-> **LaMDA** is a large language model chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
+> **LaMDA** is a large language model (LLM) chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
 
 **Read on:** [Where does ChatGPT get its data from](/how-to-tech/where-does-chatgpt-get-data-from/)
 
 ## **Which Is Better, Google Bard or ChatGPT?**
 
-To see which one is better, we need to test both with the same prompts and compare  the output response given by each.
+To see which one is better, we need to test both with the same prompts and compare the output response given by each.
 
 **Prompt #1:** Who currently own twitter?
 
-According to ChatGPT, here is the response:
-
+> **According to ChatGPT, here is the response:**
+>
 > As of my knowledge cutoff date of September 2021, Twitter is a publicly traded company listed on the New York Stock Exchange (NYSE) under the ticker symbol "TWTR". Therefore, it is owned by its shareholders, who can buy and sell shares on the stock market. The largest shareholders at that time were investment firms and funds, including The Vanguard Group, BlackRock, and Morgan Stanley. Jack Dorsey was the CEO of Twitter at the time, but he has since stepped down and been replaced by Parag Agrawal.
 
-While according to Google Bard, here is its response:
+<br/>
 
+> **While according to Google Bard, here is its response:**
+>
 > As of March 8, 2023, Twitter is owned by Elon Musk. Musk acquired Twitter in October 2022 for $44 billion.
 
 Here comes one of the good side of Google Bard, which is the ability to give response to queries that has to do with current events or information.
@@ -81,8 +83,8 @@ Though ChatGPT is able to give an informative response which is dated to 2021, b
 
 **Prompt #2 :** Give me tips on how to write a book?
 
-Here is the response given by ChatGPT:
-
+> **Here is the response given by ChatGPT:**
+>
 > 1. Define your purpose and audience: Before you start writing, identify the reason you want to write the book and who you're writing it for. This will help you stay focused on your goals and create a targeted message.
 > 2. Create an outline: A book outline helps you organize your thoughts and ensures that your book flows logically. Decide on your chapter headings, subheadings, and key points for each section.
 > 3. Set a writing schedule: Determine a writing schedule that works for you and stick to it. Whether you choose to write for a set amount of time each day or a certain number of words per day, establish a consistent routine to keep yourself motivated and on track.
@@ -92,8 +94,10 @@ Here is the response given by ChatGPT:
 > 7. Stay motivated: Writing a book is a long-term project, and it's easy to get discouraged along the way. Set realistic goals for yourself and celebrate each milestone you achieve. Remember why you started writing in the first place and stay focused on your purpose.
 > 8. Keep learning: Continuously seek to improve your writing skills by reading books on writing craft, attending writing workshops, and practicing regularly. The more you write, the better you'll become.
 
-Here is the response from Google Bard:
+<br/>
 
+> **Here is the response from Google Bard:**
+>
 > 1. **Choose a topic that you are passionate about.** This will make the writing process more enjoyable and easier to stick with.
 > 2. **Do your research.** Make sure you know what you are talking about before you start writing.
 > 3. **Create an outline.** This will help you stay on track and make sure that your book has a clear beginning, middle, and end.
@@ -116,8 +120,8 @@ One thing that differ in the results is that Google Bard highlights the key poin
 
 **Prompt #3 :** Write a JavaScript code that add 4 numbers together?
 
-Here is ChatGPT's response to the prompt:
-
+> **Here is ChatGPT's response to the prompt:**
+>
 > Here's a JavaScript code that adds 4 numbers together:
 >
 > ```javascript
@@ -133,8 +137,10 @@ Here is ChatGPT's response to the prompt:
 >
 > In this example, we declared four variables `num1`, `num2`, `num3`, and `num4`, each containing a numeric value. We then added the four numbers together and assigned the result to a new variable called `sum`. Finally, we used `console.log()` to display the result in the console.
 
-Here is Google Bard's response to the prompt:
+<br/>
 
+> **Here is Google Bard's response to the prompt:**
+>
 > Sure, here is a JavaScript code that adds four numbers together:
 >
 > ```javascript
@@ -160,24 +166,37 @@ Unlike, Google Bard that gives a better result, but it's quite not as clarifying
 
 ### Key Takeaway:
 
-**Google Bard is better than ChatGPT** in its ability to give information on recent events and ability to access the Internet.
+**Google Bard is superior to ChatGPT** in terms of its ability to provide information on recent events and its access to the internet. It is trained on real-time internet information, which enables it to stay up to date with the latest developments. 
 
-It also gives a concise response to queries or prompt, and also enhance user readability by highlighting key information.
+Additionally, Google Bard can leverage Google Search to access real-world data, further expanding its capabilities.
 
-**ChatGPT**, on the other hand, makes prompting interesting as it types out it response character-by-character or word-by-word. 
+Google Bard also stands out by delivering concise responses to queries or prompts. It has the ability to enhance user readability by highlighting key information, making it easier for users to extract relevant details from the generated text.
 
-**Bard** gives its response on one go, which makes prompting less exciting.
+Nevertheless, since Google Bard is still under development, it may have a higher potential for errors compared to ChatGPT. As with any evolving technology, there may be room for improvement and refinement.
 
-**ChatGPT** also makes it easier for users to access their old searched queries with the respesctive responses on the left sidebar, which help to give a better User-Experience. 
+ChatGPT, on the other hand, offers a unique and interesting user experience. It generates responses character-by-character or word-by-word, making the process of prompting and receiving answers more engaging.
+
+This incremental response generation adds an element of anticipation and curiosity to the interaction.
+
+ChatGPT is a more mature product compared to Google Bard. It has been trained on data until late 2021, which means it may not have the same level of knowledge about recent events and developments as Google Bard. 
+
+However, this maturity also contributes to its reliability, as it has undergone extensive training and refinement.
+
+**In terms of user experience,** ChatGPT offers a convenient feature that allows users to access their previously searched queries and their corresponding responses on the left sidebar. This helps users retrieve information easily and contributes to a better overall user experience. 
 
 ![chatgpt saved history ](/images/chatgpt-easy-search.webp "chatgpt saved history ")
 
-**Bard** makes it hard to access previously searched questions with answers. You can only have access to the prompt you asked it from the Bard Activity bar but if you want the response, you have to ask it again.
+In contrast, with Google Bard, it can be challenging to access previously searched questions and answers. Users can only see the prompt they asked from the Bard Activity bar, and if they want the response, they have to ask the question again.
 
 ![google bard activity bar](/images/bard-activity-1.webp "google bard activity bar")
 
 ![google bard activity history](/images/bard-activity.webp "google bard activity history")
 
-Overall, **Google Bard and ChatGPT** are amazing as they are changing the way we access and consume information. 
+When deciding which model to choose, it is essential to consider your specific needs and preferences. 
 
-It is better to use both as they are AI chatbots which are trained on large datasets and are learning continuously from patterns in which people ask questions and review.
+If you require access to real-time information and advanced capabilities, Google Bard may be the better option. However, if reliability and a more engaging user experience are important to you, ChatGPT could be a more suitable choice.
+
+
+
+
+

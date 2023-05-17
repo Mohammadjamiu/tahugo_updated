@@ -1,5 +1,5 @@
 ---
-title: Does ChatGPT use the internet?
+title: Does ChatGPT Use the Internet?
 slug: does chatgpt use the internet
 postdate: May 14, 2023
 description: No, ChatGPT does not have direct access to the internet. But can be
@@ -52,7 +52,7 @@ For example, you can use the **WebChatGPT** Chrome and Firefox extension, which 
 * [WebChatGPT Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 * [WebChatGPT Chrome extension](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn)
 
-In addition to that, OpenAI is working on plugins that will allow ChatGPT to access and process the information from the web or internet.
+In addition to that, OpenAI is working on plugins that will allow ChatGPT to access and process information from the web or internet.
 
 One of the ChatGPT's plugins – **WolframAlpha** can give response on complex mathematics problem which is up-to-date as you can see in the twitter snippet below.
 
@@ -61,3 +61,17 @@ One of the ChatGPT's plugins – **WolframAlpha** can give response on complex m
 > **Note:**
 >
 > *These plugins are only available for premium users that have subscribed to the ChatGPT plus.*
+
+***Here are some updates about ChatGPT you may wish to know:***
+
+ChatGPT has undergone a series of upgrades and improvements since December 2022. 
+
+The updates include the addition of features such as viewing past conversations and renaming saved conversations. 
+
+In January 2023, the ability to stop ChatGPT from generating responses was introduced, along with improved factuality across various topics. Mathematical capabilities were added in late January 2023. 
+
+In February 2023, OpenAI offered users the option to select different versions of ChatGPT, including the standard model and an optimized version called “turbo.”
+
+On March 14, 2023, OpenAI announced GPT-4, which has advanced reasoning, the ability to handle complex instructions, and increased creativity. In late March 2023, experimental support for AI plugins was introduced, including browsing, code interpreter, and third-party plugins. 
+
+In May 2023, additional features were added, allowing users to turn off chat history and export their data, along with the release of beta features for several plugins.
