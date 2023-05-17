@@ -16,7 +16,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-`console.log()` is used for printing information to the console during program execution, while return is used to provide a value back to the caller and terminate the execution of a function. 
+`console.log()` is used for printing information to the console during program execution, while `return` is used to provide a value back to the caller and terminate the execution of a function. 
 
 i.e., `console.log()` is for logging, while `return` is for determining the output or result of a function.
 

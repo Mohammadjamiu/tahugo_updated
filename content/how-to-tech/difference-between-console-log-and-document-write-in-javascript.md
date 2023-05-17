@@ -35,7 +35,7 @@ let myMessage = "Hello, world!";
 console.log(myMessage); // Output: Hello, world!
 ```
 
-The message variable holds the string “Hello, world!”. When we call `console.log(myMessage)`, it prints the value of the **myMessage** variable to the browser's console, which is – “Hello, world!”.
+The **myMessage** variable holds the string **“Hello, world!”**. When we call `console.log(myMessage)`, it prints the value of the **myMessage** variable to the browser's console, which is – “Hello, world!”.
 
 ![console.log() output](/images/loogmymessage.webp "console.log() output")
 

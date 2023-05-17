@@ -17,7 +17,7 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-`var`, `let`, and `const` are all used for declaring variables in JavaScript, but they have some differences in terms of scoping and mutability. 
+`var`, `let`, and `const` are all used for declaring variables in JavaScript, but they have some differences in terms of scoping and mutability (i.e., the tendency to change). 
 
 > **Variable:**
 >
@@ -43,10 +43,9 @@ function myExample() {
 }
 
 myExample();
-
 ```
 
-In this code example, the variable *age* is declared with` var` inside the `myExample()` function, and it comes after logging it to the console.
+In this code example, the variable *age* is declared with`var` inside the `myExample()` function, and it comes after logging it to the console.
 
 The normal way code should be written is the declaration coming first before logging it value to the console. But as you can see, when we try to log the value of age, it outputs `undefined` instead of *throwing an error*. 
 
@@ -56,15 +55,13 @@ This is because the `var` declaration is hoisted to the top, and it is considere
 
 Next, let's explore the `let` and `const` keywords in more detail.
 
-
-
 ## The `let` keyword
 
 The `let` keyword is a newer addition to JavaScript and is widely recommended for declaring variables. 
 
 It provides block scoping, meaning that the variable is only accessible within the block (typically enclosed in curly braces) where it is declared. Let's explore its key features:
 
-Here is a code snippet we can use to analyze how the let keyword works and how it is used:
+Here is a code snippet that we can use to analyze how the let keyword works and how it is used:
 
 **Declaration -**
 
@@ -80,7 +77,6 @@ function myExample() {
 }
 
 myExample();
-
 ```
 
 In this code example, we declare a variable `x` using let within the outer block of the `myExample()` function. 
@@ -93,8 +89,6 @@ As a result, we can have different values assigned to `x` within each block, and
 
 ![let keyword in javascript](/images/let-keyword.webp "let keyword in javascript")
 
-
-
 **Reassignment -**
 
 ```javascript
@@ -104,7 +98,6 @@ console.log(score); // Output: 100
 
 score = 200; // Reassigning the let variable
 console.log(score); // Output: 200
-
 ```
 
 As you can see in this code example, we declare a variable `score` using let and assign it an initial value of 100. 
@@ -117,9 +110,9 @@ By using the let keyword, you can create variables that are block-scoped, cannot
 
 This provides certainty and avoids potential issues caused by variable hoisting.
 
-## The` const` Keyword
+## The`const` Keyword
 
-The `const` keyword is the newest addition among the three keywords (`var`, ⁣` let`, and `const`), and it is used to declare constant variables. Here's a detailed explanation of its features:
+The `const` keyword is the newest addition among the three keywords (`var`, ⁣`let`, and `const`), and it is used to declare constant variables. Here's a detailed explanation of its features:
 
 **Declaration and Reassignment -** 
 
@@ -130,12 +123,11 @@ console.log(PI); // Output: 3.14159
 
 // Trying to reassign a constant variable (results in an error)
 PI = 3.14; // Error: TypeError: Assignment to constant variable.
-
 ```
 
 In this code example, we declare a constant variable `PI` using the `const` keyword and assign it the value 3.14159. 
 
-The `const `keyword ensures that the variable cannot be reassigned a new value. If we attempt to reassign a new value to `PI`, it will result in a ***TypeError*** indicating that we cannot assign a new value to a constant variable. 
+The `const`keyword ensures that the variable cannot be reassigned a new value. If we attempt to reassign a new value to `PI`, it will result in a ***TypeError*** indicating that we cannot assign a new value to a constant variable. 
 
 ![const typeerror](/images/const-typeerror.webp "const typeerror")
 
@@ -154,12 +146,11 @@ function myNewExample() {
 }
 
 myNewExample();
-
 ```
 
 In this code example, we declare a constant variable `x` using `const` within the inner block (i.e., `if` statement). 
 
-The` const` keyword ensures that `x` is block-scoped, meaning it is only accessible within the block in which it is declared. 
+The`const` keyword ensures that `x` is block-scoped, meaning it is only accessible within the block in which it is declared. 
 
 If we try to access `x` outside the block, it will result in a ***ReferenceError*** since `x` is not defined in that scope.
 
@@ -173,4 +164,4 @@ In addition to that, `const` variables are block-scoped, making them useful for 
 
 In just few points, **you use `let` to declare variables that may change, and you should use `const` to declare variables that should not change.** 
 
-**You should only use `var` if you need to support older browsers that do not support let or` const`.**
+**You should only use `var` if you need to support older browsers that do not support let or`const`.**
