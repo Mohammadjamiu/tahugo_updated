@@ -53,16 +53,15 @@ By following these steps and implementing the suggestions, you'll streamline the
 
 1. **Access the WhatsApp Media Storage folder on your phone** – Open the file manager app on your smartphone and navigate to the WhatsApp folder. Within the WhatsApp folder, locate and enter the “Media” subfolder. This is where all the media files shared on WhatsApp are stored.
 
-![Access the WhatsApp Media Storage folder on your phone](/images/whatsapp-image-2023-05-18-at-1.59.44-am.webp "Access the WhatsApp Media Storage folder on your phone")
-
-1. **Select the photos you want to share by tapping on each one** – Inside the WhatsApp Media Storage folder, browse through the available folders until you find the specific photos you wish to share. Tap on each photo to select it. Selected photos are usually highlighted or marked.
-2. **Tap the “Share” icon** – Once you have selected all the desired photos, locate and tap the “Share” icon. This icon is typically represented by an arrow pointing upwards or a share symbol. Tapping on this icon will open a list of available sharing options.
+   ![access the WhatsApp Media Storage folder on your phone](/images/whatsapp-image-2023-05-18-at-1.59.44-am.webp "access the WhatsApp Media Storage folder on your phone")
+2. **Select the photos you want to share by tapping on each one** – Inside the WhatsApp Media Storage folder, browse through the available folders until you find the specific photos you wish to share. Tap on each photo to select it. Selected photos are usually highlighted or marked.
+3. **Tap the “Share” icon** – Once you have selected all the desired photos, locate and tap the “Share” icon. This icon is typically represented by an arrow pointing upwards or a share symbol. Tapping on this icon will open a list of available sharing options.
 
    ![Tap the “Share” icon](/images/whatsapp-image-2023-05-18-at-1.59.44-am-2-.webp "Tap the “Share” icon")
-3. **Choose the “Email” option from the list of available apps** – From the sharing options, locate and tap on the “Email” option. This action will integrate the selected photos into a new email.
-4. **Enter the email address of the recipient** – Upon selecting the “Email” option, your device's default email client will open automatically. Enter the email address of the person you want to share the photos with in the recipient field.
-5. **Optionally, include a subject and a message to personalize the email** – If desired, you can add a subject line and compose a message to accompany the shared photos.
-6. **Tap “Send” to transmit the photos via email** – After reviewing the email for accuracy, ensuring the correct recipient and optional subject/message, tap the “Send” button to share the photos. The email, along with the attached photos, will be sent to the intended recipient.
+4. **Choose the “Email” option from the list of available apps** – From the sharing options, locate and tap on the “Email” option. This action will integrate the selected photos into a new email.
+5. **Enter the email address of the recipient** – Upon selecting the “Email” option, your device's default email client will open automatically. Enter the email address of the person you want to share the photos with in the recipient field.
+6. **Optionally, include a subject and a message to personalize the email** – If desired, you can add a subject line and compose a message to accompany the shared photos.
+7. **Tap “Send” to transmit the photos via email** – After reviewing the email for accuracy, ensuring the correct recipient and optional subject/message, tap the “Send” button to share the photos. The email, along with the attached photos, will be sent to the intended recipient.
 
 ## Additional Tips for Sharing Photos from WhatsApp to Email -
 

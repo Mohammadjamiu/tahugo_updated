@@ -2,7 +2,11 @@
 title: Difference Between the ‘This’ and ‘That’ Keyword in JavaScript
 slug: difference between this and that in javascript
 postdate: May 20, 2023
-description: Difference Between This and That in JavaScript
+description: "`this` is a keyword in JavaScript that refers to the current
+  execution context or the object a function is being executed within. It allows
+  access to properties and methods within that context. On the other hand, that
+  is a commonly used workaround variable to preserve the value of this in
+  certain situations, especially in nested or callback functions."
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/this-in-object-scope.webp
@@ -17,7 +21,7 @@ Google_Ads: true
 ---
 `this` is a keyword in JavaScript that refers to the current execution context or the object that a function is being executed within. It allows you to access and manipulate properties and methods within that context.
 
-While `that` are commonly used variables as workarounds to preserve the value of `this` in certain situations, especially when dealing with nested or callback functions, where the value of `this` might refer to a different object or be undefined.
+While `that` is a keyword that is commonly used as a variable that serve as workarounds to preserve the value of `this` in certain situations, especially when dealing with nested or callback functions, where the value of `this` might refer to a different object or be undefined.
 
 ## **Difference Between the ‘This’ and ‘That’ Keyword**
 
@@ -58,7 +62,7 @@ person.greet(); // Output: Hello, John
 
 ![this in object scope](/images/this-in-object-scope.webp "this in object scope")
 
-In the code example above example, `this` inside the `greet` method refers to the `person` object, so `this.name` accesses the `name` property of the object – `name: “John”`.
+In the code example above, `this` inside the `greet` method refers to the `person` object, so `this.name` accesses the `name` property of the object – `name: “John”`.
 
 **Event Handlers** –When `this` is used within an event handler, such as a click event or a timer function e.g., (setTimeout), it usually refers to the element that triggered the event.
 
