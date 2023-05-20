@@ -9,7 +9,7 @@ description: "Here are step on how to easily share multiple WhatsApp photos via
   settings."
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
-image: /images/imgph.webp
+image: /images/whatsapp-image-2023-05-20-at-2.20.25-am-3-.webp
 weight: 163
 categorylink: /categories/how-to-tech
 type: posts
@@ -29,25 +29,25 @@ By following these steps and implementing the suggestions, you'll streamline the
 
 1. **Open WhatsApp and navigate to the chat containing the photos you want to share** – Launch the WhatsApp application on your smartphone and locate the specific chat where the desired photos are stored. Tap on the chat to enter the conversation.
 
-   ![Open WhatsApp and navigate to the chat containing the photos you want to share](/images/whatsapp-image-2023-05-18-at-2.15.31-am-1-.webp "Open WhatsApp and navigate to the chat containing the photos you want to share")
+   ![Open WhatsApp and navigate to the chat containing the photos you want to share](/images/whatsapp-image-2023-05-20-at-2.20.26-am-4-.webp "Open WhatsApp and navigate to the chat containing the photos you want to share")
 2. **Tap and hold on the photo you wish to share to select it** – Within the chat, find the photo you want to share. Tap and hold on the photo until a selection menu appears. This action will mark the photo for sharing, and you may notice a green overlay on the marked photos.
 
-   ![Tap and hold on the photo you wish to share to select it](/images/whatsapp-image-2023-05-18-at-1.59.45-am-2-.webp "Tap and hold on the photo you wish to share to select it")
+   ![Tap and hold on the photo you wish to share to select it](/images/whatsapp-image-2023-05-20-at-2.20.26-am-2-.webp "Tap and hold on the photo you wish to share to select it")
 3. **Click on the three dots and select the “Share” option that appears** – After selecting the photo, a menu will appear with various options. Look for the three dots or “Share” option and tap on it. This action will open a list of apps available for sharing the selected photos.
 
-   ![Click on the three dots](/images/whatsapp-image-2023-05-18-at-1.59.44-am-10-.webp "Click on the three dots")
+   ![Click on the three dots](/images/whatsapp-image-2023-05-20-at-2.20.26-am.webp "Click on the three dots")
 
-   ![select the “Share” option that appears](/images/whatsapp-image-2023-05-18-at-1.59.44-am-8-.webp "select the “Share” option that appears")
+   ![select the “Share” option that appears](/images/whatsapp-image-2023-05-20-at-2.20.25-am-3-.webp "select the “Share” option that appears")
 4. **From the list of available apps, choose “Email” or “Gmail”** – In the list of sharing options, locate and tap on the “Email” or “Gmail” option. This action will seamlessly integrate the selected photo into a new email.
 
-   ![From the list of available apps, choose “Email” or ”Gmail](/images/whatsapp-image-2023-05-18-at-1.59.44-am-6-.webp "From the list of available apps, choose “Email” or ”Gmail")
+   ![From the list of available apps, choose “Email” or ”Gmail](/images/whatsapp-image-2023-05-20-at-2.20.25-am-2-.webp "From the list of available apps, choose “Email” or ”Gmail")
 5. **Enter the email address of the intended recipient** – Once you've selected the “Email” option, your device's default email client will open automatically. Enter the email address of the person you want to share the photo with in the designated recipient field.
 
-   ![Enter the email address of the intended recipient](/images/whatsapp-image-2023-05-18-at-1.59.44-am-5-.webp "Enter the email address of the intended recipient")
+   ![Enter the email address of the intended recipient](/images/whatsapp-image-2023-05-20-at-2.20.25-am.webp "Enter the email address of the intended recipient")
 6. **Optionally, add a subject and a message to accompany the photo** – If desired, you can include a subject line and compose a message to accompany the shared photo. This step allows you to provide context or personalize the email further.
 7. **Tap “Send” to share the photo via email** – After reviewing the email for accuracy, ensuring the correct recipient and optional subject/message, tap the “Send” button to share the photo. The email, along with the attached photo, will be sent to the intended recipient.
 
-   ![Tap “Send” to transmit the photo via email](/images/whatsapp-image-2023-05-18-at-1.59.44-am-4-.webp "Tap “Send” to transmit the photo via email")
+   ![Tap “Send” to transmit the photo via email](/images/whatsapp-image-2023-05-20-at-2.58.05-am-4-.webp "Tap “Send” to transmit the photo via email")
 
 ## Method 2 – Share Photos from WhatsApp Media Storage
 
@@ -66,9 +66,8 @@ By following these steps and implementing the suggestions, you'll streamline the
 
 ## Additional Tips for Sharing Photos from WhatsApp to Email -
 
-1. **Consider compressing the photos before sending, especially if sharing a large number of images** – To reduce file size and make it easier to send multiple photos, consider using image compression apps available for both Android and iOS platforms.
-2. **If the recipient doesn't have WhatsApp, you can save the photos to your phone first and then attach them to an email manually** – Save the desired photos from WhatsApp to your device's local storage. Then, compose a new email and manually attach the saved photos from your phone's gallery or file manager.
-3. **If you encounter any difficulties sending photos from WhatsApp to email, double-check your email settings** – Verify that the recipient's email address is correct and ensure that your email account is configured to accept attachments. Review your email app's settings to make any necessary adjustments.
-4. **Stay mindful of the file size limitations imposed by your email service provider** – Large attachments may need to be sent in multiple emails or using a file-sharing service like Google Drive or Dropbox. Consider using such services for more convenient photo sharing if the file size exceeds the email attachment limit.
+1. **Consider compressing the photos before sending, especially if sharing a large number of images** – To reduce file size and make it easier to send multiple photos, consider using image compression apps available for both Android and iOS platforms. Here is an online [image compressor](https://www.iloveimg.com/compress-image) that you can use. 
+2. **If you encounter any difficulties sending photos from WhatsApp to email, double-check your email settings** – Verify that the recipient's email address is correct and ensure that your email account is configured to accept attachments. Review your email app's settings to make any necessary adjustments.
+3. **Stay mindful of the file size limitations imposed by your email service provider** – Large attachments may need to be sent in multiple emails or using a file-sharing service like [Google Drive](https://www.google.com/drive/) or [Dropbox](https://www.dropbox.com/). Consider using such services for more convenient photo sharing if the file size exceeds the email attachment limit.
 
 By following these detailed steps and utilizing the provided tips, you'll be able to share multiple photos from WhatsApp to email with ease, ensuring a smooth and efficient photo-sharing experience. Have a nice day! :sparkles:
