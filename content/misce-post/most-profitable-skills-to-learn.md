@@ -166,6 +166,10 @@ To embark on your journey of mastering the skills mentioned above, here are some
    * Online Courses: Project Management Institute (PMI) offers the Project Management Professional (PMP) certification, and Udemy provides various project management courses.
    * Books: "A Guide to the Project Management Body of Knowledge" (PMBOK Guide) by PMI and "The Project Management Book: How to Manage Your Projects to Deliver Outstanding Results" by Richard Newton.
 
+## Here Is a Video That You May Also Find Helpful
+
+{{< youtube gnG0my1h0eI Top 10 Skills To Learn In 2023 >}}
+
 ### **Tips for Mastering Any New Skills**
 
 Embarking on a journey to acquire new skills requires a strategic approach. Consider the following tips to maximize your learning potential:
@@ -178,7 +182,3 @@ Embarking on a journey to acquire new skills requires a strategic approach. Cons
 In conclusion, acquiring and mastering the skills that hold the most promise in 2023 and beyond is crucial for professional success. By staying ahead of the curve and leveraging the power of technology, digital marketing, persuasive communication, design, and strategic management, you position yourself as a highly desirable candidate in the competitive job market. 
 
 Embrace the opportunities, invest in your growth, and unlock your full potential in this rapidly evolving professional landscape. :tada:
-
-## Here Is a Video You Might Find Helpful Too
-
-{{< youtube watch?v=gnG0my1h0eI  Top 10 Skills To Learn In 2023 | 10 High Income Skills | Top 10 Skills For Jobs | Simplilearn Simplilearn 3.03M subscribers >}}
