@@ -2,7 +2,8 @@
 title: How to Convert a Title to URL Slug in JavaScript
 slug: how to convert a title to url slug in javascript
 postdate: May 25, 2023
-description: How to Convert a Title to URL Slug in JavaScript
+description: '"Learn how to convert titles to SEO-friendly URL slugs using
+  JavaScript for optimized web development."'
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/convert-title-to-url-slug-in-js.webp
