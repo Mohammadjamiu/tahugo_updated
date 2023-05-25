@@ -1,5 +1,5 @@
 ---
-title: Learn These Skills To Make Money as a Student
+title: Skills To Learn Make Money as a Student (2023)
 slug: skills to learn to make money as a student
 postdate: May 22, 2023
 description: Learn These Skills To Make Money as a Student
