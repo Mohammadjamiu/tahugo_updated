@@ -1,134 +1,144 @@
 ---
-title: "11 simple ways student can improve their writing skill"
-postdate: October 16, 2021
-image: "/images/how-to-write-better.webp"
-description: "In this post I will be sharing some of the most important ways (in no specific order) that can really help student improve their writing skill and in essence, become a better writer."
+draft: false
+wordcount: false
 alt: ""
-weight: "9"
+slug: ""
+postdate: October 16, 2021
 author: Mohammad Abdul
-categorylabel: Productivity and Writings
-categorylink: /categories/productivity-and-writings
-categories: '["Productivity and Writings"]'
-type: posts
 Google_Ads: true
 socialshare: true
 customads_grammarly: false
-wordcount: false
-draft: false
+title: 11 Ways to Improve Writing Skills for Students
+description: " Discover 11 simple yet powerful ways for students to improve
+  their writing skills and become better writers. From sharing knowledge through
+  writing to utilizing dictionaries and embracing authorship, this article
+  provides actionable strategies to enhance writing proficiency. Explore
+  practical tips and techniques to unlock your full potential as a student
+  writer."
+categorylabel: Productivity and Writings
+categories: '["Productivity and Writings"]'
+image: /images/how-to-write-better.webp
+weight: "9"
+categorylink: /categories/productivity-and-writings
+type: posts
+mathjax: false
 ---
+Effective writing skills are priceless for students in both academic and professional settings. Whether you're crafting essays, reports, or creative pieces, honing your writing abilities can greatly enhance your academic performance and future career prospects. 
 
-<!-- <p class="description">
-NB: This post contains an affliate link - which means TA might get a
-commission as you subscribe but, at no extra cost to you.
-</p> -->
-<img loading="lazy"  src="/images/how-to-write-better.webp" alt="11 simple ways student can improve their writing skill and become a better writer">
+However, improving writing skills is a continuous process that requires dedication and practice. In this article, we will explore eleven simple yet highly effective ways for students to improve their writing skills and become better writers.
 
-Being a student that loves to write and help others learn abstractive stuffs, I have been struggling a lot to improve my writing skill because it pays off a lot while in school and even out of school.
+By implementing these strategies, students can develop a strong foundation in writing, enhance their ability to articulate ideas clearly, and communicate effectively with their intended audience. 
 
-So in this post I will be sharing some of the most important ways (in no specific order) that can really help student improve their writing skill and in essence, become a better writer.
+From sharing knowledge through writing and expanding their reading habits to utilizing dictionaries and vocabulary apps, each approach offers unique benefits that contribute to overall writing proficiency. 
 
-## Share what you know by writing and don’t aim for perfect but good
+In addition, we will discuss the importance of embracing authorship, capturing thoughts without procrastination, and utilizing simple writing apps or tools.
 
-The starting point to any writing will likely be based on what you already know or love.
+Furthermore, we will explore the significance of mastering fast typing, opting for simplicity in word choice, and separating the writing and editing processes. 
 
-So sharing it with people by just writing it on paper or even for yourself is a way of giving yourself that freedom of thought and becoming good at it.
+Organizational skills will also be emphasized as a means to streamline the writing process and maintain a well-structured approach. 
 
-<blockquote class="blockquote">
-<p class="little-nugget">Note</p>
-<p class="quote-text">
-Never aim to be perfect but good because aiming for perfect is a way of procrastinating and limiting yourself because most of the great works in the world is not something that is done in one day, it takes time.</p>
-</blockquote>
+Lastly, we will delve into the benefits of listening to podcasts and how it can contribute to language development and improved communication skills.
 
-<br>
+By incorporating these eleven simple yet powerful techniques into their writing practice, students can take their writing skills to new heights, unlocking opportunities for academic success and personal growth. 
 
-## Read extensively and also be a lover of knowledge
+So, let's embark on this journey to improve writing skills and unleash the full potential of your written expression.
 
-It is a legacy to know what you know and especially if it have impacts on people.
+{{< table-of-contents >}}
 
-So, expanding your knowledge by reading through different but good and interesting books or publications is actually a way of building your brain’s muscle to be able to hold unto even difficult writings.
+## **Effective Ways to Improve Writing Skills for Students**
 
-**Here’s how you can expand your knowledge**
-<br>
+Here are the 11 effective ways for student to improve their writings skills:
 
-1. Read newspaper or journals that you love or is related to your field.
-2. Search for writing competition or challenges in your local community or online and participate.
+### **1. Share Your Knowledge Through Writing**
 
-<br>
+One of the best ways to improve your writing skills is to actively engage in the act of writing. Start by sharing what you already know or are passionate about. Don't strive for perfection, as that can often lead to procrastination. 
 
-## Make dictionary your friend
+Instead, focus on producing well-written content that effectively communicates your ideas. Remember, most great works are not created in a single day, they require time and dedication to develop.
 
-Making dictionary your friend is an excellent way of improving your writings, knowing new words and even what they mean. But I didn’t say you have to be moving around with the big oxford dictionary.
+### **2. Read Extensively to Expand Your Knowledge**
 
-As a student you can install some pretty good and useful dictionary apps on your mobile phone as we all know that the world is digitalized.
+Developing strong writing skills goes hand in hand with expanding your knowledge base. Make it a habit to read extensively, immersing yourself in a variety of quality books, newspapers, journals, and other publications. 
 
-## Become an author
+This will not only expose you to different writing styles and techniques, but also enhance your understanding of various subjects. Consider exploring newspapers or journals that align with your interests or field of study. 
 
-Write your experiences or thoughts and share it with the world and those that really find value in what you do will definitely appreciate your hard work and it is even a way of making a living because you can get cash out of it.
+In addition, participating in writing competitions or challenges—whether locally or online—can provide valuable opportunities for growth.
 
-Your experiences might just be what you find hard learning and you simplify things out and make an eBook off of it.
+### **3. Utilize Dictionaries and Vocabulary Apps**
 
-<blockquote class="blockquote">
-<p class="little-nugget">Note</p>
-<p class="quote-text">
-Note not to share your secrets with the world and assume you are improving your writing skill or impacting the world.</p>
-</blockquote>
+Make dictionaries your best friends when it comes to improving your writing. Expanding your vocabulary and understanding word meanings are essential for effective communication. 
 
-<br>
+Thankfully, with the digital age, you can easily access various dictionary apps on your mobile phone. 
 
-## When a thought comes to mind, don’t procrastinate – just write
+Embrace these tools to explore new words, their definitions, and usage. By consistently incorporating new vocabulary into your writing, you will elevate the quality and impact of your work.
 
-Most times you can be in a hyped state that ideas are just flowing and the game is rolling smoothly, don’t let this time pass you by, by you letting it go.
+### **4. Embrace Authorship**
 
-So just write things down because the truth is that the good works you will end up doing might not be something you decided do right away but a series of little things that are merged together to form something great.
+Becoming an author is not limited to famous novelists; it applies to anyone who writes and shares their experiences, thoughts, and expertise. 
 
-## Use simple but good writing apps or tools
+By publishing your work, you can connect with an audience that appreciates your unique perspective. 
 
-When writing or just starting out on writing, don’t indulge yourself on tools or apps that might not really impact your writing craft.
+In addition, writing can even become a source of income, as you can monetize your content through avenues such as e-books. 
 
-So starting with the basic tools which is a paper and pen is pretty much good enough.
+However, be mindful not to share confidential or sensitive information that could compromise your growth as a writer or negatively impact others.
 
-But as time passes by, you might invest in using some simple apps like
+### **5. Capture Your Thoughts—Avoid Procrastination**
 
-1. Microsoft word or notepad to type and
-2. <a class="links-to-others" href="https://www.grammarly.com" target="_blank">Grammarly </a> to check for errors in your writing.
+When inspiration strikes, don't let it slip away. Oftentimes, ideas flow freely, and it's crucial to seize those moments of heightened creativity. Instead of postponing or dismissing these thoughts, jot them down immediately. 
 
-## Learn to type fast
+Even if you don't have a concrete plan for them at the moment, capturing these ideas ensures they won't be lost. 
 
-Learning to type fast is a super power that can really impact your writing journey and can be fun sometimes.
+Over time, you can revisit and weave these fragments together to create remarkable pieces of writing.
 
-Here are some resources to help you learn how to type fast
+### **6. Opt for Simple Yet Effective Writing Apps or Tools**
 
-1. learn how to touch type using <a class="links-to-others" href="https://ratatype.com/learn" target="_blank">ratatye</a> simple guide.
-2. <a class="links-to-others" href="https://10fastfingers.com" target="_blank">10fastfingers </a>- to help you practice.
+In the initial stages of your writing journey, don't get overwhelmed by complex tools or apps that may distract you from sharpening your craft. 
 
-## Chase simple words
+Stick to the basics: pen and paper. As you progress, consider utilizing simple applications like Microsoft Word or Notepad for typing. 
 
-While writing, you might be tempted to use really big grammars to impress people but the reality is **no one cares**, just go with simple words that can really have value on people that are not educated as you are and those that are educated than you’re because the goal is to impact as much as you can.
+In addition, tools such as [Grammarly](https://www.grammarly.com) can assist in identifying and rectifying errors in your writing, further refining your skills.
 
-This is one of the most important thing that is recommended when students are <a class="links-to-article" href="/misce-post/simple-essay-writing-tips-for-student/">writing an essay</a>.
+### **7. Master the Art of Fast Typing**
 
-## Don’t edit or make corrections while writing
+Learning to type quickly is a valuable skill that can greatly enhance your writing journey. It not only improves efficiency, but also allows for seamless expression of your thoughts.
 
-The reason not to edit while writing is because, whilst you are writing and at the same time editing, there might be some important things that you might miss to write down.
+Numerous resources are available online to help you learn touch typing, such as [Ratatype's](https://ratatype.com/learn) simple guide or platforms like [10fastfingers](https://10fastfingers.com) for practice. 
 
-So the best thing to do is write first and when you’re done pouring all the stuffs out, filter through them and do your editing.
+Invest time in mastering this skill, and you'll witness its positive impact on your overall writing abilities.
 
-## Try to organize things
+### **8. Opt for Simplicity in Word Choice**
 
-I’m guilty of this because sometimes I would write some important information down but later on, I won’t know exactly where it is or where I wrote it on.
+While writing, it's tempting to showcase your extensive vocabulary by using complex language. 
 
-But there is one thing to do and it is to use apps which at least can help you digitalize your writings and organize them.
+However, it's important to remember that your primary goal is to effectively communicate your ideas to a wide audience. 
 
-## listen to podcast of your choice
+Simple words have the power to resonate with both educated and non-educated readers. 
 
-This also quite relates to what we have been discussing earlier but instead of you reading books or publications, you listen to them and here are few benefit you can get out of it.
+Focus on conveying your message clearly and concisely, ensuring that your content adds value to the lives of your readers.
 
-1. You learn more and also learn new words.
-2. You learn to speak better and get transformed.
+### **9. Separate Writing and Editing**
 
-You can navigate through YouTube or Google and search for podcast of your choice.
+When writing, avoid the temptation to simultaneously edit your work. The process of editing while writing can lead to overlooking important ideas or concepts. 
 
-Here are some ways you can improve your writing skill though, there are more but still we hope you benefit from this.
+Instead, concentrate on getting your thoughts down on paper without the fear of imperfections. 
 
-<!-- • Add read more inside post linking to how to write better essay
-Learn to always make a draft -->
+Once you've finished your initial draft, you can then go back, review, and make necessary revisions. By separating the writing and editing phases, you'll achieve a more cohesive and polished final piece.
+
+### **10. Embrace Organization**
+
+Maintaining organized written materials is important for efficient referencing and future use. Utilize digital tools that allow you to digitize your writing and keep it well-structured. 
+
+Various applications are available to help you organize your work, ensuring that you can easily locate and retrieve information whenever needed. 
+
+This simple practice will save you time and streamline your writing process.
+
+### **11. Expand Your Horizons with Podcasts**
+
+In addition to reading, listening to podcasts can be an excellent way to improve your writing skills. Podcasts provide an alternative medium through which you can absorb knowledge, learn new words, and refine your spoken communication skills. 
+
+Explore a diverse range of podcasts on platforms like YouTube or Google, selecting topics that align with your interests and goals.
+
+## **Conclusion**
+
+While these eleven strategies are by no means exhaustive, they serve as a solid foundation for improving your writing skills as a student. Remember, practice and consistency are key. 
+
+By dedicating time and effort to enhancing your writing abilities, you will undoubtedly become a more proficient and impactful writer.

@@ -74,6 +74,32 @@
         },
       });
     </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "table-of-contents",
+        label: "Table of Contents",
+        fields: [
+          {
+            name: "shortcode",
+            label: "Table of Contents Shortcode",
+            widget: "string",
+            default: "{{< table-of-contents >}}", // Set your desired default shortcode here
+          },
+        ],
+        pattern: /^{{<\s?table-of-contents\s?>}}$/,
+        fromBlock: function (match) {
+          return {
+            shortcode: match[0],
+          };
+        },
+        toBlock: function (obj) {
+          return obj.shortcode;
+        },
+        toPreview: function (obj) {
+          return obj.shortcode;
+        },
+      });
+    </script>
 
     <!-- <script src="https://sharadcodes.github.io/hugo-shortcodes-netlify-cms/dist/hugo_shortcodes_netlify_cms.js"></script> -->
   </body>

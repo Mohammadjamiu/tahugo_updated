@@ -1,0 +1,8 @@
+{{- $toc := .Page.TableOfContents -}} {{- if gt (len $toc) 0 -}}
+<div class="toc-container">
+  <h2 class="toc-h2">
+    Table of Contents <button class="toggle-button">↬</button>
+  </h2>
+  <div class="table-of-contents">{{- .Page.TableOfContents -}}</div>
+</div>
+{{- end -}}

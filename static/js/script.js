@@ -187,3 +187,11 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
 //   }, 5000);
 //   form.reset();});
 // });
+
+// JavaScript code to toggle the table of contents
+const toggleButton = document.querySelector(".toggle-button");
+const tocContainer = document.querySelector(".table-of-contents");
+
+toggleButton.addEventListener("click", function () {
+  tocContainer.classList.toggle("show-toc");
+});
