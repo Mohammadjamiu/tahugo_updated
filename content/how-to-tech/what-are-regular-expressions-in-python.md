@@ -23,6 +23,8 @@ In this article, we will explore regular expressions in Python, providing a step
 
 Whether you're a beginner or an experienced programmer, this guide will help you grasp the concepts and techniques of regular expressions in Python.
 
+{{< table-of-contents >}}
+
 ## **What are Regular Expressions?**
 
 Regular expressions are a sequence of characters that define a search pattern. They are used to match and manipulate strings based on specific rules and patterns. 
