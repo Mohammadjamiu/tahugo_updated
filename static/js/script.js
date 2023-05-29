@@ -189,9 +189,53 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
 // });
 
 // JavaScript code to toggle the table of contents
-const toggleButton = document.querySelector(".toggle-button");
-const tocContainer = document.querySelector(".table-of-contents");
+// const toggleButton = document.querySelector(".toggle-button");
+// const tocContainer = document.querySelector(".table-of-contents");
 
-toggleButton.addEventListener("click", function () {
-  tocContainer.classList.toggle("show-toc");
-});
+// toggleButton.addEventListener("click", function () {
+//   tocContainer.classList.toggle("show-toc");
+// });
+
+//firebase
+
+// Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyDFzrc83Knj8VWLw2a6z5ZBSYNOss2Yxc8",
+  authDomain: "ta-feedback.firebaseapp.com",
+  databaseURL: "https://ta-feedback-default-rtdb.firebaseio.com",
+  projectId: "ta-feedback",
+  storageBucket: "ta-feedback.appspot.com",
+  messagingSenderId: "176064912141",
+  appId: "1:176064912141:web:ee6555e462af6299716e44",
+  measurementId: "G-GHFGGGKYLS",
+};
+
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+const database = firebase.database();
+
+// Function to handle the vote
+function handleVote(voteType) {
+  // Retrieve the current vote counts from the database
+  database.ref("voteCounts").once("value", (snapshot) => {
+    const voteCounts = snapshot.val() || { likeCount: 0, dislikeCount: 0 };
+
+    // Update the counts based on the vote type
+    if (voteType === "like") {
+      voteCounts.likeCount++;
+    } else if (voteType === "dislike") {
+      voteCounts.dislikeCount++;
+    }
+
+    // Update the vote counts in the database
+    database.ref("voteCounts").set(voteCounts, (error) => {
+      if (error) {
+        console.error(error);
+      } else {
+        // Update the vote counts on the page
+        $("#like-count").text(voteCounts.likeCount);
+        $("#dislike-count").text(voteCounts.dislikeCount);
+      }
+    });
+  });
+}

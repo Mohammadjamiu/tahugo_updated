@@ -232,11 +232,32 @@ ol > li::before {
   color: var(--primary-color);
   left: 0.7rem;
   position: absolute;
-  padding-top: 0.3rem;
+  padding-top: 0.4rem;
 }
 ul > li::before {
   content: counter(listCounter, disc);
-  font-size: 1.8rem;
+  font-size: 2.1rem;
+  font-weight: 700;
+  border-radius: 100%;
+  color: var(--primary-color);
+  left: 0.7rem;
+  position: absolute;
+  padding-top: 0rem;
+  padding-right: .2rem;
+}
+ul > li > ul > li::before {
+  content: counter(listCounter, circle);
+  font-size: 2.25rem;
+  font-weight: bold;
+
+  color: var(--primary-color);
+  left: 0.7rem;
+  position: absolute;
+  padding-top: 0rem;
+}
+ul > li > ul > li > ul > li::before {
+  content: counter(listCounter, square);
+  font-size: 2.1rem;
   font-weight: 700;
 
   color: var(--primary-color);
@@ -501,9 +522,8 @@ header nav {
 }
 
 .pagination > .page-item {
- padding-left: 0;
+  padding-left: 0;
 }
-
 
 .logo-text-none {
   display: none;

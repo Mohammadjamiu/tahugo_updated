@@ -386,40 +386,38 @@ nav#TableOfContents li a {
 
 /* Table of Contents Styles */
 .table-of-contents {
-  display: none; /* Hide the table of contents by default */
-  
+  display: block; /* Hide the table of contents by default */
 }
 
 .table-of-contents.show-toc {
   display: block; /* Show the table of contents when the class is added */
- 
 }
 
 .toc-h2 {
   font-family: MuliBold, sans-serif;
   font-size: 1.8rem;
   margin: 1rem auto;
-  background-color: var(--footer-color-light);
+  /* background-color: var(--footer-color-light); */
   display: inline-block;
   border-radius: 0.4rem;
-  padding: 0.25rem 0.8rem 0.1rem;
+  padding: 1rem 0.8rem 0.1rem;
   text-align: center;
   color: #071e36;
   margin-left: 1rem;
 }
 .toc-container {
   position: relative;
-}
+  background-color: var(--footer-color-light);
 
+}
 
 #TableOfContents ul {
   /* counter-reset: none; */
   font-size: 1.5rem;
   line-height: 1.4;
-  background-color: var(--footer-color-light);
-  padding-top: 30px;
+  /* padding-top: 45px; */
 
-  margin-top: -45px;
+  /* margin-top: -55px; */
   border-radius: 0.4rem;
 }
 #TableOfContents ul:first-child {
@@ -471,6 +469,7 @@ nav#TableOfContents li a {
   border-radius: 4px;
   cursor: pointer;
   margin-bottom: 0.67rem;
+  display: none;
 }
 
 .toggle-button:hover {

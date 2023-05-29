@@ -29,7 +29,16 @@
   </details> -->
 
   {{.Content}} 
-  
+ 
+<!-- Like button -->
+<button id="like-btn" class="thumbs-button" onclick="handleVote('like')">👍</button>
+<span id="like-count">0</span>
+
+<!-- Dislike button -->
+<button id="dislike-btn" class="thumbs-button" onclick="handleVote('dislike')">👎</button>
+<span id="dislike-count">0</span>
+
+
     {{partial "socialshare" . }}
     {{if .Params.Affliate_Links}}
    <blockquote>
