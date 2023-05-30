@@ -937,7 +937,8 @@ div.highlight span {
   opacity: 0.01;
 }
 
-p > code, ul li code {
+p > code,
+ul li code {
   /* background: #fff2ea; */
   background: var(--code-color);
   /* background: #092149; */
@@ -948,8 +949,6 @@ p > code, ul li code {
   display: inline;
   word-wrap: break-word;
 }
-
-
 
 /* code:not(div.highlight pre > code, p code, ul li code, ol li code)::before {
   content: 'Output:'; 
@@ -1005,3 +1004,5 @@ p > code, ul li code {
     display: block;
   }
 }
+
+

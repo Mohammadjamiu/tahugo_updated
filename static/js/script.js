@@ -196,12 +196,12 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
 //   tocContainer.classList.toggle("show-toc");
 // });
 
-// Get all <code> elements on the page
 const codeElements = document.getElementsByTagName("code");
 
 // Iterate over the <code> elements
 for (let i = 0; i < codeElements.length; i++) {
   const codeElement = codeElements[i];
+  const preElement = codeElement.parentElement; // Get the parent <pre> element
 
   // Check if the <code> element is not nested within 'ul li' or 'p' and the "data-lang" attribute is missing or equal to "log"
   if (
@@ -220,7 +220,7 @@ for (let i = 0; i < codeElements.length; i++) {
     codeElement.style.borderRadius = "0.6rem";
     codeElement.style.color = "#fff";
     codeElement.style.maxWidth = "80rem";
-//  codeElement.style.lineHeight = "2";
+
     // Create a pseudo-element for ::before
     const beforeElement = document.createElement("span");
     beforeElement.classList.add("before-pseudo-element");
@@ -231,8 +231,29 @@ for (let i = 0; i < codeElements.length; i++) {
     beforeElement.style.padding = ".45rem .4rem";
     beforeElement.style.borderRadius = ".4rem";
     beforeElement.style.marginRight = "1rem";
-   
+
     // Insert the pseudo-element as the first child of the <code> element
     codeElement.insertBefore(beforeElement, codeElement.firstChild);
   }
 }
+// Get the computed value of the CSS variable
+const footerCodeColor = getComputedStyle(
+  document.documentElement
+).getPropertyValue("--footer-color-dark");
+
+// Select the <pre> elements containing the qualified <code> elements
+const qualifiedPreElements = Array.from(
+  document.querySelectorAll("pre > code")
+).map((codeElement) => codeElement.parentElement);
+
+// Apply styles to the qualified <pre> elements
+qualifiedPreElements.forEach((preElement) => {
+  preElement.style.overflowX = "auto";
+  preElement.style.overflowY = "hidden";
+  preElement.style.borderRadius = "0.3rem";
+  preElement.style.scrollbarColor = "rgb(7, 28, 61) #e2e2e2";
+  preElement.style.scrollbarWidth = "thin";
+  preElement.style.webkitOverflowScrolling = "touch";
+  preElement.style.backgroundColor = "rgb(7, 28, 61)";
+
+});
