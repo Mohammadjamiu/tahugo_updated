@@ -133,7 +133,7 @@ A. Recap of the main benefits of exercise
 
 B. Encouragement to incorporate regular exercise into daily life
 
-## Conclusion
+## **Conclusion**
 
 Creating a well-structured outline is an important step in the essay writing process. It serves as a roadmap, guiding you through the main ideas and supporting details, ensuring a coherent and logical flow in your essay. 
 
@@ -151,7 +151,7 @@ So, before you start writing your next essay, take the time to create a comprehe
 
 It will be your guide and foundation, ensuring that your essay is well-organized, engaging, and effectively conveys your message to the reader.
 
-## FAQs
+## **FAQs**
 
 1. **Q: How long should an essay outline be?** The length of an essay outline can vary depending on the complexity of the topic and the depth of your analysis. In general, an outline can range from a single page to multiple pages. Focus on including all the necessary headings and subheadings to effectively structure your essay.
 2. **Q: Can I change my outline while writing the essay?** Yes, it's common for outlines to evolve as you delve deeper into your research and writing. You may discover new ideas or find that the initial organization needs adjustment. Be flexible and open to revising your outline to better suit the content and flow of your essay.

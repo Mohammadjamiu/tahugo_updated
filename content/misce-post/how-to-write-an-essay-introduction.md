@@ -69,25 +69,25 @@ A strong thesis statement not only sets the direction for your essay, but also p
 
 Now that we have explored the essential elements of an essay introduction, let's break down the process of crafting one step-by-step.
 
-### Step 1: Start with an Attention-Grabbing Hook
+### **Step 1: Start with an Attention-Grabbing Hook**
 
 Begin your essay introduction with a compelling hook that immediately grabs the reader's attention. This could be a rhetorical question that stimulates critical thinking, an intriguing fact that sparks curiosity, or a captivating anecdote that relates to your topic. 
 
 The hook should be relevant, engaging, and set the tone for your essay.
 
-### Step 2: Provide Relevant Background Information
+### **Step 2: Provide Relevant Background Information**
 
 Following the hook, provide concise yet informative background information to give your readers the necessary context. This can include a brief historical overview, an explanation of key concepts, or the significance of the topic. 
 
 Remember to strike a balance between providing enough information to understand the subject matter and avoiding overwhelming the reader with excessive details.
 
-### Step 3: Present a Clear Thesis Statement
+### **Step 3: Present a Clear Thesis Statement**
 
 After establishing the context, present your thesis statement. This statement should convey your main argument or position on the topic and provide a roadmap for the rest of your essay. 
 
 Make sure your thesis statement is clear, specific, and debatable, as it will guide the development of your arguments and structure the essay.
 
-### Step 4: Preview the Main Points
+### **Step 4: Preview the Main Points**
 
 To further engage the reader and provide a preview of what's to come, briefly outline the main points or arguments that will be discussed in the essay. 
 

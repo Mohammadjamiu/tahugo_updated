@@ -408,7 +408,6 @@ nav#TableOfContents li a {
 .toc-container {
   position: relative;
   background-color: var(--footer-color-light);
-
 }
 
 #TableOfContents ul {
@@ -938,7 +937,7 @@ div.highlight span {
   opacity: 0.01;
 }
 
-p > code {
+p > code, ul li code {
   /* background: #fff2ea; */
   background: var(--code-color);
   /* background: #092149; */
@@ -948,6 +947,29 @@ p > code {
   margin: 0.2rem 0.3rem 0 0.2rem;
   display: inline;
   word-wrap: break-word;
+}
+
+code:not(div.highlight pre > code, p code, ul li code, ol li code) {
+  background-color: #071c3d !important;
+
+  padding: 1.5rem 1rem;
+  display: block;
+  margin: 0.5rem 0;
+  font-size: 1.54rem;
+  font-family: Muli, sans-serif;
+  font-weight: 500;
+  border-radius: 0.6rem !important;
+  max-width: 80rem;
+
+  color: #fff;
+}
+
+code:not(div.highlight pre > code, p code, ul li code, ol li code)::before {
+  content: 'Output:'; 
+  background-color: #0056b3;
+  padding:.45rem .4rem;
+  border-radius: .4rem;
+  margin-right: 1rem;
 }
 
 .disclaimer {
