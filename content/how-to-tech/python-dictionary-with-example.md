@@ -42,8 +42,6 @@ ages = {"John": 25, "Emily": 32, "Michael": 41}
 print(ages)
 ```
 
-
-
 ```
 {"John": 25, "Emily": 32, "Michael": 41}
 ```
@@ -63,8 +61,6 @@ john_age = ages["John"]
 print(john_age)
 ```
 
-
-
 ```
 25
 ```
@@ -81,8 +77,6 @@ To update a value in a dictionary, you can assign a new value to its key. For in
 ages["John"] = 26
 print(ages)
 ```
-
-
 
 ```
 {"John": 26, "Emily": 32, "Michael": 41}
@@ -101,8 +95,6 @@ ages["Sarah"] = 29
 print(ages)
 ```
 
-
-
 ```
 {"John": 26, "Emily": 32, "Michael": 41, "Sarah": 29}
 ```
@@ -115,8 +107,6 @@ Let's remove the entry for Michael:
 del ages["Michael"]
 print(ages)
 ```
-
-
 
 ```
 {"John": 26, "Emily": 32, "Sarah": 29}
@@ -146,8 +136,6 @@ key_list = ages.keys()
 print(key_list)
 ```
 
-
-
 ```
 dict_keys(['John', 'Emily', 'Michael'])
 ```
@@ -162,8 +150,6 @@ value_list = ages.values()
 print(value_list)
 ```
 
-
-
 ```
 dict_values([25, 32, 41])
 ```
@@ -177,8 +163,6 @@ ages = {"John": 25, "Emily": 32, "Michael": 41}
 item_list = ages.items()
 print(item_list)
 ```
-
-
 
 ```
 dict_items([('John', 25), ('Emily', 32), ('Michael', 41)])
@@ -197,13 +181,9 @@ for name, age in ages.items():
     print(name + " is " + str(age) + " years old.")
 ```
 
-
-
 ```log
 John is 26 years old.
-
 Emily is 32 years old.
-
 Sarah is 29 years old.
 ```
 
@@ -256,8 +236,6 @@ contacts = {
 emily_email = contacts["Emily"]["email"]
 print(emily_email)
 ```
-
-
 
 ```
 emily@example.com

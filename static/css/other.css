@@ -949,28 +949,15 @@ p > code, ul li code {
   word-wrap: break-word;
 }
 
-code:not(div.highlight pre > code, p code, ul li code, ol li code) {
-  background-color: #071c3d !important;
 
-  padding: 1.5rem 1rem;
-  display: block;
-  margin: 0.5rem 0;
-  font-size: 1.54rem;
-  font-family: Muli, sans-serif;
-  font-weight: 500;
-  border-radius: 0.6rem !important;
-  max-width: 80rem;
 
-  color: #fff;
-}
-
-code:not(div.highlight pre > code, p code, ul li code, ol li code)::before {
+/* code:not(div.highlight pre > code, p code, ul li code, ol li code)::before {
   content: 'Output:'; 
   background-color: #0056b3;
   padding:.45rem .4rem;
   border-radius: .4rem;
   margin-right: 1rem;
-}
+} */
 
 .disclaimer {
   background-color: #e0551f;

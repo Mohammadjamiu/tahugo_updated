@@ -195,3 +195,44 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
 // toggleButton.addEventListener("click", function () {
 //   tocContainer.classList.toggle("show-toc");
 // });
+
+// Get all <code> elements on the page
+const codeElements = document.getElementsByTagName("code");
+
+// Iterate over the <code> elements
+for (let i = 0; i < codeElements.length; i++) {
+  const codeElement = codeElements[i];
+
+  // Check if the <code> element is not nested within 'ul li' or 'p' and the "data-lang" attribute is missing or equal to "log"
+  if (
+    !codeElement.closest("ul li, p") &&
+    (!codeElement.hasAttribute("data-lang") ||
+      codeElement.getAttribute("data-lang") === "log")
+  ) {
+    // Add specific style to the <code> element
+    codeElement.style.backgroundColor = "#071c3d";
+    codeElement.style.padding = "1.5rem 1rem";
+    codeElement.style.display = "block";
+    codeElement.style.margin = "0.5rem 0";
+    codeElement.style.fontSize = "1.54rem";
+    codeElement.style.fontFamily = "Muli, sans-serif";
+    codeElement.style.fontWeight = "500";
+    codeElement.style.borderRadius = "0.6rem";
+    codeElement.style.color = "#fff";
+    codeElement.style.maxWidth = "80rem";
+ codeElement.style.lineHeight = "2";
+    // Create a pseudo-element for ::before
+    const beforeElement = document.createElement("span");
+    beforeElement.classList.add("before-pseudo-element");
+
+    // Set the content and styles for the pseudo-element
+    beforeElement.textContent = "Output:";
+    beforeElement.style.backgroundColor = "#0056b3";
+    beforeElement.style.padding = ".45rem .4rem";
+    beforeElement.style.borderRadius = ".4rem";
+    beforeElement.style.marginRight = "1rem";
+   
+    // Insert the pseudo-element as the first child of the <code> element
+    codeElement.insertBefore(beforeElement, codeElement.firstChild);
+  }
+}

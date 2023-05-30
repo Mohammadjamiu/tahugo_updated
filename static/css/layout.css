@@ -119,6 +119,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow-x: hidden !important;
 }
 
 html {
@@ -129,8 +130,6 @@ html {
   line-height: 1.63;
 
   scroll-padding-top: 2rem;
-
-  overflow-x: hidden !important;
 }
 
 body {
@@ -243,7 +242,7 @@ ul > li::before {
   left: 0.7rem;
   position: absolute;
   padding-top: 0rem;
-  padding-right: .2rem;
+  padding-right: 0.2rem;
 }
 ul > li > ul > li::before {
   content: counter(listCounter, circle);
