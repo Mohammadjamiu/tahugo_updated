@@ -220,7 +220,7 @@ for (let i = 0; i < codeElements.length; i++) {
     codeElement.style.borderRadius = "0.6rem";
     codeElement.style.color = "#fff";
     codeElement.style.maxWidth = "80rem";
- codeElement.style.lineHeight = "2";
+//  codeElement.style.lineHeight = "2";
     // Create a pseudo-element for ::before
     const beforeElement = document.createElement("span");
     beforeElement.classList.add("before-pseudo-element");

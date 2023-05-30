@@ -119,7 +119,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow-x: hidden !important;
 }
 
 html {
@@ -128,7 +127,7 @@ html {
   font-family: "Muli", sans-serif;
   font-weight: 500;
   line-height: 1.63;
-
+  overflow-x: hidden !important;
   scroll-padding-top: 2rem;
 }
 
