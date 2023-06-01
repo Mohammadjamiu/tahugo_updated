@@ -1,5 +1,5 @@
 ---
-title: "Python Dictionary: A Beginner's Guide with Examples"
+title: "Python Dictionaries: A Beginner's Guide with Examples"
 slug: python dictionary with example
 postdate: May 29, 2023
 description: Learn the ins and outs of Python dictionaries in this comprehensive

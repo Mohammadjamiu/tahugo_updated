@@ -408,6 +408,7 @@ nav#TableOfContents li a {
 .toc-container {
   position: relative;
   background-color: var(--footer-color-light);
+  padding-right: 0.4rem;
 }
 
 #TableOfContents ul {
@@ -1004,5 +1005,3 @@ ul li code {
     display: block;
   }
 }
-
-

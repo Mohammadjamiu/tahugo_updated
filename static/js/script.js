@@ -205,7 +205,7 @@ for (let i = 0; i < codeElements.length; i++) {
 
   // Check if the <code> element is not nested within 'ul li' or 'p' and the "data-lang" attribute is missing or equal to "log"
   if (
-    !codeElement.closest("ul li, p") &&
+    !codeElement.closest("ul li, p, h2, h1, h3, h4, h5, h6, ol li") &&
     (!codeElement.hasAttribute("data-lang") ||
       codeElement.getAttribute("data-lang") === "log")
   ) {
@@ -255,5 +255,4 @@ qualifiedPreElements.forEach((preElement) => {
   preElement.style.scrollbarWidth = "thin";
   preElement.style.webkitOverflowScrolling = "touch";
   preElement.style.backgroundColor = "rgb(7, 28, 61)";
-
 });
