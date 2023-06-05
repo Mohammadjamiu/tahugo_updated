@@ -939,7 +939,7 @@ div.highlight span {
 }
 
 p > code,
-ul li code {
+ul li code, ol li code {
   /* background: #fff2ea; */
   background: var(--code-color);
   /* background: #092149; */
