@@ -9,7 +9,7 @@ description: Wired networks are networks where devices (such as computers,
   cables.
 categorylabel: Networking and Communication
 categories: '["Networking and Communication"]'
-image: /images/radio.webp
+image: /images/wired-and-wireless-networdk.webp
 weight: 125
 categorylink: /categories/networking-and-communication
 type: posts
@@ -20,6 +20,16 @@ mathjax: false
 Google_Ads: true
 ---
 **Wired and wireless networks** are two types of computer networks that are used for communication and transmission of data between devices.
+
+Wired networks are networks where devices (such as computers, printers, and routers) are physically connected to each other and to the internet or another network using cables while, 
+
+Wireless networks use radio waves or infrared signals to connect devices without the need for physical cables.
+
+In this article, we’ll explore the difference between wired and wireless network with examples of each.
+
+
+
+{{< table-of-contents >}}
 
 ## What is a Network?
 
@@ -69,6 +79,10 @@ However, wireless networks tend to be slower and less reliable than wired networ
 
 * Wi-Fi connections between laptops, smartphones, and routers in a home or office.
 * Bluetooth's connections between a smartphone and wireless headphones.
+
+**Read on:** [Advantages and Disadvantages of Wired and Wireless Network](/networking/wired-and-wireless-network-advantages-and-disadvantages/)
+
+
 
 ## Difference Between Wired and Wireless Networks
 
