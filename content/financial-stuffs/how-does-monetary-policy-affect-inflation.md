@@ -26,7 +26,7 @@ In this article, we will look into these concepts and explore how monetary polic
 
 ## **What is Inflation?**
 
-Inflation refers to the sustained increase in the general level of prices for goods and services over a period of time. 
+Inflation refers to the sustained or continuous increase in the general level of prices for goods and services over a period of time. 
 
 It weakens the purchasing power of money, meaning that the same amount of money can buy fewer goods and services as time goes on. 
 
