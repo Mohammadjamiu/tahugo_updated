@@ -699,6 +699,12 @@ section.main {
   height: 100%;
   border-radius: 0.8rem 0 0 0.8rem;
 }
+.explore-icon-box .span {
+  margin: 50% 25%;
+  width: 100%;
+  font-size: 4.5rem;
+  display: inline-block;
+}
 .explore-content-box {
   background-color: #10294d;
   width: 100%;
@@ -1204,5 +1210,3 @@ form textarea {
   text-align: center;
   margin: 3.5rem 0;
 }
-
-
