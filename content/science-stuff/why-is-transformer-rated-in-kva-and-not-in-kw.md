@@ -20,6 +20,8 @@ When it comes to rating transformers, you may have noticed that they are specifi
 
 This choice of measurement unit may seem puzzling at first, but there are solid reasons behind it. 
 
+![why is transformer rated in kva and not in kw](/images/transformer-kva-kw.webp "why is transformer rated in kva and not in kw")
+
 In this article, we will look into the intricacies of transformer ratings and explore why they are expressed in kVA rather than kW.
 
 {{< table-of-contents >}}

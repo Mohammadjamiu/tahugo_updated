@@ -22,6 +22,8 @@ In order to understand how a country is performing economically, two key indicat
 
 These acronyms, which stand for Gross Domestic Product (GDP) and Gross National Product (GNP), are crucial measures that provide insights into the economic health and productivity of a nation.
 
+![gdp vs gnp](/images/gdp-1-.webp "gdp vs gnp")
+
 In this article, we will look at the difference between GDP and GNP in detail, shedding light on their definitions, calculations, and implications. 
 
 We will also use examples from different countries to illustrate these concepts and make them easier to understand. 

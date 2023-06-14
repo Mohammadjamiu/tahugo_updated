@@ -1,5 +1,5 @@
 ---
-title: "Fuel Subsidy in Nigeria: All You Need to Know"
+title: "Fuel Subsidy in Nigeria: All You Need to Know (in 2023)"
 slug: what is fuel subsidy in nigeria
 postdate: June 8, 2023
 description: Fuel subsidy in Nigeria refers to the government's financial
@@ -20,6 +20,8 @@ Google_Ads: true
 Fuel subsidy in Nigeria has been a long-standing government policy implemented to keep the price of fuel below the market rate. 
 
 This initiative involves the government paying the difference between the market price and the subsidized price, ensuring affordability for consumers. 
+
+![what is fuel subsidy in nigeria](/images/fuel-subsidy.webp "what is fuel subsidy in nigeria")
 
 In this article, we will look into the details of fuel subsidy in Nigeria, its historical background, the current challenges it poses, and the pros and cons associated with this policy.
 

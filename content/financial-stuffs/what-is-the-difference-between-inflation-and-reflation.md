@@ -23,6 +23,8 @@ Comprehending economic concepts can be challenging, particularly when it comes t
 
 In the sphere of economics, two such terms that often cause confusion are “inflation” and “reflation.” While they may sound alike, these terms have distinct meanings and implications. 
 
+![inflation and reflation](/images/inflation-and-money.webp "inflation and reflation")
+
 In this article, we will look into the difference between inflation and reflation, exploring their definitions, causes, effects, and examples.
 
 {{< table-of-contents >}}

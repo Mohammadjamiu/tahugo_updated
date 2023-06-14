@@ -19,6 +19,8 @@ Google_Ads: true
 ---
 Are you a beginner looking to understand Python dictionaries? In this comprehensive guide, we will walk you through the concept of dictionaries in Python, providing clear explanations and practical examples along the way. 
 
+![python dictionary](/images/python-dictionary.webp "python dictionary")
+
 By the end of this article, you will have a solid understanding of Python dictionaries and how to utilize them effectively in your coding journey.
 
 {{< table-of-contents >}}

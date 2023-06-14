@@ -1,6 +1,6 @@
 ---
 title: How does Monetary Policy Affect Inflation? An Easy to Grasp Explanation
-slug: How does monetary policy affect inflation?
+slug: how does monetary policy affect inflation
 postdate: June 6, 2023
 description: " Monetary policy influences inflation by regulating the money
   supply and interest rates. When central banks adjust these factors, it impacts
@@ -19,6 +19,8 @@ mathjax: false
 Google_Ads: true
 ---
 In our daily lives, we often encounter the term “inflation” in discussions about the economy. But what exactly is inflation, and how does it relate to monetary policy?
+
+![How does monetary policy affect inflation](/images/inflation.webp "How does monetary policy affect inflation")
 
 In this article, we will look into these concepts and explore how monetary policy affects inflation in detail.
 

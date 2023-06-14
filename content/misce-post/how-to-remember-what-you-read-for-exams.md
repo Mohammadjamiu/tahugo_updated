@@ -23,6 +23,8 @@ Preparing for exams requires not just studying but also retaining and recalling 
 
 Many students struggle with this aspect, often feeling overwhelmed with the volume of material they need to remember.
 
+![how to remember what you read for exams](/images/flashcard.webp "how to remember what you read for exams")
+
 But, with the right techniques and strategies, you can enhance your memory and retain information more efficiently.
 
 {{< table-of-contents >}}
@@ -241,8 +243,8 @@ Remember, practice and consistency are key. Start implementing these techniques 
 
 ## **FAQs**
 
-1. **Q1: How long before the exam should I start implementing these strategies?** It's best to start early and practice these strategies consistently throughout your study period. The earlier you begin, the more time you'll have to familiarize yourself with the techniques and integrate them into your study routine.
-2. **Q2: Are these memory techniques applicable to all subjects?** Yes, these memory techniques can be applied to various subjects. Whether you're studying science, humanities, or languages, the principles of active reading, note-taking, mnemonic devices, and visual aids can be adapted to suit the specific requirements of each subject.
-3. **Q3: How can a healthy lifestyle contribute to better memory retention?** A healthy lifestyle, including regular exercise, sufficient sleep, and a balanced diet, promotes overall brain health. Exercise increases blood flow to the brain, sleep allows for memory consolidation, and a balanced diet provides essential nutrients for optimal brain function. By taking care of your physical well-being, you create a favorable environment for effective memory retention.
-4. **Q4: Can these techniques help with long-term retention beyond exams?** Absolutely! The techniques described in this article are not limited to exam preparation. They promote deep learning, understanding, and memory retention, which are beneficial beyond the exam context. Applying these techniques consistently will help you build a solid foundation of knowledge and retain information for the long term.
-5. **Q5: What should I do if I feel overwhelmed with the volume of material to remember?** If you feel overwhelmed, break down the material into smaller, manageable chunks. Create a study schedule and prioritize the topics or chapters based on their importance and difficulty level. Implement the techniques discussed in this article for each section, and don't forget to take regular breaks to prevent burnout.
+1. **How long before the exam should I start implementing these strategies?** It's best to start early and practice these strategies consistently throughout your study period. The earlier you begin, the more time you'll have to familiarize yourself with the techniques and integrate them into your study routine.
+2. **Are these memory techniques applicable to all subjects?** Yes, these memory techniques can be applied to various subjects. Whether you're studying science, humanities, or languages, the principles of active reading, note-taking, mnemonic devices, and visual aids can be adapted to suit the specific requirements of each subject.
+3. **How can a healthy lifestyle contribute to better memory retention?** A healthy lifestyle, including regular exercise, sufficient sleep, and a balanced diet, promotes overall brain health. Exercise increases blood flow to the brain, sleep allows for memory consolidation, and a balanced diet provides essential nutrients for optimal brain function. By taking care of your physical well-being, you create a favorable environment for effective memory retention.
+4. **Can these techniques help with long-term retention beyond exams?** Absolutely! The techniques described in this article are not limited to exam preparation. They promote deep learning, understanding, and memory retention, which are beneficial beyond the exam context. Applying these techniques consistently will help you build a solid foundation of knowledge and retain information for the long term.
+5. **What should I do if I feel overwhelmed with the volume of material to remember?** If you feel overwhelmed, break down the material into smaller, manageable chunks. Create a study schedule and prioritize the topics or chapters based on their importance and difficulty level. Implement the techniques discussed in this article for each section, and don't forget to take regular breaks to prevent burnout.

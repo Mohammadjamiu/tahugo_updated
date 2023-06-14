@@ -21,6 +21,8 @@ Google_Ads: true
 ---
 Fiscal and monetary policies are instrumental strategies employed by governments and central banks to shape the overall economy. 
 
+![how does fiscal and monetary policy impact the economy](/images/monetry.webp "how does fiscal and monetary policy impact the economy")
+
 While both policies share the common objective of attaining economic stability and promoting growth, they operate in different ways and have distinct impacts on various aspects of the economy.
 
 {{< table-of-contents >}}

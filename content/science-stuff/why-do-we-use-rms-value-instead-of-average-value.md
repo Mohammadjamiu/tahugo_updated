@@ -21,6 +21,8 @@ When it comes to analyzing electrical signals, the use of root-mean-square (RMS)
 
 Unlike the average value, which provides a straightforward representation, RMS takes into account both the magnitude and frequency of the signal.
 
+![why do we use rms value instead of average value](/images/electronics-and-oscilloscope.webp "why do we use rms value instead of average value")
+
 This article aims to shed light on the reasons behind the preference for RMS value over the average value in various electrical applications.
 
 By exploring the formulas and practical implications of RMS value, we can grasp its significance in electrical engineering.

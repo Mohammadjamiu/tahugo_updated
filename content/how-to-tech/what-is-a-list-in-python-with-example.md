@@ -19,6 +19,8 @@ Google_Ads: true
 ---
 A list in Python is a mutable, ordered collection of elements enclosed in square brackets (`[]`). It can store elements of different data types, such as integers, strings, or even other lists. 
 
+![list in python](/images/list-in-python.webp "list in python")
+
 Lists are dynamic, meaning they can grow or shrink in size as needed. This flexibility makes lists a powerful tool for various data manipulation tasks.
 
 With the ability to store multiple items, lists provide an efficient way to organize and access data. 
@@ -329,7 +331,6 @@ sorted_items = sorted(items, key=lambda x: -x)
 
 # Print the sorted list
 print(sorted_items) #[9, 8, 5, 3, 2, 1]
-
 ```
 
 In this code example, we have a list of numbers `items`. By using the `sorted()` function, we can sort the list in descending order by specifying a custom key. 
@@ -337,8 +338,6 @@ In this code example, we have a list of numbers `items`. By using the `sorted()`
 The custom key is defined using a lambda function, where we multiply each element by -1 to reverse the order. 
 
 The resulting sorted list, `sorted_items`, is then printed to the console which is `[9, 8, 5, 3, 2, 1]`.
-
-
 
 ## **List Comprehensions**
 

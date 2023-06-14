@@ -22,6 +22,8 @@ In the sphere of computer networking, standards play a vital role in ensuring in
 
 Two common types of standards that exist in this domain are **de facto** and **de jure** standards. 
 
+![de facto and de jure standards in computer networking](/images/alvaro-reyes-qwwphwip31m-unsplash.webp "de facto and de jure standards in computer networking")
+
 In this article, we will explore the intricacies of these standards, their characteristics, and provide relevant examples to illustrate their significance.
 
 {{< table-of-contents >}}

@@ -21,6 +21,8 @@ Google_Ads: true
 ---
 The importance of import and export to a country cannot be underestimated. International trade serves as a vital catalyst for economic growth, job creation, and cultural exchange. 
 
+![importance of import and export to a country](/images/import-and-export.webp "importance of import and export to a country")
+
 In this article, we will look into the various dimensions of import and export, shedding light on their profound significance for a country's prosperity. 
 
 So, let's get down on a journey through the world of international trade and explore why it holds such immense importance for a country.
