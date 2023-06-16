@@ -85,7 +85,11 @@ In addition, the implementation of advanced modulation techniques and error corr
 
 ### **4. Network Congestion**
 
-Even though fiber optic cables have immense bandwidth capabilities, network congestion can still affect data transmission speeds. When multiple users or devices simultaneously access the network, the available bandwidth may be shared among them, leading to slower data transfer rates. Network administrators must manage and optimize network traffic to ensure smooth and efficient data transmission.
+Even though fiber optic cables have immense bandwidth capabilities, network congestion can still affect data transmission speeds. 
+
+When multiple users or devices simultaneously access the network, the available bandwidth may be shared among them, leading to slower data transfer rates. 
+
+Network administrators must manage and optimize network traffic to ensure smooth and efficient data transmission.
 
 Read on: [What is Network Congestion in Computer Networks? And How to Avoid Them](/networking/network-congestion-in-computer-networks-and-how-to-avoid-them/)
 

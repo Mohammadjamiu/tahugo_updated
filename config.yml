@@ -4,7 +4,7 @@ title: Tooabstractive
 enableEmoji: true
 enableRobotsTXT: true
 canonifyURLs: true
-paginate: 12
+paginate: 15
 ignoreErrors: ["error-remote-getjson"]
 params:
   description: TA is here to demystify abstractive concepts ranging from (engineering - tech - writing)

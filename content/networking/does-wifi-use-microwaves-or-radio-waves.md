@@ -20,7 +20,7 @@ Google_Ads: true
 ---
 Wi-Fi has become an essential aspect of our daily lives, providing seamless internet access and connecting a wide range of devices. As we rely on this wireless technology for communication and online activities, it's natural to wonder about the underlying mechanisms of Wi-Fi. 
 
-One common query that arises is whether Wi-Fi utilizes microwaves or radio waves. In this article, we will look into just into that.
+One common query that arises is whether Wi-Fi utilizes microwaves or radio waves. In this article, we will look into just that.
 
 {{< table-of-contents >}}
 
@@ -43,8 +43,6 @@ Microwaves are also utilized in various applications such as radar systems, sate
 | Frequency Spectrum  | 3 Hz to 300 GHz                                    | 300 MHz to 300 GHz                                   |
 | Wavelength Range    | 1 millimeter to 100 kilometers                     | 1 millimeter to 1 meter                              |
 | Common Applications | Broadcasting (Radio, Television), Wi-Fi, Bluetooth | Microwave Ovens, Industrial Heating, Medical Imaging |
-
-
 
 ## **Wi-Fi and Radio Waves**
 
