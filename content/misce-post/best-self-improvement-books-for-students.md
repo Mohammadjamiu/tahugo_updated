@@ -10,7 +10,7 @@ weight: 231
 categorylink: /categories/productivity-and-writings
 type: posts
 author: Mohammad Jamiu
-Affliate_Links: false
+Affliate_Links: true
 draft: false
 mathjax: false
 Google_Ads: true
