@@ -27,11 +27,15 @@ By performing specific tests, we can determine whether a system exhibits the des
 
 ## **Linearity Test**
 
-The linearity test is the first step for evaluating whether a system is LTI. It examines whether the system's output can be expressed as a linear combination of its inputs. 
+The linearity test is the first step for evaluating whether a system is LTI. It is used to determine whether a system is linear or not. 
 
-Let's consider an input signal denoted as $x(t)$ and an output signal denoted as $y(t)$. 
+It involves evaluating if the system's output can be expressed as a linear combination of its inputs. 
 
-If the output of a system satisfies the equation $y(t) = ax(t) + by(t)$, where $a$ and $b$ are constants, then the system is linear.
+Let’s consider two input signals denoted as $x(t)$ and $u(t)$ and an output signal denoted as $y(t)$.
+
+If the output satisfies the equation $y(t) = ax(t) + bu(t)$, where $a$ and $b$ are constants, then the system is considered linear. 
+
+This equation signifies that the output is a linear combination of the input signals, demonstrating the system's linearity.
 
 ## **Time Invariance Test**
 
