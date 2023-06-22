@@ -77,6 +77,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -160,6 +190,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",
@@ -249,6 +309,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -307,7 +397,6 @@ collections:
           default: "/images/imgph.webp",
           media_library: { config: { multiple: true } },
         }
-
       - {
           label: "Weight",
           name: "weight",
@@ -333,6 +422,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",
@@ -422,6 +541,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -508,6 +657,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -591,6 +770,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",
@@ -679,6 +888,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -763,6 +1002,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",
@@ -851,6 +1120,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -935,6 +1234,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",
@@ -1023,6 +1352,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -1107,6 +1466,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",

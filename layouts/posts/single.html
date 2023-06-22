@@ -5,8 +5,14 @@
   <span class="post-date">{{.Params.postdate}}</span>
   <h1>{{.Params.title}}</h1>
   <div class="post-metadata">
-    <p><img class="author__img" src="/images/author_jamiu.jpg" alt="mohammad jamiu"></img>
+    {{if .Params.author_credit}}
+<p><img class="author__img" src="{{ .Params.author_credit_image}}" alt="{{ .Params.author_credit_name}}"></img>
+    <p class="author">{{ .Params.author_credit_name}} </p>
+
+    {{else if not .Params.author_credit}}
+    <p><img class="author__img" src="/images/author_jamiu.webp" alt="{{ .Params.author}}"></img>
     <p class="author">{{ .Params.author}} </p>
+    {{end}}
       <p class="dot">/</p><p class="weight">{{ .Params.weight }} </p>  <p class="dot">/</p>
     <p class="post-category">
       <a class="on-what-topic" href="{{.Params.categorylink}}"
@@ -37,6 +43,24 @@
    </blockquote>
     {{end}}
  
+
+
+{{if .Params.author_credit}}
+<div class="author-credit">
+  <h2 class="author-credit-heading">About The Author</h2>
+<div class="author-detail">
+   <div class="author-credit-img">
+   
+    <img src=" {{.Params.author_credit_image}}" alt="{{.Params.author_credit_name}}">
+   
+  </div>
+  <div class="author-credit-info">
+    <h3 class="author-credit-name">{{.Params.author_credit_name}}</h3>
+    <p>{{.Params.author_credit_info}}</p></div>
+
+</div> 
+</div>
+{{end}}
    <!-- <p>Disclosure: Some of the links above are affiliate links. This means that, at zero cost to you, I will earn an affiliate commission if you click through the link and finalize a purchase.</p>
    -->
   

@@ -26,8 +26,11 @@ end }}
   content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"
 />
 {{ with site.Params.author }}
-<meta name="author" content="{{ . }}" />{{ end }} {{ hugo.Generator }}
-<meta name="publisher" content="{{ .Params.author }}" />
+<meta name="author" content="{{ . }}" />{{ end }} {{ hugo.Generator }} {{if
+.Params.author_credit}}
+<meta name="publisher" content="{{ .Params.author_credit_name }}" />
+{{else}}
+<meta name="publisher" content="{{ .Params.author }}" /> {{end}}
 
 <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
 <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
