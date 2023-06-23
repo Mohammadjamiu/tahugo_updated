@@ -205,7 +205,7 @@ for (let i = 0; i < codeElements.length; i++) {
 
   // Check if the <code> element is not nested within 'ul li' or 'p' and the "data-lang" attribute is missing or equal to "log"
   if (
-    !codeElement.closest("ul li, p, h2, h1, h3, h4, h5, h6, ol li") &&
+    !codeElement.closest("ul li, p, h2, h1, h3, h4, h5, h6, ol li, table") &&
     (!codeElement.hasAttribute("data-lang") ||
       codeElement.getAttribute("data-lang") === "log")
   ) {
