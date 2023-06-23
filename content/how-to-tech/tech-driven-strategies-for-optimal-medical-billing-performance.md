@@ -119,7 +119,7 @@ To make sure that your revenue cycle management is more profitable and efficient
   \
   This will help you get better results.
 
-[Medical billing outsourcing](https://billingfreedom.com/outsource-medical-billing-services/) benefits healthcare providers. Providers can use industry expertise, advanced technology, and dedicated resources by partnering with a reputable outsourced medical billing company. 
+<a href="https://billingfreedom.com/outsource-medical-billing-services/" target="_blank"> Medical billing outsourcing</a> benefits healthcare providers. Providers can use industry expertise, advanced technology, and dedicated resources by partnering with a reputable outsourced medical billing company. 
 
 ## **Wrap Up**
 
