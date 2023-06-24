@@ -7,6 +7,8 @@ description: Fiscal and monetary policies play significant roles in influencing
   monetary policy involves regulating money supply and interest rates. Both
   policies impact factors like economic growth, inflation, employment, and
   investment levels.
+tags:
+  - economy
 categorylabel: Financial Stuffs
 categories: '["Financial Stuffs"]'
 image: /images/monetry.webp

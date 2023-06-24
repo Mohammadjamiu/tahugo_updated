@@ -6,6 +6,8 @@ description: Mechatronics engineering encompasses the integration of mechanical,
   electrical, and computer systems to create intelligent machines, while
   robotics engineering specifically focuses on the design, construction, and
   programming of robots for various applications.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/robotics.webp

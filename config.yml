@@ -68,5 +68,6 @@ related:
       weight: 9
 
 taxonomies:
+  tag: "tags"
   category: "categories"
   ebookcategory: "ebookcategories"

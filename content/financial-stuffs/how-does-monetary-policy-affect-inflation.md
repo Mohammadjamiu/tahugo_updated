@@ -6,6 +6,9 @@ description: " Monetary policy influences inflation by regulating the money
   supply and interest rates. When central banks adjust these factors, it impacts
   borrowing costs, spending patterns, and ultimately the general price levels in
   an economy."
+tags:
+  - economy
+  - finance
 categorylabel: Financial Stuffs
 categories: '["Financial Stuffs"]'
 image: /images/inflation.webp

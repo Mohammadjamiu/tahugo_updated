@@ -6,6 +6,8 @@ description: A mechanic primarily focuses on repairing and maintaining
   mechanical systems and equipment, while an engineer designs, analyzes, and
   develops new technologies and systems. Engineers typically have a higher level
   of education and specialize in various branches of engineering.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/mechanic-and-engineer.webp

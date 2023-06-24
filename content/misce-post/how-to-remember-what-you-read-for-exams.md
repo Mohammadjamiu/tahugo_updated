@@ -7,6 +7,8 @@ description: Improve reading skills with active techniques like skimming,
   mind mapping, and outlining. Employ mnemonic devices and visual aids for
   better understanding. Embrace repetition through spaced practice and retrieval
   for effective learning.
+tags:
+  - study tips
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/flashcard.webp

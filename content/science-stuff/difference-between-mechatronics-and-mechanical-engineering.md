@@ -6,6 +6,8 @@ description: Mechatronics is a multidisciplinary field that combines elements of
   mechanical engineering, electronics, and computer science to design and
   control automated systems. Mechanical engineering focuses on the design and
   operation of mechanical systems.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/mechanical-mechatronics-eng.webp

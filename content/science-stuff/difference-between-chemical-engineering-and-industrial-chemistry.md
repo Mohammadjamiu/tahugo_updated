@@ -6,6 +6,8 @@ description: The key difference between chemical engineering and industrial
   chemistry lies in their core objectives. Chemical engineering primarily
   focuses on designing and optimizing chemical processes, whereas industrial
   chemistry emphasizes the production and development of chemical products.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/chemical-vs-industrial-eng.webp

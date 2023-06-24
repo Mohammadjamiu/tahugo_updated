@@ -15,6 +15,9 @@ description: " Discover 11 simple yet powerful ways for students to improve
   provides actionable strategies to enhance writing proficiency. Explore
   practical tips and techniques to unlock your full potential as a student
   writer."
+tags:
+  - study tips
+  - self development
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/how-to-write-better.webp

@@ -7,6 +7,8 @@ description: The primary distinction between college and university lies in
   specialized vocational training, while a university provides a broader range
   of academic degrees, including undergraduate, graduate, and research-focused
   programs.
+tags:
+  - difference between
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/university-and-college.webp

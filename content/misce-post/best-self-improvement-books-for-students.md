@@ -3,6 +3,9 @@ title: 7 Best Self-Improvement Books for Students (Enhance Your Personal Growth)
 slug: best self improvement books for students
 postdate: June 15, 2023
 description: best self improvement books for students
+tags:
+  - self development
+  - study tips
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/seven-books-improvement-2-2-.webp

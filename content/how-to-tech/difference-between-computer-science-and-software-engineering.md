@@ -7,6 +7,8 @@ description: Computer science is a broad field that focuses on the study of
   engineering, on the other hand, is a specific discipline within computer
   science that deals with the practical aspects of developing and maintaining
   software systems.
+tags:
+  - difference between
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/software-eng-vs-computer-science.webp

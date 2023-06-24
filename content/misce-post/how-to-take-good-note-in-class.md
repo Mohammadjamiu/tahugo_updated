@@ -1,19 +1,22 @@
 ---
-title: "How to Take Good Note in Class"
-postdate: April 04, 2022
-image: ""
-description: "Taking good notes in class can not only enhance your study performance but also increase your academic points "
-alt: ""
-weight: "49"
-author: Mohammad Jamiu
-categorylabel: Productivity and Writings
-categorylink: /categories/productivity-and-writings
-categories: '["Productivity and Writings"]'
-type: posts
-Google_Ads: true
-wordcount: false
-mathjax: false
 draft: false
+wordcount: false
+alt: ""
+title: How to Take Good Note in Class
+postdate: April 04, 2022
+description: "Taking good notes in class can not only enhance your study
+  performance but also increase your academic points "
+tags:
+  - study tips
+categorylabel: Productivity and Writings
+categories: '["Productivity and Writings"]'
+image: ""
+weight: "49"
+categorylink: /categories/productivity-and-writings
+type: posts
+author: Mohammad Jamiu
+mathjax: false
+Google_Ads: true
 ---
 
 **Taking good notes in class can not only enhance your study performance but also increase your academic points**.

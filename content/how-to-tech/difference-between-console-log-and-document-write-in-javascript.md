@@ -5,6 +5,9 @@ postdate: May 17, 2023
 description: "`console.log()` outputs information to the browser's console for
   debugging and testing purposes, while `document.write()` directly modifies the
   HTML document, inserting content into the web page visible to users."
+tags:
+  - difference between
+  - javascript
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/log-and-write.webp

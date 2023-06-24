@@ -7,6 +7,9 @@ description: Inflation and reflation are different concepts. Inflation refers to
   Reflation, on the other hand, is a deliberate policy aimed at stimulating
   economic activity and countering deflationary pressures through measures such
   as increased government spending or reduced interest rates.
+tags:
+  - difference between
+  - economy
 categorylabel: Financial Stuffs
 categories: '["Financial Stuffs"]'
 image: /images/inflation-and-money.webp

@@ -6,6 +6,8 @@ description: The main difference between a CV and a resume is their length and
   purpose. A resume is concise, 1-2 pages, used for job applications. A CV is
   longer, up to 10 pages, used for academic admissions and grants, providing a
   comprehensive overview of skills and experiences.
+tags:
+  - self development
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/cv-and-resume.webp

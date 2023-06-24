@@ -6,6 +6,8 @@ description: Mechanical waves require a medium, such as air or water, to
   propagate, while electromagnetic waves can travel through a vacuum. Mechanical
   waves involve oscillations in matter, whereas electromagnetic waves are
   composed of oscillating electric and magnetic fields.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/wavy.webp

@@ -280,7 +280,7 @@ a:focus {
 img {
   border: 0.18rem solid var(--accent-color);
   max-width: 100%;
-  /* height: auto; */
+  height: auto;
   margin: 2rem auto;
   display: inline-block;
   border-radius: 0.8rem;
@@ -767,13 +767,15 @@ section.main {
   margin-bottom: 2rem;
 }
 
-.recent-posts > h2 {
+.recent-posts > h2,
+.explore-by-tag > h2 {
   font-size: 1.9rem;
   font-family: MuliBold, sans-serif;
   position: relative;
 }
 
-.recent-posts > h2:after {
+.recent-posts > h2:after,
+.explore-by-tag > h2:after {
   content: "";
   /* display: inline-block; */
   position: absolute;
@@ -793,6 +795,34 @@ section.main {
   grid-template-columns: repeat(auto-fill, minmax(26rem, 1fr));
   gap: 3rem;
 }
+
+.explore-by-tag-card{
+    margin-top: 5rem;
+display: flex;
+gap: .8rem;
+flex-wrap: wrap;
+}
+
+.explore-by-tag-card a{
+  
+  padding: .7rem 1.2rem 1rem;
+   font-family: MuliSemiBold, sans-serif;
+  font-weight: 500;
+  font-size: 1.645rem;
+  border-radius: .5rem;
+ 
+}
+.explore-by-tag-card a:nth-child(even){
+  background-color: #d68e21;
+  color: #fff;
+}
+.explore-by-tag-card a:nth-child(odd){
+  background-color: #1d7bd3;
+  color: #fff;
+  
+}
+
+
 
 .recent-post-box {
   height: 32rem;

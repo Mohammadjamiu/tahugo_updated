@@ -6,6 +6,9 @@ description: Improve your writing skills with 13 effective tips! Read widely,
   practice regularly, expand vocabulary, and develop a writing routine. Seek
   feedback, utilize a style guide, etc. Elevate your skills and captivate
   readers with these practical tips. Start your writing journey now!
+tags:
+  - self development
+  - study tips
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/how-to-write-better.webp

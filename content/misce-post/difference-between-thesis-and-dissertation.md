@@ -7,6 +7,8 @@ description: Thesis and dissertation have distinct characteristics. A thesis is
   dissertation is a more extensive research project submitted for a doctoral
   degree. They differ in terms of scope, depth, and the level of original
   contribution to the field.
+tags:
+  - difference between
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/research-on-board.webp

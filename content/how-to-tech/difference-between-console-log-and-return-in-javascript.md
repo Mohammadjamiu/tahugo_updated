@@ -4,6 +4,9 @@ slug: difference between console.log and return in javascript
 postdate: May 17, 2023
 description: "`console.log()` is for logging, while `return` is for determining
   the output or result of a function."
+tags:
+  - javascript
+  - difference between
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/return-keyword.webp

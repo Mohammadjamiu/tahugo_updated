@@ -6,6 +6,8 @@ description: Survey and census are distinct methods of data collection. Surveys
   gather insights from a sample population, while censuses aim to collect data
   from every individual. Both provide valuable information for decision-making
   and policy development.
+tags:
+  - difference between
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/questionnaire-and-survey.webp

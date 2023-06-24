@@ -6,6 +6,8 @@ description: The difference between electromotive force (EMF) and potential
   difference (PD) lies in their meanings and applications. While EMF represents
   the maximum voltage produced by a source, PD refers to the actual voltage
   between two points in a circuit.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/potential-difference-pd.webp

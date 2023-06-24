@@ -5,6 +5,8 @@ postdate: June 8, 2023
 description: Fuel subsidy in Nigeria refers to the government's financial
   support to reduce the cost of fuel for its citizens. It aims to make fuel more
   affordable and stabilize prices in the country's oil-dependent economy.
+tags:
+  - economy
 categorylabel: Financial Stuffs
 categories: '["Financial Stuffs"]'
 image: /images/fuel-subsidy.webp

@@ -3,6 +3,8 @@ title: Subjective vs. Objective - What's Their Difference?
 slug: difference between subjective and objective
 postdate: June 16, 2023
 description: difference between subjective and objective
+tags:
+  - difference between
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/imgph.webp

@@ -6,6 +6,9 @@ description: Discover actionable tips and strategies to become a serious student
   and excel in your studies. From setting goals and managing time wisely to
   seeking help when needed, this comprehensive guide provides valuable insights
   to enhance your learning experience and achieve academic success.
+tags:
+  - study tips
+  - self development
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/jeswin-thomas-hgju2ykh4e-unsplash.webp

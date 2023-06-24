@@ -7,6 +7,8 @@ description: Import and export activities hold significant importance for a
   domestically, while exports generate revenue, boost economic growth, create
   job opportunities, and enhance international trade relations, contributing to
   overall economic prosperity.
+tags:
+  - economy
 categorylabel: Financial Stuffs
 categories: '["Financial Stuffs"]'
 image: /images/import-and-export.webp

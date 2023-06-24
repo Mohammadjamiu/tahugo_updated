@@ -5,6 +5,8 @@ postdate: June 18, 2023
 description: A survey is a broader term that refers to the process of collecting
   data from a population. A questionnaire is a specific type of survey that is
   made up of a series of questions that are asked to the participants.
+tags:
+  - difference between
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/questionnaire-and-survey.webp

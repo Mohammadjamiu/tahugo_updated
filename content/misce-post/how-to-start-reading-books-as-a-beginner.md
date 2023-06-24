@@ -1,19 +1,24 @@
 ---
-title: "How to start reading books as a beginner (11 Tips on how to read 2 books a week)"
-postdate: March 14, 2022
-image: ""
-description: "Most people are frightened out and unmotivated when they hear people say I used to read three books a week or I read 100 books a year. With the point that is shared in this post, reading a book will become fun."
-alt: ""
-weight: "48"
-author: Mohammad Jamiu
-categorylabel: Productivity and Writings
-categorylink: /categories/productivity-and-writings
-categories: '["Productivity and Writings"]'
-type: posts
-Google_Ads: true
-wordcount: false
-mathjax: false
 draft: false
+wordcount: false
+alt: ""
+title: How to start reading books as a beginner (11 Tips on how to read 2 books
+  a week)
+postdate: March 14, 2022
+description: Most people are frightened out and unmotivated when they hear
+  people say I used to read three books a week or I read 100 books a year. With
+  the point that is shared in this post, reading a book will become fun.
+tags:
+  - study tips
+categorylabel: Productivity and Writings
+categories: '["Productivity and Writings"]'
+image: ""
+weight: "48"
+categorylink: /categories/productivity-and-writings
+type: posts
+author: Mohammad Jamiu
+mathjax: false
+Google_Ads: true
 ---
 
 <img class="YVj9w" alt="person reading book white sitting" sizes="(min-width: 1335px) 416px, (min-width: 992px) calc(calc(100vw - 72px) / 3), (min-width: 768px) calc(calc(100vw - 48px) / 2), 100vw" srcset="https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=100&amp;q=60 100w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=200&amp;q=60 200w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=300&amp;q=60 300w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=400&amp;q=60 400w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60 500w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=600&amp;q=60 600w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=60 700w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60 800w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=900&amp;q=60 900w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=60 1000w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=1100&amp;q=60 1100w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=1200&amp;q=60 1200w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=1296&amp;q=60 1296w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=1400&amp;q=60 1400w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=1600&amp;q=60 1600w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=1800&amp;q=60 1800w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=2000&amp;q=60 2000w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=2200&amp;q=60 2200w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=2400&amp;q=60 2400w, https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=2592&amp;q=60 2592w" src="https://images.unsplash.com/photo-1499257398700-43669759a540?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhZCUyMGJvb2t8ZW58MHx8MHx8&amp;w=1000&amp;q=80" itemprop="thumbnailUrl" loading="lazy" data-test="photo-grid-multi-col-img">

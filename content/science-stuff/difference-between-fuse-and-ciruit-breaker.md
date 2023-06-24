@@ -7,6 +7,8 @@ description: A fuse is a type of safety device that works by melting and
   A circuit breaker, on the other hand, is an electrical safety device that
   works by tripping and interrupting a circuit when the current through it
   exceeds a certain limit.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/automatic-circuit-breaker-fuse-electrical-600w-1737431942-2-.webp

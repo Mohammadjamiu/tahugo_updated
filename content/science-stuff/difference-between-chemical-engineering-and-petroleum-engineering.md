@@ -6,6 +6,8 @@ description: Chemical engineering involves designing and developing processes
   and equipment for producing chemicals and materials in diverse industries
   while, petroleum engineering focuses on exploring, extracting, and producing
   oil and gas resources from beneath the Earth's surface
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/chemical-vs-petroluem-eng.webp

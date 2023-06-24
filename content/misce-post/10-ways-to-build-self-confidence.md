@@ -5,6 +5,8 @@ postdate: May 24, 2023
 description: Wondering how to build self-confidence? In this guide, we explore
   the top 13 effective strategies that will help you boost your self-assurance
   and thrive in various areas of your life.
+tags:
+  - self development
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/pawel-czerwinski-7dvbx9ecszq-unsplash.webp

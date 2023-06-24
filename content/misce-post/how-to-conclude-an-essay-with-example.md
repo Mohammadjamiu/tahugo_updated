@@ -3,6 +3,8 @@ title: "How to Conclude an Essay: A Comprehensive Guide With Examples"
 slug: how to conclude an essay with example
 postdate: May 29, 2023
 description: "How to conclude an essay "
+tags:
+  - study tips
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/essay-conclusion.webp

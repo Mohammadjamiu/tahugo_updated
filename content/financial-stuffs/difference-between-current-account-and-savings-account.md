@@ -6,6 +6,10 @@ description: Current accounts are suitable for daily banking with unlimited
   transactions, higher fees, and overdraft protection. Savings accounts are for
   saving money, limited transactions, lower fees, and interest earned on the
   balance.
+tags:
+  - difference between
+  - economy
+  - finance
 categorylabel: Financial Stuffs
 categories: '["Financial Stuffs"]'
 image: /images/savings-and-current-account.webp

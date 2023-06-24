@@ -27,7 +27,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -142,7 +160,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -258,7 +294,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -374,7 +428,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -490,14 +562,31 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
           default: "Science Stuff",
         }
-
       - {
           label: "Categories",
           name: "categories",
@@ -608,6 +697,25 @@ collections:
         }
       - { label: "Description", name: "description", widget: "string" }
       - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
+      - {
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
@@ -629,7 +737,6 @@ collections:
           default: "/images/imgph.webp",
           media_library: { config: { multiple: true } },
         }
-
       - {
           label: "Weight",
           name: "weight",
@@ -640,7 +747,6 @@ collections:
           max: 1000,
           step: 2,
         }
-
       - {
           label: "CategoryLink",
           name: "categorylink",
@@ -723,6 +829,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -838,6 +963,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -955,6 +1099,25 @@ collections:
         }
       - { label: "Description", name: "description", widget: "string" }
       - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
+      - {
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
@@ -1070,6 +1233,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -1187,6 +1369,25 @@ collections:
         }
       - { label: "Description", name: "description", widget: "string" }
       - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
+      - {
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
@@ -1303,6 +1504,25 @@ collections:
         }
       - { label: "Description", name: "description", widget: "string" }
       - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
+      - {
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
@@ -1418,6 +1638,25 @@ collections:
           picker_utc: false,
         }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",

@@ -5,6 +5,8 @@ postdate: June 20, 2023
 description: The difference between hardware and software lies in their nature
   and function. Hardware refers to tangible components, while software consists
   of programs and instructions. Examples include CPUs and operating systems.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/hardware-and-software.webp

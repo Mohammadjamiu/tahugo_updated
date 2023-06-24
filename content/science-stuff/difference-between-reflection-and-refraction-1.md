@@ -5,6 +5,8 @@ postdate: June 22, 2023
 description: The difference between reflection and refraction lies in how light
   behaves. Reflection involves light bouncing off a surface, while refraction is
   the bending of light as it passes through different mediums.
+tags:
+  - difference between
 categorylabel: Science Stuff
 categories: '["Science Stuff"]'
 image: /images/reflections.webp
