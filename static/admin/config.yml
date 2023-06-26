@@ -26,6 +26,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -36,6 +37,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -159,6 +161,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -169,6 +172,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -293,6 +297,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -303,6 +308,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -427,6 +433,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -437,6 +444,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -561,6 +569,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -571,6 +580,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -695,6 +705,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -705,6 +716,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -828,6 +840,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -838,6 +851,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -962,6 +976,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -972,6 +987,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -1097,6 +1113,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -1107,6 +1124,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -1232,6 +1250,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -1242,6 +1261,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -1367,6 +1387,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -1377,6 +1398,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -1502,6 +1524,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -1512,6 +1535,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",
@@ -1637,6 +1661,7 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
       - {
           label: "Tags",
@@ -1647,6 +1672,7 @@ collections:
           options:
             [
               "difference between",
+              "how to",
               "finance",
               "economy",
               "self development",

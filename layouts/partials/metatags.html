@@ -25,6 +25,12 @@ end }}
   name="description"
   content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"
 />
+{{ if .Params.keywords }}
+  {{ $keywords := delimit .Params.keywords ", " }}
+  <meta name="keywords" content="{{ $keywords }}">
+{{ end }}
+
+
 {{ with site.Params.author }}
 <meta name="author" content="{{ . }}" />{{ end }} {{ hugo.Generator }} {{if
 .Params.author_credit}}
