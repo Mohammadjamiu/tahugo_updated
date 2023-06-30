@@ -2,6 +2,14 @@
 title: Where Does ChatGPT Get Its Data From?
 slug: where does ChatGPT get data from
 postdate: March 28, 2023
+keywords:
+  - ChatGPT training data
+  - ChatGPT dataset
+  - ChatGPT data sources
+  - ChatGPT text data
+  - ChatGPT code data
+  - ChatGPT web data
+  - ChatGPT human conversation data
 description: ChatGPT an AI chatbot is trained on a large dataset of text data
   which comes from a variety of sources, such as books, articles, websites, and
   social media. The text data is carefully curated to ensure that it represents

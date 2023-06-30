@@ -226,7 +226,7 @@ for (let i = 0; i < codeElements.length; i++) {
     beforeElement.classList.add("before-pseudo-element");
 
     // Set the content and styles for the pseudo-element
-    beforeElement.textContent = "🡲";
+    beforeElement.textContent = `🡲`;
     beforeElement.style.backgroundColor = "#0056b3";
     beforeElement.style.padding = ".45rem .4rem";
     beforeElement.style.borderRadius = ".4rem";
