@@ -9,7 +9,7 @@ description: A signal is a function of an independent variable (e.g. of space,
   So anything that carries information is considered a signal
 categorylabel: Signals and Systems
 categories: '["Signals and Systems"]'
-image: /images/signals_6 (2).webp
+image: /images/signals_6(2).webp
 weight: "16"
 categorylink: /categories/signals-and-systems
 type: posts
@@ -17,6 +17,7 @@ author: Mohammad Abdul
 mathjax: true
 Google_Ads: true
 ---
+
 ## What is a signal?
 
 A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon.
@@ -71,7 +72,7 @@ human voice is an example of an analog signal and that why all sort of signal in
 
 **A digital signal** on the other hand refers to a signal that can have only a limited number of values. It waveform is in form of pulses which seems like that of periodic or non-periodic signal.
 
-> *Note:*
+> _Note:_
 >
 > **Analog and digital signals**
 >
@@ -83,12 +84,12 @@ human voice is an example of an analog signal and that why all sort of signal in
 
 **Continuous-time signal (CTS)** is a signal that is define for all time (t). example of a continuous time signal is a sine function.
 
-<img loading="lazy" src="/images/signals_8 (2).webp" alt="Continuous time signals">
+<img loading="lazy" src="/images/signals_8(2).webp" alt="Continuous time signals">
 
 **Discrete-time signal (DTS)** is a signal that are defined only at discrete time (n).
 It is same as that of continuous but instead of having a continuous value, it has value in form of height which are only present at discrete time e.g. (1, 2, 3 ..) But not 1.5, 2.5 which are fractions.
 
-<img loading="lazy" src="/images/signals_7 (2).webp" alt="discrete time signals">
+<img loading="lazy" src="/images/signals_7(2).webp" alt="discrete time signals">
 
 ## Deterministic signal and non-deterministic (or random) signal
 
@@ -98,7 +99,7 @@ It is same as that of continuous but instead of having a continuous value, it ha
 
 **Non-deterministic signal** is referred to as a random signal and it is a signal that has uncertainty with respect to its value at any instant of time. It is defined in probabilistic terms as there is no define value.
 
-<img loading="lazy" src="/images/signals_3 (2).webp" alt="non-deterministic (or random) signals">
+<img loading="lazy" src="/images/signals_3(2).webp" alt="non-deterministic (or random) signals">
 
 ## Periodic and non-periodic signal
 
@@ -108,11 +109,11 @@ It is defined by $x(t) = x(t + T)$ where $T$ is the period.
 **Non-periodic signal** is also called aperiodic signal and it is a signal that don’t repeat itself at regular interval of time (t).
 It is defined by $x(t) &ne; x(t + T)$.
 
-<img loading="lazy" src="/images/signals_2 (2).webp" alt="Periodic and non-periodic signals">
+<img loading="lazy" src="/images/signals_2(2).webp" alt="Periodic and non-periodic signals">
 
 ## Even and odd signal
 
-<img loading="lazy" src="/images/signals_6 (2).webp" alt="Even and odd signals">
+<img loading="lazy" src="/images/signals_6(2).webp" alt="Even and odd signals">
 
 **Even signal** is a signal that is symmetric about the value or y or vertical axis and ii is defined by this condition x(t) = x(-t).
 
