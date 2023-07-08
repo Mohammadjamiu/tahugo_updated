@@ -1,5 +1,5 @@
 ---
-title: Which Screen Size Is Best for Programming?
+title: Which Laptop Screen Size Is Best for Programming?
 slug: which screen size is best for programming
 postdate: July 4, 2023
 keywords:
