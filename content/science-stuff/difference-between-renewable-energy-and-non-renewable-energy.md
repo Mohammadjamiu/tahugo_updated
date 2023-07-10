@@ -91,7 +91,9 @@ Wind turbines convert the kinetic energy of the wind into electrical power. Wind
 
 ### **3. Hydropower**
 
-Hydropower utilizes the energy of moving water, such as rivers and dams, to generate electricity. 
+Hydropower utilizes the energy of moving water, such as rivers and dams, to generate [electricity](/science-stuff/advantages-of-electrical-energy-over-other-forms-of-energy/). 
+
+**Read on:** [Advantages of Electricity (Electrical Energy) Over Other Forms of Energy](/science-stuff/advantages-of-electrical-energy-over-other-forms-of-energy/)
 
 It is a reliable source of renewable energy, but its implementation requires suitable geographical conditions.
 
