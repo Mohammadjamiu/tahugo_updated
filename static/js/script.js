@@ -165,36 +165,6 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
   highlightDiv.removeChild(textArea);
 }
 
-// Google sheet + Abstractive text
-
-// const scriptURL =
-//   "https://script.google.com/macros/s/AKfycbwyQgYrdZqbNHDYRPZ8TDHyU7TQi34YN90sFKKTiURhusLFAFGMfhBZ3r_iIcJ5KFvc/exec";
-// const form = document.forms["submit-to-google-sheet"];
-// const msg = document.getElementById("msg");
-// form.addEventListener("submit", (e) => {
-//   e.preventDefault();
-//   fetch(scriptURL, { method: "POST", body: new FormData(form) })
-//     .then((response) => {
-//       msg.innerHTML = "Thanks for Sharing Your Abstractions....";
-//       setTimeout(function () {
-//         msg.innerHTML = "";
-//       }, 5000);
-//       form.reset();
-//     })
-//     .catch((error) =>   {  msg.innerHTML = "Network Failed!";
-//   setTimeout(function () {
-//     msg.innerHTML = "";
-//   }, 5000);
-//   form.reset();});
-// });
-
-// JavaScript code to toggle the table of contents
-// const toggleButton = document.querySelector(".toggle-button");
-// const tocContainer = document.querySelector(".table-of-contents");
-
-// toggleButton.addEventListener("click", function () {
-//   tocContainer.classList.toggle("show-toc");
-// });
 
 const codeElements = document.getElementsByTagName("code");
 

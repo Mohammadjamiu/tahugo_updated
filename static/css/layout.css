@@ -398,11 +398,11 @@ header {
   height: 5.9rem;
   width: 100vw;
   background-color: var(--body-color);
-  position: sticky;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1000;
+  position: sticky !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 1000 !important;
 }
 
 header .container {
@@ -796,33 +796,28 @@ section.main {
   gap: 3rem;
 }
 
-.explore-by-tag-card{
-    margin-top: 5rem;
-display: flex;
-gap: .8rem;
-flex-wrap: wrap;
+.explore-by-tag-card {
+  margin-top: 5rem;
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
 }
 
-.explore-by-tag-card a{
-  
-  padding: .7rem 1.2rem 1rem;
-   font-family: MuliSemiBold, sans-serif;
+.explore-by-tag-card a {
+  padding: 0.7rem 1.2rem 1rem;
+  font-family: MuliSemiBold, sans-serif;
   font-weight: 500;
   font-size: 1.645rem;
-  border-radius: .5rem;
- 
+  border-radius: 0.5rem;
 }
-.explore-by-tag-card a:nth-child(even){
+.explore-by-tag-card a:nth-child(even) {
   background-color: #d68e21;
   color: #fff;
 }
-.explore-by-tag-card a:nth-child(odd){
+.explore-by-tag-card a:nth-child(odd) {
   background-color: #1d7bd3;
   color: #fff;
-  
 }
-
-
 
 .recent-post-box {
   height: 32rem;
@@ -1241,4 +1236,3 @@ form textarea {
   text-align: center;
   margin: 3.5rem 0;
 }
-
