@@ -51,5 +51,9 @@ status = 200
     exclude = [
       '**/admin',
       '**/googlee75af150aebde3b0.html',
+      '**/tags',
+      '**/categories',
     ]
+    prettyURLs = true
+    trailingSlash = true
 
