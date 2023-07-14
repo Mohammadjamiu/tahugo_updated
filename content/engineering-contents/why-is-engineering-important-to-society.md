@@ -105,7 +105,7 @@ By working together, engineers contribute to solving global challenges and creat
 
 ## **Wrap Up**
 
-Engineering is undeniably important to society, as it solves real-world problems, improves the quality of life, enhances infrastructure and technology, promotes sustainability, drives economic growth, advances healthcare, fosters innovation, and encourages global collaboration. 
+Engineering is undeniablyimportant to society,as **it solves real-world problems, improves the quality of life, enhances infrastructure and technology, promotes sustainability, drives economic growth, advances healthcare, fosters innovation, and encourages global collaboration.** 
 
 Through their expertise and dedication, engineers have a profound impact on society's progress and well-being. 
 
