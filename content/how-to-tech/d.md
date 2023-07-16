@@ -25,6 +25,8 @@ WhatsApp is a widely utilized messaging application with a global user base of m
 
 If you're facing similar problems and wondering how to fix the “WhatsApp is not installing in my Android” issue, this article will provide you with effective solutions to overcome this frustrating situation.
 
+{{< table-of-contents >}}
+
 ## **Possible Causes of WhatsApp Installation Issues**
 
 There could be several reasons why you're experiencing difficulties with WhatsApp installation on your Android device. Having knowledge of these potential causes can help you identify the specific issue and apply the appropriate solution. 
