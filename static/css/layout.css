@@ -395,7 +395,7 @@ table tbody tr:last-of-type {
 }
 
 header {
-  height: 5.9rem;
+  height: 5.9rem !important;
   width: 100vw;
   background-color: var(--body-color);
   position: sticky !important;
