@@ -501,6 +501,60 @@ nav#TableOfContents li a {
   background-color: var(--primary-color);
 }
 
+.x {
+  /* background-color: #755f17; */
+}
+.xx {
+  /* background-color: #177541; */
+  display: grid;
+  grid-template-columns: 0.75fr 3fr;
+  gap: 2rem;
+  max-width: 70rem;
+  padding: 1rem 1rem 1rem 0;
+}
+
+img.xxx {
+  max-width: 12rem;
+  min-width: 12rem;
+  min-height: 7.5rem;
+  max-height: 100%;
+  height: auto;
+  display: inline-block;
+  align-self: flex-start;
+  /* background-color: #e0551f; */
+  margin: 0rem;
+  border: 0;
+}
+aside img.xxx {
+  max-width: 10rem;
+  min-width: 10rem;
+  min-height: 6.25rem;
+  max-height: 100%;
+  height: auto;
+  display: inline-block;
+  align-self: flex-start;
+  /* background-color: #e0551f; */
+  margin: 0rem;
+  border: 0;
+}
+
+a.xxxx {
+  display: inline-block;
+
+  /* background-color: #74635d; */
+  font-family: Muli, sans-serif;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+aside a.xxxx {
+  display: inline-block;
+
+  /* background-color: #74635d; */
+  font-family: Muli, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
 /* Chroma Code block */
 div.highlight {
   background-color: #071c3d !important;
@@ -1020,7 +1074,7 @@ ol li code {
     margin: 0;
     padding: 0;
     min-height: 18rem;
-  min-width: 18rem;
+    min-width: 18rem;
 
     max-width: fit-content;
     max-height: fit-content;

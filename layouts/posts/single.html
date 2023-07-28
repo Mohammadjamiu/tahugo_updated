@@ -76,12 +76,19 @@
     <!-- {{ $relatednew:= (.Site.RegularPages.Related .) | shuffle | first 5 }}  -->
     {{ $related:= (.Site.Pages.Related .) | shuffle | first 5 }} {{ range
     $related }}
-    <ul class="ul-in-post" style="list-style-type:square;">
+    <!-- <ul class="ul-in-post" style="list-style-type:square;">
       <li>
         <a class="links-to-others" href="{{.RelPermalink}}">{{.Title}}</a>
       </li>
-    </ul>
+    </ul> -->
+     <div class="xx">
+        <img src="{{.Params.image}}" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="{{.RelPermalink}}">{{.Title}}</a>
+ </div>
     {{end}}
+
+  
+   
   </div>
  
 </div>
@@ -92,11 +99,15 @@
     <!-- {{ $relatednew:= (.Site.RegularPages.Related .) | shuffle | first 5 }}  -->
     {{ $related:= (.Site.Pages.Related .) | shuffle | first 5 }} {{ range
     $related }}
-    <ul class="ul-in-post" style="list-style-type:square;">
+    <!-- <ul class="ul-in-post" style="list-style-type:square;">
       <li>
         <a class="links-to-others" href="{{.RelPermalink}}">{{.Title}}</a>
       </li>
-    </ul>
+    </ul> -->
+       <div class="xx">
+        <img src="{{.Params.image}}" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="{{.RelPermalink}}">{{.Title}}</a>
+ </div>
     {{end}}
   </div>
 </aside>
