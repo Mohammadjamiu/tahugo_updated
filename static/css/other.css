@@ -501,15 +501,13 @@ nav#TableOfContents li a {
   background-color: var(--primary-color);
 }
 
-.x {
-  /* background-color: #755f17; */
-}
+
 .xx {
   /* background-color: #177541; */
   display: grid;
   grid-template-columns: 0.75fr 3fr;
   gap: 2rem;
-  max-width: 70rem;
+  max-width: 65rem;
   padding: 1rem 1rem 1rem 0;
 }
 
@@ -548,8 +546,6 @@ a.xxxx {
 }
 aside a.xxxx {
   display: inline-block;
-
-  /* background-color: #74635d; */
   font-family: Muli, sans-serif;
   font-size: 1.5rem;
   font-weight: 500;

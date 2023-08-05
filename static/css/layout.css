@@ -408,12 +408,20 @@ header {
 header .container {
   /* background-color: #e4e4e4; */
 
-  background-color: var(--body-color);
-  height: 100%;
-  width: 100%;
+ 
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+
+   height: 5.9rem !important;
+  width: 100vw;
+  background-color: var(--body-color);
+  position: sticky !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 1000 !important;
 }
 
 .toogle-mode-with-harmburger {
