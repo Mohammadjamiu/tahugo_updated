@@ -18,6 +18,7 @@ author: Mohammad Abdul
 mathjax: false
 Google_Ads: true
 ---
+
 In order to know if a MAC address is a unicast MAC address, multicast MAC address or Broadcast MAC address, you need to understand what a <a href="/networking/what-is-a-mac-address-with-examples/" class="links-to-article">MAC address</a> is.
 
 We have gone into details about that. But in this we will briefly explain it and also solve some examples.
@@ -43,23 +44,26 @@ But a broadcast MAC address is generic and does not need to be noted using the L
 
    So we need to take note of something since we are dealing with a hexadecimal value which is base 16, therefore we can have value ranging from 0 to 15 and the 15 denotes F in hexadecimal.
 
-   Next step is to use a pattern noted as *8 4 2 1* because if you sum up the value you get 15.
+   Next step is to use a pattern noted as _8 4 2 1_ because if you sum up the value you get 15.
 
-   Now all we need to do is pick 4A which is our target and split it up into 4 and A. from the *8 4 2 1* pattern locate 4 and put one under it (i.e., you are turning it ON) while you have to turn OFF the rest by putting zero. The result will be 0100.
+   Now all we need to do is pick 4A which is our target and split it up into 4 and A. from the _8 4 2 1_ pattern locate 4 and put one under it (i.e., you are turning it ON) while you have to turn OFF the rest by putting zero. The result will be 0100.
 
    For A, since it is 10 you need to look for combinations which will result in 10, and I guess it is 8 and 2 then, just turn them ON and switch the rest OFF as shown below, so you will get 1010.
 
    The next thing is to join the binary values up — 0100 1010 and as it is ending with zero then it is a unicast MAC address.
+
 2. **08:00:27:EC:10:61**
 
    08 – will yield 0000 1000 and since it is ending with zero then it is a unicast MAC address.
 
    ![unicast mac address another example](/images/macexample_3.webp "unicast mac address another example")
+
 3. **54:04:A6:3F:0B:00**
 
    54 – will yield 0101 0100 and since it is also ending with zero then it is a unicast MAC address.
 
    ![unicast mac address](/images/macexample_2.webp "unicast mac address")
+
 4. **01:00:5E:00:01:01**
 
    01 – will yield 0000 0001 and since it is ending with one then it is a multicast MAC address.
