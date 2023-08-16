@@ -408,13 +408,11 @@ header {
 header .container {
   /* background-color: #e4e4e4; */
 
- 
   display: flex;
   justify-content: space-between;
   align-items: center;
 
-
-   height: 5.9rem !important;
+  height: 5.9rem !important;
   width: 100vw;
   background-color: var(--body-color);
   position: sticky !important;
