@@ -14,7 +14,7 @@ layout: ebooks
 Google_Ads: true
 wordcount: false
 mathjax: false
-draft: false
+draft: true
 AmazonLink: https://amzn.to/3Jo63dc
 Downloadlink: https://drive.google.com/file/d/1DF3vds50kSVynXnvk8D3astMoE83SQEt/view?usp=share_link
 ---

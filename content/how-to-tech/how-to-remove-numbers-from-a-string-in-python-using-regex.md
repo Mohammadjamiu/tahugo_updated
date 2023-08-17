@@ -1,5 +1,5 @@
 ---
-title: How to Remove Numbers from a String in Python using Regex
+title: How to Remove Numbers from a String in Python using Regex?
 slug: how to remove numbers from a string in python using regex
 postdate: August 16, 2023
 keywords:
