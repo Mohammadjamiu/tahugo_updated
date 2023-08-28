@@ -12,7 +12,10 @@
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script>
       CMS.registerPreviewStyle("/css/layout.css");
+    </script>
+    <script>
       CMS.registerPreviewStyle("/css/other.css");
+      CMS.registerPreviewStyle("/css/cms.css");
     </script>
     <script>
       CMS.registerEditorComponent({
@@ -43,6 +46,57 @@
         },
         toPreview: function (obj) {
           return `<img src="https://i3.ytimg.com/vi/${obj.id}/hqdefault.jpg" alt="${obj.title}"/>`;
+        },
+      });
+    </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "twitter",
+        label: "Twitter",
+        fields: [
+          {
+            name: "tid",
+            label: "Tweet id",
+            widget: "string",
+          },
+        ],
+        pattern: /{{< tweet ([a-zA-Z0-9]+) >}}/,
+        fromBlock: function (match) {
+          return {
+            tid: match[1],
+          };
+        },
+        toBlock: function (obj) {
+          return `{{< tweet ${obj.tid} >}}`;
+        },
+        toPreview: function (obj) {
+          return `{{< tweet ${obj.tid} >}}`;
+        },
+      });
+    </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "table-of-contents",
+        label: "Table of Contents",
+        fields: [
+          {
+            name: "shortcode",
+            label: "Table of Contents Shortcode",
+            widget: "string",
+            default: "{{< table-of-contents >}}", // Set your desired default shortcode here
+          },
+        ],
+        pattern: /^{{<\s?table-of-contents\s?>}}$/,
+        fromBlock: function (match) {
+          return {
+            shortcode: match[0],
+          };
+        },
+        toBlock: function (obj) {
+          return obj.shortcode;
+        },
+        toPreview: function (obj) {
+          return obj.shortcode;
         },
       });
     </script>

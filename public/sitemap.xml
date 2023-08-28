@@ -4,8 +4,6 @@
   <url>
     <loc>/circuit-analysis/how-to-learn-circuit-analysis-basics/</loc>
   </url><url>
-    <loc>/ebooks/ee-files/digital-fundamentals-11th-edition/</loc>
-  </url><url>
     <loc>/funmaths/what-is-crammers-rule/</loc>
   </url><url>
     <loc>/circuit-analysis/why-do-we-study-circuit-analysis/</loc>
@@ -100,6 +98,8 @@
   </url><url>
     <loc>/electronics/what-is-electricity-and-how-does-it-work/</loc>
   </url><url>
+    <loc>/electronics/frequency-modulation-formula-with-solved-examples/</loc>
+  </url><url>
     <loc>/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</loc>
   </url><url>
     <loc>/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</loc>
@@ -122,8 +122,6 @@
     <loc>/networking/circuit-message-and-packet-switching-techniques-explained/</loc>
   </url><url>
     <loc>/networking/the-seven-layers-of-the-osi-model-explained/</loc>
-  </url><url>
-    <loc>/networking/difference-between-unicast-multicast-broadcast-and-anycast/</loc>
   </url><url>
     <loc>/electronics/frequency-range-of-radio-waves/</loc>
   </url><url>
@@ -249,6 +247,8 @@
   </url><url>
     <loc>/how-to-tech/html-textarea-required-attribute-not-working/</loc>
   </url><url>
+    <loc>/how-to-tech/how-to-use-google-sheets-as-database-for-storing-emails-from-a-newsletter/</loc>
+  </url><url>
     <loc>/networking/networking-tools-and-their-uses/</loc>
   </url><url>
     <loc>/signal-and-system/difference-between-causal-and-non-causal-signal/</loc>
@@ -261,7 +261,491 @@
   </url><url>
     <loc>/electronics/basic-element-of-communication-system/</loc>
   </url><url>
+    <loc>/electronics/electronic-tools-and-their-functions/</loc>
+  </url><url>
     <loc>/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/</loc>
+  </url><url>
+    <loc>/digital-electronics/what-are-the-main-5-components-of-digital-system/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-are-the-advantages-and-disadvantages-of-electronic-payments-system-/</loc>
+  </url><url>
+    <loc>/how-to-tech/advantages-and-disadvantages-of-digital-system/</loc>
+  </url><url>
+    <loc>/digital-electronics/examples-of-digital-signals-in-everyday-life/</loc>
+  </url><url>
+    <loc>/digital-electronics/examples-of-digital-systems-in-daily-life/</loc>
+  </url><url>
+    <loc>/networking/what-are-the-similarities-between-packet-switching-and-message-switching/</loc>
+  </url><url>
+    <loc>/networking/similarities-of-circuit-switching-and-packet-switching/</loc>
+  </url><url>
+    <loc>/networking/what-are-core-and-cladding-losses-in-optical-fiber/</loc>
+  </url><url>
+    <loc>/networking/difference-between-raman-and-brillouin-scattering/</loc>
+  </url><url>
+    <loc>/electronics/examples-of-devices-that-use-capacitors/</loc>
+  </url><url>
+    <loc>/networking/difference-between-wired-and-wireless-network-with-examples/</loc>
+  </url><url>
+    <loc>/networking/difference-between-vpn-and-wan/</loc>
+  </url><url>
+    <loc>/science-stuff/what-is-electrical-power-in-terms-of-current-and-potential-difference/</loc>
+  </url><url>
+    <loc>/networking/why-is-laser-used-in-optical-fiber-communication/</loc>
+  </url><url>
+    <loc>/networking/why-are-lasers-used-in-laser-printers/</loc>
+  </url><url>
+    <loc>/science-stuff/what-is-the-important-property-of-nanomaterials/</loc>
+  </url><url>
+    <loc>/networking/optical-sources-in-optical-fiber-communication/</loc>
+  </url><url>
+    <loc>/networking/optical-detectors-in-optical-fiber-communication/</loc>
+  </url><url>
+    <loc>/electronics/difference-between-linear-and-nonlinear-devices/</loc>
+  </url><url>
+    <loc>/electronics/can-electronics-engineer-work-as-electrical-engineer/</loc>
+  </url><url>
+    <loc>/networking/what-is-the-difference-between-tcp-and-ip-protocols/</loc>
+  </url><url>
+    <loc>/networking/what-is-the-difference-between-http-protocol-and-tcp-protocol/</loc>
+  </url><url>
+    <loc>/networking/what-is-the-difference-between-ethernet-and-intranet/</loc>
+  </url><url>
+    <loc>/networking/what-are-the-different-types-of-noise-in-computer-networks/</loc>
+  </url><url>
+    <loc>/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/</loc>
+  </url><url>
+    <loc>/science-stuff/when-was-electricity-invented/</loc>
+  </url><url>
+    <loc>/science-stuff/what-is-the-difference-between-alkalinity-and-basicity-/</loc>
+  </url><url>
+    <loc>/electronics/what-is-meant-by-the-term-impedance/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-dev-dependency-and-dependency/</loc>
+  </url><url>
+    <loc>/networking/what-is-latency-in-networking/</loc>
+  </url><url>
+    <loc>/how-to-tech/where-is-the-best-place-to-put-the-script-tag/</loc>
+  </url><url>
+    <loc>/how-to-tech/which-is-better-yarn-or-npm/</loc>
+  </url><url>
+    <loc>/how-to-tech/is-google-bard-better-than-chatgpt/</loc>
+  </url><url>
+    <loc>/how-to-tech/is-package-lock-json-needed-for-deployment/</loc>
+  </url><url>
+    <loc>/how-to-tech/jobs-that-will-be-replaced-by-ai/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-fix-module-not-found-error-in-nodejs/</loc>
+  </url><url>
+    <loc>/how-to-tech/access-a-file-in-node-js-using-relative-and-absolute-path/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-get-image-width-and-height-in-nodejs/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-uninstall-an-npm-package/</loc>
+  </url><url>
+    <loc>/networking/types-of-losses-in-optical-fiber/</loc>
+  </url><url>
+    <loc>/networking/what-is-absorption-loss-in-optical-fiber/</loc>
+  </url><url>
+    <loc>/how-to-tech/does-chatgpt-use-the-internet/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-gpt-1-gpt-2-gpt-3-gpt-4/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-version-of-gpt-is-chat-gpt-using/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-console-log-and-alert-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/when-to-use-var-let-and-const-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-console.log-and-document.write-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-console.log-and-return-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-share-or-send-multiple-photos-from-whatsapp-to-email/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-map-and-filter-in-javascript-with-example/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-foreach-and-forin-loop-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-this-and-that-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-normal-function-and-arrow-function/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-use-of-underscore-in-javascript/</loc>
+  </url><url>
+    <loc>/networking/types-of-optical-fiber-connectors/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-stringify-a-json-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-javascript-object-and-json/</loc>
+  </url><url>
+    <loc>/misce-post/most-profitable-skills-to-learn-/</loc>
+  </url><url>
+    <loc>/networking/similarities-between-wired-and-wireless-networks/</loc>
+  </url><url>
+    <loc>/misce-post/skills-to-learn-to-make-money-as-a-student/</loc>
+  </url><url>
+    <loc>/how-to-tech/why-whatsapp-is-not-installing-in-my-android-how-to-fix/</loc>
+  </url><url>
+    <loc>/misce-post/business-ideas-for-students-in-nigeria/</loc>
+  </url><url>
+    <loc>/misce-post/ways-to-build-self-confidence/</loc>
+  </url><url>
+    <loc>/misce-post/become-a-serious-student/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-edit-whatsapp-messages/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-add-polling-on-whatsapp/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-chatgpt-and-chatgpt-plus/</loc>
+  </url><url>
+    <loc>/misce-post/how-to-make-money-with-chatgpt/</loc>
+  </url><url>
+    <loc>/misce-post/highest-paid-profession-in-nigeria/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-convert-a-title-to-url-slug-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-are-regular-expressions-in-python/</loc>
+  </url><url>
+    <loc>/misce-post/tips-to-improve-your-writing-skills/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-split-array-in-2-parts-javascript/</loc>
+  </url><url>
+    <loc>/misce-post/how-can-students-use-chatgpt/</loc>
+  </url><url>
+    <loc>/misce-post/how-to-write-an-outline-for-a-research-paper-with-example/</loc>
+  </url><url>
+    <loc>/networking/difference-between-lan-and-wan-with-examples/</loc>
+  </url><url>
+    <loc>/misce-post/how-to-write-an-outline-for-an-essay/</loc>
+  </url><url>
+    <loc>/misce-post/how-to-conclude-an-essay-with-example/</loc>
+  </url><url>
+    <loc>/misce-post/how-to-write-an-essay-introduction-with-example/</loc>
+  </url><url>
+    <loc>/how-to-tech/python-dictionary-with-example/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-reverse-an-array-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-pop-in-python-and-how-to-use-it/</loc>
+  </url><url>
+    <loc>/networking/types-of-computer-network-with-example/</loc>
+  </url><url>
+    <loc>/networking/what-are-standards-and-protocols-in-networking/</loc>
+  </url><url>
+    <loc>/networking/types-of-transmission-media-in-computer-networks/</loc>
+  </url><url>
+    <loc>/networking/difference-between-single-mode-and-multimode-fiber/</loc>
+  </url><url>
+    <loc>/networking/what-are-de-facto-and-de-jure-standards-in-computer-networking/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-wifi-and-bluetooth/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-wifi-and-mifi/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-wifi-and-router/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-difference-between-wi-fi-and-wlan/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-rfid-used-for/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-reverse-a-string-in-javascript/</loc>
+  </url><url>
+    <loc>/science-stuff/why-is-transformer-rated-in-kva-and-not-in-kw/</loc>
+  </url><url>
+    <loc>/science-stuff/why-do-we-use-rms-value-instead-of-average-value/</loc>
+  </url><url>
+    <loc>/misce-post/is-thesis-and-research-paper-the-same-and-their-difference/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-for-loop-explain-with-example-in-python/</loc>
+  </url><url>
+    <loc>/misce-post/difference-between-thesis-and-dissertation/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-a-list-in-python-with-example/</loc>
+  </url><url>
+    <loc>/financial-stuffs/difference-between-gdp-and-gnp/</loc>
+  </url><url>
+    <loc>/financial-stuffs/how-does-fiscal-and-monetary-policy-impact-the-economy/</loc>
+  </url><url>
+    <loc>/financial-stuffs/how-does-monetary-policy-affect-inflation/</loc>
+  </url><url>
+    <loc>/networking/wired-and-wireless-network-advantages-and-disadvantages/</loc>
+  </url><url>
+    <loc>/financial-stuffs/importance-of-import-and-export-to-a-country/</loc>
+  </url><url>
+    <loc>/financial-stuffs/what-is-the-difference-between-inflation-and-reflation/</loc>
+  </url><url>
+    <loc>/financial-stuffs/what-is-fuel-subsidy-in-nigeria/</loc>
+  </url><url>
+    <loc>/networking/difference-between-osi-model-and-tcp/ip-model/</loc>
+  </url><url>
+    <loc>/product-reviews-and-recommendations/13-casual-shoes-for-college-students/</loc>
+  </url><url>
+    <loc>/networking/network-congestion-in-computer-networks-and-how-to-avoid-them/</loc>
+  </url><url>
+    <loc>/misce-post/how-to-remember-what-you-read-for-exams/</loc>
+  </url><url>
+    <loc>/networking/how-does-data-travel-through-wires/</loc>
+  </url><url>
+    <loc>/networking/how-fast-does-data-travel-on-fibre-optic-cables/</loc>
+  </url><url>
+    <loc>/networking/how-is-data-sent-through-wifi/</loc>
+  </url><url>
+    <loc>/networking/does-wifi-use-microwaves-or-radio-waves/</loc>
+  </url><url>
+    <loc>/misce-post/best-self-improvement-books-for-students/</loc>
+  </url><url>
+    <loc>/misce-post/does-self-improvement-books-work/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-abstraction-in-computer-science-with-example/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-computer-science-and-software-engineering/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-chemical-engineering-and-industrial-chemistry/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-chemical-engineering-and-petroleum-engineering/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-mechatronics-and-mechanical-engineering/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-mechanical-and-electromagnetic-waves/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-a-mechanic-and-an-engineer/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-mechatronics-and-robotics-engineering/</loc>
+  </url><url>
+    <loc>/science-stuff/which-is-harder-electrical-or-mechanical-engineering/</loc>
+  </url><url>
+    <loc>/misce-post/difference-between-subjective-and-objective/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-surface-tension-and-viscosity/</loc>
+  </url><url>
+    <loc>/financial-stuffs/difference-between-current-account-and-savings-account-/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-surveillance-and-monitoring/</loc>
+  </url><url>
+    <loc>/misce-post/difference-between-survey-and-questionnaire/</loc>
+  </url><url>
+    <loc>/engineering-contents/difference-between-quantity-surveyor-and-civil-engineer/</loc>
+  </url><url>
+    <loc>/signal-and-system/what-is-biomedical-signal-processing/</loc>
+  </url><url>
+    <loc>/signal-and-system/difference-between-linear-time-variant-and-linear-time-invariant-system/</loc>
+  </url><url>
+    <loc>/signal-and-system/how-do-you-check-whether-a-system-is-lti-or-not/</loc>
+  </url><url>
+    <loc>/engineering-contents/which-is-harder-civil-engineering-or-architecture/</loc>
+  </url><url>
+    <loc>/engineering-contents/which-engineering-is-hardest/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-hardware-and-software-with-example/</loc>
+  </url><url>
+    <loc>/misce-post/difference-between-cv-and-resume/</loc>
+  </url><url>
+    <loc>/misce-post/difference-between-college-and-university/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-electromotive-force-and-potential-difference/</loc>
+  </url><url>
+    <loc>/science-stuff/voltage-and-power-fluctuation/</loc>
+  </url><url>
+    <loc>/digital-electronics/how-to-convert-binary-to-decimal-with-examples/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-are-examples-of-ai-technology-and-how-is-it-used-today/</loc>
+  </url><url>
+    <loc>/engineering-contents/engineering-applications-of-artificial-intelligence/</loc>
+  </url><url>
+    <loc>/engineering-contents/advantages-and-disadvantages-of-artificial-intelligence/</loc>
+  </url><url>
+    <loc>/how-to-tech/strategies-for-optimal-medical-billing-performance/</loc>
+  </url><url>
+    <loc>/misce-post/difference-between-survey-and-census/</loc>
+  </url><url>
+    <loc>/digital-electronics/difference-between-ram-and-rom/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-renewable-energy-and-non-renewable-energy/</loc>
+  </url><url>
+    <loc>/science-stuff/similarities-between-renewable-and-non-renewable-resources/</loc>
+  </url><url>
+    <loc>/science-stuff/difference-between-reflection-and-refraction/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-difference-between-email-and-gmail/</loc>
+  </url><url>
+    <loc>/science-stuff/radio-waves-examples-in-real-life/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-difference-between-programming-and-coding/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-core-i3-i5-i7/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-compiler-and-interpreter/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-compiler-and-assembler/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-cpu-and-system-unit/</loc>
+  </url><url>
+    <loc>/science-stuff/advantages-and-disadvantages-of-friction/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-ssd-and-hdd/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-console.log-and-console.error/</loc>
+  </url><url>
+    <loc>/misce-post/whats-the-difference-between-pro-and-cons/</loc>
+  </url><url>
+    <loc>/misce-post/difference-between-terms-and-conditions/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-console.log-and-console.info/</loc>
+  </url><url>
+    <loc>/how-to-tech/string-contains-a-substring-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-do-closures-work-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/tricks-to-keep-your-refrigerator-maintained/</loc>
+  </url><url>
+    <loc>/how-to-tech/which-is-the-most-powerful-gpt/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-dall-e-and-where-does-dall-e-get-its-data-from/</loc>
+  </url><url>
+    <loc>/how-to-tech/who-owns-chatgpt-and-who-created-it/</loc>
+  </url><url>
+    <loc>/how-to-tech/programming-language-is-chatgpt-coded-in/</loc>
+  </url><url>
+    <loc>/networking/components-of-a-computer-network/</loc>
+  </url><url>
+    <loc>/how-to-tech/does-chatgpt-give-the-same-answer-to-everyone/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-compare-strings-in-java/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-difference-between-machine-learning-and-generative-ai/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-difference-between-chatgpt-and-a-search-engine/</loc>
+  </url><url>
+    <loc>/misce-post/what-are-the-most-important-skills-a-student-should-have/</loc>
+  </url><url>
+    <loc>/how-to-tech/can-chatgpt-replace-search-engines-like-google/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-are-the-limitations-of-chatgpt/</loc>
+  </url><url>
+    <loc>/how-to-tech/impact-of-chatgpt-on-students-/</loc>
+  </url><url>
+    <loc>/digital-electronics/why-digital-signal-are-used-in-computer-system/</loc>
+  </url><url>
+    <loc>/networking/what-are-the-cables-used-in-networking/</loc>
+  </url><url>
+    <loc>/networking/what-is-multicast-address-with-example/</loc>
+  </url><url>
+    <loc>/misce-post/most-in-demand-tech-skills-in-nigeria/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-chatgpt-and-its-advantages-and-disadvantages/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-long-does-it-take-to-learn-basic-computer-skills/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-best-json-file-viewer-for-mac/</loc>
+  </url><url>
+    <loc>/how-to-tech/the-best-csv-editors-or-tools-for-macs/</loc>
+  </url><url>
+    <loc>/how-to-tech/programming-forums-for-beginners/</loc>
+  </url><url>
+    <loc>/how-to-tech/which-screen-size-is-best-for-programming/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-much-gb-is-required-for-a-programming-laptop/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-much-ram-is-needed-for-coding-in-laptop/</loc>
+  </url><url>
+    <loc>/how-to-tech/which-processor-is-best-for-coding-or-programming/</loc>
+  </url><url>
+    <loc>/how-to-tech/is-i3-or-i5-better-for-college-students/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-get-current-port-number-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/which-programming-language-is-used-for-hacking/</loc>
+  </url><url>
+    <loc>/how-to-tech/are-hackers-better-than-programmers/</loc>
+  </url><url>
+    <loc>/misce-post/is-it-possible-to-become-a-straight-a-student/</loc>
+  </url><url>
+    <loc>/how-to-tech/is-chatgpt-a-strong-or-weak-ai/</loc>
+  </url><url>
+    <loc>/networking/is-cyber-security-and-network-security-same/</loc>
+  </url><url>
+    <loc>/networking/how-long-does-it-take-to-become-a-networking-expert/</loc>
+  </url><url>
+    <loc>/networking/what-is-the-role-of-networking-in-cloud-computing/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</loc>
+  </url><url>
+    <loc>/networking/do-hubs-use-ip-address/</loc>
+  </url><url>
+    <loc>/engineering-contents/what-you-will-learn-in-mechanical-engineering/</loc>
+  </url><url>
+    <loc>/engineering-contents/why-is-engineering-so-hard/</loc>
+  </url><url>
+    <loc>/engineering-contents/why-is-engineering-important-to-society/</loc>
+  </url><url>
+    <loc>/science-stuff/is-water-a-good-or-bad-conductor-of-electricity/</loc>
+  </url><url>
+    <loc>/science-stuff/why-mercury-is-not-the-hottest-planet/</loc>
+  </url><url>
+    <loc>/networking/what-is-wavelength-and-why-is-it-important-to-fiber-optics/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-download-image-from-url-in-node-js/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-download-multiple-images-nodejs/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-check-if-an-image-url-is-valid-in-javascript/</loc>
+  </url><url>
+    <loc>/engineering-contents/is-chemical-engineering-good-for-future/</loc>
+  </url><url>
+    <loc>/engineering-contents/what-you-will-learn-in-chemical-engineering/</loc>
+  </url><url>
+    <loc>/networking/do-fiber-optic-cables-get-hot/</loc>
+  </url><url>
+    <loc>/networking/do-fibre-optic-cables-conduct-electricity/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-difference-between-single-hash-and-double-hash-in-python/</loc>
+  </url><url>
+    <loc>/how-to-tech/what-is-the-difference-between-using-square-bracket-and-curly-braces-in-python/</loc>
+  </url><url>
+    <loc>/how-to-tech/difference-between-/-and-/-in-python-with-example/</loc>
+  </url><url>
+    <loc>/electronics/why-cant-we-use-capacitors-instead-of-batteries/</loc>
+  </url><url>
+    <loc>/science-stuff/why-cant-we-use-water-as-fuel/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-clear-terminal-in-vs-code/</loc>
+  </url><url>
+    <loc>/science-stuff/why-cant-energy-be-created-nor-destroyed/</loc>
+  </url><url>
+    <loc>/networking/what-is-gsm-in-wireless-communication/</loc>
+  </url><url>
+    <loc>/networking/what-is-the-difference-between-gsm-and-internet/</loc>
+  </url><url>
+    <loc>/networking/what-are-the-benefits-of-lte-over-gsm/</loc>
+  </url><url>
+    <loc>/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-remove-numbers-from-a-string-in-python-using-regex/</loc>
+  </url><url>
+    <loc>/engineering-contents/why-is-reliability-engineering-important/</loc>
+  </url><url>
+    <loc>/networking/is-the-gsm-network-2g-or-3g/</loc>
+  </url><url>
+    <loc>/networking/what-is-frequency-reuse-in-wireless-communication/</loc>
+  </url><url>
+    <loc>/how-to-tech/module-not-found-cant-resolve-encoding-in-next-js/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</loc>
+  </url><url>
+    <loc>/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</loc>
+  </url><url>
+    <loc>/how-to-tech/is-nodejs-used-for-backend-or-frontend/</loc>
+  </url><url>
+    <loc>/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/</loc>
   </url><url>
     <loc>/</loc>
     <lastmod>2023-01-04T23:43:06+00:00</lastmod>
@@ -287,6 +771,8 @@
     <loc>/signal-and-system/</loc>
     <lastmod>2023-01-01T00:56:27+00:00</lastmod>
   </url><url>
+    <loc>/networking/difference-between-unicast-multicast-broadcast-and-anycast/</loc>
+  </url><url>
     <loc>/categories/circuit-analysis/</loc>
   </url><url>
     <loc>/categories/digital-electronics/</loc>
@@ -295,9 +781,15 @@
   </url><url>
     <loc>/categories/electromagnetics/</loc>
   </url><url>
+    <loc>/categories/engineering-contents/</loc>
+  </url><url>
+    <loc>/categories/financial-stuffs/</loc>
+  </url><url>
     <loc>/categories/how-to-tech/</loc>
   </url><url>
     <loc>/categories/maths-and-fun/</loc>
+  </url><url>
+    <loc>/categories/product-reviews-recommendations/</loc>
   </url><url>
     <loc>/categories/productivity-and-writings/</loc>
   </url><url>
@@ -307,13 +799,25 @@
   </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/signal-and-system/how-to-find-the-convolution-sum-of-discrete-time-signals/</loc>
+  </url><url>
+    <loc>/tags/difference-between/</loc>
+  </url><url>
     <loc>/digital-electronics/</loc>
   </url><url>
     <loc>/ebookcategories/</loc>
   </url><url>
+    <loc>/tags/economy/</loc>
+  </url><url>
     <loc>/ebooks/ee-files/</loc>
   </url><url>
     <loc>/em-post/</loc>
+  </url><url>
+    <loc>/engineering-contents/</loc>
+  </url><url>
+    <loc>/tags/finance/</loc>
+  </url><url>
+    <loc>/financial-stuffs/</loc>
   </url><url>
     <loc>/ebooks/</loc>
   </url><url>
@@ -321,15 +825,31 @@
   </url><url>
     <loc>/how-to-tech/</loc>
   </url><url>
+    <loc>/tags/how-to/</loc>
+  </url><url>
+    <loc>/tags/javascript/</loc>
+  </url><url>
     <loc>/circuit-analysis/</loc>
   </url><url>
     <loc>/misce-post/</loc>
+  </url><url>
+    <loc>/tags/nodejs/</loc>
   </url><url>
     <loc>/posts/</loc>
   </url><url>
     <loc>/privacy-policy/</loc>
   </url><url>
+    <loc>/product-reviews-and-recommendations/</loc>
+  </url><url>
+    <loc>/tags/programming-and-coding/</loc>
+  </url><url>
     <loc>/science-stuff/</loc>
+  </url><url>
+    <loc>/tags/self-development/</loc>
+  </url><url>
+    <loc>/tags/study-tips/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url><url>
     <loc>/terms-and-conditions/</loc>
   </url>

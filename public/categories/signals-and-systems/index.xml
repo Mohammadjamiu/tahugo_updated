@@ -47,9 +47,10 @@ what is discrete-time signals or DTS? Discrete-time signals refers to signals th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/signal-and-system/difference-between-power-signal-and-energy-signal/</guid>
-      <description>In one of our previous post we discuss about how to solve energy and power signal problems step by step with tips and shortcut and we briefly talk about what power and energy signal is. But in this post we would be discussing about the differences between power signal and energy signal.
-Difference between power signal and energy signal Power signal Power signal has finite power
-It has an infinite energy</description>
+      <description>Power signals and energy signals are fundamental concepts in signal processing and are important for analyzing and characterizing different types of signals.
+Read on: How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?
+In this article, we will look into the differences between these two signal categories and explore their unique properties.
+Table of Contents ↬Power Signals Energy Signals Distinguishing Average Power and Total Energy Key Differences between Power and Energy Signals 1.</description>
     </item>
     
     <item>
@@ -81,6 +82,55 @@ Signals can be classified into different categories or types based on various pr
       <guid>/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/</guid>
       <description>Knowing if a signal is an even or an odd signal is very important because it helps to simplify calculations and reduce the number of terms that need to be considered in a Fourier series or Fourier transform.
 For example, when trying to find the Fourier analysis of a function, there are variables that need to be calculated, a0, an and bn where a0 is a constant value, an is the value associated with the even terms and bn is the value associated with the odd terms.</description>
+    </item>
+    
+    <item>
+      <title>What is Biomedical Signal Processing?</title>
+      <link>/signal-and-system/what-is-biomedical-signal-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/what-is-biomedical-signal-processing/</guid>
+      <description>Biomedical signal processing refers to the application of digital signal processing techniques to analyze and interpret physiological signals acquired from the human body.
+These signals can originate from various sources, including electrocardiograms (ECGs), electroencephalograms (EEGs), and electromyograms (EMGs).
+The primary objective of biomedical signal processing is to extract meaningful information from these signals, enabling healthcare professionals to diagnose and monitor patients effectively.
+Biomedical signal processing involves the use of algorithms and mathematical techniques to manipulate, analyze, and interpret the acquired signals.</description>
+    </item>
+    
+    <item>
+      <title>Difference Between Linear Time Variant (LTV) and Linear Time Invariant (LTI) Systems</title>
+      <link>/signal-and-system/difference-between-linear-time-variant-and-linear-time-invariant-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/difference-between-linear-time-variant-and-linear-time-invariant-system/</guid>
+      <description>In this article, we will look at the main difference between linear time variant (LTV) and linear time invariant (LTI) systems.
+We will discuss their definitions, characteristics, and applications to gain a comprehensive understanding of their functionalities and distinctions.
+Table of Contents ↬What are LTV Systems? What are LTI Systems? Differences between LTV and LTI Systems 1. Dependence on Input Time 2. Memory and Environmental Influence 3. Performance and Complexity Applications of LTV Systems Applications of LTI Systems Additional Properties of LTV and LTI Systems 1.</description>
+    </item>
+    
+    <item>
+      <title>How Do You Check Whether a System Is LTI or Not?</title>
+      <link>/signal-and-system/how-do-you-check-whether-a-system-is-lti-or-not/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/how-do-you-check-whether-a-system-is-lti-or-not/</guid>
+      <description>To analyze the response and stability of a system, it is important to determine whether it is LTI or not.
+The LTI property helps us understand how a system behaves when subjected to different inputs.
+By performing specific tests, we can determine whether a system exhibits the desired LTI characteristics.
+Table of Contents ↬Linearity Test Time Invariance Test Examples of LTI Systems 1. RC Filter 2. RLC Filter 3. PID Controller Examples of Non-LTI Systems 1.</description>
+    </item>
+    
+    <item>
+      <title>Convolution Sum: How to Find the Convolution of a Discrete Time Signals with Solved Example</title>
+      <link>/signal-and-system/how-to-find-the-convolution-sum-of-discrete-time-signals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signal-and-system/how-to-find-the-convolution-sum-of-discrete-time-signals/</guid>
+      <description>Convolution of two discrete time signal can be achieved using the convolution sum.
+Convolution sum is a mathematical tool that is used for combining two discrete signals to form a new (or third) signal.
+It is defined as:
+$ Y(n) = x*{1}(n) \circledast x*{2}(n) $ which can be calculated using
+$ Y(n) = \sum*{k=0} x*{1}(k)x_{2}(n-k) $
+In essence one of the signal maybe $ x_{1}(n)$ is kept the way it is while the other is shifted and the sum of their products results in the convolution sum of two signals.</description>
     </item>
     
   </channel>

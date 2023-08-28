@@ -27,8 +27,9 @@
   name="description"
   content="In circuit switching, a dedicated path or route is established between the sender and the receiver while a message switching does not need a dedicated path also, in a packet switching each packet is sent individually with a source and destination IP address and also with a sequence number"
 />
-
-<meta name="author" content="Mohammad Jamiu" /> <meta name="generator" content="Hugo 0.109.0">
+ 
+<meta name="author" content="Mohammad Jamiu" /> <meta name="generator" content="Hugo 0.109.0"> 
+<meta name="publisher" content="Mohammad Jamiu" /> 
 
 <meta property="og:title" content="Circuit Switching, Message Switching and Packet Switching Techniques Explained | Tooabstractive" />
 <meta name="twitter:title" content="Circuit Switching, Message Switching and Packet Switching Techniques Explained | Tooabstractive" />
@@ -38,7 +39,7 @@
 
 
 
-<meta name="description" content="In circuit switching, a dedicated path or route is established between the sender and the receiver while a message switching does not need a dedicated path also, in a packet switching each packet is sent individually with a source and destination IP address and also with a sequence number" />
+
 <meta itemprop="description" content="In circuit switching, a dedicated path or route is established between the sender and the receiver while a message switching does not need a dedicated path also, in a packet switching each packet is sent individually with a source and destination IP address and also with a sequence number" />
 <meta property="og:description" content="In circuit switching, a dedicated path or route is established between the sender and the receiver while a message switching does not need a dedicated path also, in a packet switching each packet is sent individually with a source and destination IP address and also with a sequence number" />
 <meta name="twitter:description" content="In circuit switching, a dedicated path or route is established between the sender and the receiver while a message switching does not need a dedicated path also, in a packet switching each packet is sent individually with a source and destination IP address and also with a sequence number" />
@@ -48,7 +49,7 @@
 <base href="/networking/circuit-message-and-packet-switching-techniques-explained/" />
 <link
   rel="canonical"
-  href="https://tooabstractive.com/networking/circuit-message-and-packet-switching-techniques-explained/"
+  href="https://tooabstractive.com/networking/circuit-message-and-packet-switching-techniques-explained//"
   itemprop="url"
 />
 <meta name="url" content="/networking/circuit-message-and-packet-switching-techniques-explained/" />
@@ -63,10 +64,10 @@
 <meta property="og:image:height" content="200" />
 
 
-<meta itemprop="image" content="/" />
-<meta property="og:image" content="/" />
-<meta name="twitter:image" content="/" />
-<meta name="twitter:image:src" content="/" />
+<meta itemprop="image" content="/images/satellite.webp" />
+<meta property="og:image" content="/images/satellite.webp" />
+<meta name="twitter:image" content="/images/satellite.webp" />
+<meta name="twitter:image:src" content="/images/satellite.webp" />
  
 
 <link
@@ -79,6 +80,7 @@
 
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
+<meta name="robots" content="max-image-preview:large" />
  
 <link rel="stylesheet" href="/css/layout.css" />
 <link rel="stylesheet" href="/css/other.css" />
@@ -96,28 +98,6 @@
 
 
 
-
-
-<script>
-  (function (w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      "gtm.start": new Date().getTime(),
-      event: "gtm.js",
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != "dataLayer" ? "&l=" + l : "";
-    j.async = true;
-    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, "script", "dataLayer", "GTM-NWS8Z2G");
-</script>
-
-
-
-
-
 <script
   async
   src="https://www.googletagmanager.com/gtag/js?id=G-ZKBCM99NE5"
@@ -131,6 +111,8 @@
 
   gtag("config", "G-ZKBCM99NE5");
 </script>
+
+
 
 
 
@@ -244,13 +226,20 @@
   </nav>
 </header>
  
+<div class="container-grid">
+   <div style="max-width: 100%;"></div>
 
-<div class="container single-page-container">
+</div>
+<div class="container-grid">
+<div class=" single-page-container">
+ 
   <span class="post-date">February 12, 2022</span>
   <h1>Circuit Switching, Message Switching and Packet Switching Techniques Explained</h1>
   <div class="post-metadata">
-    <p><img class="author__img" src="/images/author_jamiu.jpg" alt="mohammad jamiu"></img>
-    <p class="author">Mohammad Abdul </p>
+    
+    <p><img class="author__img" src="/images/author_jamiu.webp" alt="Mohammad Jamiu"></img>
+    <p class="author">Mohammad Jamiu </p>
+    
       <p class="dot">/</p><p class="weight">39 </p>  <p class="dot">/</p>
     <p class="post-category">
       <a class="on-what-topic" href="/categories/networking-and-communication"
@@ -260,23 +249,24 @@
     <p class="dot">/</p>
     
     <p class="read-time">
-      Read Time &#128352; -  4mins
+      Read Time &#128352; -  5mins
     </p>
   </div>
 
   <div class="bar-style"></div>
   
 
-  <p><strong>Switching</strong> in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple paths.</p>
+  <p><strong>Switching in computer network</strong> is what help in deciding the best route for data transmission in a larger network if there are multiple paths.</p>
 <p>This is to ensure that the efficient use of channels is achieved and to make communication and transmission reliable.</p>
 <p>There are three types of switching techniques;</p>
 <ul>
-<li>Circuit switching</li>
-<li>Message switching and</li>
+<li>Circuit switching,</li>
+<li>Message switching, and</li>
 <li>Packet switching</li>
 </ul>
-<h2 id="what-is-circuit-switching">What is circuit switching?</h2>
-<p>In circuit switching, a dedicated path or route is established between the sender and the receiver. In other words, before data can be transferred, a connection must be established.</p>
+<h2 id="what-is-circuit-switching">What is Circuit Switching?</h2>
+<p><strong>In circuit switching</strong>, a dedicated path or route is established between the sender and the receiver. In other words, before data can be transferred, a connection must be established.</p>
+<p>During the communication or data transmission, the entire bandwidth of the circuit is reserved for the two devices (the sender and the receiver), even if they are not transmitting data.</p>
 <p>This type of technique is used in telephone network whereby before you can communicate with your friend via the telephone, a connection is established between you and your friend as soon as you dial up to call your friend.</p>
 <p><strong>Advantages of circuit switching</strong></p>
 <ol>
@@ -289,9 +279,15 @@
 <li>There is inefficient use of channel.</li>
 <li>It is more expensive than other switching techniques.</li>
 </ol>
-<h2 id="what-is-message-switching">What is message switching?</h2>
-<p>Unlike in circuit switching where a dedicated path is established, a message switching does not need a dedicated path.</p>
-<p>It uses a store and forward mechanism whereby a message is broken into pieces or chunks and are transferred to an intermediary node which helps to store the messages and when the messages are completely stored, they are forwarded to their destination.</p>
+<h2 id="what-is-message-switching">What is Message Switching?</h2>
+<p>Unlike in circuit switching where a dedicated path is established, <strong>a message switching does not need a dedicated path</strong>.</p>
+<p><strong>Message switching</strong>, is a method of transmitting data that involves dividing the data into messages.</p>
+<blockquote>
+<p><strong>A message</strong> is a unit of data that contains the complete information that needs to be transmitted from the source to the destination. It is usually considered as a single entity, and it can be of any size depending on the amount of data being transmitted.</p>
+<p>For example, an email message or a text message is a complete message that contains all the information that needs to be sent.</p>
+</blockquote>
+<p>It uses a store and forward mechanism whereby a message is broken into pieces or chunks and are transferred to an intermediary node which helps to store the messages.</p>
+<p>When the messages are completely stored, they are forwarded to their destination.</p>
 <p><strong>Advantage of message switching</strong></p>
 <ol>
 <li>It is more efficient than circuit switching as there is no establishment of dedicated path and more device can share the channel.</li>
@@ -300,25 +296,31 @@
 </ol>
 <p><strong>Disadvantages of message switching</strong></p>
 <ol>
-<li>It is not suitable for real-time communications or applications.</li>
+<li>It is not suitable for real-time communications or applications as messages are transmitted one at a time, and they may take longer to reach their destination.</li>
 <li>The store and forward devices can be quite expensive because they must have large storage capacity to hold large amount of data.</li>
 </ol>
-<h2 id="what-is-a-packet-switching">What is a packet switching?</h2>
-<p>In packet switching, a message is broken into individual chunks called packets.</p>
+<h2 id="what-is-packet-switching">What is Packet Switching?</h2>
+<p><strong>In packet switching</strong>, a message is broken into individual chunks called packets.</p>
+<blockquote>
+<p><strong>A packet</strong> is a small unit of data that is used to transmit a part of the message over the network.
+A message is divided into several packets, and each packet contains a part of the message along with some additional information such as the destination address, the sequence number, and error checking information.</p>
+</blockquote>
 <p>Each packet is sent individually with a source and destination IP address, and also with a sequence number to help in the reordering or rearrangement of the packets received at the receiver end.</p>
 <p>This sequence number also helps to figure out if there is a missing packet.</p>
 <p>If there is a missing packet, it sends an acknowledgement seeking for the missing packet.</p>
-<p>This type of technique is used on the Internet</p>
+<p>Packet switching is an efficient way to transmit data over a network, as packets can be sent over different routes, which means that if one route is congested, packets can be rerouted through a different path. This helps to ensure that the data arrives at its destination quickly and efficiently.</p>
+<p>This type of technique is used on the Internet.</p>
+<p><strong>Read More:</strong> <a href="/networking/what-are-the-similarities-between-packet-switching-and-message-switching/">What Are the Similarities Between Packet Switching and Message Switching</a></p>
 <p>Packet switching is further divided into two;</p>
 <ul>
 <li>Datagram packet switching and</li>
 <li>Virtual circuit packet switching</li>
 </ul>
-<h2 id="what-is-a-datagram-packet-switching">What is a Datagram packet switching?</h2>
-<p>Datagram packet switching is also known as connectionless switching and does not have a fixed path.</p>
+<h2 id="what-is-a-datagram-packet-switching">What is a Datagram Packet Switching?</h2>
+<p><strong>Datagram packet switching</strong> is also known as connectionless switching and does not have a fixed path.</p>
 <p>The datagram (or message) contain destination information which allow the intermediary node to take routing decisions and to forward the message.</p>
-<h2 id="what-is-a-virtual-packet-switching">What is a virtual packet switching?</h2>
-<p>Virtual circuit packet switching is also known as connection-oriented switching. A preplanned route (or logical path) is established before messages can be sent.</p>
+<h2 id="what-is-a-virtual-circuit-packet-switching">What is a Virtual (Circuit) Packet Switching?</h2>
+<p><strong>Virtual circuit packet switching</strong> is also known as connection-oriented switching. A preplanned route (or logical path) is established before messages can be sent.</p>
 <p>The connection between the sender and the receiver are established with the use of call request and call accept packet.</p>
 <p>Due to call request and call accept, which do result in an acknowledgement, virtual circuit packet switching is more reliable.</p>
 <p>The message arrives in the order that it has been sent.</p>
@@ -337,7 +339,9 @@
 <li>The protocol for packet switching are quite complex.</li>
 </ol>
  
-  
+
+
+
     
 <div class="socialshare-links" style="  display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin: 1rem 0; ">
 
@@ -400,7 +404,7 @@
 
        
        
-       <a class="pinterest" href="https://pinterest.com/pin/create/button?url=%2fnetworking%2fcircuit-message-and-packet-switching-techniques-explained%2f&media=https%3a%2f%2ftooabstractive.com&description=In%20circuit%20switching%2c%20a%20dedicated%20path%20or%20route%20is%20established%20between%20the%20sender%20and%20the%20receiver%20while%20a%20message%20switching%20does%20not%20need%20a%20dedicated%20path%20also%2c%20in%20a%20packet%20switching%20each%20packet%20is%20sent%20individually%20with%20a%20source%20and%20destination%20IP%20address%20and%20also%20with%20a%20sequence%20number" target="_blank" class="mail" title="Share this on Email">
+       <a class="pinterest" href="https://pinterest.com/pin/create/button?url=%2fnetworking%2fcircuit-message-and-packet-switching-techniques-explained%2f&media=https%3a%2f%2ftooabstractive.com%2fimages%2fsatellite.webp&description=In%20circuit%20switching%2c%20a%20dedicated%20path%20or%20route%20is%20established%20between%20the%20sender%20and%20the%20receiver%20while%20a%20message%20switching%20does%20not%20need%20a%20dedicated%20path%20also%2c%20in%20a%20packet%20switching%20each%20packet%20is%20sent%20individually%20with%20a%20source%20and%20destination%20IP%20address%20and%20also%20with%20a%20sequence%20number" target="_blank" class="mail" title="Share this on Email">
           <svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M256 597q0-108 37.5-203.5t103.5-166.5 152-123 185-78 202-26q158 0 294 66.5t221 193.5 85 287q0 96-19 188t-60 177-100 149.5-145 103-189 38.5q-68 0-135-32t-96-88q-10 39-28 112.5t-23.5 95-20.5 71-26 71-32 62.5-46 77.5-62 86.5l-14 5-9-10q-15-157-15-188 0-92 21.5-206.5t66.5-287.5 52-203q-32-65-32-169 0-83 52-156t132-73q61 0 95 40.5t34 102.5q0 66-44 191t-44 187q0 63 45 104.5t109 41.5q55 0 102-25t78.5-68 56-95 38-110.5 20-111 6.5-99.5q0-173-109.5-269.5t-285.5-96.5q-200 0-334 129.5t-134 328.5q0 44 12.5 85t27 65 27 45.5 12.5 30.5q0 28-15 73t-37 45q-2 0-17-3-51-15-90.5-56t-61-94.5-32.5-108-11-106.5z"/></svg>
   
           </a>
@@ -424,72 +428,93 @@
 
 </div>
  
-    
-  
-     <div class="snippet-container">
-  <div class="snippet__text-content">
-    <h2>What’s on Your Mind &#129300;</h2>
-    <p>
-      Is there any abstractive question on your mind? <br />
-      share it and let see if we can help.
-    </p>
-  </div>
-
-  <div class="abstractive__info-form">
-    <form name="submit-to-google-sheet">
-      <textarea
-        name="Abstractive_texts"
-        placeholder="Enter what's on your mind..."
-        required="required"
-      ></textarea>
-      <input
-        type="email"
-        name="Email_List"
-        placeholder="Enter your email - so as to reach out!"
-        required
-      />
-      <button type="submit">Submit</button>
-      <span id="msg"></span>
-    </form>
-  </div>
-</div>
  
+ 
+
+<div id="emote_com"></div>
+
+
+   
+  
   <div class="readmore-recommend">
     <h2 class="related-more">More For You <span style="color:#e4982d; font-size: 3rem; "> &#9732</span></h2>
 
     
      
-    <ul class="ul-in-post" style="list-style-type:square;">
-      <li>
-        <a class="links-to-others" href="/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/">[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ...</a>
-      </li>
-    </ul>
     
-    <ul class="ul-in-post" style="list-style-type:square;">
-      <li>
-        <a class="links-to-others" href="/networking/the-seven-layers-of-the-osi-model-explained/">The Seven Layers of the OSI Model Explained</a>
-      </li>
-    </ul>
+     <div class="xx">
+        <img src="/images/diff-mac-ip.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/what-is-the-difference-between-mac-address-and-ip-address/">What Is the Difference Between MAC Address and IP Address</a>
+ </div>
     
-    <ul class="ul-in-post" style="list-style-type:square;">
-      <li>
-        <a class="links-to-others" href="/networking/what-is-simplex-half-duplex-and-full-duplex/">What Is Simplex, Half-Duplex and Full-Duplex mode of communication?</a>
-      </li>
-    </ul>
     
-    <ul class="ul-in-post" style="list-style-type:square;">
-      <li>
-        <a class="links-to-others" href="/networking/difference-between-sata-and-esata/">Difference Between SATA(Serial ATA) and eSATA (external Serial ATA)</a>
-      </li>
-    </ul>
+     <div class="xx">
+        <img src="/images/network-congestion.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/what-is-multicast-address-with-example/">What is a Multicast Address? With Examples and Applications</a>
+ </div>
     
-    <ul class="ul-in-post" style="list-style-type:square;">
-      <li>
-        <a class="links-to-others" href="/networking/what-is-dns-and-how-it-works/">What Is DNS (Domain Name Server) and How It Works?</a>
-      </li>
-    </ul>
+    
+     <div class="xx">
+        <img src="" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/what-is-ftp-used-for/">What Is FTP (File Transfer Protocol) Used For?</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="/images/ethernet-cable.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/what-are-the-cables-used-in-networking/">List of Cables Used in Networking</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="/images/distortion_3.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/what-are-the-different-causes-of-transmission-impairments/">What Are the Different Causes of Transmission Impairments?</a>
+ </div>
+    
+
+  
+   
+  </div>
+ 
+</div>
+<aside class="sidebar">
+   <div class="readmore-recommend-desktop">
+    <h2 class="related-more">More For You <span style="color:#e4982d; font-size: 3rem; "> &#9732</span></h2>
+
+    
+     
+    
+       <div class="xx">
+        <img src="/images/framework1_8.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/how-computers-are-connected-through-wired-network/">Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network.</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="/images/lightp.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/optical-sources-in-optical-fiber-communication/">Optical Sources in Optical Fiber Communication</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="/images/networks-installment.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/what-is-latency-in-networking/">What Is Latency in Networking?</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="/images/lossg_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/types-of-losses-in-optical-fiber/">Types of Losses in Optical Fiber</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="/images/electromagnetic-waves.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="/networking/do-fibre-optic-cables-conduct-electricity/">Do Fiber Optic Cables Conduct Electricity?</a>
+ </div>
     
   </div>
+</aside>
 </div>
 
 
@@ -535,15 +560,7 @@
 
 
 
-<div class="footer-contribution">
 
-    <h2>Contribution</h2>
-    <ul class="footer-ul">
-
-        <li><a href="/about/#write">Write For us &#9997; - to help others</a></li>
-    </ul>
-
-</div>
 
 <div class="footer-connect">
     <h2>Connect</h2>
@@ -650,7 +667,6 @@
 </footer>
 
 
-
     <script defer src="/js/script.js"></script>
     <script type="text/javascript">
       
@@ -679,5 +695,8 @@
       );
       
     </script>
+
+    
+    <script defer src="https://i.emote.com/js/emote.js"></script>
   </body>
 </html>

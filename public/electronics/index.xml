@@ -164,6 +164,16 @@ But to understand what electricity is and how it works on a deeper level, we nee
     </item>
     
     <item>
+      <title>What Is Frequency Modulation (FM)? Formula, Frequency Deviation, Modulation Index with Solved Examples</title>
+      <link>/electronics/frequency-modulation-formula-with-solved-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/frequency-modulation-formula-with-solved-examples/</guid>
+      <description>Definition of Frequency modulation (FM) Frequency modulation (FM) is a type of angle modulation in which the frequency of the carrier wave (mostly sine wave) is varied in accordance to the frequency of the modulating or message signal while keeping amplitude and phase constant.
+Derivation of frequency modulation (FM) formula In general, angle modulated signal $S(t)$ is represented as $S(t) = A_{c}cos[\theta_{i}(t)]$ and the instantaneous frequency (i.e. the frequency at each instance) is defined as $f_{i}(t) = f_{c} + k_{f}m(t)$.</description>
+    </item>
+    
+    <item>
       <title>Baseband and Passband Signal and Their Difference in Communication</title>
       <link>/electronics/baseband-and-passband-signal-and-their-difference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,13 +184,15 @@ But to carry this baseband signal over a long distance as it has a low frequency
     </item>
     
     <item>
-      <title>Frequency Range of Radio Waves, EM (Band) Spectrum and Their Applications</title>
+      <title>Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications</title>
       <link>/electronics/frequency-range-of-radio-waves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/electronics/frequency-range-of-radio-waves/</guid>
-      <description>The frequency range of radio waves are specified in the table below with the EM spectrum (band) and their respective application.
-s/n frequency range EM spectrum (Band) Application 1. 30Hz - 300Hz ELF Power line communications 2. 300Hz - 3KHz Voice/ speech Frequency Speech, voice communication 3. 3KHz - 30KHz VLF Long-range radio navigation 4. 30KHz - 300KHz LF navigational locator, submarine communication 5. 300KHz - 3MHz MF AM Radio 6.</description>
+      <description>Radio waves play a vital role in modern communication systems, enabling us to transmit and receive information wirelessly over long distances.
+These waves are categorized based on their frequency range and are part of the electromagnetic spectrum (EM spectrum).
+In this article, we will explore the frequency range of radio waves and their applications across various bands of the EM spectrum.
+Table of Contents ↬What are Radio Waves? Frequency Range of Radio Waves 1.</description>
     </item>
     
     <item>
@@ -214,6 +226,81 @@ Signals in time domain are measured in seconds or s.</description>
       <description>What is a communication system? A communication system refers to devices, circuits, or networks used for the transmitting, receiving and processing of information or data (such as voice, computer data etc.) between two different points or users.
 Basic elements of communication systems In a communication system, there are generally five basic elements, which are:
 Information (or data, is the actual message such as human voice) Transmitter (a device used for transmitting the information received) Communication Channel (or medium, is the medium where the message can travel through) Noise (or random signal which is introduced while transmitting the information, can be caused due to several natural factors such as thunder, sun radiation etc.</description>
+    </item>
+    
+    <item>
+      <title>27 Electronics Tools and Their Functions (for beginners)</title>
+      <link>/electronics/electronic-tools-and-their-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/electronic-tools-and-their-functions/</guid>
+      <description>As an electronics hobbyist or a beginner that&amp;rsquo;s new to the world of electronics, imagine being able to diagnose and fix any electronic device that comes your way. With the right tools at your disposal, you can confidently tackle any project, from repairing an old radio to building your own custom circuit board.
+But it&amp;rsquo;s not just about repair and maintenance – with electronics tools, you can bring your own ideas to life, prototyping and testing new devices until they&amp;rsquo;re perfect.</description>
+    </item>
+    
+    <item>
+      <title>Examples of Devices That Use Capacitors</title>
+      <link>/electronics/examples-of-devices-that-use-capacitors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/examples-of-devices-that-use-capacitors/</guid>
+      <description>A capacitor is an electronic device that stores and releases electrical energy in an electric field between two conductive plates. It is commonly used in electrical and electronic circuits for a variety of purposes, including filtering out noise from electrical signals to provide clean signals in applications such as audio equipment and power supplies.
+Examples of Devices That Use Capacitors Here are some examples of devices that use capacitors and the function of capacitors in them:</description>
+    </item>
+    
+    <item>
+      <title>Difference Between Linear and Nonlinear Devices</title>
+      <link>/electronics/difference-between-linear-and-nonlinear-devices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/difference-between-linear-and-nonlinear-devices/</guid>
+      <description>In electronics, a linear device is one that produces an output signal that is directly proportional to the input signal, whereas a nonlinear device is one that does not exhibit a direct proportionality between the input and output signals.
+What Is a Linear Device? A linear device is one that produces an output signal that is directly proportional to the input signal. This means that if the input signal is doubled, the output signal will also be doubled.</description>
+    </item>
+    
+    <item>
+      <title>Can Electronics Engineer Work As Electrical Engineer?</title>
+      <link>/electronics/can-electronics-engineer-work-as-electrical-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/can-electronics-engineer-work-as-electrical-engineer/</guid>
+      <description>No, an electronics engineer cannot work as an electrical engineer without additional education and training in the specific areas of electrical engineering.
+Because the two fields have different areas of focus and expertise, despite some overlap.
+Electronics engineering is a specialized field that deals with the design, development, and testing of electronic circuits, devices, and systems. It focuses on the principles of physics, mathematics, and engineering to design and develop electronic components and systems, such as microprocessors, microcontrollers, sensors, and circuit boards.</description>
+    </item>
+    
+    <item>
+      <title>What Are the Advantages of Digital Modulation Over Analog Modulation?</title>
+      <link>/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/</guid>
+      <description>Modulation is the process of modifying a carrier wave to encode information for transmission. The carrier wave is a high-frequency signal that is used to carry the information signal from the transmitter to the receiver.
+Without modulation, the information, or message signal would not be able to travel over long distances, as the message signal is often a low frequency signal.
+What Is an Analog Modulation? Analog modulation involves varying the amplitude, frequency, or phase of the carrier wave to encode the information signal.</description>
+    </item>
+    
+    <item>
+      <title>What Is Meant by the Term Impedance?</title>
+      <link>/electronics/what-is-meant-by-the-term-impedance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/what-is-meant-by-the-term-impedance/</guid>
+      <description>Impedance is a term used in electrical engineering to describes the opposition of a circuit or device to the flow of electrical current.
+It is a measure of the combined effects of resistance, capacitance, and inductance on the behavior of the circuit.
+In a DC system, the impedance of a component is equivalent to its resistance and is defined as the ratio of the voltage across the component to the current flowing through it.</description>
+    </item>
+    
+    <item>
+      <title>Why Can&#39;t We Use Capacitors Instead of Batteries?</title>
+      <link>/electronics/why-cant-we-use-capacitors-instead-of-batteries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/electronics/why-cant-we-use-capacitors-instead-of-batteries/</guid>
+      <description>The reason why capacitors cannot be used as a replacement for batteries is due to their limited energy storage duration, rapid voltage decay, and lower energy density.
+Nonetheless, capacitors do serve specific tasks and have their unique applications.
+This article will delve deeper into the reasons behind this limitation and explore the roles of capacitors and batteries in different scenarios.
+Table of Contents ↬What Are Capacitors and Their Functions? Reasons Why Capacitors Cannot Replace Batteries Capacitor Use Cases Battery Use Cases Capacitors and Batteries Working Together What about Super Capacitors or Ultra Capacitors?</description>
     </item>
     
   </channel>

@@ -6,9 +6,9 @@ media_folder: /static/images/
 public_folder: /images/
 
 collections:
-  - name: "networking"
-    label: "Networking and Communications"
-    folder: "content/networking"
+  - name: "financial stuffs"
+    label: "Financial Stuffs"
+    folder: "content/financial-stuffs"
     create: true
     slug: "{{fields.slug}}"
     editor:
@@ -26,20 +26,39 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
-          default: "Networking and Communication",
+          default: "Financial Stuffs",
         }
-
       - {
           label: "Categories",
           name: "categories",
           widget: "select",
-          options: ['["Networking and Communication"]'],
+          options: ['["Financial Stuffs"]'],
         }
       - {
           label: "Featured Image",
@@ -66,6 +85,413 @@ collections:
           label: "CategoryLink",
           name: "categorylink",
           widget: "select",
+          options: ["/categories/financial-stuffs"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+  - name: "product reviews and recommendations"
+    label: "Product Reviews & Recommendations"
+    folder: "content/product-reviews-and-recommendations"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LL",
+          picker_utc: false,
+        }
+      - { label: "Keywords", name: "keywords", widget: "list" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Product Reviews & Recommendations",
+        }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ['["Product Reviews and Recommendations"]'],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/product-reviews-recommendations"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+
+  - name: "engineering contents"
+    label: "Engineering Contents"
+    folder: "content/engineering-contents"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LL",
+          picker_utc: false,
+        }
+      - { label: "Keywords", name: "keywords", widget: "list" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Engineering Contents",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ['["Engineering Contents"]'],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/engineering-contents"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
+  - name: "networking"
+    label: "Networking and Communications"
+    folder: "content/networking"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LL",
+          picker_utc: false,
+        }
+      - { label: "Keywords", name: "keywords", widget: "list" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Networking and Communication",
+        }
+
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ['["Networking and Communication"]'],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
           options: ["/categories/networking-and-communication"],
         }
 
@@ -76,6 +502,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",
@@ -113,15 +569,34 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
           widget: "string",
           default: "Science Stuff",
         }
-
       - {
           label: "Categories",
           name: "categories",
@@ -165,6 +640,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -200,7 +705,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -223,7 +749,6 @@ collections:
           default: "/images/imgph.webp",
           media_library: { config: { multiple: true } },
         }
-
       - {
           label: "Weight",
           name: "weight",
@@ -234,7 +759,6 @@ collections:
           max: 1000,
           step: 2,
         }
-
       - {
           label: "CategoryLink",
           name: "categorylink",
@@ -249,6 +773,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",
@@ -286,7 +840,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -336,6 +911,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -371,7 +976,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -422,6 +1048,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -457,7 +1113,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -508,6 +1185,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -543,7 +1250,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -594,6 +1322,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -629,7 +1387,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -680,6 +1459,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -715,7 +1524,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -766,6 +1596,36 @@ collections:
           default: Mohammad Jamiu,
         }
       - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
           label: "Affliate Links",
           name: "Affliate_Links",
           widget: "boolean",
@@ -801,7 +1661,28 @@ collections:
           format: "LL",
           picker_utc: false,
         }
+      - { label: "Keywords", name: "keywords", widget: "list" }
       - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+            ],
+        }
       - {
           label: "CategoryLabel",
           name: "categorylabel",
@@ -850,6 +1731,36 @@ collections:
           name: "author",
           widget: "string",
           default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "",
+          required: false,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
         }
       - {
           label: "Affliate Links",

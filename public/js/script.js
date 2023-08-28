@@ -165,25 +165,64 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
   highlightDiv.removeChild(textArea);
 }
 
-// Google sheet + Abstractive text
 
-const scriptURL =
-  "https://script.google.com/macros/s/AKfycbwyQgYrdZqbNHDYRPZ8TDHyU7TQi34YN90sFKKTiURhusLFAFGMfhBZ3r_iIcJ5KFvc/exec";
-const form = document.forms["submit-to-google-sheet"];
-const msg = document.getElementById("msg");
-form.addEventListener("submit", (e) => {
-  e.preventDefault();
-  fetch(scriptURL, { method: "POST", body: new FormData(form) })
-    .then((response) => {
-      msg.innerHTML = "Thanks for Sharing Your Abstractions....";
-      setTimeout(function () {
-        msg.innerHTML = "";
-      }, 5000);
-      form.reset();
-    })
-    .catch((error) =>   {  msg.innerHTML = "Network Failed!";
-  setTimeout(function () {
-    msg.innerHTML = "";
-  }, 5000);
-  form.reset();});
+const codeElements = document.getElementsByTagName("code");
+
+// Iterate over the <code> elements
+for (let i = 0; i < codeElements.length; i++) {
+  const codeElement = codeElements[i];
+  const preElement = codeElement.parentElement; // Get the parent <pre> element
+
+  // Check if the <code> element is not nested within 'ul li' or 'p' and the "data-lang" attribute is missing or equal to "log"
+  if (
+    !codeElement.closest("ul li, p, h2, h1, h3, h4, h5, h6, ol li, table") &&
+    (!codeElement.hasAttribute("data-lang") ||
+      codeElement.getAttribute("data-lang") === "log")
+  ) {
+    // Add specific style to the <code> element
+    codeElement.style.backgroundColor = "#071c3d";
+    codeElement.style.padding = "1.5rem 1rem";
+    codeElement.style.display = "block";
+    codeElement.style.margin = "0.5rem 0";
+    codeElement.style.fontSize = "1.54rem";
+    codeElement.style.fontFamily = "Muli, sans-serif";
+    codeElement.style.fontWeight = "500";
+    codeElement.style.borderRadius = "0.6rem";
+    codeElement.style.color = "#fff";
+    codeElement.style.maxWidth = "80rem";
+
+    // Create a pseudo-element for ::before
+    const beforeElement = document.createElement("span");
+    beforeElement.classList.add("before-pseudo-element");
+
+    // Set the content and styles for the pseudo-element
+    beforeElement.textContent = `🡲`;
+    beforeElement.style.backgroundColor = "#0056b3";
+    beforeElement.style.padding = ".45rem .4rem";
+    beforeElement.style.borderRadius = ".4rem";
+    beforeElement.style.marginRight = "1rem";
+
+    // Insert the pseudo-element as the first child of the <code> element
+    codeElement.insertBefore(beforeElement, codeElement.firstChild);
+  }
+}
+// Get the computed value of the CSS variable
+const footerCodeColor = getComputedStyle(
+  document.documentElement
+).getPropertyValue("--footer-color-dark");
+
+// Select the <pre> elements containing the qualified <code> elements
+const qualifiedPreElements = Array.from(
+  document.querySelectorAll("pre > code")
+).map((codeElement) => codeElement.parentElement);
+
+// Apply styles to the qualified <pre> elements
+qualifiedPreElements.forEach((preElement) => {
+  preElement.style.overflowX = "auto";
+  preElement.style.overflowY = "hidden";
+  preElement.style.borderRadius = "0.3rem";
+  preElement.style.scrollbarColor = "rgb(7, 28, 61) #e2e2e2";
+  preElement.style.scrollbarWidth = "thin";
+  preElement.style.webkitOverflowScrolling = "touch";
+  preElement.style.backgroundColor = "rgb(7, 28, 61)";
 });
