@@ -14,7 +14,7 @@ weight: 3
 categorylink: /categories/electromagnetics/
 type: posts
 author: Mohammad Abdul
-mathjax: false
+mathjax: false 
 Google_Ads: true
 ---
 As an electrical engineering student, we all have that one course that frightens us and one of them is electromagnetic field theory, sometimes called engineering electromagnetic.
