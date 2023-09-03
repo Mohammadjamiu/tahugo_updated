@@ -1,6 +1,6 @@
 ---
 title: "Solved: Verify that the conduction current in the wire equals the
-  displacement current between the plates of the parallel plate capacitor"
+  displacement current ..."
 slug: verify that the conduction current in the wire equals the displacement
   current between the plates of the parallel plate capacitor
 postdate: August 30, 2023
@@ -27,25 +27,23 @@ Google_Ads: true
 
 Verify that the conduction current in the wire equals the displacement current between the plates of the parallel plate capacitor in Figure. 
 
-The voltage source supplies V = V.sin(VC).
+The voltage source supplies $V_c = V_o\sin\omega {t}$.
 
-## Answer:
+## Solution:
 
-The question is asking us to compare if the conduction current Ic and displacement current Id are equal. 
+The question is asking us to compare if the conduction current $I_c$ and the displacement current $I_d$ are equal. 
 
-hence we need to calculate for each.
+Thus, we need to calculate for each.
 
-**Conduction current (Ic) = ?**
+### **1. Conduction current (Ic) = ?**
 
 From the circuit, we can see that, the current flowing in the circuit is the same as the current passing through the capacitor.
 
 Hence, we can use $I_c = C\frac{\text{d}V_c}{\text{d}t}$. 
 
-Where:
+**Where:**
 
-**$C$** is capacitance of the capacitor. $C =\frac{ \epsilon A}{d}$
-
-
+$C$ is capacitance of the capacitor. $C =\frac{ \epsilon A}{d}$
 
 $V_c$ is the voltage across the capacitor, which is the same as the input voltage source $V_c = V_o\sin\omega{t}$.
 
@@ -55,7 +53,7 @@ If we differentiate the voltage, we have $I_c = C V_o \omega\cos\omega t$.
 
 Now let's find the displacement current $I_d$.
 
-**Displacement current $(I_d)$ = ?**
+### **2. Displacement current $(I_d)$ = ?**
 
 But $I_d = \int\int J_d \cdot ds$  (surface integral of displacement current density over a surface)
 
