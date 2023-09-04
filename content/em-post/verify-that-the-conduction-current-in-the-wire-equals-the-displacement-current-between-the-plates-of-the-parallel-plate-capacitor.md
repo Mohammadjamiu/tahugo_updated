@@ -1,15 +1,14 @@
 ---
 title: "Solved: Verify that the conduction current in the wire equals the
   displacement current ..."
-slug: verify that the conduction current in the wire equals the displacement
-  current between the plates of the parallel plate capacitor
+slug: verify that the conduction current in the wire equals the displacement current
 postdate: August 30, 2023
-description: Verify that the conduction current in the wire equals the
-  displacement current between the plates of the parallel plate capacitor in
-  Figure. The voltage source supplies V = V.sin(VC).
+description: "Here is asimple explanation to the problem: verify that the
+  conduction current in the wire equals the displacement current between the
+  plates of the parallel plate capacitor"
 categorylabel: Electromagnetics Stuff
 categories: '["Electromagnetics"]'
-image: /images/imgph.webp
+image: /images/whatsapp-image-2023-09-03-at-4.04.45-pm.webp
 weight: 358
 categorylink: /categories/electromagnetics/
 type: posts
@@ -19,15 +18,17 @@ author_credit_name: ""
 author_credit_info: ""
 author_credit_image: /images/imgph.webp
 Affliate_Links: false
-draft: true
+draft: false
 mathjax: true
 Google_Ads: true
 ---
 ## Question:
 
-Verify that the conduction current in the wire equals the displacement current between the plates of the parallel plate capacitor in Figure. 
+Verify that the conduction current in the wire equals the displacement current between the plates of the parallel plate capacitor in the figure below. 
 
 The voltage source supplies $V_c = V_o\sin\omega {t}$.
+
+![Verify that the conduction current in the wire equals the displacement current](/images/whatsapp-image-2023-09-03-at-4.04.45-pm.webp "Verify that the conduction current in the wire equals the displacement current")
 
 ## Solution:
 
@@ -61,7 +62,7 @@ This is also equal to the surface integral of $\int\int\frac{\partial D}{\partia
 
 **Where:**
 
-$D$ (electric flux density). It can also be expressed in terms of electric field intensity ($E$) as $D = \epsilon E$
+$D$ (is electric flux density). It can also be expressed in terms of electric field intensity ($E$) as $D = \epsilon E$
 
 Hence, $I_d = \int\int J_d \cdot ds = \int\int\frac{\partial D}{\partial t} \cdot ds$.
 
@@ -83,4 +84,6 @@ By substituting $A$, $I_d = A (\frac{\epsilon\cdot V_o}{d} \omega\cos\omega t)$
 
 Remember that $C = \frac{\epsilon A}{d}$
 
-Therefore, $I_d = C \omega\cos\omega t$
+Therefore, $I_d = C V_o\omega\cos\omega t$.
+
+> So in conclusion, by comparing $I_c$ and $I_d$, we can see that they are equal. i.e., $I_c = I_d = C V_o\omega\cos\omega t$.
