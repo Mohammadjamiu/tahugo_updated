@@ -58,6 +58,12 @@ In this article, we will guide you through the steps to stop or disable the auto
   ```json
   "update.mode": "none"
   ```
+* To access the JSON editor, click on the copy like button on the right-hand side.
+
+  ![json editor](/images/json-editor.webp "json editor")
+* Add the code to the JSON file right before the closing curly braces.
+
+  ![json add auto update](/images/json-add-auto-update.webp "json add auto update")
 
 ### **Step 4: Save Your Settings**
 
@@ -72,7 +78,7 @@ In this article, we will guide you through the steps to stop or disable the auto
 In addition to disabling auto-updates for VS Code itself, you might also want to prevent extensions from updating automatically. Here's how:
 
 * Open the Settings editor by pressing `Ctrl+,` (or `Cmd+,` on macOS).
-* Type “Extensions: Auto Update"
+* Type “Extensions: Auto Update”
 * Look for the “Extensions: Auto Update” check box.
 * Clear the checkbox to opt out of automatic extension updates.
 
@@ -85,6 +91,8 @@ In addition to disabling auto-updates for VS Code itself, you might also want to
   ```json
   "extensions.autoUpdate": false
   ```
+
+  ![json add extension update](/images/json-extension-update.webp "json add extension update")
 
 By following these steps, you can ensure that both your VS Code and its extensions will no longer update automatically, giving you full control over your development environment.
 
