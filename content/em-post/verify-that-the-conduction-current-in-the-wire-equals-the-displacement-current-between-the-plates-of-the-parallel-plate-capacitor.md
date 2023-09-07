@@ -76,7 +76,9 @@ Therefore, $I_d = \int\int\frac{\partial D}{\partial t} \cdot ds$.
 
 $\frac{\partial D}{\partial t} =  \frac{\epsilon\cdot V_o}{d} \omega\cos\omega t$
 
-$I_d = \int\int(\frac{\epsilon\cdot V_o}{d} \omega\cos\omega t) \cdot ds = \int\int ds (\frac{\epsilon\cdot V_o}{d} \omega\cos\omega t) $.
+$I_d = \int\int(\frac{\epsilon\cdot V_o}{d} \omega\cos\omega t) \cdot ds $
+
+$= \int\int ds (\frac{\epsilon\cdot V_o}{d} \omega\cos\omega t) $.
 
 $\int\int ds$ = Area of the surface $(A)$
 
