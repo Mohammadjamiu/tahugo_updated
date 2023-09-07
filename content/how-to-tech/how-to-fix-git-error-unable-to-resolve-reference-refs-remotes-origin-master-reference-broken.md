@@ -15,7 +15,7 @@ tags:
   - how to
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
-image: /images/git unable to resolve.webp
+image: /images/git-unable-to-resolve.webp
 weight: 362
 categorylink: /categories/how-to-tech
 type: posts
