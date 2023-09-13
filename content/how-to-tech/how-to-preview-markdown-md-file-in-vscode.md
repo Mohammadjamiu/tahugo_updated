@@ -34,10 +34,14 @@ A preview window will open showing the rendered version of your Markdown file.
 
 ![preview pane](/images/preview-pane-enabled.webp)
 
-You can scroll through the preview window to see how your Markdown file looks in HTML. So when you make changes in the markdown file it will display in the preview panel, but if not then just close and open again.
+You can scroll through the preview window to see how your Markdown file looks in HTML. 
+
+So when you make changes in the markdown file it will display in the preview panel, but if not then just close and open again.
 
 3. You can close the preview pane by clicking on the \[X]. 
 
 >  **Note:**
 >
-> VSCode's preview window  may not display your markup exactly as it is rendered in the browser. If you want to make sure your Markdown file is formatted correctly, it's a good idea to test it in a browser as well.
+> VSCode's preview window  may not display your markup exactly as it is rendered in the browser. 
+>
+> If you want to make sure your Markdown file is formatted correctly, it's a good idea to test it in a browser as well.

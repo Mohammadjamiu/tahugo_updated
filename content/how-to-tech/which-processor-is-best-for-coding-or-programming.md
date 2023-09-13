@@ -46,7 +46,9 @@ The Intel Core i5 processor is a popular choice for coding and programming tasks
 
 ![core i5](/images/intel-i5-core-2-.webp "core i5")
 
-With its powerful cores, the Core i5 can handle complex applications efficiently. It is a reliable choice for coders who work with standard coding languages and tools.
+With its powerful cores, the Core i5 can handle complex applications efficiently. 
+
+It is a reliable choice for coders who work with standard coding languages and tools.
 
 ## **2. Intel Core i7**
 
@@ -96,9 +98,15 @@ When choosing the best processor for coding or programming, it's essential to co
 
 Here are some factors to keep in mind:
 
-* **Task requirements:** Evaluate the complexity and resource requirements of your coding tasks. Different programming languages, frameworks, and development environments may have varying demands.
-* **Budget:** Consider your budget and find a processor that offers the best performance within your price range. Balance your requirements with the cost of the processor.
-* **Multithreading:** If you work on tasks that can benefit from parallel processing, consider processors with more cores and threads. This allows for better multitasking and improved performance.
+* **Task requirements:** Evaluate the complexity and resource requirements of your coding tasks. \
+  \
+  Different programming languages, frameworks, and development environments may have varying demands.
+* **Budget:** Consider your budget and find a processor that offers the best performance within your price range. \
+  \
+  Balance your requirements with the cost of the processor.
+* **Multithreading:** If you work on tasks that can benefit from parallel processing, consider processors with more cores and threads. \
+  \
+  This allows for better multitasking and improved performance.
 * **Future-proofing:** Anticipate your future coding needs. Investing in a processor with higher performance capabilities can ensure your computer remains capable of handling upcoming coding advancements.
 * **Operating System:** Different processors may have varying levels of compatibility and optimization for different operating systems. \
   \
