@@ -29,7 +29,9 @@ Open the Markdown file you want to preview in VSCode.
 
 ### **Step 2:**
 
-Click  the “Preview” icon in the upper right corner of the editor window. Alternatively,  press **“Ctrl + Shift + V”** on Windows or **“Cmd + Shift + V”** on Mac to open the preview window. 
+Click  the “Preview” icon in the upper right corner of the editor window. 
+
+Alternatively,  press **“Ctrl + Shift + V”** on Windows or **“Cmd + Shift + V”** on Mac to open the preview window. 
 
 ![md preview icon](/images/md-preview-pane.webp "md preview icon")
 

@@ -1,12 +1,25 @@
 
 
+**Important Notes**:
+1. Please read the terms and conditions carefully.
+2. Contact our support team for any inquiries.
 
- Lorem ipsum 
+**Important Notes**:
+1. Please read the terms and conditions carefully.
+2. Contact our support team for any inquiries.
 
- Lorem ipsum 
 
- LOREM IPSUM
 
- lorem ipsum
+
+
+
+
+Lorem ipsum 
+
+Loremipsum 
+
+LOREM IPSUM
+
+lorem ipsum
 
 
