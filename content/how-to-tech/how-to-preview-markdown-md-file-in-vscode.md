@@ -19,26 +19,33 @@ Google_Ads: true
 
 It can be easily managed with version control systems, integrated with other tools and platforms, and helps maintain consistency in formatting. A markdown file ends with (.md) extension.
 
-## How to Preview Markdown(.md) File in Visual Studio Code
+## **Steps on How to Preview Markdown(.md) File in Visual Studio Code**
 
 To preview Markdown files in Visual Studio Code (VSCode),  here are the steps you can follow: 
 
-1. Open the Markdown file you want to preview in VSCode. 
-2. Click  the “Preview” icon in the upper right corner of the editor window. Alternatively,  press **“Ctrl + Shift + V”** on Windows or **“Cmd + Shift + V”** on Mac to open the preview window. 
+### **Step 1:**
 
-![md preview icon](/images/md-preview-pane.webp)
+Open the Markdown file you want to preview in VSCode. 
+
+### **Step 2:**
+
+Click  the “Preview” icon in the upper right corner of the editor window. Alternatively,  press **“Ctrl + Shift + V”** on Windows or **“Cmd + Shift + V”** on Mac to open the preview window. 
+
+![md preview icon](/images/md-preview-pane.webp "md preview icon")
 
 A preview window will open showing the rendered version of your Markdown file.
 
 > If you use the "preview" icon then the preview pane will appear side by side with the markdown file but if you use **"Ctrl + Shift + V" (on Windows) or "Cmd + Shift + V"** (on Mac), it will open the preview pane in a new window as oppose to side by side.
 
-![preview pane](/images/preview-pane-enabled.webp)
+![preview pane](/images/preview-pane-enabled.webp "preview pane")
 
 You can scroll through the preview window to see how your Markdown file looks in HTML. 
 
 So when you make changes in the markdown file it will display in the preview panel, but if not then just close and open again.
 
-3. You can close the preview pane by clicking on the \[X]. 
+### **Step 3:**
+
+You can close the preview pane by clicking on the **\[X]**. 
 
 >  **Note:**
 >
