@@ -25,11 +25,11 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-When working on a front-end application, encountering the `npm ERR! code EINTEGRITY` error can be frustrating. 
+When working on a frontend application, encountering the `npm ERR! code EINTEGRITY` error can be frustrating. 
 
 This error occurs during or after an `npm install` command and indicates that there is a mismatch between the expected and actual integrity checksum of a package during installation. 
 
-In this article, we will look at the causes of this error and provide step-by-step solutions to resolve it.
+In this article, we will look at the causes of this error and how you can resolve it.
 
 {{< table-of-contents >}}
 
@@ -67,6 +67,8 @@ Poor connectivity can lead to incomplete or corrupted package downloads, trigger
 Navigate to your project directory and delete both the `node_modules` folder and the `package-lock.json` file if they exist. 
 
 These files may contain outdated or conflicting data.
+
+**Read on:** [How to Delete Node Modules in VSCode?](/how-to-tech/how-to-delete-node-modules-in-vscode/)
 
 ### Step 4: Use the `--no-cache` Flag
 
@@ -108,11 +110,9 @@ Verify your proxy settings and ensure they are correctly configured.
 >
 > The proxy server then forwards those requests to the internet and returns the responses to your computer.
 
-
-
 ## **Wrap Up**
 
-The `npm ERR! code EINTEGRITY` error can be frustrating, but by following these steps, you can resolve it effectively. 
+The `npm ERR! code EINTEGRITY` error can be frustrating, but by following these steps, you can resolve it. 
 
 Start by clearing the npm cache and ensuring good internet connectivity. 
 

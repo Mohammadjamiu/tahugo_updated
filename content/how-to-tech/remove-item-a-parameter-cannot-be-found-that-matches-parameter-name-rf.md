@@ -46,21 +46,13 @@ However, PowerShell does not support the `-rf` flags like Unix-based terminals (
 
 In this article, we will look at how to fix this error.
 
-## **Why does PowerShell not support the `-rf` flags?**
+## **How to fix the “Remove-Item : A parameter cannot be found that matches parameter name 'rf'” error**
 
-The `rm` command is a Unix-based command that is used to remove directories and files. 
+To fix the `Remove-Item : A parameter cannot be found that matches parameter name 'rf'` error, you need to use the `Remove-Item` cmdlet (as a replacement for `rm`) with the `-Recurse` and `-Force` parameters (as a replacement for `-rf`).
 
-The `-r` flag tells the command to remove the directory and all of its contents recursively, and the `-f` flag tells the command to force the removal without asking for confirmation.
+The `Remove-Item` is used to remove directories and files.
 
-PowerShell is a Windows-based scripting language and does not support the Unix-based `rm` command. 
-
-However, PowerShell does have a similar command called `Remove-Item` that can be used to remove directories and files.
-
-## **How to fix the `Remove-Item : A parameter cannot be found that matches parameter name 'rf'` error**
-
-To fix the `Remove-Item : A parameter cannot be found that matches parameter name 'rf'` error, you need to use the `Remove-Item` cmdlet with the `-Recurse` and `-Force` parameters.
-
-The `-Recurse` parameter, as said above, tells the command to remove the directory and all of its contents recursively, and the `-Force` parameter tells the command to force the removal without asking for confirmation.
+The `-Recurse` parameter, tells the command to remove the directory and all of its contents recursively, and the `-Force` parameter tells the command to force the removal without asking for confirmation.
 
 Here's the correct syntax:
 
@@ -70,7 +62,7 @@ Remove-Item -Path "directory_or_file_path" -Recurse -Force
 
 Replace `directory_or_file_path` with the path to the directory or file that you want to remove.
 
-**Example:**
+**For Example:**
 
 The following example shows how to use the `Remove-Item` cmdlet with the `-Recurse` and `-Force` parameters to recursively remove the `node_modules` directory:
 

@@ -39,12 +39,13 @@ There are a few reasons why you might want to clear the npm cache:
 * **Troubleshooting**: If you encounter strange errors during package installation or updates, clearing the cache can often resolve these issues. \
   \
   Cached files can become corrupted or outdated, leading to unexpected problems.
-* **Cache Integrity:** Ensuring the integrity of the cache is paramount. Running the verification command helps identify and remove corrupted files, maintaining a healthy cache.\
-  \
-  If you encounter an error like this – ⁣`npm ERR! code EINTEGRITY`, you can read on how to fix it: [How to Fix npm Installation Error: npm ERR! code EINTEGRITY?](/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/)
 * **Freeing Up Disk Space:** The npm cache can accumulate a substantial amount of disk space over time. \
   \
   Clearing it periodically can help reclaim valuable storage.
+
+> PS: 
+>
+> If you encounter an error like this – ⁣`npm ERR! code EINTEGRITY`, you can read on how to fix it: [How to Fix npm Installation Error: npm ERR! code EINTEGRITY?](/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/)
 
 ## **Steps on How to Clear npm Cache?**
 
@@ -58,13 +59,9 @@ This command checks for corrupted files and ensures the cache is in a healthy st
 
 > In order words, it helps to verify the cache's integrity and reports whether any files needs repair.
 
-
-
 ```shell
 npm cache verify
 ```
-
-
 
 ![npm cache verify command](/images/npm-cache-verify.webp "npm cache verify command")
 
