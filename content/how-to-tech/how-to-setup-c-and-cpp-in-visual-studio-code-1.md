@@ -21,13 +21,13 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-Are you trying to learn C and C++ programming using Visual Studio Code, or are you experiencing issues during the installation process? 
+Are you trying to learn C or C++ programming using Visual Studio Code, or are you experiencing issues during the installation process? 
 
-In this guide, we will walk you through the step-by-step process of installing the MinGW compiler and running C and C++ programs in Visual Studio Code.
+In this guide, we will walk you through the step-by-step process of installing the "MinGW" compiler and running C and C++ programs in Visual Studio Code.
 
 {{< table-of-contents >}}
 
-## **Here are the steps on how to set up C/C++ in Visual Studio Code:**
+## **Steps on how to set up C/C++ in Visual Studio Code:**
 
 ### **1/ Download MinGW**
 
@@ -85,13 +85,13 @@ After the installation of the selected packages is finished, follow these steps:
    ![open the mingw folder in windows](/images/open-mingw-folder-in-c-drive-five.webp "open the mingw folder in windows")
 
    ![open the bin folder in the mingw folder](/images/open-bin-folder-ten.webp "open the bin folder in the mingw folder")
+3. Copy the file path for the “bin” folder.
 
    ![copy file path for bin](/images/click-on-path-and-copy-bin.webp "copy file path for bin")
-3. Copy the file path for the “bin” folder.
 
 ### **5/ Configure Environment Variables**
 
-To ensure that Visual Studio Code can access MinGW, you need to add the MinGW “bin” folder to your system's PATH environment variable:
+To ensure that Visual Studio Code can access MinGW, you need to add the MinGW “bin” folder path to your system's PATH environment variable:
 
 1. In the Windows search bar, type “environment” and then click on “Edit the system environment variables.”
 
@@ -130,7 +130,18 @@ Now that you have set up MinGW and configured your environment, it's time to cre
 1. Open Visual Studio Code.
 2. Create a new “C” file and add a simple “Hello, World!” code.
 
-   ![create c file and install code runner extension](/images/code-runner-extension.webp "create c file and install code runner extension")
+   ![create c file and simple c code](/images/simple-c-hello-world-code.webp "create c file and simple c code")
+
+   ```c
+   #include <stdio.h>
+
+   int main(){
+
+       printf("Hello world!");
+
+       return 0;
+   }
+   ```
 
 ### **8/ Install the Code Runner Extension**
 
@@ -138,6 +149,8 @@ For an even smoother coding experience, consider installing the “Code Runner�
 
 1. Go to the Visual Studio Code extensions marketplace.
 2. Search for “Code Runner” and click “Install.”
+
+   ![create c file and install code runner extension](/images/code-runner-extension.webp "create c file and install code runner extension")
 3. After successful installation, open your C file and click on the “Run” button above it.
 
 ![code runner installed](/images/code-runner-installed-.webp "code runner installed")
@@ -146,7 +159,9 @@ For an even smoother coding experience, consider installing the “Code Runner�
 
 ### **Troubleshooting :warning:**
 
-If you encounter any issues while running your code and the output is not as expected, you can use the terminal within Visual Studio Code:
+If you encounter any issues while running your code and the output is not as expected, try restarting VSCode. 
+
+Also, if the code runs but is not showing any output, you can use the terminal within Visual Studio Code:
 
 1. In the terminal, type the following command, replacing `<file-name-with-extension>` and `<file-name-without-extension>` with your file names:
 
@@ -164,7 +179,11 @@ If you encounter any issues while running your code and the output is not as exp
 ```powershell
 gcc app.c -o app
 ./app
+
+
 ```
+
+"app.c" is the filename with `.c` extension.
 
 ![if the ouput keeps running with no output](/images/gcc-file-name-if-code-runner-not-work.webp "if the ouput keeps running with no output")
 
