@@ -23,11 +23,14 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-In today's information age, access to research papers is crucial for academic and professional growth. 
 
-However, many research papers, especially those published in IEEE (Institute of Electrical and Electronics Engineers) journals and conferences, often come with subscription that requires one to pay. 
+It's quite obvious that in today's information age, access to research papers is crucial for academic and professional success and growth.
 
-But what if you could access and download these valuable resources for free? In this article, we will look at how to download IEEE research papers for free.
+However, many research papers, especially those published in IEEE (Institute of Electrical and Electronics Engineers) journals and conferences, often come with subscription that requires one to pay.
+
+But what if you could access and download these valuable resources for free?
+
+In this article, we will look at how to download IEEE research papers for free.
 
 {{< table-of-contents >}}
 
@@ -35,19 +38,21 @@ But what if you could access and download these valuable resources for free? In 
 
 ### Step 1: Visit the IEEE Explore Site Library
 
-To kick-start your journey to accessing IEEE research papers for free, the first step is to visit the [IEEE Explore Site](https://ieeexplore.ieee.org/Xplore/home.jsp) Library. 
+To kick-start your journey to accessing IEEE research papers for free, the first step is to visit the [IEEE Explore Site](https://ieeexplore.ieee.org/Xplore/home.jsp) Library.
 
 ![ieee xplore site](/images/ieee-one.webp "ieee xplore site")
 
 ### Step 2: Search for the Paper Name
 
-Once you're on the IEEE Explore site, use the search bar to look for the paper you're interested in. 
+Once you're on the IEEE Explore site, use the search bar to look for the paper you're interested in.
 
-You can search by the paper's title, keywords, or the author's name. The more specific your search query, the easier it will be to locate your desired paper.
+You can search by the paper's title, keywords, or the author's name.
+
+The more specific your search query, the easier it will be to locate your desired paper.
 
 ### Step 3: Locate the DOI Section
 
-After finding the paper you need, open it and scroll down to locate the DOI (Digital Object Identifier) section. 
+After finding the paper you need, open it and scroll down to locate the DOI (Digital Object Identifier) section.
 
 ![ieee paper open](/images/ieee-new-one.webp "ieee paper open")
 
@@ -55,7 +60,7 @@ After finding the paper you need, open it and scroll down to locate the DOI (Dig
 
 > :warning:
 >
-> Access needed to download the paper.
+> As you can see, access is needed to download the paper - but don't worry we are going to get it for free.
 
 The DOI is a unique alphanumeric code assigned to each academic paper, making it easy to access the paper online.
 
@@ -71,9 +76,11 @@ Now that you've found the DOI, highlight and copy the code.
 
 ### Step 4: Visit Sci-Hub
 
-To access the IEEE research paper for free, you'll need to head over to [Sci-Hub](https://sci-hub.se/). 
+To access the IEEE research paper for free, you'll need to head over to [Sci-Hub](https://sci-hub.se/).
 
 Sci-Hub is a platform that provides free access to millions of research papers, bypassing paywalls and subscription requirements.
+
+It allows one to download not only IEEE research papers for free but also research papers from Wiley, ScienceDirect, Springer and others.
 
 ![sci hub site](/images/sci-hub-patste-doi.webp "sci hub site")
 
@@ -81,21 +88,23 @@ Sci-Hub is a platform that provides free access to millions of research papers, 
 
 Once you're on Sci-Hub's website, you'll find an available box.
 
-Paste the DOI code you copied from the IEEE Explore site library into this box. Then, click the “Open” button.
+Paste the DOI code you copied from the IEEE Explore site library into this box.
+
+Then, click the “Open” button.
 
 ### Step 6: Access and Download the Paper
 
-To download the paper, simply click on the “Save” button located on the left side of the screen. 
+To download the paper, simply click on the “Save” button located on the left side of the screen.
 
 ![download ieee paper on sci hub](/images/sci-hub-download.webp "download ieee paper on sci hub")
 
 This will initiate the download process, and you'll have the paper in your possession in no time.
 
-> :warning: 
+> :warning:
 >
-> While Sci-Hub provides access to research papers without a fee, it's important to be aware of the ethical considerations surrounding this practice. 
+> While Sci-Hub provides access to research papers without a fee, it's important to be aware of the ethical considerations surrounding this practice.
 >
-> Researchers and institutions rely on subscription fees to support their work. 
+> Researchers and institutions rely on subscription fees to support their work.
 >
 > If you find a paper particularly useful, consider supporting the authors and journals through legal means.
 
