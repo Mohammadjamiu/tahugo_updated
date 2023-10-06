@@ -37,11 +37,6 @@ status = 200
 [build.environment]
     TZ = "Africa/Lagos"
 
-[[redirects]]
-    from = "/*"
-    to = "/404.html"
-    status = 404
-
 
 [[plugins]]
   package = "@netlify/plugin-sitemap"
