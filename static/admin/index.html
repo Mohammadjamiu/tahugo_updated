@@ -100,6 +100,33 @@
         },
       });
     </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "custom-placeholder",
+        label: "Image Extra Info",
+        fields: [
+          {
+            name: "placeholder",
+            label: "Placeholder Text",
+            widget: "string",
+            default: "placeholder", // Set your desired default text here
+          },
+        ],
+        pattern:
+          /^<small style='display: block; text-align: center;'>{{placeholder}}<\/small>$/,
+        fromBlock: function (match) {
+          return {
+            placeholder: match[1], // Capture the text inside the placeholder
+          };
+        },
+        toBlock: function (obj) {
+          return `<small style='display: block; text-align: center;'>${obj.placeholder}</small>`;
+        },
+        toPreview: function (obj) {
+          return `<small style='display: block; text-align: center;'>${obj.placeholder}</small>`;
+        },
+      });
+    </script>
 
     <!-- <script src="https://sharadcodes.github.io/hugo-shortcodes-netlify-cms/dist/hugo_shortcodes_netlify_cms.js"></script> -->
   </body>
