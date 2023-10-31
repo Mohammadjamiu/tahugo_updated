@@ -25,7 +25,8 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-Are you tired of the default VS Code terminal that's tucked away at the bottom of your screen? Do you want to open it in a new window, giving you more workspace and flexibility for your coding projects? 
+
+Are you tired of the default VS Code terminal that's tucked away at the bottom of your screen? Do you want to open it in a new window, giving you more workspace and flexibility for your coding projects?
 
 In this guide, we'll look at the steps you can follow to open the VS Code terminal in a separate window, making your coding experience more efficient and enjoyable.
 
@@ -35,7 +36,7 @@ In this guide, we'll look at the steps you can follow to open the VS Code termin
 
 ### Step 1: Open the File
 
-First, open the file you want to work on. In our example, we're working on a C program. 
+First, open the file you want to work on. In our example, we're working on a C program.
 
 ![terminal attached to windows](/images/terminal-attached.webp "terminal attached to windows")
 
@@ -43,7 +44,7 @@ Instead of launching the terminal through the View menu and having it appear at 
 
 ### Step 2: Create a New Window
 
-Right-click on the “File” menu or use the keyboard shortcut “Ctrl+Shift+N” to create a new separate window. 
+Right-click on the “File” menu or use the keyboard shortcut “Ctrl+Shift+N” to create a new separate window.
 
 ![create new window](/images/create-new-windows.webp "create new window")
 
@@ -53,7 +54,7 @@ This new window will be where your terminal will reside, giving you more flexibi
 
 ### Step 3: Launch the Terminal
 
-Once the new window appears, navigate to the “View” menu and choose the “Terminal” option, or use the shortcut “Ctrl+`” (backtick). 
+Once the new window appears, navigate to the “View” menu and choose the “Terminal” option, or use the shortcut “Ctrl+`” (backtick).
 
 ![launch terminal](/images/terminal-in-the-new-window.webp "launch terminal")
 
@@ -65,9 +66,9 @@ This will open the terminal as usual, but now it's in your new window.
 
 ### Step 4: Navigate to Your Workspace
 
-To make sure the terminal has access to the folder or file you are working on—on the old window, you'll need to navigate to the appropriate path. 
+To make sure the terminal has access to the folder or file you are working on in the old window, you'll need to navigate to the appropriate path.
 
-If you're using Windows, you can use the `cd <folder_name>` command to enter any folder you need or the file you are working on. 
+If you're using Windows, you can use the `cd <folder_name>` command to enter any folder you need or the file you are working on.
 
 ![navigating to workspace](/images/new-terminal.webp "navigating to workspace")
 
