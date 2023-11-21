@@ -55,7 +55,7 @@ Signaling data is used to establish and manage communication links between the M
 
 The normal burst consists of two tail bits, two encrypted or information bits, a training sequence and a guard period.
 
-### **Structure of normal burst:**
+#### **Structure of normal burst:**
 
 * **Tail Bits (3 bits):** These three bits are used to terminate the convolutional encoding process, ensuring that the decoder can correctly interpret the encoded data.
 * **Encrypted Bits (58 bits):** These 58 bits are used to carry encrypted user data or signaling information. They are divided into two sections:
@@ -77,10 +77,10 @@ Frequency offset arises from variations in the carrier frequencies used by the M
 
 ![frequency correction burst structure](/images/fcb-and-sburst_1.webp "frequency correction burst structure")
 
-### **Structure of frequency correction burst:**
+#### **Structure of frequency correction burst:**
 
 * **Tail bits (3):** It consists of two tail bits.
-* **Fixed bits sequence (142):** It consist of a fixed information bits which consist of 142 bits.
+* **Fixed bits sequence (142):** It consists of a fixed information bits which consist of 142 bits.
 * **Guard period (8.25):** for avoiding overlap.
 
 ### **Synchronization Burst (SB)**
@@ -91,12 +91,12 @@ Synchronization is important for maintaining the integrity of data transmission 
 
 ![synchronization burst structure](/images/fcb-and-sburst_2.webp "synchronization burst structure")
 
-### **Structure of synchronization burst:**
+#### **Structure of synchronization burst:**
 
 It consists of:
 
 * **Tail bits (3)**
-* **Sync bits (39):** There are two sync bits each with 39 bits for synchronization.
+* **Sync bits (39):** There are two sync bits, each with 39 bits for synchronization.
 * **Extended training sequence (64)**
 * **Guard period (8.25)**
 
@@ -104,7 +104,7 @@ It consists of:
 
 Used to fill in unused time slots on the TDMA frame, preventing interference from other users. 
 
-When no data needs to be transmitted, DBs are inserted to maintain the TDMA structure and prevent other MSs from using those time slots. 
+When no data needs to be transmitted, DBs are inserted to maintain the TDMA structure and prevent other MS's from using those time slots. 
 
 ![dummy burst structure](/images/dummy-burst_1.webp "dummy burst structure")
 
@@ -114,7 +114,7 @@ DBs are 0.577 milliseconds long just as the normal burst and contain no data.
 >
 > Dummy burst looks like a normal burst but doesnot carry information.
 
-### **Structure of dummy burst:**
+#### **Structure of dummy burst:**
 
 It consists of:
 
@@ -138,16 +138,16 @@ Access burst is used by RACH (Random access grant channel) and AGCH (Access gran
 >
 > **AGCH** is used by the network to grant access to devices or mobile stations.
 
-### **Structure of access burst:**
+#### **Structure of access burst:**
 
 It consists of:
 
-* **Tail Bits (8 bits) and (3 bits):** The first tail bits contains 8 bits and it is called *extended tail bits*, while the ending tail bits consist of 3 bits.
+* **Tail Bits (8 bits) and (3 bits):** The first tail bits contain 8 bits, and it is called *extended tail bits*, while the ending tail bits consist of 3 bits.
 * **Sync Sequence (41 bits)**
-* **Encrypted or information bits (36 bit)**
+* **Encrypted or information bits (36 bits)**
 * **Guard Period (68.25 bits)**
 
-They have longer guard period to account for the fact that the mobile station and the base station doesnot have time-advance information.
+They have longer guard period to account for the fact that the mobile station and the base station does not have time-advance information.
 
 ## **Wrap Up**
 
