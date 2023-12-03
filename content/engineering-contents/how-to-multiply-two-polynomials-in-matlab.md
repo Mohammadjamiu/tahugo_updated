@@ -34,15 +34,15 @@ Before looking into how to use MATLAB to multiply polynomials together, let's br
 
 Given two polynomials:
 
-$ P(x) = a\_n x^n + a\_{n-1} x^{n-1} + \ldots + a\_1x + a\_0 $
+$ P(x) = a\_n x^n + a\_{n-1} x^{n-1} + \ldots + a_1x + a_0 $
 
-$Q(x) = b\_m x^m + b\_{m-1} x^{m-1} + \ldots + b\_1 x + b\_0$
+$Q(x) = b\_m x^m + b\_{m-1} x^{m-1} + \ldots + b_1 x + b_0$
 
 The product of $P(x)$ and $Q(x)$, denoted as $ P(x) \cdot Q(x) $, is calculated by multiplying each term of the first polynomial by each term of the second polynomial and summing the results. 
 
 In mathematical terms, the product is:
 
-$P(x) \cdot Q(x) = \sum\_{i=0}^{n} \sum\_{j=0}^{m} a\_i b\_j x^{i+j}$
+$P(x) \cdot Q(x) = \sum\_{i=0}^{n} \sum\_{j=0}^{m} a_i b_j x^{i+j}$
 
 ## **How to use MATLAB `conv()` Function to Multiply Polynomials?**
 
@@ -75,7 +75,7 @@ $P(x) = 1x^2 + 2x + 3 $
 
 $Q(x) = 4x^2 + 5x + 6 $
 
-If you want to multiply the two polynomials together, the MATLAB code is:
+If you want to multiply these two polynomials together, the MATLAB code is:
 
 ```matlab
 % Define the coefficients of the first polynomial
