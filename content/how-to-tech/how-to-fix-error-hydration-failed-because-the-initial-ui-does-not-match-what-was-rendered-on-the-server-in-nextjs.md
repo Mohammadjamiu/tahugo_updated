@@ -1,12 +1,15 @@
 ---
 title: How to fix error hydration failed because the initial UI does not match
-  what was rendered on the server in next JS?
+  what was rendered on the server in nextJS?
 slug: how to fix error hydration failed because the initial ui does not match
   what was rendered on the server in nextjs
 postdate: November 29, 2023
 keywords:
-  - How to fix error hydration failed because the initial UI does not match what
-    was rendered on the server in next JS?
+  - How to fix hydration error
+  - hydration
+  - failed
+  - initial UI does not match
+  - what was rendered on the server in nextJS
 description: Check your JSX/TSX files for incorrect HTML nesting, address issues
   with the Next.js Link component, and consider external factors like browser
   extensions or third-party libraries.
