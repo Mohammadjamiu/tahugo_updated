@@ -18,9 +18,15 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-**Digital systems** are electronic systems that use digital signals composed of binary digits or “bits” (0s and 1s) to process and manipulate information. They are made up of various components, including input devices, processing units, memory, output devices, and communication channels, that work together to perform various tasks. 
+## **What are digital systems?**
 
-**Digital systems** have become an integral part of our daily lives, and there are countless examples of their applications in various fields. Some popular examples of digital systems in daily life include:
+**Digital systems** are electronic systems that use digital signals composed of binary digits or “bits” (0s and 1s) to process and manipulate information. 
+
+They are made up of various components, including input devices, processing units, memory, output devices, and communication channels, that work together to perform various tasks. 
+
+Digital systems have become an integral part of our daily lives, and there are countless examples of their applications in various fields. 
+
+Some popular examples of digital systems in daily life include:
 
 * Electric stoves, pressure cookers, and tea/coffee machines: These are kitchen appliances that use digital controls to operate.
 * Traffic lights: These are systems used to control traffic flow at intersections and other locations.

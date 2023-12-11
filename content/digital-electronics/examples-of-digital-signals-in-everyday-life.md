@@ -19,11 +19,15 @@ Google_Ads: true
 ---
 ![](/images/networks-installment.webp)
 
+## **What is a Digital Signal?**
+
 **A digital signal** is a type of signal that represents data as a series of binary digits or “bits” (0s and 1s) for short. In contrast, an analog signal represents data as a continuous wave. 
 
 Digital signals are used in many electronic devices, such as computers, smartphones, and televisions, to transmit and process information. 
 
-For example, when you send a text message, the message is converted into a digital signal that is transmitted over the internet or cellular network. When you watch a video on a computer, the video is made up of a series of digital signals that are converted into images and sound.
+For example, when you send a text message, the message is converted into a digital signal that is transmitted over the internet or cellular network. 
+
+When you watch a video on a computer, the video is made up of a series of digital signals that are converted into images and sound.
 
 ## Examples of Digital Signals in Everyday Life
 
