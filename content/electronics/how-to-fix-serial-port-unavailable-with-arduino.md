@@ -1,5 +1,5 @@
 ---
-title: How to fix “Serial port unavailable” with Arduino
+title: How to fix “Serial port unavailable” (Arduino)?
 slug: how to fix serial port unavailable with arduino
 postdate: December 17, 2023
 keywords:
