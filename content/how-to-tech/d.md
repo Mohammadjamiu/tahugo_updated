@@ -37,7 +37,19 @@ There could be several reasons why you're experiencing difficulties with WhatsAp
 
 Having knowledge of these potential causes can help you identify the specific issue and apply the appropriate solution. 
 
-The following are common factors that may prevent WhatsApp from installing:
+The following are common factors that may prevent WhatsApp from installing, but at first, take note:
+
+> :warning: 
+>
+> If you have a third party WhatsApp install like GBWhatsApp, make sure to uninstall it.
+
+
+
+> :bulb:
+>
+> * Another thing to note is that after going through the list of troubleshooting tips that will be discussed below, and probably nothing is working, try downloading WhatsApp from an online site like — [ApkPure](https://m.apkpure.com/whatsapp-android/com.whatsapp).
+> * After downloading, do not install straight away, make sure to locate the file in your file manager and then rename the WhatsApp file name to something short — because, most time the name that comes with WhatsApp downloaded online is long and suffixed with some words.
+> * Then try to install  — Good luck to see your WhatsApp working right. 
 
 ### **1. Insufficient Storage Space**
 
