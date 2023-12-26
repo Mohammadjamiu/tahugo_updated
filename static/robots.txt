@@ -2,4 +2,5 @@ User-agent: *
 Disallow: /tags/
 Disallow: /categories/
 Disallow: /admin/
+Sitemap: https://tooabstractive.com/sitemap.xml
 
