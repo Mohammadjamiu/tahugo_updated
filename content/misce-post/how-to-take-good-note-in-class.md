@@ -2,7 +2,7 @@
 draft: false
 wordcount: false
 alt: ""
-title: How to Take Good Note in Class
+title: Most Effective Ways to Take Notes in Class
 postdate: April 04, 2022
 description: "Taking good notes in class can not only enhance your study
   performance but also increase your academic points "
@@ -10,7 +10,7 @@ tags:
   - study tips
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
-image: ""
+image: /images/studentessay.webp
 weight: "49"
 categorylink: /categories/productivity-and-writings
 type: posts
@@ -18,52 +18,110 @@ author: Mohammad Jamiu
 mathjax: false
 Google_Ads: true
 ---
+Taking good notes in class is not just a routine task; it's a skill that can significantly enhance your study performance and academic success. 
 
-**Taking good notes in class can not only enhance your study performance but also increase your academic points**.
+However, many students face the challenge of forgetting what they wrote down when exams approach. 
 
-That’s why to take good notes is vital as a student because there are times whereby you write down some things in your note, studied it and understood it well but as exams approaches,
+In this article, we will look at the art of note-taking and provide insights on how to take effective notes as a student.
 
-you get back to your note after some time and still you find it difficult to even understand what you wrote.
+## **Understanding Note-Taking**
 
-This usually happens due to the way you take note.
+### Un-Isolated and Isolated Note Taking
 
-In this article I will be sharing some insights on how to take good notes as a student so stick with me.
+Note-taking can be broadly categorized into two types: un-isolated and isolated. 
 
-Note taking is of two type which you can termed as un-isolated and isolated note taking.
+**Un-isolated** note-taking happens in the classroom, while **isolated** note-taking occurs when studying alone. 
 
-The un-isolated note taking is the note that one takes while in the classroom from a teacher while the isolated note taking is the note that one takes while reading or studying text or a book alone.
+Both play a crucial role in academic success.
 
-In both case there are two types of note books you need
+## **The Two Essential Notebooks**
 
-1. Junk note
-2. Master note
+### 1. Junk Note
 
-The junk note is often a rough note that you will use to write or jot stuffs down while the teacher or lecturer is dictating or explaining some concepts.
+The junk note serves as a rough draft, capturing information while a teacher is lecturing or explaining concepts. 
 
-The junk note is here to make life easier as you won’t bother missing any important information.
+It acts as a quick reference, ensuring you don't miss any vital information.
 
-The master note is your main note that you will form from the junk note and what you understand about the things you jot down.
+### 2. Master Note
 
-This note will be what you use to read for exams and it will contain more information that it structured to help make you assimilate things fast and pass your school test or exam.
+The master note is the refined version formed from the junk note and your understanding of the material. 
 
-## How to take junk notes?
+This comprehensive note becomes your primary resource for exam preparation, containing structured information to facilitate quick assimilation.
 
-There is no best format in taking junk note as it often has to be rough but here are some points
+## **How to Take Junk Notes**
 
-1. Don't write every word down - take note of important information, write some down and keep some in your brain.
+Junk notes are meant to be rough, but a few strategies can enhance their effectiveness:
 
-1. Use shapes to circle out or group important information
+### **Selective Recording**
 
-1. Use shorthand while taking junk note e.g. **characteristics** can be shortened as _xtics_ or **with** can be shortened as _w/_ or **the** to be _d_ or **between** for _btw_ or **to** for _2_ -- Just devise yours but never get used to this to the extent that you write this way in the exam or in the master note.
+Avoid writing down every word. Capture important information and keep some details in your memory.
 
-## How to take master notes?
+### **Visual Organization**
 
-To take a good master note, here are some point in no specific order that might help out
+Use shapes to highlight or group essential information. Circle key points, creating a visual hierarchy.
 
-1. Use contrasting sketch to make things clear like bullet points, star dashes etc. but I mostly like to use cloud shape sketch.
+### **Shorthand Techniques**
 
-2. Form the notes in accordance to the past questions- - the aim of most students in taking good note or better note is to be able to pass their exams, so having a section in your master note where you go and answer the previous exams question will make it easier to format the main points.
+Employ shorthand to expedite or aid note-taking. For example, abbreviate “characteristics” as *xtics* or replace common words like “with” with *w/* to maintain a balance between speed and comprehension.
 
-3. While writing a master note put some more points to help you out i.e. write some tags or short note and then circle it and link it to another point. For instance, the first time you study something it might not stick with you at that time but after you keep striving you tend to get the heck of it.
+Other common shorthand techniques that you can use for efficient note-taking:
 
-   The thing that help you get the point easily is one of the example of the kind of points you need to write down so that even if you forget how you previously understood the concepts then you can use that as an aid to help bring back the idea.
+* **&nbsp; (&)** — and
+* **d** — the
+* **btw** — between
+* **2** — to
+* **b/c** — because
+* **w/o** — without
+* **info** — information
+* **w/i** — within
+* **e.g.** — for example
+* **i.e.** — that is
+* **vs.** — versus
+* **etc.** — et cetera
+* **approx.** — approximately
+* **b4** — before
+
+These shorthand techniques can be useful for jotting down information quickly and efficiently, especially during fast-paced lectures or when taking rapid notes. 
+
+However, it's essential to strike a balance and not rely on shorthand to the extent that it hinders your understanding or clarity during review and exam preparation.
+
+### **Cornell Method**
+
+Utilize the Cornell Method, a structured approach that divides your paper into three sections. 
+
+This method encourages active listening, engagement, and effective summarization.
+
+![cornell method](/images/cornell-breakdown-1-of-1.webp "cornell method")
+
+* ***Left Column*:** Create a narrow left column for cues and questions. For example, suppose you’re attending a lecture on literature analysis, jot down key questions or cues like “Symbolism in 'The Great Gatsby'” or “Literary devices in Shakespeare’s sonnets.”
+* ***Right Column*:** Allocate a wider right column for detailed notes on the main points discussed during the lecture. \
+  \
+  Capture essential information that provides context and understanding.
+* ***Bottom Section*:** Use the bottom section to write a summary of the key takeaways and connections you made during the lecture. \
+  \
+  This step reinforces your understanding and facilitates easier review.
+
+The Cornell Method is a powerful tool that not only organizes your notes but also enhances your engagement with the material, making it an effective strategy for comprehensive note-taking.
+
+
+
+## **How to Take Master Notes**
+
+Crafting an effective master note involves deliberate strategies:
+
+1. **Visual Clarity**: Utilize contrasting sketches, such as bullet points or star dashes. Consider using cloud-shaped sketches for clarity and emphasis.
+2. **Alignment with Past Questions**: Structure your master notes in line with previous exam questions. This approach helps in formatting key points and focusing on relevant content.
+3. **Incorporate Memory Aids**: Integrate additional points, tags, or short notes. Connect these to the main content by circling and linking them. This technique aids in recalling information during revision.
+4. **Learn from Examples**: Include examples in your notes. If you understood a concept through a specific example, note it down. This can serve as a helpful memory aid during exams.
+
+## **Wrap Up**
+
+Taking good notes is a vital skill for academic success. By incorporating both junk and master notes into your study routine and applying effective strategies for each, you can enhance your understanding and retention of course material.
+
+## **FAQs**
+
+1. **Why is junk note-taking important?** Junk notes capture information in real-time, preventing the loss of critical details during lectures.
+2. **How do master notes aid in exam preparation?** Master notes, crafted from junk notes, provide a comprehensive study resource aligned with past questions, aiding efficient exam preparation.
+3. **Can I use shorthand in exams or master notes?** While shorthand is useful for junk notes, it's advisable not to rely on it during exams or in the master notes to maintain clarity and understanding.
+4. **What role do visual elements play in note-taking?** Visual elements, such as sketches and shapes, enhance clarity and emphasize key points, making it easier to comprehend and remember information.
+5. **How can I ensure long-term retention of the material?** Incorporating memory aids, such as linking points and including examples in master notes, can assist in long-term retention of course material.
