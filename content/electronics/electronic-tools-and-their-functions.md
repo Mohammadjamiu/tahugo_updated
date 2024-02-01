@@ -16,8 +16,6 @@ draft: false
 mathjax: false
 Google_Ads: true
 ---
-
-
 ![Electronics Tools and Their Functions (for beginners)](/images/top-view-circuit-board-repair.webp "Electronics Tools and Their Functions (for beginners)")
 
 **As an electronics hobbyist or a beginner that's new to the world of electronics,** imagine being able to diagnose and fix any electronic device that comes your way.
@@ -42,11 +40,13 @@ It helps in identifying if a circuit is working properly or not, which can be im
 
 It's an important tool for anyone working with electronics.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07YTZMSG1&asins=B07YTZMSG1&linkId=33168a036fda831089d1c0acd823c93e&show_border=false&link_opens_in_new_window=true"></iframe>
+![AstroAI multimeter](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71Ug5K4iFNL._AC_SL1500_.jpg "AstroAI multimeter")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B018EXZO8M&asins=B018EXZO8M&linkId=51aacf88bdac26a3ad7945410d8ff824&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [AstroAI Digital Multimeter and Analyzer](https://amzn.to/42mYvkb) (on Amazon)
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B000JQ4O2U&asins=B000JQ4O2U&linkId=85d08cec1637d7b4f457972eb042af76&show_border=false&link_opens_in_new_window=true"></iframe>
+![Klein multimeter](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61I4o1GeoZL._SL1000_.jpg "Klein multimeter")
+
+Link to [Klein Multimeter ](https://amzn.to/3HH5paE)(on Amazon)
 
 ### 2/ **Soldering Wire**
 
@@ -56,9 +56,13 @@ It is used for soldering components onto printed circuit boards, repairing damag
 
 It is an essential tool in electronics, with different types of soldering wire available for different applications.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B0943TPRXK&asins=B0943TPRXK&linkId=3fbda21a1f7bec5517c5265796767b78&show_border=false&link_opens_in_new_window=true"></iframe>
+![TOWOT solder wire](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61NlAYiYTJS._AC_SL1000_.jpg "TOWOT solder wire")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B075WB98FJ&asins=B075WB98FJ&linkId=1b704706870ef60c497deb029b12014e&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [TOWOT solder wire](https://amzn.to/3SExhSO) (on Amazon)
+
+![MAIYUM solder wire](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71vPhY4AaWL._AC_SL1500_.jpg "MAIYUM solder wire")
+
+Link to [MAIYUM soldering lead](https://amzn.to/42oUeN2) or solder wire (on Amazon)
 
 ### 3/ **Soldering Iron**
 
@@ -68,11 +72,13 @@ It's used in electronics for joining wires, soldering components, circuit board 
 
 It's important to use a soldering iron safely and correctly to avoid damage to electronics or injury to yourself.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08R3515SF&asins=B08R3515SF&linkId=f13565a75f49d0d33ecb65391c811058&show_border=false&link_opens_in_new_window=true"></iframe>
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B01H1IFT54&asins=B01H1IFT54&linkId=00ef703dd1cca493fd807980fdb8df2b&show_border=false&link_opens_in_new_window=true"></iframe>
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07Q2B4ZY9&asins=B07Q2B4ZY9&linkId=708d075b6f0b92ab52ce0cd18487cbbd&show_border=false&link_opens_in_new_window=true"></iframe>
+![soldering iron kit](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71iIMXoT3LL._AC_SL1500_.jpg "soldering iron kit")
+
+Link to [soldering iron kit](https://amzn.to/4bjuupy) (on Amazon)
+
+
 
 ### 4/ **Desoldering Pump (Solder Sucker)**
 
@@ -82,9 +88,11 @@ It helps remove components safely without damaging the circuit board, repairing 
 
 It requires some skill and practice to use correctly, and it's important to follow proper safety procedures to avoid injury or damage to your electronics.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B0B1MM14J2&asins=B0B1MM14J2&linkId=35334296df2a647baab87f496a07925a&show_border=false&link_opens_in_new_window=true"></iframe>
+![solder sucker](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61MblDd3hKL._AC_SL1500_.jpg "solder sucker")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B002MJMXD4&asins=B002MJMXD4&linkId=bf40944297a4d7ecd16fbbe51770d661&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [solder sucker](https://amzn.to/3w0bIDB) (on Amazon)
+
+
 
 ### 5/ **Soldering Paste**
 
@@ -98,7 +106,9 @@ It also allows for better control during the soldering process, reducing the ris
 
 Overall, soldering paste is an essential tool for improving the quality of soldering in electronics manufacturing and repair.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08MVXW4RY&asins=B08MVXW4RY&linkId=a7fa175cc8e82f0f703c7517d869650b&show_border=false&link_opens_in_new_window=true"></iframe>
+![solder flux or paste](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71gUPx+3flL._AC_SL1500_.jpg "solder flux or paste")
+
+Link to [solder flux](https://amzn.to/42laf6M) (on Amazon)
 
 ### 6/ **Solder Smoke Absorber (Fume Extractor)**
 
@@ -108,9 +118,11 @@ It is important to use it because soldering produces harmful fumes that can be d
 
 It also helps to improve visibility by clearing the air and keep the work environment clean by preventing residue from settling on surfaces.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B00FZPSEY4&asins=B00FZPSEY4&linkId=82235914764eaf4df5aea241f469cb5f&show_border=false&link_opens_in_new_window=true"></iframe>
+![fumes extractor](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/81mkHR8MNXL._AC_SL1500_.jpg "fumes extractor")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07VWDN29F&asins=B07VWDN29F&linkId=8b7a275da0779c2e6124c6c43adb471e&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [fumes extractor](https://amzn.to/48dYZe1) (on Amazon)
+
+
 
 ### 7/ **Helping Hand**
 
@@ -122,9 +134,15 @@ Helping hands are used for soldering, assembly, inspection, and repair tasks, an
 
 They make electronics work easier and more efficient.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07MDKXNPC&asins=B07MDKXNPC&linkId=19c25a70c3929aadb6a70b72433fa10d&show_border=false&link_opens_in_new_window=true"></iframe>
+![helping hand](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61d9+gFC2gL._AC_SL1280_.jpg "helping hand")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08FQB6XT3&asins=B08FQB6XT3&linkId=f6876a67bbab20c14a31070b81c75e98&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [helping hand](https://amzn.to/3UoERCC) (on Amazon)
+
+![third hand](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71biqlvJhUL._AC_SL1500_.jpg "third hand")
+
+Link to [third/helping hand](https://amzn.to/3OsNMiC) (on Amazon)
+
+
 
 ### 8/ **Breadboard**
 
@@ -134,9 +152,15 @@ Breadboards allow for easy modifications and adjustments to circuit designs, han
 
 They are useful for hobbyists and professionals and come in different types.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07DL13RZH&asins=B07DL13RZH&linkId=d72fb6b0c783f777f8332709a2d6de92&show_border=false&link_opens_in_new_window=true"></iframe>
+![elegoo breadboard](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71q3LiJ8UWL._AC_SL1000_.jpg "elegoo breadboard")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08Y59P6D1&asins=B08Y59P6D1&linkId=7012e6e72ed0c4b8033cc8e58f2fb9a4&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [Elegoo breadboard](https://amzn.to/42k002w) (on Amazon)
+
+![breadboard](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71HIII3iAHS._SL1500_.jpg "breadboard")
+
+Link to the [breadboard](https://amzn.to/3HI4CGw) (on Amazon)
+
+
 
 ### 9/ **Jumper Wires**
 
@@ -146,9 +170,9 @@ Jumper wires are also used in circuit debugging, connecting components, board-to
 
 They are a versatile tool in electronics that allows for quick and easy connections and troubleshooting.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07GD2BWPY&asins=B07GD2BWPY&linkId=14301a27b39d8a0d58a5d0c876bd7135&show_border=false&link_opens_in_new_window=true"></iframe>
+![jumper wires](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71s8ePxdYaL._SL1300_.jpg "jumper wires")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B081GMJVPB&asins=B081GMJVPB&linkId=641017dbcf2a7ba84435f9ff63840107&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [jumper wires](https://amzn.to/3OqNkRE) (on Amazon)
 
 ### 10/ **Tweezers**
 
@@ -158,9 +182,11 @@ In electronics, they are used for tasks requiring precision and accuracy, such a
 
 They are an essential tool for anyone working with electronics because they are versatile, precise, and can be used for a variety of tasks.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07RNVXXV1&asins=B07RNVXXV1&linkId=a55f9143da22dd8bfed7f254df9791c5&show_border=false&link_opens_in_new_window=true"></iframe>
+![tweezer](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/51z3lMKNTvL._AC_SL1500_.jpg "tweezer")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B06XXXQHS8&asins=B06XXXQHS8&linkId=3b03b4e76795ab3800b12a6fc2d5693c&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [tweezer](https://amzn.to/3u84RaG) (on Amazon)
+
+
 
 ### 11/ **Wire Stripper**
 
@@ -170,9 +196,11 @@ It is used in electronics for preparing wires for circuits, circuit assembly, an
 
 Wire strippers ensure good electrical connections and reliable circuit operation. There are different types of wire strippers, including manual and automatic ones.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08G48R47N&asins=B08G48R47N&linkId=2de08e914864f0f18a62bb6a8712ffdc&show_border=false&link_opens_in_new_window=true"></iframe>
+![wire stripper](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/51TNKo3AkDL._AC_SL1000_.jpg "wire stripper")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B000OQ21CA&asins=B000OQ21CA&linkId=54f49953c3a0aa9fdd927cba36fc21ce&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [wire stripper](https://amzn.to/3OmzIHl) (on Amazon)
+
+
 
 ### 12/ **Screwdriver**
 
@@ -184,9 +212,15 @@ There are different types of screwdrivers, including flat-head, Phillips-head, a
 
 Screwdrivers are a versatile and essential tool for anyone working with electronic devices.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08SGM6F79&asins=B08SGM6F79&linkId=27215d6b0d68c456680a9306d5814b8c&show_border=false&link_opens_in_new_window=true"></iframe>
+![screwdriver sets](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/81-C7lGtQsL._AC_SL1500_.jpg "screwdriver sets")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B0001NQQCM&asins=B0001NQQCM&linkId=136c977989f8e3a21ec62f35d0b3d593&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [screwdriver sets](https://amzn.to/49gd6QN) (on Amazon)
+
+![electronics screwdriver set](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/81L+-5-9JUL._AC_SL1500_.jpg "electronics screwdriver set")
+
+Link to [precision screwdriver set](https://amzn.to/3Uig4ju) (on Amazon)
+
+
 
 ### 13/ **Electrical Tape**
 
