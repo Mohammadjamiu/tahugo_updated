@@ -230,9 +230,15 @@ It can also be used for color coding, repairing damaged wires, bundling wires fo
 
 It is a cost-effective solution that is widely available in hardware stores and online retailers.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B002VKT22O&asins=B002VKT22O&linkId=4e0496f4b3d8eb29eb311fa229ff5dfb&show_border=false&link_opens_in_new_window=true"></iframe>
+![professional electrical tape](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61-VnJ1Di7L._AC_SL1200_.jpg "professional electrical tape")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07YDRY8ZS&asins=B07YDRY8ZS&linkId=86a50262581808ef1fb8a0808643957e&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [duck brand professional electrical tape](https://amzn.to/3ug0JFp) (on Amazon)
+
+![electrical tape 2](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61NGV+oG5OL._AC_SL1200_.jpg "electrical tape 2")
+
+Link to [electrical tape](https://amzn.to/3SDDMFE) (on Amazon)
+
+
 
 ### 14/ **Alligator Clips**
 
@@ -242,9 +248,11 @@ They are covered with an insulating material and are used in electronics for dif
 
 Alligator clips are versatile and can be purchased in different sizes and colors in hardware stores and online retailers.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B06XX25HFX&asins=B06XX25HFX&linkId=85a0e697f1e44592e4bef2aaebe23dc6&show_border=false&link_opens_in_new_window=true"></iframe>
+![alligator clip](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71oNHArus+L._SL1500_.jpg "alligator clip")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08PBJQFHC&asins=B08PBJQFHC&linkId=cb4e9bdf01a139e9096a314a0297d7e6&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [alligator clip](https://amzn.to/3unDlpt) (on Amazon)
+
+
 
 ### 15/ **Hot Glue Gun**
 
@@ -256,11 +264,15 @@ Some common uses of hot glue guns in electronics include component mounting, cab
 
 It is a versatile and widely available tool that can be purchased in a variety of sizes and types.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07K791YRP&asins=B07K791YRP&linkId=b957d7b2deee1d2f017078077524a433&show_border=false&link_opens_in_new_window=true"></iframe>
+![neiko hot glue gun](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71vIITPRapL._AC_SL1500_.jpg "neiko hot glue gun")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B0BRKQ2861&asins=B0BRKQ2861&linkId=28b7165d8d6622aa4b085a6317732a3e&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [NEIKO hot glue gun](https://amzn.to/3Sn2xoj) (on Amazon)
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B00178OQZE&asins=B00178OQZE&linkId=16775e68f2590159480715fad58e1362&show_border=false&link_opens_in_new_window=true"></iframe>
+![gorilla hot glue gun](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/81GEo5zBnxL._AC_SL1500_.jpg "gorilla hot glue gun")
+
+Link to [Gorilla mini hot glue gun](https://amzn.to/3vZh6qF) (on Amazon)
+
+
 
 ### 16/ **Heat Gun**
 
@@ -268,9 +280,11 @@ It is a versatile and widely available tool that can be purchased in a variety o
 
 It can also be used for paint stripping. A heat gun is a versatile tool that can be used for various tasks in electronics, but caution must be taken as it generates high temperatures that can damage electronic components if used improperly.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B00EU2T8GG&asins=B00EU2T8GG&linkId=d8571f5ea6ccb5a100ff4fb7dded5f2e&show_border=false&link_opens_in_new_window=true"></iframe>
+![temperature heat gun](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61g4PHFS5FL._AC_SL1267_.jpg "temperature heat gun")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B078S5QMFG&asins=B078S5QMFG&linkId=569a2ad4f050af0ce81545d5b99af2be&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [temperature heat gun](https://amzn.to/48NmqM9) (on Amazon)
+
+
 
 ### 17/ **Heat Sink**
 
@@ -282,7 +296,9 @@ Heat sinks are also used in high-performance computing applications to prevent o
 
 They come in different types, including passive and active heat sinks, and are an essential tool for anyone working with electronic circuits.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07YR6M6F6&asins=B07YR6M6F6&linkId=d4217a64892c78608dce65dbf6856d95&show_border=false&link_opens_in_new_window=true"></iframe>
+![heat sink](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71guHx2xw1L._AC_SL1500_.jpg "heat sink")
+
+Link to [heat sink](https://amzn.to/3unFsJV) (on Amazon)
 
 ### 18/ **Magnifying Glass**
 
@@ -292,7 +308,7 @@ It can be used for inspection, soldering, repair and maintenance, and quality co
 
 A magnifying glass is an essential tool for anyone working with electronics, allowing for close inspection of small components and circuit boards.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B09B73XL33&asins=B09B73XL33&linkId=cff25aef792c536532171028fbf37395&show_border=false&link_opens_in_new_window=true"></iframe>
+![magnifying glass](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/617Uih8au0L._AC_SL1500_.jpg "magnifying glass")
 
 ### 19/ **Oscilloscope and USB Oscilloscope**
 
@@ -302,7 +318,9 @@ Oscilloscopes help to identify signal characteristics, distortions, and abnormal
 
 There are different types of oscilloscopes, including analog and digital oscilloscopes.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B06XZML6RD&asins=B06XZML6RD&linkId=f9c83b7de91b8ac173cc0a14066c3338&show_border=false&link_opens_in_new_window=true"></iframe>
+![digital oscilloscope](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/811dT41e3HL._SL1500_.jpg "digital oscilloscope")
+
+Link to [siglent technology digital oscilloscope](https://amzn.to/480keQ4) (on Amazon)
 
 **A USB oscilloscope** is a type of oscilloscope that can be connected to a computer via USB port. 
 
@@ -310,7 +328,9 @@ Just as the normal oscillocope, it is used to analyze and visualize signals in r
 
 It is affordable for hobbyists and small-scale projects. It is similar to a traditional oscilloscope in its capabilities, but relies on a computer for display and data analysis, and has lower bandwidth and sample rates.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B07PY6GHB5&asins=B07PY6GHB5&linkId=b2acb52d00bc7969026abc31d3dc4862&show_border=false&link_opens_in_new_window=true"></iframe>
+![handheld oscilloscope](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/7198j226PkL._SL1500_.jpg "handheld oscilloscope")
+
+Link to [portable handheld oscilloscope](https://amzn.to/3OrLzUF) (on Amazon)
 
 ### 20/ **Function Generator**
 
@@ -322,9 +342,11 @@ It is a fundamental tool in electronics and is essential for anyone working with
 
 Different types of function generators, including analog and digital, are available, each with its own advantages and applications.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08NSR5GYR&asins=B08NSR5GYR&linkId=ec9d50ca6b126691f27ccf8eded5e367&show_border=false&link_opens_in_new_window=true"></iframe>
+![functional signal generator](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71-9KFD-XqL._SL1500_.jpg "functional signal generator")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B01LECZU98&asins=B01LECZU98&linkId=e960591e9389f143f0a16611efd733a9&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [functional signal generator](https://amzn.to/3UGa58v) (on Amazon)
+
+
 
 ### 21/ **Power Supply**
 
@@ -334,9 +356,11 @@ It is used for operating electronic devices, testing electronic circuits, chargi
 
 A power supply is essential for ensuring that electronic devices function properly, and there are different types of power supplies with their own advantages and applications.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B073TW8H2S&asins=B073TW8H2S&linkId=66328887fbbf48f0d65d4fa28ed2ce01&show_border=false&link_opens_in_new_window=true"></iframe>
+![dc power supply](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/718n7WFQWuL._SL1500_.jpg "dc power supply")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B087TK6ZM2&asins=B087TK6ZM2&linkId=f056cdf83a84ba2a01d6e6b1a7bde18f&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [DC power supply](https://amzn.to/4blIGhN) (on Amazon)
+
+
 
 ### 22/ **Capacitance Meter**
 
@@ -348,9 +372,11 @@ It is important for ensuring that capacitors have the correct capacitance value 
 
 Capacitance meters come in different types, including handheld and benchtop meters, with their own advantages and applications.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B0036FQ3FW&asins=B0036FQ3FW&linkId=f87eda7e7670528394736d616d64b8da&show_border=false&link_opens_in_new_window=true"></iframe>
+![capacitor tester](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61RGIWwUufL._AC_SL1000_.jpg "capacitor tester")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B071WNNYQT&asins=B071WNNYQT&linkId=5422f21ea6f2097a4a2cf14c5b56bc41&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [capacitor tester](https://amzn.to/3SeJDzC) (on Amazon)
+
+
 
 ### 23/ **Inductance Meter**
 
@@ -360,9 +386,11 @@ They are also used for testing electronic components, circuit design, circuit tr
 
 Different types of inductance meters are available, including handheld meters and benchtop meters, each with their own advantages and applications.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B06XSD9VN1&asins=B06XSD9VN1&linkId=18512e51b92e91255a0366c39d577931&show_border=false&link_opens_in_new_window=true"></iframe>
+![inductance meter](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/81EHxIUDNpL._SL1500_.jpg "inductance meter")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B0856RCWBJ&asins=B0856RCWBJ&linkId=21a9b2892118da4aaf16d74aa9a84f04&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [inductance meter](https://amzn.to/483u5Vk) (on Amazon)
+
+
 
 ### 24/ **Anti-static Wrist Strap**
 
@@ -374,7 +402,11 @@ It is commonly used in circuit board assembly, component replacement, computer r
 
 It is an essential tool for anyone working with electronics, especially when working with sensitive electronic components.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B08CXQN86W&asins=B08CXQN86W&linkId=fb477cb424822940dd09c931a3c7a79e&show_border=false&link_opens_in_new_window=true"></iframe>
+![anti static wrist wrap](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61nC1ztOAfL._SL1500_.jpg "anti static wrist wrap")
+
+Link to [anti-static wrist strap](https://amzn.to/4bkgU5i) (on Amazon)
+
+
 
 ### 25/ **Pliers**
 
@@ -382,9 +414,11 @@ It is an essential tool for anyone working with electronics, especially when wor
 
 They are essential for anyone working with electronic circuits. Different types of pliers include cutting pliers, needle-nose pliers, and crimping pliers, each with their own applications.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B06XPW89FK&asins=B06XPW89FK&linkId=7ff6fd588dc705074bce02e42458d87a&show_border=false&link_opens_in_new_window=true"></iframe>
+![plier](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61Iq+sp023L._AC_SL1500_.jpg "plier")
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B0105SSMRO&asins=B0105SSMRO&linkId=63b4baa0ec21a3fde4f322ea856406cc&show_border=false&link_opens_in_new_window=true"></iframe>
+Link to [pliers](https://amzn.to/42u8HYf) (on Amazon)
+
+
 
 ### 26/ **Digital Caliper**
 
@@ -394,7 +428,11 @@ It is commonly used in electronics to measure electronic components' dimensions,
 
 The tool can measure thickness, depth, and diameter of various components, ensuring they are within the specified tolerances to identify faulty or defective components before they cause problems.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B017KUC6XQ&asins=B017KUC6XQ&linkId=4373e828b6de610231f5cd3055505fbf&show_border=false&link_opens_in_new_window=true"></iframe>
+![digital caliper](https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/51xfhEqIvfS._AC_.jpg "digital caliper")
+
+Link to [digital caliper](https://amzn.to/3vWDDUS) (on Amazon)
+
+
 
 ### 27/ **Wire Wrap Tool**
 
@@ -405,5 +443,3 @@ It wraps a thin wire around a terminal or pin to form a secure and reliable conn
 However, they can be more difficult to use than other wiring methods and may require additional training or practice to master. 
 
 They are widely available in hardware stores and online retailers in different sizes and types.
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tooabstract00-20&language=en_US&marketplace=amazon&region=US&placement=B01IDZU8V4&asins=B01IDZU8V4&linkId=55133b946858c2c2ae5777a02722c993&show_border=false&link_opens_in_new_window=true"></iframe>
