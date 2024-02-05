@@ -1,8 +1,14 @@
 ---
-title: List of Google Chrome Useful Keyboard Shortcut Keys (2023)
+title: List of Google Chrome Useful Keyboard Shortcut Keys (2024)
 slug: list of chrome keyboard shortcuts
 postdate: February 11, 2023
+keywords:
+  - chrome shortcut
+  - google chrome shortcut keys
+  - shortcut for chrome
 description: Here are a list of useful chrome keyboard shortcuts to start using
+tags:
+  - how to
 categorylabel: Tech Stuff
 categories: '["How-to-tech"]'
 image: /images/stefen-tan-kyw1eux1j7y-unsplash.webp
