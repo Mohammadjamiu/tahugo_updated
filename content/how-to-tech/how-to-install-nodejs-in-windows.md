@@ -15,10 +15,10 @@ weight: 411
 categorylink: /categories/how-to-tech
 type: posts
 author: Mohammad Jamiu
-author_credit: false
-author_credit_name: ""
-author_credit_info: ""
-author_credit_image: /images/imgph.webp
+author_credit: true
+author_credit_name: Ahmad Saulawa
+author_credit_info: A computer engineer ready to build the next big startup. 🚀
+author_credit_image: /images/ahmads-image.webp
 Affliate_Links: false
 draft: false
 mathjax: false
