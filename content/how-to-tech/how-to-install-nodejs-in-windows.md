@@ -34,7 +34,7 @@ If you're a Windows user and need guidance on installing Node.js on your machine
 
 ## **Steps on How to Install Node.js on Windows**
 
-### Step 1/ Check if you have Node.js already install
+### Step 1/ Check if you have Node.js already installed
 
 Before installing Node.js on your Windows computer, you might want to check if you already have a version of node.js installed previously.
 
