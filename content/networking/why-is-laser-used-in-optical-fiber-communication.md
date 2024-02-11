@@ -27,11 +27,13 @@ These fibers are capable of transmitting light signals over long distances with 
 
 In order to transmit information over an optical fiber, a light source is needed to generate the optical signal. This light source must be able to produce a coherent beam of light, which means that the light waves are in phase with each other and have a constant amplitude and frequency. 
 
-A laser is an ideal light source for this purpose, as it produces a highly coherent beam of light that can be easily modulated to carry information.
+A [laser](/networking/characteristics-of-laser/) is an ideal light source for this purpose, as it produces a highly coherent beam of light that can be easily modulated to carry information.
+
+**Read on:** [LASER and its Characteristics](/networking/characteristics-of-laser/)
 
 ## Why Is Laser Used in Optical Fiber Communication?
 
-**Laser is used in optical fiber communication because it can produce a very high intensity, coherent beam of light that can carry a large amount of information over long distances with minimal signal loss or attenuation.** 
+**Laser is used in optical fiber communication** because, it can produce a very high intensity, coherent beam of light that can carry a large amount of information over long distances with minimal signal loss or attenuation. 
 
 The light produced by a laser is monochromatic (meaning, it is of a single wavelength) and is tightly focused into a narrow beam, which allows it to travel through the optical fiber with very little dispersion or attenuation.
 
