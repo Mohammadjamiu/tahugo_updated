@@ -28,8 +28,6 @@ Lightweight browsers are designed to consume fewer system resources while still 
 
 Let's look at some of the best lightweight browsers for Mac users.
 
-
-
 {{< table-of-contents >}}
 
 ## **Best Lightweight Browsers for mac**
@@ -55,6 +53,8 @@ With over two decades of existence, Mozilla Firefox remains a go-to choice for u
 Firefox's efficient performance, even with multiple tabs open, is complemented by its ability to block ad trackers. 
 
 Its extensive library of extensions further enhances functionality and customization options.
+
+Link to download [Firefox for Mac](https://www.mozilla.org/en-US/firefox/mac/).
 
 ### **3. DuckDuckGo**
 
@@ -102,7 +102,7 @@ With features like tab stacking, notes, and customizable keyboard shortcuts, Viv
 
 Its lightweight nature combined with advanced functionality makes it a compelling choice for Mac users.
 
-Link to download [Vivaldi Browser](https://vivaldi.com/).
+Link to download [Vivaldi Browser](https://vivaldi.com/download/).
 
 ### **How to maintain a lightweight browsing experience**
 
