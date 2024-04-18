@@ -164,16 +164,6 @@ But to understand what electricity is and how it works on a deeper level, we nee
     </item>
     
     <item>
-      <title>What Is Frequency Modulation (FM)? Formula, Frequency Deviation, Modulation Index with Solved Examples</title>
-      <link>/electronics/frequency-modulation-formula-with-solved-examples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/frequency-modulation-formula-with-solved-examples/</guid>
-      <description>Definition of Frequency modulation (FM) Frequency modulation (FM) is a type of angle modulation in which the frequency of the carrier wave (mostly sine wave) is varied in accordance to the frequency of the modulating or message signal while keeping amplitude and phase constant.
-Derivation of frequency modulation (FM) formula In general, angle modulated signal $S(t)$ is represented as $S(t) = A_{c}cos[\theta_{i}(t)]$ and the instantaneous frequency (i.e. the frequency at each instance) is defined as $f_{i}(t) = f_{c} + k_{f}m(t)$.</description>
-    </item>
-    
-    <item>
       <title>Baseband and Passband Signal and Their Difference in Communication</title>
       <link>/electronics/baseband-and-passband-signal-and-their-difference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

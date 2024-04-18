@@ -7,13 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>9&#43; Convenient Tricks to Keep Your Refrigerator Maintained</title>
-      <link>/how-to-tech/tricks-to-keep-your-refrigerator-maintained/</link>
+      <title>List of Google Chrome Useful Keyboard Shortcut Keys (2024)</title>
+      <link>/how-to-tech/list-of-chrome-keyboard-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-tech/tricks-to-keep-your-refrigerator-maintained/</guid>
-      <description>The refrigerator in your kitchen runs all around the clock. Not to mention, your refrigerator is safe storage for leftover cooked food, fruits, vegetables, beverages, dairy products, and more. Now, a breakdown in your refrigerator can force you to bring everything out of the appliance.
-All those food items and drinks will go spoiled and sour within a few hours, especially if it’s summer. It’s inevitable for any home appliance to struggle with technical or mechanical issues.</description>
+      <guid>/how-to-tech/list-of-chrome-keyboard-shortcuts/</guid>
+      <description>Google Chrome keyboard shortcuts offer several benefits that can improve your browsing experience.
+They allow you to complete tasks faster, reducing time spent on the computer and increasing productivity.
+By reducing the need for repetitive mouse movements, keyboards can also reduce hand and wrist strain, especially for those who spend long periods of time in front of a computer.
+In addition, keyboard shortcuts can improve usability for users with disabilities or mobility impairments by making it easier to navigate the site and use content.</description>
     </item>
     
     <item>
@@ -159,17 +161,6 @@ This error occurs when you try to use the rm (or Remove-Item) command with the -
     </item>
     
     <item>
-      <title>How to Fix &#39;next&#39; is not Recognized Error in Next.js?</title>
-      <link>/how-to-tech/how-to-fix-next-is-not-recognized-error-in-nextjs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-next-is-not-recognized-error-in-nextjs/</guid>
-      <description>If you&amp;rsquo;re working with Next.js and encounter the error message “&#39;next&#39; is not recognized as an internal or external command, operable program or batch file,” don&amp;rsquo;t worry; you&amp;rsquo;re not alone.
-This common issue can be frustrating, and in this article, we will look at how to fix the error.
-Table of Contents ↬Why Does the Error Occur? Steps on How to Fix &amp;rsquo;next&amp;rsquo; is not Recognized Error in Next.js 1.</description>
-    </item>
-    
-    <item>
       <title>How to setup C/C&#43;&#43; in Visual Studio Code?</title>
       <link>/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -271,6 +262,101 @@ Copy the PDF file name and try searching for the book&amp;rsquo;s title on PDFDr
       <guid>/how-to-tech/how-to-fix-cant-download-facebook-app-on-android/</guid>
       <description>Facebook, a social media giant with a massive user community, is an integral part of our digital lives. Yet, there are instances where users encounter obstacles during the installation of the Facebook app on their Android devices.
 If you&amp;rsquo;re facing similar problems and wondering how to fix the “Facebook is not installing on my Android” issue, this article will provide you with solutions to help you overcome this frustrating situation.</description>
+    </item>
+    
+    <item>
+      <title>How to Study the Most in a Day?</title>
+      <link>/misce-post/how-to-study-the-most-in-a-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/misce-post/how-to-study-the-most-in-a-day/</guid>
+      <description>Studying effectively isn&amp;rsquo;t merely about cramming in the most hours; it&amp;rsquo;s about high-quality focus and engagement with the material.
+In this article, we will look at some strategies to maximize your learning potential in a day without overwhelming yourself.
+Table of Contents ↬How to Study the Most in a Day? 1. Planning and Prioritization 2. Active Learning Techniques 3. Maintaining Focus and Energy 4. Remember: Quality Over Quantity 5. Listen to Your Body 6.</description>
+    </item>
+    
+    <item>
+      <title>How to Fix Play Store Not Working &#34;Try Again&#34; Error?</title>
+      <link>/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</guid>
+      <description>Google Play Store, the official app store for Android devices, is a built-in part of the Android ecosystem.
+However, users may encounter the frustrating “Try Again” error while attempting to search for or download an application.
+In this article, we will look at practical solutions to troubleshoot and resolve this issue.
+Table of Contents ↬How to Fix Play Store Not Working, “Try Again” Error? 💡 Quick Fixes: Troubleshooting Steps: 1.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Node.js in Windows?</title>
+      <link>/how-to-tech/how-to-install-nodejs-in-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-install-nodejs-in-windows/</guid>
+      <description>Are you working on a JavaScript project that involves server-side scripting? If so, Node.js is what you need.
+Node.js has become a vital tool for developers, allowing server-side scripting and the creation of dynamic web pages.
+If you&amp;rsquo;re a Windows user and need guidance on installing Node.js on your machine, this guide will help you through the installation process.
+Table of Contents ↬Steps on How to Install Node.js on Windows Step 1/ Check if you have Node.</description>
+    </item>
+    
+    <item>
+      <title>List of VSCode Useful Keyboard Shortcut Keys (2024)</title>
+      <link>/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</guid>
+      <description>Navigating through Visual Studio Code efficiently can significantly boost your productivity.
+Mastering keyboard shortcuts is the key to unlocking the full potential of this powerful code editor.
+In this article, we will explore a comprehensive list of essential and also useful VSCode keyboard shortcuts for various tasks, categorized for easy reference.
+Table of Contents ↬VSCode Useful Keyboard Shortcut Keys General Commands Basic Editing Advanced Editing Region Folding Comments and Formatting Search and Replace Multi-cursor and Selection Editor Management File Management Wrap Up FAQs VSCode Useful Keyboard Shortcut Keys General Commands Ctrl+Shift+P, F1 — Show Command Palette The command palette is your go-to tool for executing any command in VSCode.</description>
+    </item>
+    
+    <item>
+      <title>How to Fix &#34;Error Couldn&#39;t Find a package.json File&#34;?</title>
+      <link>/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</guid>
+      <description>Are you facing the error “Couldn&amp;rsquo;t Find a package.json File” while trying to run a project using npm or yarn?
+Don&amp;rsquo;t worry; you&amp;rsquo;re not alone. This issue can be frustrating, but fortunately, there are several ways to resolve it.
+In this article, we will look at some effective solutions to help you get past this obstacle and continue with your development work smoothly.
+Table of Contents ↬1. Check the Working Directory 2.</description>
+    </item>
+    
+    <item>
+      <title>How to Fix VSCode Window Not Responding?</title>
+      <link>/how-to-tech/how-to-fix-vscode-window-not-responding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-vscode-window-not-responding/</guid>
+      <description>Are you experiencing some annoying issues like VSCode window not responding, a black screen, or sluggish performance?
+These problems can be incredibly frustrating, especially when you&amp;rsquo;re in the midst of a project or trying to start a new one.
+Often, these issues are caused by cached VSCode files, but fear not – we have the solution.
+Table of Contents ↬Steps to Fix VSCode Window Not Responding Step 1: Force Close VSCode Step 2: Go to Your C:\ Drive and User’s Folder Step 3: Locate the Folder with Your Username Step 4: Access the AppData Folder Step 5: Find the Roaming Folder Step 6: Identify the “Code” Folder or Directory Step 7: Delete All Files in Cache and CachedData Step 8: Launch VSCode Again Wrap Up FAQs 1.</description>
+    </item>
+    
+    <item>
+      <title>How to Delete a Git Branch Locally and Remotely?</title>
+      <link>/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</guid>
+      <description>Branches in a Git repo are an amazing way to add new features to a project or fix bugs while still maintaining the main codebase.
+Over time, the branches you create may become too many, so you&amp;rsquo;ll want to delete some that are no longer needed.
+This could be because you just created them locally, or because they&amp;rsquo;ve already been merged with the main codebase.
+Table of Contents ↬How to delete a Git branch?</description>
+    </item>
+    
+    <item>
+      <title>10 Tips to Stay Awake and Alert in Class</title>
+      <link>/misce-post/tips-on-how-to-stay-awake-in-class-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/misce-post/tips-on-how-to-stay-awake-in-class-/</guid>
+      <description>Staying attentive and alert in class is crucial for effective learning.
+Many students face the challenge of feeling drowsy during lectures, which can significantly impede their ability to absorb information.
+In this article, we&amp;rsquo;ll delve into practical strategies to help you stay focused and engaged in the classroom.
+10 Tips on How to Stay Awake and Alert in Class Before Class 1. Prioritize Sleep One of the fundamental pillars of staying alert in class is ensuring you get an adequate amount of sleep.</description>
     </item>
     
   </channel>

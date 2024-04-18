@@ -189,7 +189,7 @@ npx tailwindcss init A tailwind.</description>
     </item>
     
     <item>
-      <title>List of Google Chrome Useful Keyboard Shortcut Keys (2023)</title>
+      <title>List of Google Chrome Useful Keyboard Shortcut Keys (2024)</title>
       <link>/how-to-tech/list-of-chrome-keyboard-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -265,18 +265,6 @@ Here are some of the key features of ES6 explained for beginners:
       <description>To make an HTML form “textarea” to have a required attribute, all you need to do is to add required or required=&amp;quot;required&amp;quot;
 But sometimes when you add the required attribute to force the user to input data, it does not work. Here&amp;rsquo;s how to fix it.
 Make sure that the &amp;lt;textarea&amp;gt;&amp;lt;/textarea&amp;gt; does not have space in between because if it does have then you have already input some character or text.</description>
-    </item>
-    
-    <item>
-      <title>How to Use Google Sheets as Database for Storing Emails From a Newsletter</title>
-      <link>/how-to-tech/how-to-use-google-sheets-as-database-for-storing-emails-from-a-newsletter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-use-google-sheets-as-database-for-storing-emails-from-a-newsletter/</guid>
-      <description>In this post we are going to explore how to get or build an email list from a website email newletter and then automatically store the emails on a google sheet.
-It&amp;rsquo;s great because it cost less and all the emails are store on a sheet which can be exported to other platforms like mailchimp.
-Here are the steps to take.
-Here is an already made design you can copy to test it out and then modify to suit your need.</description>
     </item>
     
     <item>
@@ -388,18 +376,6 @@ News of its impact at Google has sparked a “code red” situation, prompting t
       <description>When working on a Node.js project or any project that need some Node.js dependencies, you will definitely have two JSON files. One of them been package.json and the other package-lock.json.
 The purpose of package.json and package-lock.json in a Node.js project, is to ensure that all the dependencies or packages that are needed for your application to function properly are tracked.
 The main things that are tracked are the names of the packages and their versions.</description>
-    </item>
-    
-    <item>
-      <title>jobs that will be replaced by ai</title>
-      <link>/how-to-tech/jobs-that-will-be-replaced-by-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/jobs-that-will-be-replaced-by-ai/</guid>
-      <description>As we move further into the digital age, the potential of artificial intelligence (AI) to revolutionize the workforce is becoming increasingly clear.
-AI is all about creating computer programs that can think and learn like humans!
-As AI has already started to transform various industries, from healthcare to finance to retail, with its ability to automate and optimize repetitive or routine tasks.
-It has the potential to replace certain jobs that involve these kinds of tasks.</description>
     </item>
     
     <item>
@@ -597,18 +573,6 @@ Use of underscore (_) in JavaScript Here are some of the uses of underscore in J
     </item>
     
     <item>
-      <title>How to Stringify a JSON in JavaScript?</title>
-      <link>/how-to-tech/how-to-stringify-a-json-in-javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-stringify-a-json-in-javascript/</guid>
-      <description>JSON (JavaScript Object Notation) is a popular data format used for storing and exchanging data. In JavaScript, you can easily convert a JavaScript object into a JSON string using the JSON.stringify() method.
-In this beginner&amp;rsquo;s guide, we will walk through the step-by-step process of stringifying a JSON object in JavaScript.
-Step 1:
-To begin, let&amp;rsquo;s create a JavaScript object that we want to convert into a JSON string. For example, consider the following code snippet:</description>
-    </item>
-    
-    <item>
       <title>Difference Between JavaScript Object and JSON</title>
       <link>/how-to-tech/difference-between-javascript-object-and-json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -628,17 +592,6 @@ It provides a standardized way to represent structured data as a string, making 
       <description>WhatsApp is a widely utilized messaging application with a global user base of millions. However, sometimes users encounter issues while trying to install WhatsApp on their Android devices.
 If you&amp;rsquo;re facing similar problems and wondering how to fix the “WhatsApp is not installing in my Android” issue, this article will provide you with effective solutions to overcome this frustrating situation.
 Table of Contents ↬Possible Causes of WhatsApp Installation Issues 1.</description>
-    </item>
-    
-    <item>
-      <title>A Step-by-Step Guide on How To Edit WhatsApp Messages (2023)</title>
-      <link>/how-to-tech/how-to-edit-whatsapp-messages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-edit-whatsapp-messages/</guid>
-      <description>WhatsApp has become one of the most popular messaging apps worldwide, offering a wide range of features to enhance your communication experience.
-Among these features is the ability to edit messages after you&amp;rsquo;ve sent them. This can be particularly useful if you spot a typo or want to clarify something you&amp;rsquo;ve written.
-In this article, we&amp;rsquo;ll guide you through the process of editing WhatsApp messages, ensuring you can make the necessary adjustments with ease.</description>
     </item>
     
     <item>
@@ -707,17 +660,6 @@ What is an Array in JavaScript? Before going into splitting arrays, let&amp;rsqu
       <description>Are you a beginner looking to understand Python dictionaries? In this comprehensive guide, we will walk you through the concept of dictionaries in Python, providing clear explanations and practical examples along the way.
 By the end of this article, you will have a solid understanding of Python dictionaries and how to utilize them effectively in your coding journey.
 Table of Contents ↬What is a Python Dictionary? Creating a Python Dictionary Accessing Dictionary Values Modifying Dictionary Values Adding and Removing Items Dictionary Methods Iterating Over a Dictionary Dictionary Operations Nested Dictionaries Final Thought What is a Python Dictionary?</description>
-    </item>
-    
-    <item>
-      <title>How to Reverse an Array in JavaScript: Learn All Techniques</title>
-      <link>/how-to-tech/how-to-reverse-an-array-in-javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-reverse-an-array-in-javascript/</guid>
-      <description>In JavaScript, arrays are a fundamental data structure that allows us to store and manipulate collections of elements.
-At times, we may need to reverse the order of elements in an array for various reasons. This article will explore multiple methods to reverse an array in JavaScript, covering both built-in array methods and alternative approaches that do not rely on a for loop.
-Table of Contents ↬Understanding Arrays in JavaScript 1.</description>
     </item>
     
     <item>
@@ -1020,16 +962,6 @@ We will cover various methods and techniques that allow you to remove an element
 One such feature is closures, which enable the creation of powerful and flexible code structures.
 In this article, we will look at the concept of JavaScript closures, understand how they work, and explore their practical applications.
 Table of Contents ↬Understanding lexical scope What is a closure? Creating a closure in JavaScript The anatomy of a closure Practical uses of closures 1.</description>
-    </item>
-    
-    <item>
-      <title>9&#43; Convenient Tricks to Keep Your Refrigerator Maintained</title>
-      <link>/how-to-tech/tricks-to-keep-your-refrigerator-maintained/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/tricks-to-keep-your-refrigerator-maintained/</guid>
-      <description>The refrigerator in your kitchen runs all around the clock. Not to mention, your refrigerator is safe storage for leftover cooked food, fruits, vegetables, beverages, dairy products, and more. Now, a breakdown in your refrigerator can force you to bring everything out of the appliance.
-All those food items and drinks will go spoiled and sour within a few hours, especially if it’s summer. It’s inevitable for any home appliance to struggle with technical or mechanical issues.</description>
     </item>
     
     <item>
@@ -1643,17 +1575,6 @@ This error occurs when you try to use the rm (or Remove-Item) command with the -
     </item>
     
     <item>
-      <title>How to Fix &#39;next&#39; is not Recognized Error in Next.js?</title>
-      <link>/how-to-tech/how-to-fix-next-is-not-recognized-error-in-nextjs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-next-is-not-recognized-error-in-nextjs/</guid>
-      <description>If you&amp;rsquo;re working with Next.js and encounter the error message “&#39;next&#39; is not recognized as an internal or external command, operable program or batch file,” don&amp;rsquo;t worry; you&amp;rsquo;re not alone.
-This common issue can be frustrating, and in this article, we will look at how to fix the error.
-Table of Contents ↬Why Does the Error Occur? Steps on How to Fix &amp;rsquo;next&amp;rsquo; is not Recognized Error in Next.js 1.</description>
-    </item>
-    
-    <item>
       <title>How to setup C/C&#43;&#43; in Visual Studio Code?</title>
       <link>/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1846,6 +1767,127 @@ If you&amp;rsquo;re facing similar problems and wondering how to fix the “Face
       <description>We&amp;rsquo;ve all been there – eagerly waiting to send an important message or check the latest status updates on WhatsApp, only to be met with the frustrating “Unable to Connect. Please try again later” error.
 This error message typically indicates a connectivity issue or a problem with the app&amp;rsquo;s ability to establish a connection to WhatsApp&amp;rsquo;s servers. This error can occur for several reasons.
 In this article, we will look at various steps to troubleshoot and resolve this issue.</description>
+    </item>
+    
+    <item>
+      <title>How to Fix Play Store Not Working &#34;Try Again&#34; Error?</title>
+      <link>/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</guid>
+      <description>Google Play Store, the official app store for Android devices, is a built-in part of the Android ecosystem.
+However, users may encounter the frustrating “Try Again” error while attempting to search for or download an application.
+In this article, we will look at practical solutions to troubleshoot and resolve this issue.
+Table of Contents ↬How to Fix Play Store Not Working, “Try Again” Error? 💡 Quick Fixes: Troubleshooting Steps: 1.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Node.js in Windows?</title>
+      <link>/how-to-tech/how-to-install-nodejs-in-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-install-nodejs-in-windows/</guid>
+      <description>Are you working on a JavaScript project that involves server-side scripting? If so, Node.js is what you need.
+Node.js has become a vital tool for developers, allowing server-side scripting and the creation of dynamic web pages.
+If you&amp;rsquo;re a Windows user and need guidance on installing Node.js on your machine, this guide will help you through the installation process.
+Table of Contents ↬Steps on How to Install Node.js on Windows Step 1/ Check if you have Node.</description>
+    </item>
+    
+    <item>
+      <title>List of VSCode Useful Keyboard Shortcut Keys (2024)</title>
+      <link>/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</guid>
+      <description>Navigating through Visual Studio Code efficiently can significantly boost your productivity.
+Mastering keyboard shortcuts is the key to unlocking the full potential of this powerful code editor.
+In this article, we will explore a comprehensive list of essential and also useful VSCode keyboard shortcuts for various tasks, categorized for easy reference.
+Table of Contents ↬VSCode Useful Keyboard Shortcut Keys General Commands Basic Editing Advanced Editing Region Folding Comments and Formatting Search and Replace Multi-cursor and Selection Editor Management File Management Wrap Up FAQs VSCode Useful Keyboard Shortcut Keys General Commands Ctrl+Shift+P, F1 — Show Command Palette The command palette is your go-to tool for executing any command in VSCode.</description>
+    </item>
+    
+    <item>
+      <title>How to Fix &#34;Error Couldn&#39;t Find a package.json File&#34;?</title>
+      <link>/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</guid>
+      <description>Are you facing the error “Couldn&amp;rsquo;t Find a package.json File” while trying to run a project using npm or yarn?
+Don&amp;rsquo;t worry; you&amp;rsquo;re not alone. This issue can be frustrating, but fortunately, there are several ways to resolve it.
+In this article, we will look at some effective solutions to help you get past this obstacle and continue with your development work smoothly.
+Table of Contents ↬1. Check the Working Directory 2.</description>
+    </item>
+    
+    <item>
+      <title>How to Fix VSCode Window Not Responding?</title>
+      <link>/how-to-tech/how-to-fix-vscode-window-not-responding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-fix-vscode-window-not-responding/</guid>
+      <description>Are you experiencing some annoying issues like VSCode window not responding, a black screen, or sluggish performance?
+These problems can be incredibly frustrating, especially when you&amp;rsquo;re in the midst of a project or trying to start a new one.
+Often, these issues are caused by cached VSCode files, but fear not – we have the solution.
+Table of Contents ↬Steps to Fix VSCode Window Not Responding Step 1: Force Close VSCode Step 2: Go to Your C:\ Drive and User’s Folder Step 3: Locate the Folder with Your Username Step 4: Access the AppData Folder Step 5: Find the Roaming Folder Step 6: Identify the “Code” Folder or Directory Step 7: Delete All Files in Cache and CachedData Step 8: Launch VSCode Again Wrap Up FAQs 1.</description>
+    </item>
+    
+    <item>
+      <title>What Powers Neuralink Chip When Implanted into the Human Brain?</title>
+      <link>/how-to-tech/what-powers-neuralink-chip-when-implanted-into-the-human-brain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/what-powers-neuralink-chip-when-implanted-into-the-human-brain/</guid>
+      <description>Image Credit: Neuralink
+In recent years, the field of neuroscience has witnessed remarkable advancements, with one of the most talked-about innovations being the Neuralink chip.
+This tiny device, developed by Elon Musk&amp;rsquo;s Neuralink Corporation, holds immense potential in revolutionizing the way we interface with technology, particularly in the context of the human brain.
+But have you ever wondered what powers this groundbreaking chip when it&amp;rsquo;s implanted into the human brain?</description>
+    </item>
+    
+    <item>
+      <title>6 Best Lightweight Browsers for macOS (2024)</title>
+      <link>/how-to-tech/best-lightweight-browsers-for-mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/best-lightweight-browsers-for-mac/</guid>
+      <description>When it comes to browsing the internet on your Mac, having a lightweight browser can make a significant difference in performance and efficiency.
+Lightweight browsers are designed to consume fewer system resources while still providing a smooth browsing experience.
+Let&amp;rsquo;s look at some of the best lightweight browsers for Mac users.
+Table of Contents ↬Best Lightweight Browsers for mac 1. Brave 2. Mozilla Firefox 3. DuckDuckGo 4. Opera One 5.</description>
+    </item>
+    
+    <item>
+      <title>7 Best HTML5 Books for Beginners (2024)</title>
+      <link>/how-to-tech/the-best-html5-books-for-beginners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/the-best-html5-books-for-beginners/</guid>
+      <description>HTML (HyperText Markup Language) stands as one of the fundamental languages for designing websites on the internet.
+Learning HTML is an exciting journey as it provides beginners with a glimpse into the world of programming.
+While many prefer video tutorials, learning from documentation or books remains one of the most effective methods.
+In this article, we&amp;rsquo;ll look at some of the best HTML5 books suitable for beginners.
+The Best HTML5 Books for Beginners 1.</description>
+    </item>
+    
+    <item>
+      <title>How to Delete a Git Branch Locally and Remotely?</title>
+      <link>/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</guid>
+      <description>Branches in a Git repo are an amazing way to add new features to a project or fix bugs while still maintaining the main codebase.
+Over time, the branches you create may become too many, so you&amp;rsquo;ll want to delete some that are no longer needed.
+This could be because you just created them locally, or because they&amp;rsquo;ve already been merged with the main codebase.
+Table of Contents ↬How to delete a Git branch?</description>
+    </item>
+    
+    <item>
+      <title>List of Microsoft Edge Useful Keyboard Shortcuts Keys for Windows (2024)</title>
+      <link>/how-to-tech/list-of-microsoft-edge-useful-keyboard-shortcuts-keys-for-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-tech/list-of-microsoft-edge-useful-keyboard-shortcuts-keys-for-windows/</guid>
+      <description>Microsoft Edge, the default web browser for Windows 10, offers a range of keyboard shortcuts that can enhance your browsing experience.
+These shortcuts allow you to perform various tasks quickly and efficiently, saving you time and effort.
+Whether you&amp;rsquo;re a casual user or a power user, mastering these shortcuts can significantly improve your productivity and make browsing more convenient.
+Let&amp;rsquo;s explore some of the most useful Microsoft Edge keyboard shortcuts for Windows.</description>
     </item>
     
   </channel>

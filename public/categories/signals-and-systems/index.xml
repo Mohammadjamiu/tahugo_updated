@@ -131,19 +131,5 @@ In essence, anything that conveys information can be considered a signal. Exampl
 We can broadly categorize signals into two types: deterministic and random signals.</description>
     </item>
     
-    <item>
-      <title>Convolution Sum: How to Find the Convolution of a Discrete Time Signals with Solved Example</title>
-      <link>/signal-and-system/how-to-find-the-convolution-sum-of-discrete-time-signals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/signal-and-system/how-to-find-the-convolution-sum-of-discrete-time-signals/</guid>
-      <description>Convolution of two discrete time signal can be achieved using the convolution sum.
-Convolution sum is a mathematical tool that is used for combining two discrete signals to form a new (or third) signal.
-It is defined as:
-$ Y(n) = x*{1}(n) \circledast x*{2}(n) $ which can be calculated using
-$ Y(n) = \sum*{k=0} x*{1}(k)x_{2}(n-k) $
-In essence one of the signal maybe $ x_{1}(n)$ is kept the way it is while the other is shifted and the sum of their products results in the convolution sum of two signals.</description>
-    </item>
-    
   </channel>
 </rss>

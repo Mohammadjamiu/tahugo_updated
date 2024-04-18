@@ -89,7 +89,7 @@ What Is Multiplexing? Multiplexing is a technique used in telecommunications and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
-      <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022 In optical fibers, there are lots of factors that contribute to degradation of transmitted optical power which includes attenuation, dispersion, and scattering.
+      <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022In optical fibers, there are lots of factors that contribute to degradation of transmitted optical power which includes attenuation, dispersion, and scattering.
 So in this post I would be discussing what the scattering losses are in optical fiber.
 What is Scattering? Scattering is a phenomenon that occurs when a wave (such as light or sound) comes into contact with an object or a material.</description>
     </item>
@@ -559,17 +559,6 @@ But with all these benefits, optical fibers are faced with several types of sign
     </item>
     
     <item>
-      <title>What is absorption loss in optical fiber?</title>
-      <link>/networking/what-is-absorption-loss-in-optical-fiber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/networking/what-is-absorption-loss-in-optical-fiber/</guid>
-      <description>Optical fibers with its enormous bandwidth are used to transmit information over long distances by using light wave to carry data signals.
-However, the light can be absorbed by the fiber material, leading to a reduction in the power of the transmitted signal. This is called absorption loss.
-What is an absorption loss? Absorption loss is a type of loss that occurs in optical fibers when light is absorbed by the impurities in an optical fiber or by the fiber material itself.</description>
-    </item>
-    
-    <item>
       <title>Types of Optical Fiber Connectors Explained</title>
       <link>/networking/types-of-optical-fiber-connectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1009,6 +998,24 @@ If both signals were using the same frequency, they would essentially be canceli
       
       <guid>/networking/difference-between-address-bus-data-bus-and-control-bus/</guid>
       <description>Table of Contents ↬What is a bus? How fast is a bus? Size of a bus Types of buses 1. Address bus 2. Data bus 3. Control bus Differences between address bus, data bus, and control bus FAQs 1. Is the control bus unidirectional or not? 2. What is the direction of the address bus? 3. How does a control bus work? 4. How is bus speed measured? 5.</description>
+    </item>
+    
+    <item>
+      <title>LASER and its Characteristics</title>
+      <link>/networking/characteristics-of-laser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/networking/characteristics-of-laser/</guid>
+      <description>Table of Contents ↬What is a LASER? Characteristics of Lasers 1. Coherence 2. Directionality 3. Monochromatic 4. High Intensity Types of LASER 1. Gas Lasers 2. Solid-State Lasers 3. Diode Lasers Applications/How Lasers Are Used 1. In Medicine 2. In Industry 3. In Communication 4. In Scientific Research Wrap Up FAQs 1. How do lasers differ from conventional light sources? 2. What are some common applications of lasers in medicine?</description>
+    </item>
+    
+    <item>
+      <title>Differences Between Ordinary Light and Laser Light</title>
+      <link>/networking/differences-between-ordinary-light-and-laser-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/networking/differences-between-ordinary-light-and-laser-light/</guid>
+      <description>Table of Contents ↬What is Ordinary Light? What is Laser Light? Differences Between Ordinary Light and Laser Light 1. Nature of Light 2. Angular Spread 3. Directionality 4. Intensity 5. Coherence 6. Radiation Characteristics 7. Examples FAQs 1. How is laser light different from ordinary light? 2. Can ordinary light be as focused as laser light? 3. Are there any risks associated with using laser light? 4. What are some everyday applications of ordinary light?</description>
     </item>
     
     <item>

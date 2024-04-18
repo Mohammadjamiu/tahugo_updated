@@ -180,5 +180,41 @@ Given two polynomials:
 $ P(x) = a_n x^n + a_{n-1} x^{n-1} + \ldots + a_1x + a_0 $</description>
     </item>
     
+    <item>
+      <title>Difference Between Selectivity and Sensitivity of a Radio Receiver</title>
+      <link>/engineering-contents/selectivity-and-sensitivity-of-a-radio-receiver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/engineering-contents/selectivity-and-sensitivity-of-a-radio-receiver/</guid>
+      <description>Table of Contents ↬What is a Radio Receiver? Difference Between Selectivity and Sensitivity of a Radio Receiver What is Selectivity? What is Sensitivity? Summary FAQs 1. What is the primary function of a radio receiver? 2. How does selectivity contribute to clear reception? 3. Why is sensitivity important in a radio receiver? 4. Can selectivity and sensitivity be adjusted in a radio receiver? 5. How does sensitivity impact the range of a radio receiver?</description>
+    </item>
+    
+    <item>
+      <title>Why is RF Amplification Needed in a Radio Receiver?</title>
+      <link>/engineering-contents/why-is-rf-amplification-needed-in-a-radio-receiver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/engineering-contents/why-is-rf-amplification-needed-in-a-radio-receiver/</guid>
+      <description>Table of Contents ↬Why is RF Amplification Needed in a Radio Receiver? 1/ To Boost Weak RF Signals 2/ To Improve Signal-to-Noise Ratio (SNR) 3/ To Optimize Signal Transfer Efficiency Summary FAQs 1. What is the primary function of RF amplification in a radio receiver? 2. How does RF amplification contribute to signal quality improvement? 3. Is RF amplification necessary for all types of radio receivers? 4. What role does impedance matching play in RF amplification?</description>
+    </item>
+    
+    <item>
+      <title>Functions of IF (Intermediate Frequency) Amplifier in Superheterodyne Receiver</title>
+      <link>/engineering-contents/function-of-if-amplifier-in-superheterodyne-receiver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/engineering-contents/function-of-if-amplifier-in-superheterodyne-receiver/</guid>
+      <description>Table of Contents ↬What are the Functions of IF amplifier in Superheterodyne Receiver? 1. Signal Amplification 2. Selectivity 3. Frequency Conversion 4. Gain Control 5. Noise Performance Summary FAQs 1. How does the IF amplifier contribute to signal amplification? 2. How does the IF amplifier facilitate frequency conversion? 3. What is gain control, and why is it important? 4. How does the IF amplifier contribute to noise performance? In a superheterodyne receiver, the IF (Intermediate Frequency) is an intermediate frequency at which the incoming radio frequency (RF) signal is shifted during the mixing process.</description>
+    </item>
+    
+    <item>
+      <title>7 Image Processing Applications in Real Life</title>
+      <link>/engineering-contents/-image-processing-applications-in-real-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/engineering-contents/-image-processing-applications-in-real-life/</guid>
+      <description>Table of Contents ↬What is Image processing? Applications of Image Processing 1. Medicine / Medical imaging 2. Agriculture 3. Industry 4. Law Enforcement 5. Remote Sensing 6. Entertainment 7. Education FAQs 1. What is image processing? 2. How does image processing benefit healthcare? 3. How is image processing used in agriculture? 4. What role does image processing play in security and identification? What is Image processing? Image processing is basically the process of transforming an image into a digital form and then performing certain operations to extract some information from it or enhance it.</description>
+    </item>
+    
   </channel>
 </rss>
