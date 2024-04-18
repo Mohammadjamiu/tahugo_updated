@@ -3,7 +3,9 @@ languageCode: en-us
 title: Tooabstractive
 enableEmoji: true
 enableRobotsTXT: true
+enableGitInfo: true
 canonifyURLs: true
+dateFormat: "02 Jan 2006"
 paginate: 15
 ignoreErrors: ["error-remote-getjson"]
 params:
