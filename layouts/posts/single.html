@@ -6,8 +6,16 @@
 <div class="container-grid">
 <div class=" single-page-container">
  
-  <span class="post-date">{{.Params.postdate}}</span>
+  
+    {{ if eq (.Params.postdate) (.Lastmod | time.Format ":date_long") }}
+    <span class="post-date"> {{.Params.postdate}}  </span>
+{{ else }}
+<span class="post-date"> Modified: {{ .Lastmod | time.Format ":date_long" }}   </span>
+{{ end }}
+
   <h1>{{.Params.title}}</h1>
+
+
   <div class="post-metadata">
     {{if .Params.author_credit}}
 <p><img class="author__img" src="{{ .Params.author_credit_image}}" alt="{{ .Params.author_credit_name}}"></img>
@@ -33,7 +41,7 @@
   </div>
   <!-- {{ $date := .Date.Format "02.01.2006" }}
   {{ $lastmod := .Lastmod.Format "02.01.2006" }} -->
-  <br>
+  <!-- <br>
   Last modified on {{ .Page.Lastmod.Format "2006-01-02" }}
   <br>
   {{ .Lastmod | time.Format ":date_long" }}
@@ -43,8 +51,10 @@
       <span class="date-info italic"> <br> modified on {{ .Lastmod | time.Format ":date_long"  }}</span>
   {{ end }}
 
-  {{ .Date | time.Format ":date_medium" }}
+  {{ .Date | time.Format ":date_medium" }} -->
   <div class="bar-style"></div>
+ 
+  
   <!-- <details>
     <summary>Table of Contents</summary>
     {{ .Page.TableOfContents }}
@@ -80,7 +90,9 @@
 </div> 
 </div>
 {{end}}
-   <!-- <p>Disclosure: Some of the links above are affiliate links. This means that, at zero cost to you, I will earn an affiliate commission if you click through the link and finalize a purchase.</p>
+
+
+<!-- <p>Disclosure: Some of the links above are affiliate links. This means that, at zero cost to you, I will earn an affiliate commission if you click through the link and finalize a purchase.</p>
    -->
   
   <div class="readmore-recommend">

@@ -20,6 +20,12 @@ weight: 176
 categorylink: /categories/how-to-tech
 type: posts
 author: Mohammad Jamiu
+author_credit: true
+author_credit_name: Mohammad Jamiu
+author_credit_info: A telecommunications engineering graduate and web developer,
+  demystifies topics he loves, ranging from (engineering, tech, to writing and
+  productivity), and shares insights on this website.
+author_credit_image: /images/new-author-photo.webp
 Affliate_Links: false
 draft: false
 mathjax: false
