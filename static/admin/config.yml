@@ -100,30 +100,30 @@ collections:
           label: "Author Credit",
           name: "author_credit",
           widget: "boolean",
-          default: false,
+          default: true,
           required: false,
         }
       - {
           label: "Author Credit Name",
           name: "author_credit_name",
           widget: "string",
-          default: "",
-          required: false,
+          default: "Mohammad Jamiu",
+          required: true,
         }
       - {
           label: "Author Credit Info",
           name: "author_credit_info",
           widget: "string",
-          default: "",
-          required: false,
+          default: "A telecommunications engineering graduate and web developer, demystifies topics he loves, ranging from (engineering, tech, to writing and productivity), and shares insights on this website.",
+          required: true,
         }
       - {
           label: "Author Credit Image",
           name: "author_credit_image",
           widget: "image",
-          required: false,
+          required: true,
           choose_url: true,
-          default: "/images/imgph.webp",
+          default: "/images/new-author-photo.webp",
           media_library: { config: { multiple: true } },
         }
       - {

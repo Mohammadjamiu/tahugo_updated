@@ -1743,14 +1743,14 @@ collections:
           label: "Author Credit Name",
           name: "author_credit_name",
           widget: "string",
-          default: "",
+          default: "Mohammad Jamiu",
           required: false,
         }
       - {
           label: "Author Credit Info",
           name: "author_credit_info",
           widget: "string",
-          default: "",
+          default: "A telecommunications engineering graduate and web developer, demystifies topics he loves, ranging from (engineering, tech, to writing and productivity), and shares insights on this website.",
           required: false,
         }
       - {
@@ -1759,7 +1759,7 @@ collections:
           widget: "image",
           required: false,
           choose_url: true,
-          default: "/images/imgph.webp",
+          default: "/images/author_jamiu.webp",
           media_library: { config: { multiple: true } },
         }
       - {

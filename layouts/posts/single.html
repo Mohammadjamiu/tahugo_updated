@@ -7,8 +7,9 @@
 <div class=" single-page-container">
  
   
-    {{ if eq (.Params.postdate) (.Lastmod | time.Format ":date_long") }}
-    <span class="post-date"> {{.Params.postdate}}  </span>
+    {{ if ne (.Params.postdate) (.Lastmod | time.Format ":date_long") }}
+    <span class="post-date"> {{.Params.postdate}}</span>
+    <span class="post-date" style="color: rgb(148, 148, 148);"> / {{ .Params.weight }} /</span>
 {{ else }}
 <span class="post-date"> Modified: {{ .Lastmod | time.Format ":date_long" }}   </span>
 {{ end }}
@@ -25,7 +26,8 @@
     <p><img class="author__img" src="/images/author_jamiu.webp" alt="{{ .Params.author}}"></img>
     <p class="author">{{ .Params.author}} </p>
     {{end}}
-      <p class="dot">/</p><p class="weight">{{ .Params.weight }} </p>  <p class="dot">/</p>
+      <p class="dot">/</p>
+      <!-- <p class="dot">/</p><p class="weight">{{ .Params.weight }} </p>  <p class="dot">/</p> -->
     <p class="post-category">
       <a class="on-what-topic" href="{{.Params.categorylink}}"
         >{{if isset .Params "categorylabel" }}{{ .Params.categorylabel
