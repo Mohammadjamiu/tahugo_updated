@@ -280,12 +280,13 @@ a:focus {
 
 img {
   border: 0.18rem solid var(--accent-color);
-  max-width: 100%;
+  /* max-width: 100%; */
+  width: 100%;
   height: auto;
   margin: 2rem auto;
   display: inline-block;
   border-radius: 0.8rem;
-  aspect-ratio: 1 / 0.9 ;
+  /* aspect-ratio: 1 / 0.5 ; */
   box-shadow: 0 0.3rem 0.6rem hsla(0, 0%, 0%, 0.1);
   object-position: 50% 50%;
 }
