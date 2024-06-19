@@ -2,368 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronics on Tooabstractive</title>
-    <link>/electronics/</link>
+    <link>//localhost:1313/electronics/</link>
     <description>Recent content in Electronics on Tooabstractive</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2023 23:31:20 +0000</lastBuildDate><atom:link href="/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is diode used for? All you need to know to start designing simple circuits</title>
-      <link>/electronics/what-is-a-diode-used-for/</link>
+      <link>//localhost:1313/electronics/what-is-a-diode-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-is-a-diode-used-for/</guid>
-      <description>Basically diode is an electronic device or component that every circuits that we might think of has, be it the circuit inside a radio, a lamp, or your smartphone etc.
-So knowing what it is or what it is used for and the different types of diode is vital for an electronics hobbyist, or even electrical engineering students trying to design their own circuit.
-What is a diode? A diode is an electronic component that has two terminals positive (+ve) and negative (-ve) (also referred to as PN junction diode) which allows current to flow only in one direction.</description>
+      <guid>//localhost:1313/electronics/what-is-a-diode-used-for/</guid>
+      <description>Basically diode is an electronic device or component that every circuits that we might think of has, be it the circuit inside a radio, a lamp, or your smartphone etc.&#xA;So knowing what it is or what it is used for and the different types of diode is vital for an electronics hobbyist, or even electrical engineering students trying to design their own circuit.&#xA;What is a diode? A diode is an electronic component that has two terminals positive (+ve) and negative (-ve) (also referred to as PN junction diode) which allows current to flow only in one direction.</description>
     </item>
-    
     <item>
       <title>Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home</title>
-      <link>/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</link>
+      <link>//localhost:1313/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</guid>
-      <description>Are you a nerd or electronics hobbyist that have some mini electronics gadget laying around. why not jump start and repair few of them using some of the tips I have found useful while troubleshooting or repairing my own gadgets.
-So here are some of the list of the mini electronics gadgets and what you can do before you throw them away or call the attention of an expert.</description>
+      <guid>//localhost:1313/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/</guid>
+      <description>Are you a nerd or electronics hobbyist that have some mini electronics gadget laying around. why not jump start and repair few of them using some of the tips I have found useful while troubleshooting or repairing my own gadgets.&#xA;So here are some of the list of the mini electronics gadgets and what you can do before you throw them away or call the attention of an expert.</description>
     </item>
-    
     <item>
       <title>A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget.</title>
-      <link>/electronics/a-beginners-guide-to-using-a-multimeter/</link>
+      <link>//localhost:1313/electronics/a-beginners-guide-to-using-a-multimeter/</link>
       <pubDate>Wed, 04 Jan 2023 23:31:20 +0000</pubDate>
-      
-      <guid>/electronics/a-beginners-guide-to-using-a-multimeter/</guid>
-      <description>A multimeter is a multi-purpose tool that every electronics hobbyist or engineer need to have because it allows you to be able to troubleshoot most electronics problem you have at home.
-So in this post I would be discussing on some of the important things you need to know about a multimeter and some of the things you can do with it.
-What type of multimeter should I buy? I would say, as a beginner, all you need is a basic and cheap but functional multimeter that get your job done instead of buying a costly multimeter.</description>
+      <guid>//localhost:1313/electronics/a-beginners-guide-to-using-a-multimeter/</guid>
+      <description>A multimeter is a multi-purpose tool that every electronics hobbyist or engineer need to have because it allows you to be able to troubleshoot most electronics problem you have at home.&#xA;So in this post I would be discussing on some of the important things you need to know about a multimeter and some of the things you can do with it.&#xA;What type of multimeter should I buy? I would say, as a beginner, all you need is a basic and cheap but functional multimeter that get your job done instead of buying a costly multimeter.</description>
     </item>
-    
     <item>
       <title>How do solar cells work to generate electricity explained simply?</title>
-      <link>/electronics/how-do-solar-cells-work-to-generate-electricity/</link>
+      <link>//localhost:1313/electronics/how-do-solar-cells-work-to-generate-electricity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/how-do-solar-cells-work-to-generate-electricity/</guid>
-      <description>The way solar cells work to generate electricity is by absorbing energy from the sun (which constitutes tiny particles called photons).
-This energy from the sun strikes the solar cells thereby resulting in electrons being knocked out from their normal position and then being allowed to move freely, resulting to be the current that flows through our circuits or light bulb at home.
-But there is more physics behind how solar cells work to generate electricity so let’s look into that.</description>
+      <guid>//localhost:1313/electronics/how-do-solar-cells-work-to-generate-electricity/</guid>
+      <description>The way solar cells work to generate electricity is by absorbing energy from the sun (which constitutes tiny particles called photons).&#xA;This energy from the sun strikes the solar cells thereby resulting in electrons being knocked out from their normal position and then being allowed to move freely, resulting to be the current that flows through our circuits or light bulb at home.&#xA;But there is more physics behind how solar cells work to generate electricity so let’s look into that.</description>
     </item>
-    
     <item>
       <title>22 Resources for Learning Electronics From Scratch (For Beginners)</title>
-      <link>/electronics/resources-for-learning-electronics-from-scratch/</link>
+      <link>//localhost:1313/electronics/resources-for-learning-electronics-from-scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/resources-for-learning-electronics-from-scratch/</guid>
-      <description>Learning electronics can be fun sometimes but for other times can be really frustrating. So having good resources around can help reduce those frustration and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets.
-Because electronics is not something to just study as a theory but needed to be applied practically, and on your way of getting your hands on electronics, you will become better at it.</description>
+      <guid>//localhost:1313/electronics/resources-for-learning-electronics-from-scratch/</guid>
+      <description>Learning electronics can be fun sometimes but for other times can be really frustrating. So having good resources around can help reduce those frustration and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets.&#xA;Because electronics is not something to just study as a theory but needed to be applied practically, and on your way of getting your hands on electronics, you will become better at it.</description>
     </item>
-    
     <item>
       <title>Importance of Programming to Electrical and Electronics Engineering</title>
-      <link>/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</link>
+      <link>//localhost:1313/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</guid>
-      <description>Programming is important to electrical and electronics engineering (or EEE for short) because EEE is all about problem-solving and these problems are solved using mathematics, physics, and programming (sometimes referred to as coding).
-But what is programming all about? Programming is a skill or tool that is used for commanding or instructing computers or hardware devices to do a specific task most especially those that are repetitive and need precision because a human can&amp;rsquo;t, or those tasks that help to make life easier for us.</description>
+      <guid>//localhost:1313/electronics/importance-of-programming-to-electrical-and-electronics-engineering/</guid>
+      <description>Programming is important to electrical and electronics engineering (or EEE for short) because EEE is all about problem-solving and these problems are solved using mathematics, physics, and programming (sometimes referred to as coding).&#xA;But what is programming all about? Programming is a skill or tool that is used for commanding or instructing computers or hardware devices to do a specific task most especially those that are repetitive and need precision because a human can&amp;rsquo;t, or those tasks that help to make life easier for us.</description>
     </item>
-    
     <item>
       <title>What Is a Resistor Used For? All You Need To know About Resistors Explained Simply</title>
-      <link>/electronics/what-is-a-resistor-used-for/</link>
+      <link>//localhost:1313/electronics/what-is-a-resistor-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-is-a-resistor-used-for/</guid>
-      <description>Before going in depth of what a resistor is used for and the other things you need to know about it, you need to know what it is.
-What is a resistor? A resistor is an electronics component that limits (or reduce) the flow of current in a circuit, as well as cause voltage to be dropped across it.
-In other words, it main purpose or function in a circuit is to control current flow.</description>
+      <guid>//localhost:1313/electronics/what-is-a-resistor-used-for/</guid>
+      <description>Before going in depth of what a resistor is used for and the other things you need to know about it, you need to know what it is.&#xA;What is a resistor? A resistor is an electronics component that limits (or reduce) the flow of current in a circuit, as well as cause voltage to be dropped across it.&#xA;In other words, it main purpose or function in a circuit is to control current flow.</description>
     </item>
-    
     <item>
       <title>What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques</title>
-      <link>/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</link>
+      <link>//localhost:1313/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</guid>
-      <description>Without modulation, it might seem impossible for human to communicate over a long distance. Because when we speak, it get propagated into space and dies out and the information can only be gotten if the person we want to communicate with is close.
-Know that the frequency of human voice is around the range of 20hz to 20Khz which is low and can&amp;rsquo;t travel far. With this in mind, a third party is needed to carry the information over a long distance just as if you throw a piece of paper on the ground, it takes longer to go down because air makes it to float but if you tie a stone to the paper, it goes down quickly.</description>
+      <guid>//localhost:1313/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/</guid>
+      <description>Without modulation, it might seem impossible for human to communicate over a long distance. Because when we speak, it get propagated into space and dies out and the information can only be gotten if the person we want to communicate with is close.&#xA;Know that the frequency of human voice is around the range of 20hz to 20Khz which is low and can&amp;rsquo;t travel far. With this in mind, a third party is needed to carry the information over a long distance just as if you throw a piece of paper on the ground, it takes longer to go down because air makes it to float but if you tie a stone to the paper, it goes down quickly.</description>
     </item>
-    
     <item>
       <title>What are radio waves? What are radio waves used for? All you need to know</title>
-      <link>/electronics/what-are-radio-waves-and-what-are-they-used-for/</link>
+      <link>//localhost:1313/electronics/what-are-radio-waves-and-what-are-they-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-are-radio-waves-and-what-are-they-used-for/</guid>
-      <description>The major reason why we can communicate wirelessly is through the adventure of radio waves.
-What are radio waves? Radio waves are part of the electromagnetic spectrum family with frequencies in the range of 3Khz to 300Ghz which consist of radio frequency RF waves and microwaves.
-It can also be defined as an electromagnetic wave with an electric field (E) and magnetic field (H) components.
-Know:
-Radio waves are called wireless wave because the word &amp;ldquo;radio&amp;rdquo; is used to signify &amp;ldquo;wireless communication&amp;rdquo;.</description>
+      <guid>//localhost:1313/electronics/what-are-radio-waves-and-what-are-they-used-for/</guid>
+      <description>The major reason why we can communicate wirelessly is through the adventure of radio waves.&#xA;What are radio waves? Radio waves are part of the electromagnetic spectrum family with frequencies in the range of 3Khz to 300Ghz which consist of radio frequency RF waves and microwaves.&#xA;It can also be defined as an electromagnetic wave with an electric field (E) and magnetic field (H) components.&#xA;Know:&#xA;Radio waves are called wireless wave because the word &amp;ldquo;radio&amp;rdquo; is used to signify &amp;ldquo;wireless communication&amp;rdquo;.</description>
     </item>
-    
     <item>
       <title>What is decibel (dB)? A better explanation for students</title>
-      <link>/electronics/decibel-explained-simply/</link>
+      <link>//localhost:1313/electronics/decibel-explained-simply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/decibel-explained-simply/</guid>
-      <description>Decibel (dB) is a logarithmic unit used by engineers to measure power, voltage/current or sound level.
-It is mostly used when there is loss or gain in power (or signal strength), pressure, voltage or sound level.
-In essence the dB is a measure of the ratio between two parameters. The parameter can be a signal strength from one point to another in a transmission line, pressure between two points, voltage between two points etc.</description>
+      <guid>//localhost:1313/electronics/decibel-explained-simply/</guid>
+      <description>Decibel (dB) is a logarithmic unit used by engineers to measure power, voltage/current or sound level.&#xA;It is mostly used when there is loss or gain in power (or signal strength), pressure, voltage or sound level.&#xA;In essence the dB is a measure of the ratio between two parameters. The parameter can be a signal strength from one point to another in a transmission line, pressure between two points, voltage between two points etc.</description>
     </item>
-    
     <item>
       <title>Baseband and Broadband Transmission in Communication System Explained</title>
-      <link>/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</link>
+      <link>//localhost:1313/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</guid>
-      <description>Baseband and broadband transmission are ways in which digital signals can be transmitted from one point to another.
-Baseband transmission Baseband transmission refers to transmission in which a digital signal is sent over a channel without changing or converting the digital signal to an analog signal.
-Broadband transmission Broadband transmission sometimes referred to as modulation means changing or converting a digital signal to analog signal for transmission.
-Note
-The conversion from digital to analog is possible with modulation.</description>
+      <guid>//localhost:1313/electronics/baseband-and-broadband-transmission-in-communication-system-explained/</guid>
+      <description>Baseband and broadband transmission are ways in which digital signals can be transmitted from one point to another.&#xA;Baseband transmission Baseband transmission refers to transmission in which a digital signal is sent over a channel without changing or converting the digital signal to an analog signal.&#xA;Broadband transmission Broadband transmission sometimes referred to as modulation means changing or converting a digital signal to analog signal for transmission.&#xA;Note&#xA;The conversion from digital to analog is possible with modulation.</description>
     </item>
-    
     <item>
       <title>19 Steps for Learning Electronics as a Beginner (2022)</title>
-      <link>/electronics/19-steps-for-learning-electronics-as-a-beginner/</link>
+      <link>//localhost:1313/electronics/19-steps-for-learning-electronics-as-a-beginner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/19-steps-for-learning-electronics-as-a-beginner/</guid>
-      <description>Learning electronics is fun because you can think of something and design or make it real. But where the problem lies is not knowing the route to take or what to learn.
-So in this posts I will be highlighting how you can learn electronics as a beginner.
-Start with the fundamentals Learn what a circuit is
-Learn what an electricity is and also how does it flow
-Understand the concept of voltage, current and resistance and the law that governs them which is Ohms law</description>
+      <guid>//localhost:1313/electronics/19-steps-for-learning-electronics-as-a-beginner/</guid>
+      <description>Learning electronics is fun because you can think of something and design or make it real. But where the problem lies is not knowing the route to take or what to learn.&#xA;So in this posts I will be highlighting how you can learn electronics as a beginner.&#xA;Start with the fundamentals Learn what a circuit is&#xA;Learn what an electricity is and also how does it flow&#xA;Understand the concept of voltage, current and resistance and the law that governs them which is Ohms law</description>
     </item>
-    
     <item>
       <title>Digital to Analog Signal Conversion Explained</title>
-      <link>/electronics/digital-to-analog-signal-conversion/</link>
+      <link>//localhost:1313/electronics/digital-to-analog-signal-conversion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/digital-to-analog-signal-conversion/</guid>
-      <description>Digital to analog signal conversion involves the process of changing or modifying one of the characteristics of an analog signal in accordance to the information in the digital data.
-But before discussing on what the techniques used for converting a digital signal to analog signal lets first discuss on what digital and analog signals are.
-Digital signalsare signals that carries information (data) in form of sequence of pulses with discrete value.</description>
+      <guid>//localhost:1313/electronics/digital-to-analog-signal-conversion/</guid>
+      <description>Digital to analog signal conversion involves the process of changing or modifying one of the characteristics of an analog signal in accordance to the information in the digital data.&#xA;But before discussing on what the techniques used for converting a digital signal to analog signal lets first discuss on what digital and analog signals are.&#xA;Digital signalsare signals that carries information (data) in form of sequence of pulses with discrete value.</description>
     </item>
-    
     <item>
       <title>What Is Electricity and How Does It Work? A Simple Explanation</title>
-      <link>/electronics/what-is-electricity-and-how-does-it-work/</link>
+      <link>//localhost:1313/electronics/what-is-electricity-and-how-does-it-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-is-electricity-and-how-does-it-work/</guid>
-      <description>Electricity is basically what flows through a wire or a conductor and then power up our light bulb, TV, and other electronic gadgets at home. And it works by letting tiny particles called electrons to flow or move through a conductive closed path.
-In essence, a wire which is a conductor allows those electrons to flow through it resulting in what is called electric current or electricity.
-But to understand what electricity is and how it works on a deeper level, we need to zoom down to zero and understand the physics behind it.</description>
+      <guid>//localhost:1313/electronics/what-is-electricity-and-how-does-it-work/</guid>
+      <description>Electricity is basically what flows through a wire or a conductor and then power up our light bulb, TV, and other electronic gadgets at home. And it works by letting tiny particles called electrons to flow or move through a conductive closed path.&#xA;In essence, a wire which is a conductor allows those electrons to flow through it resulting in what is called electric current or electricity.&#xA;But to understand what electricity is and how it works on a deeper level, we need to zoom down to zero and understand the physics behind it.</description>
     </item>
-    
     <item>
       <title>Baseband and Passband Signal and Their Difference in Communication</title>
-      <link>/electronics/baseband-and-passband-signal-and-their-difference/</link>
+      <link>//localhost:1313/electronics/baseband-and-passband-signal-and-their-difference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/baseband-and-passband-signal-and-their-difference/</guid>
-      <description>In communication, baseband signal is the original or natural information (i.e. the information we are interested to send) e.g. voice, image, or video. Baseband is also called the message signal.
-But to carry this baseband signal over a long distance as it has a low frequency, modulation needs to take place. If the baseband or original message is used to modify a carrier wave (i.e. modulation process) then after modulation, the information that is transferred is the passband signal.</description>
+      <guid>//localhost:1313/electronics/baseband-and-passband-signal-and-their-difference/</guid>
+      <description>In communication, baseband signal is the original or natural information (i.e. the information we are interested to send) e.g. voice, image, or video. Baseband is also called the message signal.&#xA;But to carry this baseband signal over a long distance as it has a low frequency, modulation needs to take place. If the baseband or original message is used to modify a carrier wave (i.e. modulation process) then after modulation, the information that is transferred is the passband signal.</description>
     </item>
-    
     <item>
       <title>Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications</title>
-      <link>/electronics/frequency-range-of-radio-waves/</link>
+      <link>//localhost:1313/electronics/frequency-range-of-radio-waves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/frequency-range-of-radio-waves/</guid>
-      <description>Radio waves play a vital role in modern communication systems, enabling us to transmit and receive information wirelessly over long distances.
-These waves are categorized based on their frequency range and are part of the electromagnetic spectrum (EM spectrum).
-In this article, we will explore the frequency range of radio waves and their applications across various bands of the EM spectrum.
-Table of Contents ↬What are Radio Waves? Frequency Range of Radio Waves 1.</description>
+      <guid>//localhost:1313/electronics/frequency-range-of-radio-waves/</guid>
+      <description>Radio waves play a vital role in modern communication systems, enabling us to transmit and receive information wirelessly over long distances.&#xA;These waves are categorized based on their frequency range and are part of the electromagnetic spectrum (EM spectrum).&#xA;In this article, we will explore the frequency range of radio waves and their applications across various bands of the EM spectrum.&#xA;Table of Contents ↬&#xD;What are Radio Waves? Frequency Range of Radio Waves 1.</description>
     </item>
-    
     <item>
       <title>What Is Horn Antenna? Its uses, Types, Design parameters and Applications.</title>
-      <link>/electronics/what-is-horn-antenna-and-its-uses/</link>
+      <link>//localhost:1313/electronics/what-is-horn-antenna-and-its-uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-is-horn-antenna-and-its-uses/</guid>
-      <description>Horn antenna is an antenna which is constructed by flaring (or opening) of a waveguide (a metallic material) in order to direct electromagnetic waves in one direction.
-What is a horn antenna used for? It is a directional antenna which is used to increase directivity It helps in improving impedance matching because the waveguide mostly has impedance of about 50Ω while the impedance of the free space is 377Ω. In order to match out the impedance so as to reduce power loss, a flaring is used to kind of concentrate the electromagnetic waves.</description>
+      <guid>//localhost:1313/electronics/what-is-horn-antenna-and-its-uses/</guid>
+      <description>Horn antenna is an antenna which is constructed by flaring (or opening) of a waveguide (a metallic material) in order to direct electromagnetic waves in one direction.&#xA;What is a horn antenna used for? It is a directional antenna which is used to increase directivity It helps in improving impedance matching because the waveguide mostly has impedance of about 50Ω while the impedance of the free space is 377Ω. In order to match out the impedance so as to reduce power loss, a flaring is used to kind of concentrate the electromagnetic waves.</description>
     </item>
-    
     <item>
       <title>Why is Frequency Domain Analysis Better Than Time Domain Analysis</title>
-      <link>/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</link>
+      <link>//localhost:1313/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</guid>
-      <description>Frequency domain analysis is better and preferred than time domain analysis because of some characteristics possessed by signals in frequency domain and that would be discussed below.
-First what is time domain signal and frequency domain signal.
-What is Time domain signal? Signals in time domain is a signal plotted with the amplitude on the vertical or y axis with respect to time on the horizontal axis or X-axis.
-Signals in time domain are measured in seconds or s.</description>
+      <guid>//localhost:1313/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/</guid>
+      <description>Frequency domain analysis is better and preferred than time domain analysis because of some characteristics possessed by signals in frequency domain and that would be discussed below.&#xA;First what is time domain signal and frequency domain signal.&#xA;What is Time domain signal? Signals in time domain is a signal plotted with the amplitude on the vertical or y axis with respect to time on the horizontal axis or X-axis.&#xA;Signals in time domain are measured in seconds or s.</description>
     </item>
-    
     <item>
       <title>Basic Elements of Communication Systems</title>
-      <link>/electronics/basic-element-of-communication-system/</link>
+      <link>//localhost:1313/electronics/basic-element-of-communication-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/basic-element-of-communication-system/</guid>
-      <description>What is a communication system? A communication system refers to devices, circuits, or networks used for the transmitting, receiving and processing of information or data (such as voice, computer data etc.) between two different points or users.
-Basic elements of communication systems In a communication system, there are generally five basic elements, which are:
-Information (or data, is the actual message such as human voice) Transmitter (a device used for transmitting the information received) Communication Channel (or medium, is the medium where the message can travel through) Noise (or random signal which is introduced while transmitting the information, can be caused due to several natural factors such as thunder, sun radiation etc.</description>
+      <guid>//localhost:1313/electronics/basic-element-of-communication-system/</guid>
+      <description>What is a communication system? A communication system refers to devices, circuits, or networks used for the transmitting, receiving and processing of information or data (such as voice, computer data etc.) between two different points or users.&#xA;Basic elements of communication systems In a communication system, there are generally five basic elements, which are:&#xA;Information (or data, is the actual message such as human voice) Transmitter (a device used for transmitting the information received) Communication Channel (or medium, is the medium where the message can travel through) Noise (or random signal which is introduced while transmitting the information, can be caused due to several natural factors such as thunder, sun radiation etc.</description>
     </item>
-    
     <item>
       <title>27 Electronics Tools and Their Functions (for beginners)</title>
-      <link>/electronics/electronic-tools-and-their-functions/</link>
+      <link>//localhost:1313/electronics/electronic-tools-and-their-functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/electronic-tools-and-their-functions/</guid>
-      <description>As an electronics hobbyist or a beginner that&amp;rsquo;s new to the world of electronics, imagine being able to diagnose and fix any electronic device that comes your way.
-With the right tools at your disposal, you can confidently tackle any project, from repairing an old radio to building your own custom circuit board.
-But it&amp;rsquo;s not just about repair and maintenance – with electronics tools, you can bring your own ideas to life, prototyping and testing new devices until they&amp;rsquo;re perfect.</description>
+      <guid>//localhost:1313/electronics/electronic-tools-and-their-functions/</guid>
+      <description>As an electronics hobbyist or a beginner that&amp;rsquo;s new to the world of electronics, imagine being able to diagnose and fix any electronic device that comes your way.&#xA;With the right tools at your disposal, you can confidently tackle any project, from repairing an old radio to building your own custom circuit board.&#xA;But it&amp;rsquo;s not just about repair and maintenance – with electronics tools, you can bring your own ideas to life, prototyping and testing new devices until they&amp;rsquo;re perfect.</description>
     </item>
-    
     <item>
       <title>Examples of Devices That Use Capacitors</title>
-      <link>/electronics/examples-of-devices-that-use-capacitors/</link>
+      <link>//localhost:1313/electronics/examples-of-devices-that-use-capacitors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/examples-of-devices-that-use-capacitors/</guid>
-      <description>A capacitor is an electronic device that stores and releases electrical energy in an electric field between two conductive plates. It is commonly used in electrical and electronic circuits for a variety of purposes, including filtering out noise from electrical signals to provide clean signals in applications such as audio equipment and power supplies.
-Examples of Devices That Use Capacitors Here are some examples of devices that use capacitors and the function of capacitors in them:</description>
+      <guid>//localhost:1313/electronics/examples-of-devices-that-use-capacitors/</guid>
+      <description>A capacitor is an electronic device that stores and releases electrical energy in an electric field between two conductive plates. It is commonly used in electrical and electronic circuits for a variety of purposes, including filtering out noise from electrical signals to provide clean signals in applications such as audio equipment and power supplies.&#xA;Examples of Devices That Use Capacitors Here are some examples of devices that use capacitors and the function of capacitors in them:</description>
     </item>
-    
     <item>
       <title>Difference Between Linear and Nonlinear Devices</title>
-      <link>/electronics/difference-between-linear-and-nonlinear-devices/</link>
+      <link>//localhost:1313/electronics/difference-between-linear-and-nonlinear-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/difference-between-linear-and-nonlinear-devices/</guid>
-      <description>In electronics, a linear device is one that produces an output signal that is directly proportional to the input signal, whereas a nonlinear device is one that does not exhibit a direct proportionality between the input and output signals.
-What Is a Linear Device? A linear device is one that produces an output signal that is directly proportional to the input signal. This means that if the input signal is doubled, the output signal will also be doubled.</description>
+      <guid>//localhost:1313/electronics/difference-between-linear-and-nonlinear-devices/</guid>
+      <description>In electronics, a linear device is one that produces an output signal that is directly proportional to the input signal, whereas a nonlinear device is one that does not exhibit a direct proportionality between the input and output signals.&#xA;What Is a Linear Device? A linear device is one that produces an output signal that is directly proportional to the input signal. This means that if the input signal is doubled, the output signal will also be doubled.</description>
     </item>
-    
     <item>
       <title>Can Electronics Engineer Work As Electrical Engineer?</title>
-      <link>/electronics/can-electronics-engineer-work-as-electrical-engineer/</link>
+      <link>//localhost:1313/electronics/can-electronics-engineer-work-as-electrical-engineer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/can-electronics-engineer-work-as-electrical-engineer/</guid>
-      <description>No, an electronics engineer cannot work as an electrical engineer without additional education and training in the specific areas of electrical engineering.
-Because the two fields have different areas of focus and expertise, despite some overlap.
-Electronics engineering is a specialized field that deals with the design, development, and testing of electronic circuits, devices, and systems. It focuses on the principles of physics, mathematics, and engineering to design and develop electronic components and systems, such as microprocessors, microcontrollers, sensors, and circuit boards.</description>
+      <guid>//localhost:1313/electronics/can-electronics-engineer-work-as-electrical-engineer/</guid>
+      <description>No, an electronics engineer cannot work as an electrical engineer without additional education and training in the specific areas of electrical engineering.&#xA;Because the two fields have different areas of focus and expertise, despite some overlap.&#xA;Electronics engineering is a specialized field that deals with the design, development, and testing of electronic circuits, devices, and systems. It focuses on the principles of physics, mathematics, and engineering to design and develop electronic components and systems, such as microprocessors, microcontrollers, sensors, and circuit boards.</description>
     </item>
-    
     <item>
       <title>What Are the Advantages of Digital Modulation Over Analog Modulation?</title>
-      <link>/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/</link>
+      <link>//localhost:1313/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/</guid>
-      <description>Modulation is the process of modifying a carrier wave to encode information for transmission. The carrier wave is a high-frequency signal that is used to carry the information signal from the transmitter to the receiver.
-Without modulation, the information, or message signal would not be able to travel over long distances, as the message signal is often a low frequency signal.
-What Is an Analog Modulation? Analog modulation involves varying the amplitude, frequency, or phase of the carrier wave to encode the information signal.</description>
+      <guid>//localhost:1313/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/</guid>
+      <description>Modulation is the process of modifying a carrier wave to encode information for transmission. The carrier wave is a high-frequency signal that is used to carry the information signal from the transmitter to the receiver.&#xA;Without modulation, the information, or message signal would not be able to travel over long distances, as the message signal is often a low frequency signal.&#xA;What Is an Analog Modulation? Analog modulation involves varying the amplitude, frequency, or phase of the carrier wave to encode the information signal.</description>
     </item>
-    
     <item>
       <title>What Is Meant by the Term Impedance?</title>
-      <link>/electronics/what-is-meant-by-the-term-impedance/</link>
+      <link>//localhost:1313/electronics/what-is-meant-by-the-term-impedance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-is-meant-by-the-term-impedance/</guid>
-      <description>Impedance is a term used in electrical engineering to describes the opposition of a circuit or device to the flow of electrical current.
-It is a measure of the combined effects of resistance, capacitance, and inductance on the behavior of the circuit.
-In a DC system, the impedance of a component is equivalent to its resistance and is defined as the ratio of the voltage across the component to the current flowing through it.</description>
+      <guid>//localhost:1313/electronics/what-is-meant-by-the-term-impedance/</guid>
+      <description>Impedance is a term used in electrical engineering to describes the opposition of a circuit or device to the flow of electrical current.&#xA;It is a measure of the combined effects of resistance, capacitance, and inductance on the behavior of the circuit.&#xA;In a DC system, the impedance of a component is equivalent to its resistance and is defined as the ratio of the voltage across the component to the current flowing through it.</description>
     </item>
-    
     <item>
       <title>Why Can&#39;t We Use Capacitors Instead of Batteries?</title>
-      <link>/electronics/why-cant-we-use-capacitors-instead-of-batteries/</link>
+      <link>//localhost:1313/electronics/why-cant-we-use-capacitors-instead-of-batteries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/why-cant-we-use-capacitors-instead-of-batteries/</guid>
-      <description>The reason why capacitors cannot be used as a replacement for batteries is due to their limited energy storage duration, rapid voltage decay, and lower energy density.
-Nonetheless, capacitors do serve specific tasks and have their unique applications.
-This article will delve deeper into the reasons behind this limitation and explore the roles of capacitors and batteries in different scenarios.
-Table of Contents ↬What Are Capacitors and Their Functions? Reasons Why Capacitors Cannot Replace Batteries Capacitor Use Cases Battery Use Cases Capacitors and Batteries Working Together What about Super Capacitors or Ultra Capacitors?</description>
+      <guid>//localhost:1313/electronics/why-cant-we-use-capacitors-instead-of-batteries/</guid>
+      <description>The reason why capacitors cannot be used as a replacement for batteries is due to their limited energy storage duration, rapid voltage decay, and lower energy density.&#xA;Nonetheless, capacitors do serve specific tasks and have their unique applications.&#xA;This article will delve deeper into the reasons behind this limitation and explore the roles of capacitors and batteries in different scenarios.&#xA;Table of Contents ↬&#xD;What Are Capacitors and Their Functions? Reasons Why Capacitors Cannot Replace Batteries Capacitor Use Cases Battery Use Cases Capacitors and Batteries Working Together What about Super Capacitors or Ultra Capacitors?</description>
     </item>
-    
     <item>
       <title>How to Use (or Configure) 555 Timer as a Schmitt Trigger?</title>
-      <link>/electronics/how-to-use-a-555-timer-as-a-schmitt-trigger/</link>
+      <link>//localhost:1313/electronics/how-to-use-a-555-timer-as-a-schmitt-trigger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/how-to-use-a-555-timer-as-a-schmitt-trigger/</guid>
-      <description>In electronics, the 555 timer is a small but mighty integrated circuit. Its versatility makes it a valuable component in various timing circuits.
-One particularly interesting application of the 555 timer is using it as a Schmitt trigger.
-In this article, we will look into what a Schmitt trigger is, explore the basics of the 555 timer, and learn how to configure it as a Schmitt trigger.
-Table of Contents ↬What is a Schmitt Trigger?</description>
+      <guid>//localhost:1313/electronics/how-to-use-a-555-timer-as-a-schmitt-trigger/</guid>
+      <description>In electronics, the 555 timer is a small but mighty integrated circuit. Its versatility makes it a valuable component in various timing circuits.&#xA;One particularly interesting application of the 555 timer is using it as a Schmitt trigger.&#xA;In this article, we will look into what a Schmitt trigger is, explore the basics of the 555 timer, and learn how to configure it as a Schmitt trigger.&#xA;Table of Contents ↬&#xD;What is a Schmitt Trigger?</description>
     </item>
-    
     <item>
       <title>How to fix “Serial port unavailable” (Arduino)?</title>
-      <link>/electronics/how-to-fix-serial-port-unavailable-with-arduino/</link>
+      <link>//localhost:1313/electronics/how-to-fix-serial-port-unavailable-with-arduino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/how-to-fix-serial-port-unavailable-with-arduino/</guid>
-      <description>Have you ever encountered the frustrating issue of “Serial port unavailable” or “No Ports Discovered” when connecting your Arduino board to a computer via USB cable?
-This problem prevents you from uploading your code to the board. In this article, we will be looking at tips on how this issue can be troubleshooted.
-Table of Contents ↬How to fix “Serial port unavailable” with Arduino Tip 1: Open Device Manager and Check Port Driver Tip 2: Check USB Port Connection Tip 3: Reinstall Arduino Software Tip 4: Restart Your Computer Tip 5: Check Board and Port in Arduino IDE Tip 6: Try a Different Arduino Board Tip 7: Check for Other Software Interference Tip 8: Community Support Wrap Up FAQs How to fix “Serial port unavailable” with Arduino Here are some troubleshooting tips you can follow to fix it:</description>
+      <guid>//localhost:1313/electronics/how-to-fix-serial-port-unavailable-with-arduino/</guid>
+      <description>Have you ever encountered the frustrating issue of “Serial port unavailable” or “No Ports Discovered” when connecting your Arduino board to a computer via USB cable?&#xA;This problem prevents you from uploading your code to the board. In this article, we will be looking at tips on how this issue can be troubleshooted.&#xA;Table of Contents ↬&#xD;How to fix “Serial port unavailable” with Arduino Tip 1: Open Device Manager and Check Port Driver Tip 2: Check USB Port Connection Tip 3: Reinstall Arduino Software Tip 4: Restart Your Computer Tip 5: Check Board and Port in Arduino IDE Tip 6: Try a Different Arduino Board Tip 7: Check for Other Software Interference Tip 8: Community Support Wrap Up FAQs How to fix “Serial port unavailable” with Arduino Here are some troubleshooting tips you can follow to fix it:</description>
     </item>
-    
     <item>
       <title>How to Fix a SIM900 GSM Module That&#39;s Not Working?</title>
-      <link>/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</link>
+      <link>//localhost:1313/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</guid>
-      <description>GSM modules, such as the SIM900, are fantastic tools for communication, but they can be tricky to set up, especially for beginners.
-If you&amp;rsquo;ve encountered issues connecting your module, don&amp;rsquo;t worry—I&amp;rsquo;ve been there too.
-Let&amp;rsquo;s look into the common problems and solutions for fixing a non-functional SIM900 GSM module.
-For example, maybe the GSM module is not turning ON, or it is turning ON but not connecting.
-Table of Contents ↬How to Fix a SIM900 GSM Module That&amp;rsquo;s Not Working?</description>
+      <guid>//localhost:1313/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</guid>
+      <description>GSM modules, such as the SIM900, are fantastic tools for communication, but they can be tricky to set up, especially for beginners.&#xA;If you&amp;rsquo;ve encountered issues connecting your module, don&amp;rsquo;t worry—I&amp;rsquo;ve been there too.&#xA;Let&amp;rsquo;s look into the common problems and solutions for fixing a non-functional SIM900 GSM module.&#xA;For example, maybe the GSM module is not turning ON, or it is turning ON but not connecting.&#xA;Table of Contents ↬&#xD;How to Fix a SIM900 GSM Module That&amp;rsquo;s Not Working?</description>
     </item>
-    
     <item>
       <title>15&#43; Most Commonly Used Arduino Sensors, Their Functions, and Applications</title>
-      <link>/electronics/most-commonly-used-arduino-sensors-their-functions-and-applications/</link>
+      <link>//localhost:1313/electronics/most-commonly-used-arduino-sensors-their-functions-and-applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/most-commonly-used-arduino-sensors-their-functions-and-applications/</guid>
-      <description>What are Arduino sensors, and how do they work? Arduino sensors are fundamental components that enable Arduino boards to interact with the physical world by detecting changes in the environment.
-These sensors convert various physical phenomena, such as temperature, light, sound, and motion, into electrical signals that can be processed by Arduino microcontrollers.
-Table of Contents ↬What are Arduino sensors, and how do they work? Most commonly used Arduino sensors, their functions, and applications 1.</description>
+      <guid>//localhost:1313/electronics/most-commonly-used-arduino-sensors-their-functions-and-applications/</guid>
+      <description>What are Arduino sensors, and how do they work? Arduino sensors are fundamental components that enable Arduino boards to interact with the physical world by detecting changes in the environment.&#xA;These sensors convert various physical phenomena, such as temperature, light, sound, and motion, into electrical signals that can be processed by Arduino microcontrollers.&#xA;Table of Contents ↬&#xD;What are Arduino sensors, and how do they work? Most commonly used Arduino sensors, their functions, and applications 1.</description>
     </item>
-    
     <item>
       <title>Advantages and Disadvantages of Radio Waves</title>
-      <link>/electronics/advantages-and-disadvantages-of-radio-waves/</link>
+      <link>//localhost:1313/electronics/advantages-and-disadvantages-of-radio-waves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/advantages-and-disadvantages-of-radio-waves/</guid>
-      <description>Radio waves are a type of electromagnetic radiation with the longest wavelengths and lowest frequencies.
-They are all around us, used for a variety of purposes like radio and television broadcasting, mobile phone communication, Wi-Fi, and radar.
-Radio Waves - Credit: radio-waves.orange
-In this article, we look at the advantages and disadvantages of these radio waves.
-Table of Contents ↬Advantages of Radio Waves 1. Long-Range Communication: 2. Penetration Through Obstacles: 3.</description>
+      <guid>//localhost:1313/electronics/advantages-and-disadvantages-of-radio-waves/</guid>
+      <description>Radio waves are a type of electromagnetic radiation with the longest wavelengths and lowest frequencies.&#xA;They are all around us, used for a variety of purposes like radio and television broadcasting, mobile phone communication, Wi-Fi, and radar.&#xA;Radio Waves - Credit: radio-waves.orange&#xA;In this article, we look at the advantages and disadvantages of these radio waves.&#xA;Table of Contents ↬&#xD;Advantages of Radio Waves 1. Long-Range Communication: 2. Penetration Through Obstacles: 3.</description>
     </item>
-    
     <item>
       <title>What are the properties of radio waves and their uses?</title>
-      <link>/electronics/what-are-the-properties-of-radio-waves-and-their-uses/</link>
+      <link>//localhost:1313/electronics/what-are-the-properties-of-radio-waves-and-their-uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/what-are-the-properties-of-radio-waves-and-their-uses/</guid>
-      <description>Radio waves are fascinating forms of electromagnetic radiation that boast unique properties, setting them apart from other waves in the spectrum.
-In this article, we will be looking at the properties and the uses of radio waves.
-Table of Contents ↬Properties of Radio Waves 1. Long Wavelengths and Low Frequencies: 2. Non-ionizing: 3. Transverse Waves: 4. Speed of Light: 5. Reflection and Refraction: 6. Invisible and Intangible: Uses of Radio Waves 1.</description>
+      <guid>//localhost:1313/electronics/what-are-the-properties-of-radio-waves-and-their-uses/</guid>
+      <description>Radio waves are fascinating forms of electromagnetic radiation that boast unique properties, setting them apart from other waves in the spectrum.&#xA;In this article, we will be looking at the properties and the uses of radio waves.&#xA;Table of Contents ↬&#xD;Properties of Radio Waves 1. Long Wavelengths and Low Frequencies: 2. Non-ionizing: 3. Transverse Waves: 4. Speed of Light: 5. Reflection and Refraction: 6. Invisible and Intangible: Uses of Radio Waves 1.</description>
     </item>
-    
+    <item>
+      <title>What is the Maximum Voltage and Current for Arduino Uno Power Jack?</title>
+      <link>//localhost:1313/electronics/what-is-the-maximum-voltage-and-current-for-arduino-uno-power-jack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/electronics/what-is-the-maximum-voltage-and-current-for-arduino-uno-power-jack/</guid>
+      <description>&amp;#x1f4a1; Quick Answer&#xA;The voltage range for powering an Arduino Uno via its power jack is between 6-20V, but 7-12V is recommended, while the current rating, according to the datasheet, is a maximum of 1A.&#xA;The Arduino Uno is a microcontroller board designed for beginners and hobbyists to learn electronics and coding. It is like a mini-computer that allows you to control things like lights, motors, and sensors with code.</description>
+    </item>
   </channel>
 </rss>

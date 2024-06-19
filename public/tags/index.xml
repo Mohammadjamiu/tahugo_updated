@@ -2,90 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tooabstractive</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Tooabstractive</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>difference between</title>
-      <link>/tags/difference-between/</link>
+      <title>Difference Between</title>
+      <link>//localhost:1313/tags/difference-between/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/difference-between/</guid>
+      <guid>//localhost:1313/tags/difference-between/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>economy</title>
-      <link>/tags/economy/</link>
+      <title>Economy</title>
+      <link>//localhost:1313/tags/economy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/economy/</guid>
+      <guid>//localhost:1313/tags/economy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>finance</title>
-      <link>/tags/finance/</link>
+      <title>Finance</title>
+      <link>//localhost:1313/tags/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/finance/</guid>
+      <guid>//localhost:1313/tags/finance/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>how to</title>
-      <link>/tags/how-to/</link>
+      <title>How To</title>
+      <link>//localhost:1313/tags/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/how-to/</guid>
+      <guid>//localhost:1313/tags/how-to/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>javascript</title>
-      <link>/tags/javascript/</link>
+      <title>Javascript</title>
+      <link>//localhost:1313/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/javascript/</guid>
+      <guid>//localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nodejs</title>
-      <link>/tags/nodejs/</link>
+      <title>Nodejs</title>
+      <link>//localhost:1313/tags/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nodejs/</guid>
+      <guid>//localhost:1313/tags/nodejs/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>programming and coding</title>
-      <link>/tags/programming-and-coding/</link>
+      <title>Programming and Coding</title>
+      <link>//localhost:1313/tags/programming-and-coding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/programming-and-coding/</guid>
+      <guid>//localhost:1313/tags/programming-and-coding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>self development</title>
-      <link>/tags/self-development/</link>
+      <title>Self Development</title>
+      <link>//localhost:1313/tags/self-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/self-development/</guid>
+      <guid>//localhost:1313/tags/self-development/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>study tips</title>
-      <link>/tags/study-tips/</link>
+      <title>Study Tips</title>
+      <link>//localhost:1313/tags/study-tips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/study-tips/</guid>
+      <guid>//localhost:1313/tags/study-tips/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

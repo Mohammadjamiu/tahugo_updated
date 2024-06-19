@@ -2,65 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electromagnetics-Post on Tooabstractive</title>
-    <link>/em-post/</link>
+    <link>//localhost:1313/em-post/</link>
     <description>Recent content in Electromagnetics-Post on Tooabstractive</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/em-post/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/em-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources to help you learn and understand Electromagnetics field theory from scratch</title>
-      <link>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</link>
+      <link>//localhost:1313/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</guid>
-      <description>In this post, I would be listing out the resources to help you self-learn electromagnetics fieldtheory from scratch and these resources are what I’ve came across over the years as an electricalengineering student trying to desperately learn electromagnetics field theory because, to be frankwith you it’s a difficult but interesting course.Note
-I will advise you not to limit your learning journey to these resources only but, try to exploremore and we would love to hear any recommendation from you on any stuff you have found usefulother than the ones listed here so we can help other engineers too.</description>
+      <guid>//localhost:1313/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</guid>
+      <description>In this post, I would be listing out the resources to help you self-learn electromagnetics field&#xD;theory from scratch and these resources are what I’ve came across over the years as an electrical&#xD;engineering student trying to desperately learn electromagnetics field theory because, to be frank&#xD;with you it’s a difficult but interesting course.&#xD;Note&#xA;I will advise you not to limit your learning journey to these resources only but, try to explore&#xD;more and we would love to hear any recommendation from you on any stuff you have found useful&#xD;other than the ones listed here so we can help other engineers too.</description>
     </item>
-    
     <item>
       <title>10 Important facts you need to know about magnets and magnetic fields</title>
-      <link>/em-post/facts-about-magnets/</link>
+      <link>//localhost:1313/em-post/facts-about-magnets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/em-post/facts-about-magnets/</guid>
-      <description>As human, we have once even by accident, played or saw a magnet and the only basic thing we know about it is that it attracts metal which is true but still, there are more to magnets and what we can do with it.
-So in this post we would be discussing few important facts that you need to know about a magnet.
-What is a magnet? Basically, a magnet is defined as a piece of material that has the ability to attract itself to other conductive materials like metals (iron, cobalt, e.</description>
+      <guid>//localhost:1313/em-post/facts-about-magnets/</guid>
+      <description>As human, we have once even by accident, played or saw a magnet and the only basic thing we know about it is that it attracts metal which is true but still, there are more to magnets and what we can do with it.&#xA;So in this post we would be discussing few important facts that you need to know about a magnet.&#xA;What is a magnet? Basically, a magnet is defined as a piece of material that has the ability to attract itself to other conductive materials like metals (iron, cobalt, e.</description>
     </item>
-    
     <item>
       <title>The Easiest Way to Study Electromagnetics Theory</title>
-      <link>/em-post/the-easiest-way-to-study-electromagnetics/</link>
+      <link>//localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/em-post/the-easiest-way-to-study-electromagnetics/</guid>
-      <description>As an electrical engineering student, we all have that one course that frightens us and one of them is electromagnetic field theory, sometimes called engineering electromagnetic.
-In this section, I would discuss why it is difficult to learn and understand electromagnetic field theory and then proceed to how we can grasp the concepts using some techniques and tips.
-Why is electromagnetic field theory difficult to learn? It is difficult to learn because, it is full of abstractions (meaning concepts that cannot be seen physically with the naked eye except by imagination, experience or by accident) for example an electric field, a magnetic field, or electricity.</description>
+      <guid>//localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/</guid>
+      <description>As an electrical engineering student, we all have that one course that frightens us and one of them is electromagnetic field theory, sometimes called engineering electromagnetic.&#xA;In this section, I would discuss why it is difficult to learn and understand electromagnetic field theory and then proceed to how we can grasp the concepts using some techniques and tips.&#xA;Why is electromagnetic field theory difficult to learn? It is difficult to learn because, it is full of abstractions (meaning concepts that cannot be seen physically with the naked eye except by imagination, experience or by accident) for example an electric field, a magnetic field, or electricity.</description>
     </item>
-    
     <item>
       <title>What is the Importance of Maxwell&#39;s Equations in Electromagnetism?</title>
-      <link>/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/</link>
+      <link>//localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/</guid>
-      <description>Maxwell&amp;rsquo;s equations, formulated by James Clerk Maxwell in the mid-19th century, represent the cornerstone of classical electromagnetism, classical optics, and electric circuits.
-These four partial differential equations elegantly describe the behavior of electric and magnetic fields and have far-reaching implications across multiple scientific disciplines.
-In this comprehensive article, we look into the crucial importance of Maxwell&amp;rsquo;s equations in electromagnetism and explore their profound impact on technology, research, and everyday life.</description>
+      <guid>//localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/</guid>
+      <description>Maxwell&amp;rsquo;s equations, formulated by James Clerk Maxwell in the mid-19th century, represent the cornerstone of classical electromagnetism, classical optics, and electric circuits.&#xA;These four partial differential equations elegantly describe the behavior of electric and magnetic fields and have far-reaching implications across multiple scientific disciplines.&#xA;In this comprehensive article, we look into the crucial importance of Maxwell&amp;rsquo;s equations in electromagnetism and explore their profound impact on technology, research, and everyday life.</description>
     </item>
-    
     <item>
       <title>Solved: Verify that the conduction current in the wire equals the displacement current ...</title>
-      <link>/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/</link>
+      <link>//localhost:1313/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/</guid>
-      <description>Question: Verify that the conduction current in the wire equals the displacement current between the plates of the parallel plate capacitor in the figure below.
-The voltage source supplies $V_c = V_o\sin\omega {t}$.
-Solution: The question is asking us to compare if the conduction current $I_c$ and the displacement current $I_d$ are equal.
-Thus, we need to calculate for each.
-1. Conduction current (Ic) = ? From the circuit, we can see that, the current flowing in the circuit is the same as the current passing through the capacitor.</description>
+      <guid>//localhost:1313/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/</guid>
+      <description>Question: Verify that the conduction current in the wire equals the displacement current between the plates of the parallel plate capacitor in the figure below.&#xA;The voltage source supplies $V_c = V_o\sin\omega {t}$.&#xA;Solution: The question is asking us to compare if the conduction current $I_c$ and the displacement current $I_d$ are equal.&#xA;Thus, we need to calculate for each.&#xA;1. Conduction current (Ic) = ? From the circuit, we can see that, the current flowing in the circuit is the same as the current passing through the capacitor.</description>
     </item>
-    
   </channel>
 </rss>

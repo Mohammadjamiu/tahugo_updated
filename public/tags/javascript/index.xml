@@ -1,159 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>javascript on Tooabstractive</title>
-    <link>/tags/javascript/</link>
-    <description>Recent content in javascript on Tooabstractive</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <title>Javascript on Tooabstractive</title>
+    <link>//localhost:1313/tags/javascript/</link>
+    <description>Recent content in Javascript on Tooabstractive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Difference Between console.log() and document.write() in JavaScript</title>
-      <link>/how-to-tech/difference-between-console.log-and-document.write-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-document.write-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/difference-between-console.log-and-document.write-in-javascript/</guid>
-      <description>The main difference between console.log() and document.write() is that console.log() outputs information to the browser&amp;rsquo;s console for debugging and testing purposes, while document.write() directly modifies the HTML document, inserting content into the web page visible to users.
-What is console.log()? Console.log() is a method used for debugging and logging purposes in JavaScript. It prints the specified message or value to the browser&amp;rsquo;s console.
-The console is a developer tool included in web browsers like Chrome and Firefox that allows developers to view and interact with JavaScript code.</description>
+      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-document.write-in-javascript/</guid>
+      <description>The main difference between console.log() and document.write() is that console.log() outputs information to the browser&amp;rsquo;s console for debugging and testing purposes, while document.write() directly modifies the HTML document, inserting content into the web page visible to users.&#xA;What is console.log()? Console.log() is a method used for debugging and logging purposes in JavaScript. It prints the specified message or value to the browser&amp;rsquo;s console.&#xA;The console is a developer tool included in web browsers like Chrome and Firefox that allows developers to view and interact with JavaScript code.</description>
     </item>
-    
     <item>
       <title>Difference Between console.log() and return in JavaScript</title>
-      <link>/how-to-tech/difference-between-console.log-and-return-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-return-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/difference-between-console.log-and-return-in-javascript/</guid>
-      <description>console.log() is used for printing information to the console during program execution, while return is used to provide a value back to the caller and terminate the execution of a function.
-i.e., console.log() is for logging, while return is for determining the output or result of a function.
-What is console.log() in JavaScript? console.log() is a built-in function that allows developers to print information to the console during the execution of a program.</description>
+      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-return-in-javascript/</guid>
+      <description>console.log() is used for printing information to the console during program execution, while return is used to provide a value back to the caller and terminate the execution of a function.&#xA;i.e., console.log() is for logging, while return is for determining the output or result of a function.&#xA;What is console.log() in JavaScript? console.log() is a built-in function that allows developers to print information to the console during the execution of a program.</description>
     </item>
-    
     <item>
       <title>Difference Between console.log and console.error</title>
-      <link>/how-to-tech/difference-between-console.log-and-console.error/</link>
+      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/difference-between-console.log-and-console.error/</guid>
-      <description>In JavaScript programming, developers often use console.log and console.error for debugging and troubleshooting purposes.
-These two functions play a vital role in displaying messages and information in the console.
-In this article, we will look at these differences in detail and understand when to use each function effectively.
-Table of Contents ↬The Purpose of console.log When to Use console.log Example Usage of console.log The Purpose of console.error When to Use console.</description>
+      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</guid>
+      <description>In JavaScript programming, developers often use console.log and console.error for debugging and troubleshooting purposes.&#xA;These two functions play a vital role in displaying messages and information in the console.&#xA;In this article, we will look at these differences in detail and understand when to use each function effectively.&#xA;Table of Contents ↬&#xD;The Purpose of console.log When to Use console.log Example Usage of console.log The Purpose of console.error When to Use console.</description>
     </item>
-    
     <item>
       <title>Difference Between console.log and console.info</title>
-      <link>/how-to-tech/difference-between-console.log-and-console.info/</link>
+      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/difference-between-console.log-and-console.info/</guid>
-      <description>When it comes to debugging and logging messages in JavaScript, two commonly used methods are console.log and console.info.
-Although they may seem similar, they have distinct characteristics that make them useful in different scenarios.
-In this article, we will look at the differences between console.log and console.info and learn when to use each method effectively.
-Table of Contents ↬Overview of console.log Understanding console.info Differences between console.log and console.info Output appearance Default behavior Message importance Log levels Use cases for console.</description>
+      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</guid>
+      <description>When it comes to debugging and logging messages in JavaScript, two commonly used methods are console.log and console.info.&#xA;Although they may seem similar, they have distinct characteristics that make them useful in different scenarios.&#xA;In this article, we will look at the differences between console.log and console.info and learn when to use each method effectively.&#xA;Table of Contents ↬&#xD;Overview of console.log Understanding console.info Differences between console.log and console.info Output appearance Default behavior Message importance Log levels Use cases for console.</description>
     </item>
-    
     <item>
       <title>How to Check If a String Contains a Substring in JavaScript?</title>
-      <link>/how-to-tech/string-contains-a-substring-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/string-contains-a-substring-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/string-contains-a-substring-in-javascript/</guid>
-      <description>Checking whether a string contains a specific substring is a common requirement in JavaScript programming.
-Whether you need to validate user input or search for specific patterns within a larger string, having the ability to check for substrings is crucial.
-This article will guide you through the process of checking for substrings in JavaScript, providing you with the necessary knowledge to implement this functionality in your projects.
-Table of Contents ↬Using the indexOf() Method Utilizing the includes() Method Employing Regular Expressions (RegExp) Comparing Performance Considerations Case Sensitivity in Substring Checks Wrap Up FAQs Using the indexOf() Method The indexOf() method is a built-in JavaScript function that allows you to find the position of a substring within a string.</description>
+      <guid>//localhost:1313/how-to-tech/string-contains-a-substring-in-javascript/</guid>
+      <description>Checking whether a string contains a specific substring is a common requirement in JavaScript programming.&#xA;Whether you need to validate user input or search for specific patterns within a larger string, having the ability to check for substrings is crucial.&#xA;This article will guide you through the process of checking for substrings in JavaScript, providing you with the necessary knowledge to implement this functionality in your projects.&#xA;Table of Contents ↬&#xD;Using the indexOf() Method Utilizing the includes() Method Employing Regular Expressions (RegExp) Comparing Performance Considerations Case Sensitivity in Substring Checks Wrap Up FAQs Using the indexOf() Method The indexOf() method is a built-in JavaScript function that allows you to find the position of a substring within a string.</description>
     </item>
-    
     <item>
       <title>How to Remove a Specific Element from an Array in JavaScript</title>
-      <link>/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</guid>
-      <description>Arrays are a fundamental data structure in JavaScript, and they allow you to store multiple values in a single variable.
-However, there are scenarios where you may want to remove a particular element from an array to modify its contents.
-In this article, we will look at different approaches to achieve this task effectively.
-We will cover various methods and techniques that allow you to remove an element from an array based on its value or index.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</guid>
+      <description>Arrays are a fundamental data structure in JavaScript, and they allow you to store multiple values in a single variable.&#xA;However, there are scenarios where you may want to remove a particular element from an array to modify its contents.&#xA;In this article, we will look at different approaches to achieve this task effectively.&#xA;We will cover various methods and techniques that allow you to remove an element from an array based on its value or index.</description>
     </item>
-    
     <item>
       <title>How Do JavaScript Closures Work? An Easy Explanation</title>
-      <link>/how-to-tech/how-do-closures-work-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/how-do-closures-work-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-do-closures-work-in-javascript/</guid>
-      <description>JavaScript is a versatile programming language widely used for web development. It supports various powerful features that make it popular among developers.
-One such feature is closures, which enable the creation of powerful and flexible code structures.
-In this article, we will look at the concept of JavaScript closures, understand how they work, and explore their practical applications.
-Table of Contents ↬Understanding lexical scope What is a closure? Creating a closure in JavaScript The anatomy of a closure Practical uses of closures 1.</description>
+      <guid>//localhost:1313/how-to-tech/how-do-closures-work-in-javascript/</guid>
+      <description>JavaScript is a versatile programming language widely used for web development. It supports various powerful features that make it popular among developers.&#xA;One such feature is closures, which enable the creation of powerful and flexible code structures.&#xA;In this article, we will look at the concept of JavaScript closures, understand how they work, and explore their practical applications.&#xA;Table of Contents ↬&#xD;Understanding lexical scope What is a closure? Creating a closure in JavaScript The anatomy of a closure Practical uses of closures 1.</description>
     </item>
-    
     <item>
       <title>How to access an array that is nested in an object? (Javascript)</title>
-      <link>/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</link>
+      <link>//localhost:1313/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</guid>
-      <description>To access an array that is nested in an object, you need to navigate through the object&amp;rsquo;s properties and indexes.
-There are basically two methods that you can use to access an array that is nested in an object. Let&amp;rsquo;s look into the methods.
-Method 1: Dot notation One way to access a nested array in an object is by using the dot notation. This method allows you to access properties and sub-properties of an object.</description>
+      <guid>//localhost:1313/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</guid>
+      <description>To access an array that is nested in an object, you need to navigate through the object&amp;rsquo;s properties and indexes.&#xA;There are basically two methods that you can use to access an array that is nested in an object. Let&amp;rsquo;s look into the methods.&#xA;Method 1: Dot notation One way to access a nested array in an object is by using the dot notation. This method allows you to access properties and sub-properties of an object.</description>
     </item>
-    
     <item>
       <title>What is != and !== in JavaScript?</title>
-      <link>/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</guid>
-      <description>JavaScript provides two comparison operators, != and !==, which are used to compare two values and determine their equality.
-These operators play a crucial role in JavaScript programming, as they allow developers to perform comparisons and make decisions based on the results.
-Table of Contents ↬The != Operator The !== Operator Usage of != and !== Operators Wrap Up Frequently Asked Questions The != Operator The != operator is known as the “not equal” operator in JavaScript.</description>
+      <guid>//localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</guid>
+      <description>JavaScript provides two comparison operators, != and !==, which are used to compare two values and determine their equality.&#xA;These operators play a crucial role in JavaScript programming, as they allow developers to perform comparisons and make decisions based on the results.&#xA;Table of Contents ↬&#xD;The != Operator The !== Operator Usage of != and !== Operators Wrap Up Frequently Asked Questions The != Operator The != operator is known as the “not equal” operator in JavaScript.</description>
     </item>
-    
     <item>
       <title>Difference Between || and &amp;&amp; in JavaScript?</title>
-      <link>/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</guid>
-      <description>In JavaScript, the || (logical OR) and &amp;amp;&amp;amp; (logical AND) operators are used to combine two or more expressions and return a Boolean value.
-The &amp;amp;&amp;amp; operator returns true if both of its operands are true, and false otherwise. The || operator returns true if either of its operands are true, and false otherwise.
-Table of Contents ↬|| (Logical OR) Operator || (Logical OR) Operation || (Logical OR) Example Code Usage with Non-Boolean Values Usage in Conditional Statements Usage in Loops &amp;amp;&amp;amp; (Logical AND) Operator &amp;amp;&amp;amp; (Logical AND) Operation &amp;amp;&amp;amp; (Logical AND) Example Code Usage with Non-Boolean Values Usage in Conditional Statements Usage in Loops Usage in Functions Wrap Up FAQs || (Logical OR) Operator The || operator in JavaScript is primarily used to combine expressions and return the value of the first truthy operand encountered.</description>
+      <guid>//localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</guid>
+      <description>In JavaScript, the || (logical OR) and &amp;amp;&amp;amp; (logical AND) operators are used to combine two or more expressions and return a Boolean value.&#xA;The &amp;amp;&amp;amp; operator returns true if both of its operands are true, and false otherwise. The || operator returns true if either of its operands are true, and false otherwise.&#xA;Table of Contents ↬&#xD;|| (Logical OR) Operator || (Logical OR) Operation || (Logical OR) Example Code Usage with Non-Boolean Values Usage in Conditional Statements Usage in Loops &amp;amp;&amp;amp; (Logical AND) Operator &amp;amp;&amp;amp; (Logical AND) Operation &amp;amp;&amp;amp; (Logical AND) Example Code Usage with Non-Boolean Values Usage in Conditional Statements Usage in Loops Usage in Functions Wrap Up FAQs || (Logical OR) Operator The || operator in JavaScript is primarily used to combine expressions and return the value of the first truthy operand encountered.</description>
     </item>
-    
     <item>
       <title>How to Shuffle an Array Randomly in JavaScript?</title>
-      <link>/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</link>
+      <link>//localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</guid>
-      <description>In JavaScript, shuffling an array randomly can be a useful technique when you want to randomize the order of elements.
-Whether you&amp;rsquo;re building a game, conducting statistical analysis, or simply adding some randomness to your application, understanding how to shuffle an array is essential.
-In this article, we will provide a detailed explanation of the code used to shuffle an array randomly in JavaScript. Let&amp;rsquo;s dive in!
-Table of Contents ↬The Code Understanding the Code Step 1: Initializing the Array Step 2: Looping through the Array Step 3: Generating a Random Index Step 4: Swapping Elements Step 5: Repeat Until Shuffled Step 6: Console Log the Shuffled Array The Code const array = [1, 2, 3, 4, 5]; for (let i = array.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</guid>
+      <description>In JavaScript, shuffling an array randomly can be a useful technique when you want to randomize the order of elements.&#xA;Whether you&amp;rsquo;re building a game, conducting statistical analysis, or simply adding some randomness to your application, understanding how to shuffle an array is essential.&#xA;In this article, we will provide a detailed explanation of the code used to shuffle an array randomly in JavaScript. Let&amp;rsquo;s dive in!&#xA;Table of Contents ↬&#xD;The Code Understanding the Code Step 1: Initializing the Array Step 2: Looping through the Array Step 3: Generating a Random Index Step 4: Swapping Elements Step 5: Repeat Until Shuffled Step 6: Console Log the Shuffled Array The Code const array = [1, 2, 3, 4, 5]; for (let i = array.</description>
     </item>
-    
     <item>
       <title>How to Remove Numbers from a String in Python using Regex?</title>
-      <link>/how-to-tech/how-to-remove-numbers-from-a-string-in-python-using-regex/</link>
+      <link>//localhost:1313/how-to-tech/how-to-remove-numbers-from-a-string-in-python-using-regex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-remove-numbers-from-a-string-in-python-using-regex/</guid>
-      <description>When working with strings in Python, you might encounter situations where you need to remove specific characters, such as numbers.
-Using regex can provide an effective way to achieve this, as it allows you to define complex patterns for matching and replacing text within strings.
-Table of Contents ↬Importing the re Module Creating the Regex Pattern Using re.sub() to Remove Numbers Example Code for Removing Numbers from a String: Wrap Up FAQs Importing the re Module The first step is to import the re module, which stands for “regular expressions.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-remove-numbers-from-a-string-in-python-using-regex/</guid>
+      <description>When working with strings in Python, you might encounter situations where you need to remove specific characters, such as numbers.&#xA;Using regex can provide an effective way to achieve this, as it allows you to define complex patterns for matching and replacing text within strings.&#xA;Table of Contents ↬&#xD;Importing the re Module Creating the Regex Pattern Using re.sub() to Remove Numbers Example Code for Removing Numbers from a String: Wrap Up FAQs Importing the re Module The first step is to import the re module, which stands for “regular expressions.</description>
     </item>
-    
     <item>
       <title>How to Fix &#34;Module not found: Can&#39;t resolve encoding&#34; in Next.js</title>
-      <link>/how-to-tech/module-not-found-cant-resolve-encoding-in-next-js/</link>
+      <link>//localhost:1313/how-to-tech/module-not-found-cant-resolve-encoding-in-next-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/module-not-found-cant-resolve-encoding-in-next-js/</guid>
-      <description>The error “Module not found: Can&amp;rsquo;t resolve encoding” in Next.js typically arises when the encoding module is missing from your project&amp;rsquo;s dependencies.
-This module plays a crucial role in handling the encoding and decoding of strings, which is essential for various functionalities within Next.js, including the popular useRouter hook.
-How to Fix the Error Resolving this error involves a few straightforward steps. Follow these instructions to get your project back on track:</description>
+      <guid>//localhost:1313/how-to-tech/module-not-found-cant-resolve-encoding-in-next-js/</guid>
+      <description>The error “Module not found: Can&amp;rsquo;t resolve encoding” in Next.js typically arises when the encoding module is missing from your project&amp;rsquo;s dependencies.&#xA;This module plays a crucial role in handling the encoding and decoding of strings, which is essential for various functionalities within Next.js, including the popular useRouter hook.&#xA;How to Fix the Error Resolving this error involves a few straightforward steps. Follow these instructions to get your project back on track:</description>
     </item>
-    
   </channel>
 </rss>

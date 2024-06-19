@@ -2,100 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn Circuit Theory And Analysis on Tooabstractive</title>
-    <link>/circuit-analysis/</link>
+    <link>//localhost:1313/circuit-analysis/</link>
     <description>Recent content in Learn Circuit Theory And Analysis on Tooabstractive</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/circuit-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/circuit-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The only way to learn and understand the basics of circuit analysis</title>
-      <link>/circuit-analysis/how-to-learn-circuit-analysis-basics/</link>
+      <link>//localhost:1313/circuit-analysis/how-to-learn-circuit-analysis-basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/how-to-learn-circuit-analysis-basics/</guid>
-      <description>When you ask someone how can I learn the basics of circuit analysis? Most times the answer is practice-practice-practice.
-Though that’s right but you can only practice stuff you find easier to understand and the necessary fundamentals to have are also right because, how can you even analyze or design a circuit if you don’t know how resistor works or you don’t love dealing with calculations.
-The case here is that don’t just learn circuit analysis techniques or concepts from textbooks as if they are somewhat abstract or different, try to learn how they link with each other or what can they be used for.</description>
+      <guid>//localhost:1313/circuit-analysis/how-to-learn-circuit-analysis-basics/</guid>
+      <description>When you ask someone how can I learn the basics of circuit analysis? Most times the answer is practice-practice-practice.&#xA;Though that’s right but you can only practice stuff you find easier to understand and the necessary fundamentals to have are also right because, how can you even analyze or design a circuit if you don’t know how resistor works or you don’t love dealing with calculations.&#xA;The case here is that don’t just learn circuit analysis techniques or concepts from textbooks as if they are somewhat abstract or different, try to learn how they link with each other or what can they be used for.</description>
     </item>
-    
     <item>
       <title>Why do we study circuit analysis or circuit theory?</title>
-      <link>/circuit-analysis/why-do-we-study-circuit-analysis/</link>
+      <link>//localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/why-do-we-study-circuit-analysis/</guid>
-      <description>First let’s look at what circuit analysis mean.
-What is circuit analysis or circuit theory? Circuit analysis or circuit theory basically deals with finding currents and voltages in a circuit or network of connected electronic components.
-Why do we study circuit analysis? If you are an electronics or electrical engineering student or even a hobbyist, studying circuit analysis is essential because before you can design your own electronics gadgets or robots, you need to learn the fundamentals behind circuits.</description>
+      <guid>//localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/</guid>
+      <description>First let’s look at what circuit analysis mean.&#xA;What is circuit analysis or circuit theory? Circuit analysis or circuit theory basically deals with finding currents and voltages in a circuit or network of connected electronic components.&#xA;Why do we study circuit analysis? If you are an electronics or electrical engineering student or even a hobbyist, studying circuit analysis is essential because before you can design your own electronics gadgets or robots, you need to learn the fundamentals behind circuits.</description>
     </item>
-    
     <item>
       <title>What Is Voltage, Current, and Resistance In Simple Terms?</title>
-      <link>/circuit-analysis/what-is-voltage-current-and-resistance/</link>
+      <link>//localhost:1313/circuit-analysis/what-is-voltage-current-and-resistance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/what-is-voltage-current-and-resistance/</guid>
-      <description>Content SummaryCircuits are fascinating and can be found in our smartphones,computer, even the PS5 gaming pad and much more.A circuit or electric circuit is a close loop that allows the flowof electricity.The interconnections of circuit components without forming aclosed loop is called electrical network.Voltage is the pressure or force applied to push current through abranch in a circuit.Current is said to be the flow of electrons.</description>
+      <guid>//localhost:1313/circuit-analysis/what-is-voltage-current-and-resistance/</guid>
+      <description>Content Summary&#xD;Circuits are fascinating and can be found in our smartphones,&#xD;computer, even the PS5 gaming pad and much more.&#xD;A circuit or electric circuit is a close loop that allows the flow&#xD;of electricity.&#xD;The interconnections of circuit components without forming a&#xD;closed loop is called electrical network.&#xD;Voltage is the pressure or force applied to push current through a&#xD;branch in a circuit.&#xD;Current is said to be the flow of electrons.</description>
     </item>
-    
     <item>
       <title>Electronics Circuit Components And Their Functions Explained</title>
-      <link>/circuit-analysis/electronics-circuit-components-explained/</link>
+      <link>//localhost:1313/circuit-analysis/electronics-circuit-components-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/electronics-circuit-components-explained/</guid>
-      <description>Content SummaryA battery is considered as one of the source of voltage.Resistor is a component that offers resistance to the flow ofcurrent in a circuit.Capacitor which in simple term is a passive device orcomponentthatstores charges or energy for a short period of time.An inductor works same way as the capacitor becausethey store charge but one of their difference is that it useswounded conductors rather than capacitor that uses plates separatedby air gap or dielectrics.</description>
+      <guid>//localhost:1313/circuit-analysis/electronics-circuit-components-explained/</guid>
+      <description>Content Summary&#xD;A battery is considered as one of the source of voltage.&#xD;Resistor is a component that offers resistance to the flow of&#xD;current in a circuit.&#xD;Capacitor which in simple term is a passive device or&#xD;component&#xD;that&#xD;stores charges or energy for a short period of time.&#xD;An inductor works same way as the capacitor because&#xD;they store charge but one of their difference is that it uses&#xD;wounded conductors rather than capacitor that uses plates separated&#xD;by air gap or dielectrics.</description>
     </item>
-    
     <item>
       <title>What Is Ohms Law In Simple Terms? And Why Is It Useful?</title>
-      <link>/circuit-analysis/what-is-ohms-law/</link>
+      <link>//localhost:1313/circuit-analysis/what-is-ohms-law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/what-is-ohms-law/</guid>
-      <description>Content SummaryThe ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematicalexpressions. Ohms law is the law that most other techniques (e.g. kirchoffs law, nodal analysis and mesh analysis) are derived from.What is ohm&#39;s law and why do we need itThe ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematicalexpressions which says V = IR.</description>
+      <guid>//localhost:1313/circuit-analysis/what-is-ohms-law/</guid>
+      <description>Content Summary&#xD;The ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematical&#xD;expressions. Ohms law is the law that most other techniques (e.g. kirchoffs law, nodal analysis and mesh analysis) are derived from.&#xD;What is ohm&#39;s law and why do we need it&#xD;The ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematical&#xD;expressions which says V = IR.</description>
     </item>
-    
     <item>
       <title> Series and parallel combination of resistors explained with how to identify them</title>
-      <link>/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</link>
+      <link>//localhost:1313/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</guid>
-      <description>Content SummaryResistors in series are connected head to tail.A resistor in series allows the same current to flow throughthem.But different voltage will bedropped across them if their resistance value is different and also if the resistors are of the same value then same voltage will be dropped across them.Resistors in parallel are connected head to head and tail totail.A resistor in parallel have same voltage but different current will beflowing through each resistor depending on their resistance value.</description>
+      <guid>//localhost:1313/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/</guid>
+      <description>Content Summary&#xD;Resistors in series are connected head to tail.&#xD;A resistor in series allows the same current to flow through&#xD;them.&#xD;But different voltage will be&#xD;dropped across them if their resistance value is different and also if the resistors are of the same value then same voltage will be dropped across them.&#xD;Resistors in parallel are connected head to head and tail to&#xD;tail.&#xD;A resistor in parallel have same voltage but different current will be&#xD;flowing through each resistor depending on their resistance value.</description>
     </item>
-    
     <item>
       <title>Star - Delta Transformation Explained With Tips On How To Recall The Formulas</title>
-      <link>/circuit-analysis/delta-and-star-connection-of-resistors-explained/</link>
+      <link>//localhost:1313/circuit-analysis/delta-and-star-connection-of-resistors-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/delta-and-star-connection-of-resistors-explained/</guid>
-      <description>Content SummaryThe star and delta transformation involves converting from star to delta or delta to star and we do this when our resistors are not connected in parallel or series.The delta can be structured in two ways as having a triangleshape or pie shape. The star has awye or T shape.Why and how do we do star to delta or delta to star transformationThe star and delta transformation involves converting from star to delta or delta to star and we dothis when our resistors are not connected in parallel or series.</description>
+      <guid>//localhost:1313/circuit-analysis/delta-and-star-connection-of-resistors-explained/</guid>
+      <description>Content Summary&#xD;The star and delta transformation involves converting from star to delta or delta to star and we do this when our resistors are not connected in parallel or series.&#xD;The delta can be structured in two ways as having a triangle&#xD;shape or pie shape. The star has a&#xD;wye or T shape.&#xD;Why and how do we do star to delta or delta to star transformation&#xD;The star and delta transformation involves converting from star to delta or delta to star and we do&#xD;this when our resistors are not connected in parallel or series.</description>
     </item>
-    
     <item>
       <title>Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</title>
-      <link>/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</link>
+      <link>//localhost:1313/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</guid>
-      <description>Before diving into what the Kirchhoff’s law is, can you solve this circuit using ohm&amp;rsquo;s law to find all the currents flowing in each branch of the circuit.
-I probably know it will be frustrating to solve this circuit using ohm&amp;rsquo;s law because there are more than one connection of resistors and also more than one loop which means ohm&amp;rsquo;s law won’t be a perfect technique to use
-Rather, we need an optimized technique which still is based on ohm&amp;rsquo;s law (as ohm&amp;rsquo;s law is the base that relates voltage, current and resistance) but it is a little bit easier to work with.</description>
+      <guid>//localhost:1313/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/</guid>
+      <description>Before diving into what the Kirchhoff’s law is, can you solve this circuit using ohm&amp;rsquo;s law to find all the currents flowing in each branch of the circuit.&#xA;I probably know it will be frustrating to solve this circuit using ohm&amp;rsquo;s law because there are more than one connection of resistors and also more than one loop which means ohm&amp;rsquo;s law won’t be a perfect technique to use&#xA;Rather, we need an optimized technique which still is based on ohm&amp;rsquo;s law (as ohm&amp;rsquo;s law is the base that relates voltage, current and resistance) but it is a little bit easier to work with.</description>
     </item>
-    
     <item>
       <title>Thevenin&#39;s Theorem Explained With Solved Examples</title>
-      <link>/circuit-analysis/thevenins-theorem-explain-with-examples/</link>
+      <link>//localhost:1313/circuit-analysis/thevenins-theorem-explain-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/circuit-analysis/thevenins-theorem-explain-with-examples/</guid>
-      <description>Thevenin theorem is a theorem used to model complex circuits into a simple circuit with an equivalent voltage source and resistance.
-As the theorem states that;
-‘any two terminals of a network can be replaced by an equivalent voltage source and an equivalent series resistance.
-The voltage source is the voltage across the two terminals with load, if any, removed.
-The series resistance is the resistance of the network measured between two terminals with load removed and constant voltage source being replaced by its internal resistance (or if it is not given with zero resistance, i.</description>
+      <guid>//localhost:1313/circuit-analysis/thevenins-theorem-explain-with-examples/</guid>
+      <description>Thevenin theorem is a theorem used to model complex circuits into a simple circuit with an equivalent voltage source and resistance.&#xA;As the theorem states that;&#xA;‘any two terminals of a network can be replaced by an equivalent voltage source and an equivalent series resistance.&#xA;The voltage source is the voltage across the two terminals with load, if any, removed.&#xA;The series resistance is the resistance of the network measured between two terminals with load removed and constant voltage source being replaced by its internal resistance (or if it is not given with zero resistance, i.</description>
     </item>
-    
   </channel>
 </rss>

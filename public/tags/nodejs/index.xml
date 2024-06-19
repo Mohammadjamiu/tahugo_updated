@@ -1,83 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nodejs on Tooabstractive</title>
-    <link>/tags/nodejs/</link>
-    <description>Recent content in nodejs on Tooabstractive</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <title>Nodejs on Tooabstractive</title>
+    <link>//localhost:1313/tags/nodejs/</link>
+    <description>Recent content in Nodejs on Tooabstractive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Access a File in Node.js? ( /, ./, and ../ ) Paths Explained</title>
-      <link>/how-to-tech/access-a-file-in-node-js-using-relative-and-absolute-path/</link>
+      <link>//localhost:1313/how-to-tech/access-a-file-in-node-js-using-relative-and-absolute-path/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/access-a-file-in-node-js-using-relative-and-absolute-path/</guid>
-      <description>File paths are an essential part of navigating the file system while working on a Node.js project.
-Understanding how to specify file paths using the /, ./, and ../ symbols is important for accessing files and directories.
-When requiring a Node.js module or file, you can specify the file path using a relative or absolute path.
-If the file path begins with ./ or ../, Node.js will interpret it as a relative path, and if it begins with /, Node.</description>
+      <guid>//localhost:1313/how-to-tech/access-a-file-in-node-js-using-relative-and-absolute-path/</guid>
+      <description>File paths are an essential part of navigating the file system while working on a Node.js project.&#xA;Understanding how to specify file paths using the /, ./, and ../ symbols is important for accessing files and directories.&#xA;When requiring a Node.js module or file, you can specify the file path using a relative or absolute path.&#xA;If the file path begins with ./ or ../, Node.js will interpret it as a relative path, and if it begins with /, Node.</description>
     </item>
-    
     <item>
       <title>Difference Between console.log and console.error</title>
-      <link>/how-to-tech/difference-between-console.log-and-console.error/</link>
+      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/difference-between-console.log-and-console.error/</guid>
-      <description>In JavaScript programming, developers often use console.log and console.error for debugging and troubleshooting purposes.
-These two functions play a vital role in displaying messages and information in the console.
-In this article, we will look at these differences in detail and understand when to use each function effectively.
-Table of Contents ↬The Purpose of console.log When to Use console.log Example Usage of console.log The Purpose of console.error When to Use console.</description>
+      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</guid>
+      <description>In JavaScript programming, developers often use console.log and console.error for debugging and troubleshooting purposes.&#xA;These two functions play a vital role in displaying messages and information in the console.&#xA;In this article, we will look at these differences in detail and understand when to use each function effectively.&#xA;Table of Contents ↬&#xD;The Purpose of console.log When to Use console.log Example Usage of console.log The Purpose of console.error When to Use console.</description>
     </item>
-    
     <item>
       <title>Difference Between console.log and console.info</title>
-      <link>/how-to-tech/difference-between-console.log-and-console.info/</link>
+      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/difference-between-console.log-and-console.info/</guid>
-      <description>When it comes to debugging and logging messages in JavaScript, two commonly used methods are console.log and console.info.
-Although they may seem similar, they have distinct characteristics that make them useful in different scenarios.
-In this article, we will look at the differences between console.log and console.info and learn when to use each method effectively.
-Table of Contents ↬Overview of console.log Understanding console.info Differences between console.log and console.info Output appearance Default behavior Message importance Log levels Use cases for console.</description>
+      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</guid>
+      <description>When it comes to debugging and logging messages in JavaScript, two commonly used methods are console.log and console.info.&#xA;Although they may seem similar, they have distinct characteristics that make them useful in different scenarios.&#xA;In this article, we will look at the differences between console.log and console.info and learn when to use each method effectively.&#xA;Table of Contents ↬&#xD;Overview of console.log Understanding console.info Differences between console.log and console.info Output appearance Default behavior Message importance Log levels Use cases for console.</description>
     </item>
-    
     <item>
       <title>How to Check if a Variable is a Number in Python?</title>
-      <link>/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</link>
+      <link>//localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</guid>
-      <description>In Python, variables can hold various types of data, including integers (int) and floating-point numbers (float).
-When dealing with dynamic data, it&amp;rsquo;s crucial to ascertain whether a variable contains a numeric value before performing mathematical operations.
-We will discuss two methods that help you achieve this goal: the type() function and the isinstance() function.
-1. Making Use of the type() Function — Defining the Function def is_number(variable): &amp;#34;&amp;#34;&amp;#34; This function checks if a variable is a number.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</guid>
+      <description>In Python, variables can hold various types of data, including integers (int) and floating-point numbers (float).&#xA;When dealing with dynamic data, it&amp;rsquo;s crucial to ascertain whether a variable contains a numeric value before performing mathematical operations.&#xA;We will discuss two methods that help you achieve this goal: the type() function and the isinstance() function.&#xA;1. Making Use of the type() Function — Defining the Function def is_number(variable): &amp;#34;&amp;#34;&amp;#34; This function checks if a variable is a number.</description>
     </item>
-    
     <item>
       <title>How to Use Import Instead of Require in Node.js?</title>
-      <link>/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</link>
+      <link>//localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</guid>
-      <description>Node.js has been using the &#39;require()&#39; syntax for module loading for a long time.
-However, the introduction of ECMAScript (ES) modules has brought a more streamlined and standardized way of importing modules using the &amp;lsquo;import&amp;rsquo; syntax.
-Steps on How to Use Import Instead of Require in Node.js To transition from &#39;require()&#39; to &#39;import&#39;, follow these steps:
-Step 1: Update Your package.json The first step is to open your project&amp;rsquo;s package.json file and add the “type” field with the value “module”.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</guid>
+      <description>Node.js has been using the &#39;require()&#39; syntax for module loading for a long time.&#xA;However, the introduction of ECMAScript (ES) modules has brought a more streamlined and standardized way of importing modules using the &amp;lsquo;import&amp;rsquo; syntax.&#xA;Steps on How to Use Import Instead of Require in Node.js To transition from &#39;require()&#39; to &#39;import&#39;, follow these steps:&#xA;Step 1: Update Your package.json The first step is to open your project&amp;rsquo;s package.json file and add the “type” field with the value “module”.</description>
     </item>
-    
     <item>
       <title>Is Node.js Used for Backend or Frontend?</title>
-      <link>/how-to-tech/is-nodejs-used-for-backend-or-frontend/</link>
+      <link>//localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/is-nodejs-used-for-backend-or-frontend/</guid>
-      <description>Node.js is a JavaScript runtime environment that can be used to create both client-side and server-side applications.
-So, is Node.js used for backend or frontend development?
-The answer is both. Node.js is a versatile platform that can be used for a variety of development tasks.
-It is a popular choice for both backend and frontend development because of its event-driven, non-blocking architecture, scalability, and performance.
-Table of Contents ↬Frontend Development with Node.</description>
+      <guid>//localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/</guid>
+      <description>Node.js is a JavaScript runtime environment that can be used to create both client-side and server-side applications.&#xA;So, is Node.js used for backend or frontend development?&#xA;The answer is both. Node.js is a versatile platform that can be used for a variety of development tasks.&#xA;It is a popular choice for both backend and frontend development because of its event-driven, non-blocking architecture, scalability, and performance.&#xA;Table of Contents ↬&#xD;Frontend Development with Node.</description>
     </item>
-    
   </channel>
 </rss>

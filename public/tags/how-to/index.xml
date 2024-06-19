@@ -1,363 +1,221 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>how to on Tooabstractive</title>
-    <link>/tags/how-to/</link>
-    <description>Recent content in how to on Tooabstractive</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <title>How To on Tooabstractive</title>
+    <link>//localhost:1313/tags/how-to/</link>
+    <description>Recent content in How To on Tooabstractive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>List of Google Chrome Useful Keyboard Shortcut Keys (2024)</title>
-      <link>/how-to-tech/list-of-chrome-keyboard-shortcuts/</link>
+      <link>//localhost:1313/how-to-tech/list-of-chrome-keyboard-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/list-of-chrome-keyboard-shortcuts/</guid>
-      <description>Google Chrome keyboard shortcuts offer several benefits that can improve your browsing experience.
-They allow you to complete tasks faster, reducing time spent on the computer and increasing productivity.
-By reducing the need for repetitive mouse movements, keyboards can also reduce hand and wrist strain, especially for those who spend long periods of time in front of a computer.
-In addition, keyboard shortcuts can improve usability for users with disabilities or mobility impairments by making it easier to navigate the site and use content.</description>
+      <guid>//localhost:1313/how-to-tech/list-of-chrome-keyboard-shortcuts/</guid>
+      <description>Google Chrome keyboard shortcuts offer several benefits that can improve your browsing experience.&#xA;They allow you to complete tasks faster, reducing time spent on the computer and increasing productivity.&#xA;By reducing the need for repetitive mouse movements, keyboards can also reduce hand and wrist strain, especially for those who spend long periods of time in front of a computer.&#xA;In addition, keyboard shortcuts can improve usability for users with disabilities or mobility impairments by making it easier to navigate the site and use content.</description>
     </item>
-    
     <item>
       <title>How to Fix &#34;Your Devices Were Logged Out&#34; Error on WhatsApp?</title>
-      <link>/how-to-tech/how-to-fix-your-devices-were-logged-out-error-on-whatsapp/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-your-devices-were-logged-out-error-on-whatsapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-your-devices-were-logged-out-error-on-whatsapp/</guid>
-      <description>If you&amp;rsquo;ve encountered the error message “Your devices were logged out due to an unexpected issue, please relink your device” on WhatsApp, don&amp;rsquo;t worry; you&amp;rsquo;re not alone.
-This error indicates that your linked devices have been logged out due to a problem with syncing data from your phone.
-In this article, we&amp;rsquo;ll walk you through the steps to fix this issue and ensure that your WhatsApp experience remains smooth and secure.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-your-devices-were-logged-out-error-on-whatsapp/</guid>
+      <description>If you&amp;rsquo;ve encountered the error message “Your devices were logged out due to an unexpected issue, please relink your device” on WhatsApp, don&amp;rsquo;t worry; you&amp;rsquo;re not alone.&#xA;This error indicates that your linked devices have been logged out due to a problem with syncing data from your phone.&#xA;In this article, we&amp;rsquo;ll walk you through the steps to fix this issue and ensure that your WhatsApp experience remains smooth and secure.</description>
     </item>
-    
     <item>
       <title>How to Stop or Disable VSCode Auto Update?</title>
-      <link>/how-to-tech/how-to-stop-or-disable-vscode-auto-update/</link>
+      <link>//localhost:1313/how-to-tech/how-to-stop-or-disable-vscode-auto-update/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-stop-or-disable-vscode-auto-update/</guid>
-      <description>Visual Studio Code (VS Code) is a powerful and widely used code editor, loved by developers for its versatility and features.
-However, one aspect that might not sit well with everyone is its default auto-update feature.
-While staying up-to-date is essential for security and performance reasons, some users prefer to have more control over when and how their software updates.
-In this article, we will guide you through the steps to stop or disable the auto-update feature in VS Code, ensuring you can manage updates on your terms.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-stop-or-disable-vscode-auto-update/</guid>
+      <description>Visual Studio Code (VS Code) is a powerful and widely used code editor, loved by developers for its versatility and features.&#xA;However, one aspect that might not sit well with everyone is its default auto-update feature.&#xA;While staying up-to-date is essential for security and performance reasons, some users prefer to have more control over when and how their software updates.&#xA;In this article, we will guide you through the steps to stop or disable the auto-update feature in VS Code, ensuring you can manage updates on your terms.</description>
     </item>
-    
     <item>
       <title>How to Mute or Unmute Group Notifications on WhatsApp?</title>
-      <link>/how-to-tech/how-to-mute-or-unmute-group-notifications-on-whatsapp/</link>
+      <link>//localhost:1313/how-to-tech/how-to-mute-or-unmute-group-notifications-on-whatsapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-mute-or-unmute-group-notifications-on-whatsapp/</guid>
-      <description>WhatsApp is one of the most popular messaging apps in the world, connecting people across the globe.
-However, being part of multiple group chats can sometimes lead to a flood of notifications, making it challenging to maintain your peace and focus.
-Fortunately, WhatsApp offers a solution by allowing you to mute group notifications or unmute them when you&amp;rsquo;re ready to rejoin the conversation.
-In this guide, we&amp;rsquo;ll walk you through the steps to effectively manage group notifications on WhatsApp, ensuring a more peaceful and organized messaging experience.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-mute-or-unmute-group-notifications-on-whatsapp/</guid>
+      <description>WhatsApp is one of the most popular messaging apps in the world, connecting people across the globe.&#xA;However, being part of multiple group chats can sometimes lead to a flood of notifications, making it challenging to maintain your peace and focus.&#xA;Fortunately, WhatsApp offers a solution by allowing you to mute group notifications or unmute them when you&amp;rsquo;re ready to rejoin the conversation.&#xA;In this guide, we&amp;rsquo;ll walk you through the steps to effectively manage group notifications on WhatsApp, ensuring a more peaceful and organized messaging experience.</description>
     </item>
-    
     <item>
       <title>How to Fix Git Error &#34;Unable to Resolve Reference refs/remotes/origin/master Reference Broken&#34;</title>
-      <link>/how-to-tech/how-to-fix-git-error-unable-to-resolve-reference-refs-remotes-origin-master-reference-broken/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-git-error-unable-to-resolve-reference-refs-remotes-origin-master-reference-broken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-git-error-unable-to-resolve-reference-refs-remotes-origin-master-reference-broken/</guid>
-      <description>The Git error message “Unable to resolve reference refs/remotes/origin/master reference broken” often occur when running a git pull command.
-This error indicates that Git is unable to lock the reference for the master branch in the remote repository.
-It&amp;rsquo;s a frustrating issue, but fear not; we&amp;rsquo;ll guide you through the steps to resolve it.
-Table of Contents ↬Reasons Why this Error Occur? Steps to Resolve the Error 1. Check if the remote repository is available.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-git-error-unable-to-resolve-reference-refs-remotes-origin-master-reference-broken/</guid>
+      <description>The Git error message “Unable to resolve reference refs/remotes/origin/master reference broken” often occur when running a git pull command.&#xA;This error indicates that Git is unable to lock the reference for the master branch in the remote repository.&#xA;It&amp;rsquo;s a frustrating issue, but fear not; we&amp;rsquo;ll guide you through the steps to resolve it.&#xA;Table of Contents ↬&#xD;Reasons Why this Error Occur? Steps to Resolve the Error 1. Check if the remote repository is available.</description>
     </item>
-    
     <item>
       <title>How to Make Text Wrap to Next Line in CSS?</title>
-      <link>/how-to-tech/how-to-make-text-wrap-to-next-line-in-css/</link>
+      <link>//localhost:1313/how-to-tech/how-to-make-text-wrap-to-next-line-in-css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-make-text-wrap-to-next-line-in-css/</guid>
-      <description>If a line of text in HTML is not breaking, and it is leading to the overflow of the text, here are some ways you can fix it.
-Step on How to Fix Text Not Wrapping in CSS 1. By Using the Word-Wrap Property To address the issue of text overflow in CSS, the word-wrap property comes in handy.
-This property allows long words to be broken and wrap onto the next line.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-make-text-wrap-to-next-line-in-css/</guid>
+      <description>If a line of text in HTML is not breaking, and it is leading to the overflow of the text, here are some ways you can fix it.&#xA;Step on How to Fix Text Not Wrapping in CSS 1. By Using the Word-Wrap Property To address the issue of text overflow in CSS, the word-wrap property comes in handy.&#xA;This property allows long words to be broken and wrap onto the next line.</description>
     </item>
-    
     <item>
       <title>How to open Visual Studio Code&#39;s &#39;settings.json&#39; file?</title>
-      <link>/how-to-tech/how-to-open-settings.json-in-vscode/</link>
+      <link>//localhost:1313/how-to-tech/how-to-open-settings.json-in-vscode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-open-settings.json-in-vscode/</guid>
-      <description>Visual Studio Code (VS Code) is a powerful and versatile code editor used by developers worldwide.
-One of the key features that make it so flexible is the ability to customize settings to suit your coding preferences.
-In this article, we will look at two methods that you can use to open the settings.json file in VS Code, allowing you to customize your IDE.
-1. By Using the Command Palette a).</description>
+      <guid>//localhost:1313/how-to-tech/how-to-open-settings.json-in-vscode/</guid>
+      <description>Visual Studio Code (VS Code) is a powerful and versatile code editor used by developers worldwide.&#xA;One of the key features that make it so flexible is the ability to customize settings to suit your coding preferences.&#xA;In this article, we will look at two methods that you can use to open the settings.json file in VS Code, allowing you to customize your IDE.&#xA;1. By Using the Command Palette a).</description>
     </item>
-    
     <item>
       <title>How to Use Find and Replace in VSCode?</title>
-      <link>/how-to-tech/how-to-use-find-and-replace-in-vscode/</link>
+      <link>//localhost:1313/how-to-tech/how-to-use-find-and-replace-in-vscode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-use-find-and-replace-in-vscode/</guid>
-      <description>One of the powerful features that can save you time and effort while working with text or code in VSCode is the “Find and Replace” feature.
-In this article, we will look at how to use the Find and Replace feature in VSCode.
-Steps on How to Use Find and Replace in VSCode Open Your File: Begin by opening the file where you want to find and replace text.
-Shortcut for Find/Replace Dialog Box: Press Ctrl+F (Windows/Linux).</description>
+      <guid>//localhost:1313/how-to-tech/how-to-use-find-and-replace-in-vscode/</guid>
+      <description>One of the powerful features that can save you time and effort while working with text or code in VSCode is the “Find and Replace” feature.&#xA;In this article, we will look at how to use the Find and Replace feature in VSCode.&#xA;Steps on How to Use Find and Replace in VSCode Open Your File: Begin by opening the file where you want to find and replace text.&#xA;Shortcut for Find/Replace Dialog Box: Press Ctrl+F (Windows/Linux).</description>
     </item>
-    
     <item>
       <title>How to Find Your GitHub Username?</title>
-      <link>/how-to-tech/how-to-find-your-github-username/</link>
+      <link>//localhost:1313/how-to-tech/how-to-find-your-github-username/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-find-your-github-username/</guid>
-      <description>GitHub is a web-based platform designed for developers and programmers to collaborate on projects, track changes in code, and manage version control.
-It plays a crucial role in the world of software development, making it easier for teams to work together, share code, and contribute to open-source projects.
-Table of Contents ↬How Does GitHub Usernames Look Like? Ways on How to Find Your GitHub Username 1. Using the GitHub Website 2.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-find-your-github-username/</guid>
+      <description>GitHub is a web-based platform designed for developers and programmers to collaborate on projects, track changes in code, and manage version control.&#xA;It plays a crucial role in the world of software development, making it easier for teams to work together, share code, and contribute to open-source projects.&#xA;Table of Contents ↬&#xD;How Does GitHub Usernames Look Like? Ways on How to Find Your GitHub Username 1. Using the GitHub Website 2.</description>
     </item>
-    
     <item>
       <title>How to Clear npm Cache?</title>
-      <link>/how-to-tech/how-to-clear-npm-cache/</link>
+      <link>//localhost:1313/how-to-tech/how-to-clear-npm-cache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-clear-npm-cache/</guid>
-      <description>The npm cache is essentially a local storage area where npm retains downloaded packages and their dependencies.
-Its primary goal is to aid package installations by reducing the need for constant internet downloads.
-However, over time, the npm cache can become a source of issues.
-In this guide, we will look at why clearing the npm cache is necessary and how to clear it.
-Table of Contents ↬Why Clear the npm Cache?</description>
+      <guid>//localhost:1313/how-to-tech/how-to-clear-npm-cache/</guid>
+      <description>The npm cache is essentially a local storage area where npm retains downloaded packages and their dependencies.&#xA;Its primary goal is to aid package installations by reducing the need for constant internet downloads.&#xA;However, over time, the npm cache can become a source of issues.&#xA;In this guide, we will look at why clearing the npm cache is necessary and how to clear it.&#xA;Table of Contents ↬&#xD;Why Clear the npm Cache?</description>
     </item>
-    
     <item>
       <title>How to Fix npm Installation Error: npm ERR! code EINTEGRITY?</title>
-      <link>/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/</guid>
-      <description>When working on a frontend application, encountering the npm ERR! code EINTEGRITY error can be frustrating.
-This error occurs during or after an npm install command and indicates that there is a mismatch between the expected and actual integrity checksum of a package during installation.
-In this article, we will look at the causes of this error and how you can resolve it.
-Table of Contents ↬Common Causes of EINTEGRITY Errors Steps on How to Fix &amp;ldquo;npm ERR!</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/</guid>
+      <description>When working on a frontend application, encountering the npm ERR! code EINTEGRITY error can be frustrating.&#xA;This error occurs during or after an npm install command and indicates that there is a mismatch between the expected and actual integrity checksum of a package during installation.&#xA;In this article, we will look at the causes of this error and how you can resolve it.&#xA;Table of Contents ↬&#xD;Common Causes of EINTEGRITY Errors Steps on How to Fix &amp;ldquo;npm ERR!</description>
     </item>
-    
     <item>
       <title>How to Delete Node Modules in VSCode?</title>
-      <link>/how-to-tech/how-to-delete-node-modules-in-vscode/</link>
+      <link>//localhost:1313/how-to-tech/how-to-delete-node-modules-in-vscode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-delete-node-modules-in-vscode/</guid>
-      <description>Frontend application projects often come with a hefty luggage known as the node_modules folder.
-While these modules are essential for the project&amp;rsquo;s functionality, they can sometimes become a burden, taking up significant disk space or even become corrupted as it may contain outdated or conflicting data.
-In this guide, we will look at two methods on how to delete the node modules in Visual Studio Code (VSCode).
-Methods on How to Delete Node Modules Folder in VSCode 1: Using the Right-Click Menu You can delete the node modules in VSCode by right-clicking on the node module folder.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-delete-node-modules-in-vscode/</guid>
+      <description>Frontend application projects often come with a hefty luggage known as the node_modules folder.&#xA;While these modules are essential for the project&amp;rsquo;s functionality, they can sometimes become a burden, taking up significant disk space or even become corrupted as it may contain outdated or conflicting data.&#xA;In this guide, we will look at two methods on how to delete the node modules in Visual Studio Code (VSCode).&#xA;Methods on How to Delete Node Modules Folder in VSCode 1: Using the Right-Click Menu You can delete the node modules in VSCode by right-clicking on the node module folder.</description>
     </item>
-    
     <item>
       <title>How to Fix &#34;Remove-Item: A parameter cannot be found that matches parameter name &#39;rf&#39;&#34;</title>
-      <link>/how-to-tech/remove-item-a-parameter-cannot-be-found-that-matches-parameter-name-rf/</link>
+      <link>//localhost:1313/how-to-tech/remove-item-a-parameter-cannot-be-found-that-matches-parameter-name-rf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/remove-item-a-parameter-cannot-be-found-that-matches-parameter-name-rf/</guid>
-      <description>If you&amp;rsquo;re a Window/PowerShell user, you may have encountered the following error message:
-Remove-Item : A parameter cannot be found that matches parameter name &amp;#39;rf&amp;#39;. At line:1 char:4 + rm -rf node_modules + ~~~ + CategoryInfo : InvalidArgument: (:) [Remove-Item], ParameterBindingException + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.PowerShell.Commands.RemoveItem Command 💡
-I encounter this error when trying to remove node_modules folder from a &amp;ldquo;next.js&amp;rdquo; project using VSCode&amp;rsquo;s terminal.
-This error occurs when you try to use the rm (or Remove-Item) command with the -rf flags to recursively force remove a directory or file.</description>
+      <guid>//localhost:1313/how-to-tech/remove-item-a-parameter-cannot-be-found-that-matches-parameter-name-rf/</guid>
+      <description>If you&amp;rsquo;re a Window/PowerShell user, you may have encountered the following error message:&#xA;Remove-Item : A parameter cannot be found that matches parameter name &amp;#39;rf&amp;#39;. At line:1 char:4 + rm -rf node_modules + ~~~ + CategoryInfo : InvalidArgument: (:) [Remove-Item], ParameterBindingException + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.PowerShell.Commands.RemoveItem Command &amp;#x1f4a1;&#xA;I encounter this error when trying to remove node_modules folder from a &amp;ldquo;next.js&amp;rdquo; project using VSCode&amp;rsquo;s terminal.&#xA;This error occurs when you try to use the rm (or Remove-Item) command with the -rf flags to recursively force remove a directory or file.</description>
     </item>
-    
     <item>
       <title>How to setup C/C&#43;&#43; in Visual Studio Code?</title>
-      <link>/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/</link>
+      <link>//localhost:1313/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/</guid>
-      <description>Are you trying to learn C or C++ programming using Visual Studio Code, or are you experiencing issues during the installation process?
-In this guide, we will walk you through the step-by-step process of installing the &amp;ldquo;MinGW&amp;rdquo; compiler and running C and C++ programs in Visual Studio Code.
-Table of Contents ↬Steps on how to set up C/C++ in Visual Studio Code: 1/ Download MinGW 2/ Install MinGW 3/ Configure MinGW Installation 4/ Complete the Installation 5/ Configure Environment Variables 6/ Verify MinGW Installation 7/ Create a C/C++ File in Visual Studio Code 8/ Install the Code Runner Extension Troubleshooting ⚠️ Here is an Installation Video for More Guide: Steps on how to set up C/C++ in Visual Studio Code: 1/ Download MinGW The first step in setting up your C/C++ development environment is to download the MinGW (Minimalist GNU for Windows) compiler.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/</guid>
+      <description>Are you trying to learn C or C++ programming using Visual Studio Code, or are you experiencing issues during the installation process?&#xA;In this guide, we will walk you through the step-by-step process of installing the &amp;ldquo;MinGW&amp;rdquo; compiler and running C and C++ programs in Visual Studio Code.&#xA;Table of Contents ↬&#xD;Steps on how to set up C/C++ in Visual Studio Code: 1/ Download MinGW 2/ Install MinGW 3/ Configure MinGW Installation 4/ Complete the Installation 5/ Configure Environment Variables 6/ Verify MinGW Installation 7/ Create a C/C++ File in Visual Studio Code 8/ Install the Code Runner Extension Troubleshooting &amp;#x26a0;&amp;#xfe0f; Here is an Installation Video for More Guide: Steps on how to set up C/C++ in Visual Studio Code: 1/ Download MinGW The first step in setting up your C/C++ development environment is to download the MinGW (Minimalist GNU for Windows) compiler.</description>
     </item>
-    
     <item>
       <title>How to Download IEEE Research Papers for Free?</title>
-      <link>/engineering-contents/how-to-download-ieee-research-papers-for-free/</link>
+      <link>//localhost:1313/engineering-contents/how-to-download-ieee-research-papers-for-free/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/engineering-contents/how-to-download-ieee-research-papers-for-free/</guid>
-      <description>It&amp;rsquo;s quite obvious that in today&amp;rsquo;s information age, access to research papers is crucial for academic and professional success and growth.
-However, many research papers, especially those published in IEEE (Institute of Electrical and Electronics Engineers) journals and conferences, often come with subscription that requires one to pay.
-But what if you could access and download these valuable resources for free?
-In this article, we will look at how to download IEEE research papers for free.</description>
+      <guid>//localhost:1313/engineering-contents/how-to-download-ieee-research-papers-for-free/</guid>
+      <description>It&amp;rsquo;s quite obvious that in today&amp;rsquo;s information age, access to research papers is crucial for academic and professional success and growth.&#xA;However, many research papers, especially those published in IEEE (Institute of Electrical and Electronics Engineers) journals and conferences, often come with subscription that requires one to pay.&#xA;But what if you could access and download these valuable resources for free?&#xA;In this article, we will look at how to download IEEE research papers for free.</description>
     </item>
-    
     <item>
       <title>How to Open VS Code Terminal in Another Window?</title>
-      <link>/how-to-tech/how-to-open-vscode-terminal-in-another-window/</link>
+      <link>//localhost:1313/how-to-tech/how-to-open-vscode-terminal-in-another-window/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-open-vscode-terminal-in-another-window/</guid>
-      <description>Are you tired of the default VS Code terminal that&amp;rsquo;s tucked away at the bottom of your screen? Do you want to open it in a new window, giving you more workspace and flexibility for your coding projects?
-In this guide, we&amp;rsquo;ll look at the steps you can follow to open the VS Code terminal in a separate window, making your coding experience more efficient and enjoyable.
-Table of Contents ↬Steps on How to Open VSCode Terminal in a Separate Window Step 1: Open the File Step 2: Create a New Window Step 3: Launch the Terminal Step 4: Navigate to Your Workspace FAQs Steps on How to Open VSCode Terminal in a Separate Window Step 1: Open the File First, open the file you want to work on.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-open-vscode-terminal-in-another-window/</guid>
+      <description>Are you tired of the default VS Code terminal that&amp;rsquo;s tucked away at the bottom of your screen? Do you want to open it in a new window, giving you more workspace and flexibility for your coding projects?&#xA;In this guide, we&amp;rsquo;ll look at the steps you can follow to open the VS Code terminal in a separate window, making your coding experience more efficient and enjoyable.&#xA;Table of Contents ↬&#xD;Steps on How to Open VSCode Terminal in a Separate Window Step 1: Open the File Step 2: Create a New Window Step 3: Launch the Terminal Step 4: Navigate to Your Workspace FAQs Steps on How to Open VSCode Terminal in a Separate Window Step 1: Open the File First, open the file you want to work on.</description>
     </item>
-    
     <item>
       <title>How to Delete VSCode Cached Data Files?</title>
-      <link>/how-to-tech/how-to-delete-vscode-cached-data-files/</link>
+      <link>//localhost:1313/how-to-tech/how-to-delete-vscode-cached-data-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-delete-vscode-cached-data-files/</guid>
-      <description>When it comes to working on files in Visual Studio Code (VSCode), you may have noticed that over time, the software&amp;rsquo;s performance starts to slow down.
-One common reason for this is the accumulation of cached files. Though cached data can be helpful for quick access to files, but it can also slow down your system.
-In this article, we&amp;rsquo;ll look at how to delete or remove VSCode cached data files to ensure that your coding experience is smooth and efficient.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-delete-vscode-cached-data-files/</guid>
+      <description>When it comes to working on files in Visual Studio Code (VSCode), you may have noticed that over time, the software&amp;rsquo;s performance starts to slow down.&#xA;One common reason for this is the accumulation of cached files. Though cached data can be helpful for quick access to files, but it can also slow down your system.&#xA;In this article, we&amp;rsquo;ll look at how to delete or remove VSCode cached data files to ensure that your coding experience is smooth and efficient.</description>
     </item>
-    
     <item>
       <title>How to fix “Serial port unavailable” (Arduino)?</title>
-      <link>/electronics/how-to-fix-serial-port-unavailable-with-arduino/</link>
+      <link>//localhost:1313/electronics/how-to-fix-serial-port-unavailable-with-arduino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/how-to-fix-serial-port-unavailable-with-arduino/</guid>
-      <description>Have you ever encountered the frustrating issue of “Serial port unavailable” or “No Ports Discovered” when connecting your Arduino board to a computer via USB cable?
-This problem prevents you from uploading your code to the board. In this article, we will be looking at tips on how this issue can be troubleshooted.
-Table of Contents ↬How to fix “Serial port unavailable” with Arduino Tip 1: Open Device Manager and Check Port Driver Tip 2: Check USB Port Connection Tip 3: Reinstall Arduino Software Tip 4: Restart Your Computer Tip 5: Check Board and Port in Arduino IDE Tip 6: Try a Different Arduino Board Tip 7: Check for Other Software Interference Tip 8: Community Support Wrap Up FAQs How to fix “Serial port unavailable” with Arduino Here are some troubleshooting tips you can follow to fix it:</description>
+      <guid>//localhost:1313/electronics/how-to-fix-serial-port-unavailable-with-arduino/</guid>
+      <description>Have you ever encountered the frustrating issue of “Serial port unavailable” or “No Ports Discovered” when connecting your Arduino board to a computer via USB cable?&#xA;This problem prevents you from uploading your code to the board. In this article, we will be looking at tips on how this issue can be troubleshooted.&#xA;Table of Contents ↬&#xD;How to fix “Serial port unavailable” with Arduino Tip 1: Open Device Manager and Check Port Driver Tip 2: Check USB Port Connection Tip 3: Reinstall Arduino Software Tip 4: Restart Your Computer Tip 5: Check Board and Port in Arduino IDE Tip 6: Try a Different Arduino Board Tip 7: Check for Other Software Interference Tip 8: Community Support Wrap Up FAQs How to fix “Serial port unavailable” with Arduino Here are some troubleshooting tips you can follow to fix it:</description>
     </item>
-    
     <item>
       <title>How to Fix a SIM900 GSM Module That&#39;s Not Working?</title>
-      <link>/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</link>
+      <link>//localhost:1313/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</guid>
-      <description>GSM modules, such as the SIM900, are fantastic tools for communication, but they can be tricky to set up, especially for beginners.
-If you&amp;rsquo;ve encountered issues connecting your module, don&amp;rsquo;t worry—I&amp;rsquo;ve been there too.
-Let&amp;rsquo;s look into the common problems and solutions for fixing a non-functional SIM900 GSM module.
-For example, maybe the GSM module is not turning ON, or it is turning ON but not connecting.
-Table of Contents ↬How to Fix a SIM900 GSM Module That&amp;rsquo;s Not Working?</description>
+      <guid>//localhost:1313/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/</guid>
+      <description>GSM modules, such as the SIM900, are fantastic tools for communication, but they can be tricky to set up, especially for beginners.&#xA;If you&amp;rsquo;ve encountered issues connecting your module, don&amp;rsquo;t worry—I&amp;rsquo;ve been there too.&#xA;Let&amp;rsquo;s look into the common problems and solutions for fixing a non-functional SIM900 GSM module.&#xA;For example, maybe the GSM module is not turning ON, or it is turning ON but not connecting.&#xA;Table of Contents ↬&#xD;How to Fix a SIM900 GSM Module That&amp;rsquo;s Not Working?</description>
     </item>
-    
     <item>
       <title>How to Remove Items from a List While Iterating in Python?</title>
-      <link>/how-to-tech/how-to-remove-items-from-a-list-while-iterating-in-python/</link>
+      <link>//localhost:1313/how-to-tech/how-to-remove-items-from-a-list-while-iterating-in-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-remove-items-from-a-list-while-iterating-in-python/</guid>
-      <description>Python, with its flexibility and power, provides various methods to manipulate lists.
-However, removing items from a list while iterating can be a tricky task. In this article, we will look at several methods that will allow you to remove elements from a list while iterating through it.
-Table of Contents ↬How to Remove Items from a List While Iterating in Python? 1. Creating a New List with List Comprehension: 2.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-remove-items-from-a-list-while-iterating-in-python/</guid>
+      <description>Python, with its flexibility and power, provides various methods to manipulate lists.&#xA;However, removing items from a list while iterating can be a tricky task. In this article, we will look at several methods that will allow you to remove elements from a list while iterating through it.&#xA;Table of Contents ↬&#xD;How to Remove Items from a List While Iterating in Python? 1. Creating a New List with List Comprehension: 2.</description>
     </item>
-    
     <item>
       <title>How to Fix PDFDrive not Working or Downloading?</title>
-      <link>/how-to-tech/how-to-fix-pdfdrive-not-working-or-downloading/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-pdfdrive-not-working-or-downloading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-pdfdrive-not-working-or-downloading/</guid>
-      <description>PDF Drive boasts a massive collection of free PDFs, but users often encounter frustrating download problems.
-Download buttons redirecting, pages failing to load, and unresponsive buttons are common complaints.
-In this article, we will look at how to fix these issues.
-💡 Quick Fix:
-If the download button on PDF Drive isn&amp;rsquo;t responding, here are some quick fixes you can try.
-Copy the PDF file name and try searching for the book&amp;rsquo;s title on PDFDrive.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-pdfdrive-not-working-or-downloading/</guid>
+      <description>PDF Drive boasts a massive collection of free PDFs, but users often encounter frustrating download problems.&#xA;Download buttons redirecting, pages failing to load, and unresponsive buttons are common complaints.&#xA;In this article, we will look at how to fix these issues.&#xA;&amp;#x1f4a1; Quick Fix:&#xA;If the download button on PDF Drive isn&amp;rsquo;t responding, here are some quick fixes you can try.&#xA;Copy the PDF file name and try searching for the book&amp;rsquo;s title on PDFDrive.</description>
     </item>
-    
     <item>
       <title>How to Fix Can&#39;t Download Facebook App on Android?</title>
-      <link>/how-to-tech/how-to-fix-cant-download-facebook-app-on-android/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-cant-download-facebook-app-on-android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-cant-download-facebook-app-on-android/</guid>
-      <description>Facebook, a social media giant with a massive user community, is an integral part of our digital lives. Yet, there are instances where users encounter obstacles during the installation of the Facebook app on their Android devices.
-If you&amp;rsquo;re facing similar problems and wondering how to fix the “Facebook is not installing on my Android” issue, this article will provide you with solutions to help you overcome this frustrating situation.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-cant-download-facebook-app-on-android/</guid>
+      <description>Facebook, a social media giant with a massive user community, is an integral part of our digital lives. Yet, there are instances where users encounter obstacles during the installation of the Facebook app on their Android devices.&#xA;If you&amp;rsquo;re facing similar problems and wondering how to fix the “Facebook is not installing on my Android” issue, this article will provide you with solutions to help you overcome this frustrating situation.</description>
     </item>
-    
     <item>
       <title>How to Study the Most in a Day?</title>
-      <link>/misce-post/how-to-study-the-most-in-a-day/</link>
+      <link>//localhost:1313/misce-post/how-to-study-the-most-in-a-day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/misce-post/how-to-study-the-most-in-a-day/</guid>
-      <description>Studying effectively isn&amp;rsquo;t merely about cramming in the most hours; it&amp;rsquo;s about high-quality focus and engagement with the material.
-In this article, we will look at some strategies to maximize your learning potential in a day without overwhelming yourself.
-Table of Contents ↬How to Study the Most in a Day? 1. Planning and Prioritization 2. Active Learning Techniques 3. Maintaining Focus and Energy 4. Remember: Quality Over Quantity 5. Listen to Your Body 6.</description>
+      <guid>//localhost:1313/misce-post/how-to-study-the-most-in-a-day/</guid>
+      <description>Studying effectively isn&amp;rsquo;t merely about cramming in the most hours; it&amp;rsquo;s about high-quality focus and engagement with the material.&#xA;In this article, we will look at some strategies to maximize your learning potential in a day without overwhelming yourself.&#xA;Table of Contents ↬&#xD;How to Study the Most in a Day? 1. Planning and Prioritization 2. Active Learning Techniques 3. Maintaining Focus and Energy 4. Remember: Quality Over Quantity 5. Listen to Your Body 6.</description>
     </item>
-    
     <item>
       <title>How to Fix Play Store Not Working &#34;Try Again&#34; Error?</title>
-      <link>/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</guid>
-      <description>Google Play Store, the official app store for Android devices, is a built-in part of the Android ecosystem.
-However, users may encounter the frustrating “Try Again” error while attempting to search for or download an application.
-In this article, we will look at practical solutions to troubleshoot and resolve this issue.
-Table of Contents ↬How to Fix Play Store Not Working, “Try Again” Error? 💡 Quick Fixes: Troubleshooting Steps: 1.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-play-store-not-working-try-again-error/</guid>
+      <description>Google Play Store, the official app store for Android devices, is a built-in part of the Android ecosystem.&#xA;However, users may encounter the frustrating “Try Again” error while attempting to search for or download an application.&#xA;In this article, we will look at practical solutions to troubleshoot and resolve this issue.&#xA;Table of Contents ↬&#xD;How to Fix Play Store Not Working, “Try Again” Error? &amp;#x1f4a1; Quick Fixes: Troubleshooting Steps: 1.</description>
     </item>
-    
     <item>
       <title>How to Install Node.js in Windows?</title>
-      <link>/how-to-tech/how-to-install-nodejs-in-windows/</link>
+      <link>//localhost:1313/how-to-tech/how-to-install-nodejs-in-windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-install-nodejs-in-windows/</guid>
-      <description>Are you working on a JavaScript project that involves server-side scripting? If so, Node.js is what you need.
-Node.js has become a vital tool for developers, allowing server-side scripting and the creation of dynamic web pages.
-If you&amp;rsquo;re a Windows user and need guidance on installing Node.js on your machine, this guide will help you through the installation process.
-Table of Contents ↬Steps on How to Install Node.js on Windows Step 1/ Check if you have Node.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-install-nodejs-in-windows/</guid>
+      <description>Are you working on a JavaScript project that involves server-side scripting? If so, Node.js is what you need.&#xA;Node.js has become a vital tool for developers, allowing server-side scripting and the creation of dynamic web pages.&#xA;If you&amp;rsquo;re a Windows user and need guidance on installing Node.js on your machine, this guide will help you through the installation process.&#xA;Table of Contents ↬&#xD;Steps on How to Install Node.js on Windows Step 1/ Check if you have Node.</description>
     </item>
-    
     <item>
       <title>List of VSCode Useful Keyboard Shortcut Keys (2024)</title>
-      <link>/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</link>
+      <link>//localhost:1313/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</guid>
-      <description>Navigating through Visual Studio Code efficiently can significantly boost your productivity.
-Mastering keyboard shortcuts is the key to unlocking the full potential of this powerful code editor.
-In this article, we will explore a comprehensive list of essential and also useful VSCode keyboard shortcuts for various tasks, categorized for easy reference.
-Table of Contents ↬VSCode Useful Keyboard Shortcut Keys General Commands Basic Editing Advanced Editing Region Folding Comments and Formatting Search and Replace Multi-cursor and Selection Editor Management File Management Wrap Up FAQs VSCode Useful Keyboard Shortcut Keys General Commands Ctrl+Shift+P, F1 — Show Command Palette The command palette is your go-to tool for executing any command in VSCode.</description>
+      <guid>//localhost:1313/how-to-tech/list-of-vscode-useful-keyboard-shortcuts/</guid>
+      <description>Navigating through Visual Studio Code efficiently can significantly boost your productivity.&#xA;Mastering keyboard shortcuts is the key to unlocking the full potential of this powerful code editor.&#xA;In this article, we will explore a comprehensive list of essential and also useful VSCode keyboard shortcuts for various tasks, categorized for easy reference.&#xA;Table of Contents ↬&#xD;VSCode Useful Keyboard Shortcut Keys General Commands Basic Editing Advanced Editing Region Folding Comments and Formatting Search and Replace Multi-cursor and Selection Editor Management File Management Wrap Up FAQs VSCode Useful Keyboard Shortcut Keys General Commands Ctrl+Shift+P, F1 — Show Command Palette The command palette is your go-to tool for executing any command in VSCode.</description>
     </item>
-    
     <item>
       <title>How to Fix &#34;Error Couldn&#39;t Find a package.json File&#34;?</title>
-      <link>/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</guid>
-      <description>Are you facing the error “Couldn&amp;rsquo;t Find a package.json File” while trying to run a project using npm or yarn?
-Don&amp;rsquo;t worry; you&amp;rsquo;re not alone. This issue can be frustrating, but fortunately, there are several ways to resolve it.
-In this article, we will look at some effective solutions to help you get past this obstacle and continue with your development work smoothly.
-Table of Contents ↬1. Check the Working Directory 2.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-error-couldnt-find-a-package-json-file/</guid>
+      <description>Are you facing the error “Couldn&amp;rsquo;t Find a package.json File” while trying to run a project using npm or yarn?&#xA;Don&amp;rsquo;t worry; you&amp;rsquo;re not alone. This issue can be frustrating, but fortunately, there are several ways to resolve it.&#xA;In this article, we will look at some effective solutions to help you get past this obstacle and continue with your development work smoothly.&#xA;Table of Contents ↬&#xD;1. Check the Working Directory 2.</description>
     </item>
-    
     <item>
       <title>How to Fix VSCode Window Not Responding?</title>
-      <link>/how-to-tech/how-to-fix-vscode-window-not-responding/</link>
+      <link>//localhost:1313/how-to-tech/how-to-fix-vscode-window-not-responding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-fix-vscode-window-not-responding/</guid>
-      <description>Are you experiencing some annoying issues like VSCode window not responding, a black screen, or sluggish performance?
-These problems can be incredibly frustrating, especially when you&amp;rsquo;re in the midst of a project or trying to start a new one.
-Often, these issues are caused by cached VSCode files, but fear not – we have the solution.
-Table of Contents ↬Steps to Fix VSCode Window Not Responding Step 1: Force Close VSCode Step 2: Go to Your C:\ Drive and User’s Folder Step 3: Locate the Folder with Your Username Step 4: Access the AppData Folder Step 5: Find the Roaming Folder Step 6: Identify the “Code” Folder or Directory Step 7: Delete All Files in Cache and CachedData Step 8: Launch VSCode Again Wrap Up FAQs 1.</description>
+      <guid>//localhost:1313/how-to-tech/how-to-fix-vscode-window-not-responding/</guid>
+      <description>Are you experiencing some annoying issues like VSCode window not responding, a black screen, or sluggish performance?&#xA;These problems can be incredibly frustrating, especially when you&amp;rsquo;re in the midst of a project or trying to start a new one.&#xA;Often, these issues are caused by cached VSCode files, but fear not – we have the solution.&#xA;Table of Contents ↬&#xD;Steps to Fix VSCode Window Not Responding Step 1: Force Close VSCode Step 2: Go to Your C:\ Drive and User’s Folder Step 3: Locate the Folder with Your Username Step 4: Access the AppData Folder Step 5: Find the Roaming Folder Step 6: Identify the “Code” Folder or Directory Step 7: Delete All Files in Cache and CachedData Step 8: Launch VSCode Again Wrap Up FAQs 1.</description>
     </item>
-    
     <item>
       <title>How to Delete a Git Branch Locally and Remotely?</title>
-      <link>/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</link>
+      <link>//localhost:1313/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</guid>
-      <description>Branches in a Git repo are an amazing way to add new features to a project or fix bugs while still maintaining the main codebase.
-Over time, the branches you create may become too many, so you&amp;rsquo;ll want to delete some that are no longer needed.
-This could be because you just created them locally, or because they&amp;rsquo;ve already been merged with the main codebase.
-Table of Contents ↬How to delete a Git branch?</description>
+      <guid>//localhost:1313/how-to-tech/how-to-delete-a-git-branch-locally-and-remotely/</guid>
+      <description>Branches in a Git repo are an amazing way to add new features to a project or fix bugs while still maintaining the main codebase.&#xA;Over time, the branches you create may become too many, so you&amp;rsquo;ll want to delete some that are no longer needed.&#xA;This could be because you just created them locally, or because they&amp;rsquo;ve already been merged with the main codebase.&#xA;Table of Contents ↬&#xD;How to delete a Git branch?</description>
     </item>
-    
     <item>
       <title>10 Tips to Stay Awake and Alert in Class</title>
-      <link>/misce-post/tips-on-how-to-stay-awake-in-class-/</link>
+      <link>//localhost:1313/misce-post/tips-on-how-to-stay-awake-in-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/misce-post/tips-on-how-to-stay-awake-in-class-/</guid>
-      <description>Staying attentive and alert in class is crucial for effective learning.
-Many students face the challenge of feeling drowsy during lectures, which can significantly impede their ability to absorb information.
-In this article, we&amp;rsquo;ll delve into practical strategies to help you stay focused and engaged in the classroom.
-10 Tips on How to Stay Awake and Alert in Class Before Class 1. Prioritize Sleep One of the fundamental pillars of staying alert in class is ensuring you get an adequate amount of sleep.</description>
+      <guid>//localhost:1313/misce-post/tips-on-how-to-stay-awake-in-class/</guid>
+      <description>Staying attentive and alert in class is crucial for effective learning.&#xA;Many students face the challenge of feeling drowsy during lectures, which can significantly impede their ability to absorb information.&#xA;In this article, we&amp;rsquo;ll delve into practical strategies to help you stay focused and engaged in the classroom.&#xA;10 Tips on How to Stay Awake and Alert in Class Before Class 1. Prioritize Sleep One of the fundamental pillars of staying alert in class is ensuring you get an adequate amount of sleep.</description>
     </item>
-    
   </channel>
 </rss>

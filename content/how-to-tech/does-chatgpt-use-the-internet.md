@@ -57,7 +57,7 @@ OpenAI is actively working on developing plugins that will enable ChatGPT to acc
 
 One notable plugin called WolframAlpha allows ChatGPT to provide responses to complex mathematical problems using up-to-date information. 
 
-{{< tweet 1638951865319821312 >}}
+<!-- {{ tweet 1638951865319821312 id >}} -->
 
 It is important to note that these plugins are currently available exclusively for premium users who have subscribed to ChatGPT Plus.
 
