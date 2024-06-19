@@ -504,7 +504,7 @@
     <lastmod>2023-05-14T13:38:52-07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/how-to-tech/does-chatgpt-use-the-internet/</loc>
-    <lastmod>2023-05-26T13:12:14-07:00</lastmod>
+    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/how-to-tech/difference-between-gpt-1-gpt-2-gpt-3-gpt-4/</loc>
     <lastmod>2023-05-15T16:26:30-07:00</lastmod>
@@ -1304,11 +1304,17 @@
     <loc>//localhost:1313/electronics/what-is-the-maximum-voltage-and-current-for-arduino-uno-power-jack/</loc>
     <lastmod>2024-04-24T13:03:33-05:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/crypto-education/telegram-based-bot-airdrops/</loc>
+    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/crypto-education/hamster-kombat-and-how-to-increase-profit-per-hour-productively/</loc>
+    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/networking-and-communication/</loc>
     <lastmod>2024-04-24T16:05:29-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-05-09T21:57:52-05:00</lastmod>
+    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/electronics/</loc>
     <lastmod>2024-04-24T13:03:33-05:00</lastmod>
@@ -1324,6 +1330,9 @@
   </url><url>
     <loc>//localhost:1313/categories/circuit-analysis/</loc>
     <lastmod>2023-04-11T15:38:05-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/crypto-education/</loc>
+    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/digital-electronics/</loc>
     <lastmod>2023-12-17T03:39:31-08:00</lastmod>
@@ -1341,7 +1350,7 @@
     <lastmod>2023-06-24T12:36:37-07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/how-to-tech/</loc>
-    <lastmod>2024-05-09T21:57:52-05:00</lastmod>
+    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/maths-and-fun/</loc>
     <lastmod>2023-01-25T15:11:00-08:00</lastmod>
@@ -1359,6 +1368,7 @@
     <lastmod>2023-01-22T14:54:54-08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/crypto-education/</loc>
+    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/difference-between/</loc>
     <lastmod>2024-02-11T20:06:12-07:00</lastmod>

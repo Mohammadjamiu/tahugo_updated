@@ -67,21 +67,17 @@ end }}
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="200" />
 
-<meta property="og:title" content="{{ .Title }}">
-  <meta property="og:description" content="{{ .Description }}">
-  <meta property="og:image" content="{{ .Params.image }}">
-  <meta property="og:url" content="{{ .Permalink }}">
 
 {{ with .Params.image }}
-<meta itemprop="image" content="{{ . | absURL }}" />
-<meta property="og:image" content="{{ . | absURL }}" />
-<meta name="twitter:image" content="{{ . | absURL }}" />
-<meta name="twitter:image:src" content="{{ . | absURL }}" />
+<meta itemprop="image" content="https://tooabstractive.com{{ . | absURL }}" />
+<meta property="og:image" content="https://tooabstractive.com{{ . | absURL }}" />
+<meta name="twitter:image" content="https://tooabstractive.com{{ . | absURL }}" />
+<meta name="twitter:image:src" content="https://tooabstractive.com{{ . | absURL }}" />
 {{ else }}
-<meta itemprop="image" content="{{ .Site.Params.image | absURL }}" />
-<meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
-<meta name="twitter:image" content="{{ .Site.Params.image | absURL }}" />
-<meta name="twitter:image:src" content="{{ .Site.Params.image | absURL }}" />
+<meta itemprop="image" content="https://tooabstractive.com{{ .Site.Params.image }}" />
+<meta property="og:image" content="https://tooabstractive.com{{ .Site.Params.image }}" />
+<meta name="twitter:image" content="https://tooabstractive.com{{ .Site.Params.image }}" />
+<meta name="twitter:image:src" content="https://tooabstractive.com{{ .Site.Params.image }}" />
 {{ end }} {{/*
 <!--  'Sitemap  Tags' | safeHTML  -->*/}}
 
