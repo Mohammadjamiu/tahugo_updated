@@ -7,6 +7,7 @@ enableGitInfo: true
 canonifyURLs: true
 dateFormat: "02 Jan 2006"
 paginate: 15
+timeout:  60000 
 ignoreErrors: ["error-remote-getjson"]
 params:
   description: TA is here to demystify abstractive concepts ranging from (engineering - tech - writing)
