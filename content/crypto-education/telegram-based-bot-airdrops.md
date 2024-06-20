@@ -8,7 +8,7 @@ keywords:
 description: Know the top telegram-based bot airdrops in 2024
 categorylabel: Crypto Education
 categories: '["Crypto Education"]'
-image: /images/images.png
+image: /images/airdrop.png
 weight: 430
 categorylink: /categories/crypto-education
 type: posts
