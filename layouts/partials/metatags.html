@@ -1,9 +1,10 @@
 <!-- Title Tag -->
-
-{{ $newx := print .Title " - " .Site.Title }} {{$new:= replace $newx "[" "" }}
-{{$title:= replace $new "]" "" }} {{ if .IsHome }}{{ $title = .Site.Title }}{{
-end }}
-<title>{{ $title }}</title>
+{{ $title := .Title }}
+{{ if .IsHome }}
+  <title>{{ .Site.Title }}</title>
+{{ else }}
+  <title>{{ $title }} - {{ .Site.Title }}</title>
+{{ end }}
 
 <!-- End of Title Tags -->
 
@@ -12,62 +13,53 @@ end }}
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <!-- Favicon -->
-<link
-  rel="shortcut icon"
-  href="{{ `favicon.ico` | relURL }}"
-  type="image/x-icon"
-/>
+<link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon" />
 <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon" />
 <!-- End of Favicon -->
 
 <!-- Meta Description -->
-<meta
-  name="description"
-  content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"
-/>
-{{ if .Params.keywords }} {{ $keywords := delimit .Params.keywords ", " }}
-<meta name="keywords" content="{{ $keywords }}" />
-{{ end }} {{ with site.Params.author }}
-<meta name="author" content="{{ . }}" />{{ end }} {{ hugo.Generator }} {{if
-.Params.author_credit}}
-<meta name="publisher" content="{{ .Params.author_credit_name }}" />
-{{else}}
-<meta name="publisher" content="{{ .Params.author }}" /> {{end}}
-<meta name="description" content="{{ .Params.description }}">
-	<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ .Params.description }}">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://tooabstractive.com{{ .RelPermalink }}">
-<meta property="og:image" content="https://tooabstractive.com{{ .Params.image | absURL }}">
-<meta property="article:published_time" content="2020-05-09T00:00:00+00:00">
-<meta property="article:modified_time" content="2020-06-17T00:00:00+00:00">
-<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 
-<meta property="article:section" content="hugo">
+{{ if .Params.keywords }}
+  {{ $keywords := delimit .Params.keywords ", " }}
+  <meta name="keywords" content="{{ $keywords }}" />
+{{ end }}
 
-<meta name="twitter:image" content="https://tooabstractive.com{{ .Params.image | absURL }}">
+{{ with site.Params.author }}
+  <meta name="author" content="{{ . }}" />
+{{ end }}
 
-<meta name="twitter:title" content="{{ .Title }}">
-<meta name="twitter:description" content="{{ .Params.description }}">
+{{ if .Params.author_credit }}
+  <meta name="publisher" content="{{ .Params.author_credit_name }}" />
+{{ else }}
+  <meta name="publisher" content="{{ .Params.author }}" />
+{{ end }}
 
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="{{ $title }}" />
+<meta property="og:description" content="{{ .Description }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ .Params.image | absURL }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
 
- <!-- Open Graph meta tags -->
- <meta property="og:title" content="{{ .Title }}" />
- <meta property="og:description" content="{{ .Description }}" />
- <meta property="og:image" content="{{ .Params.featuredImage }}" />
- <meta property="og:url" content="{{ .Permalink }}" />
- <!-- Other meta tags -->
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ $title }}" />
+<meta name="twitter:description" content="{{ .Description }}" />
+<meta name="twitter:image" content="{{ .Params.image | absURL }}" />
 
-<link
-  rel="sitemap"
-  type="application/xml"
-  title="Sitemap"
-  href='{{ "sitemap.xml" | absURL }}'
-/>
+<!-- Article Meta Tags (if applicable) -->
+{{ if .IsPage }}
+  <meta property="article:published_time" content="{{ .Date }}" />
+  <meta property="article:modified_time" content="{{ .Lastmod }}" />
+  <meta property="article:section" content="{{ .Section }}" />
+{{ end }}
 
-{{/*
-<!-- Robot and Googlebot indexation -->
-*/}}
+<!-- Sitemap Link -->
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "sitemap.xml" | absURL }}" />
+
+<!-- Robots and Googlebot Indexation -->
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
 <meta name="robots" content="max-image-preview:large" />
