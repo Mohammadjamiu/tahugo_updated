@@ -51,6 +51,13 @@ end }}
 <meta name="twitter:description" content="{{ .Params.description }}">
 
 
+ <!-- Open Graph meta tags -->
+ <meta property="og:title" content="{{ .Title }}" />
+ <meta property="og:description" content="{{ .Description }}" />
+ <meta property="og:image" content="{{ .Params.featuredImage }}" />
+ <meta property="og:url" content="{{ .Permalink }}" />
+ <!-- Other meta tags -->
+
 <link
   rel="sitemap"
   type="application/xml"

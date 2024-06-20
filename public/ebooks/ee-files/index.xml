@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EE files on Tooabstractive</title>
-    <link>//localhost:1313/ebooks/ee-files/</link>
+    <link>http://localhost:1313/ebooks/ee-files/</link>
     <description>Recent content in EE files on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/ebooks/ee-files/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ebooks/ee-files/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[PDF] Analog and Digital Electronics By U.A Bakshi A.P Godse</title>
-      <link>//localhost:1313/ebooks/ee-files/analog-and-digital-electronics-u-a-bakshi/</link>
+      <link>http://localhost:1313/ebooks/ee-files/analog-and-digital-electronics-u-a-bakshi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ebooks/ee-files/analog-and-digital-electronics-u-a-bakshi/</guid>
+      <guid>http://localhost:1313/ebooks/ee-files/analog-and-digital-electronics-u-a-bakshi/</guid>
       <description>&#xD;Book content Chapter 1 Special Diodes&#xA;Chapter 2 Frequency Response&#xA;Chapter 3 Feedback Amplifier&#xA;Chapter 4 Oscillator&#xA;Chapter 5 Combinational Logic Circuits&#xA;Chapter 6 Sequeential Logic Circuits&#xA;Chapter 7 Shift Registers&#xA;Chapter 8 Counters&#xA;Chapter 9 OP-amp Application&#xA;Chapter 10 Voltage Regulators&#xA;Chapter 11 Memories&#xA;Book Description Author&amp;rsquo;s Name U.A Bashi and A.P Godse Format PDF File Size 21 MB </description>
     </item>
     <item>
       <title>[PDF] Circuit Theory by U.A Bakshi and A.V Bakshi</title>
-      <link>//localhost:1313/ebooks/ee-files/circuit-theory-by-u-a-bakshi-pdf-download/</link>
+      <link>http://localhost:1313/ebooks/ee-files/circuit-theory-by-u-a-bakshi-pdf-download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ebooks/ee-files/circuit-theory-by-u-a-bakshi-pdf-download/</guid>
+      <guid>http://localhost:1313/ebooks/ee-files/circuit-theory-by-u-a-bakshi-pdf-download/</guid>
       <description>&#xD;Book Contents Chapter 1 Basic Circuit Analysis and Network Reduction Techniques&#xA;Chapter 2 Mesh and Node Analysis for A.C and D.C Circuits&#xA;Chapter 3 Network Theorem for A.C and D.C Circuits&#xA;Chapter 4 Resonance&#xA;Chapter 5 Coupled Circuits&#xA;Chapter 6 Transient Response for D.C Circuits&#xA;Chapter 7 Laplace Transform in Network Analysis&#xA;Chapter 8 Analysing Three Phase Circuits&#xA;Book Description Author&amp;rsquo;s Name U.A Bakshi and A.V Bakshi Format PDF File Size 8 MB </description>
     </item>
     <item>
       <title>[PDF] Network Analysis and Synthesis by Ravish R. Singh</title>
-      <link>//localhost:1313/ebooks/ee-files/network-analysis-and-synthesis-by-ravish-singh/</link>
+      <link>http://localhost:1313/ebooks/ee-files/network-analysis-and-synthesis-by-ravish-singh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ebooks/ee-files/network-analysis-and-synthesis-by-ravish-singh/</guid>
+      <guid>http://localhost:1313/ebooks/ee-files/network-analysis-and-synthesis-by-ravish-singh/</guid>
       <description>Book Contents Chapter 1 Basic Network Concept&#xA;Chapter 2 Elementary Network Theorems&#xA;Chapter 3 Network Theorems (Application To dc Networks)&#xA;Chapter 4 Single-Phase ac Circuits&#xA;Chapter 5 Resonance&#xA;Chapter 6 Network Theorems (Application To ac Circuits)&#xA;Chapter 7 Coupled Circuits&#xA;Chapter 8 Three-Phase Circuits&#xA;Chapter 9 Network Toplogy&#xA;Chapter 10 Transient Analysis&#xA;Chapter 11 Laplace Transform and its Application&#xA;Chapter 12 Network Functions&#xA;Chapter 13 Two-Port Networks&#xA;Chapter 14 Fourier Analysis</description>
     </item>
     <item>
       <title>[PDF] The Art of Electronics By Paul Horowitz And Winfield Hill</title>
-      <link>//localhost:1313/ebooks/ee-files/the-art-of-electronics-paul-horowitz-pdf/</link>
+      <link>http://localhost:1313/ebooks/ee-files/the-art-of-electronics-paul-horowitz-pdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ebooks/ee-files/the-art-of-electronics-paul-horowitz-pdf/</guid>
+      <guid>http://localhost:1313/ebooks/ee-files/the-art-of-electronics-paul-horowitz-pdf/</guid>
       <description>&#xD;Book Contents Chapter 1 Foundations&#xA;Chapter 2 Bipolar Transistors&#xA;Chapter 3 Field-Effect Transistors&#xA;Chapter 4 Operational Amplifiers&#xA;Chapter 5 Precision Circuits&#xA;Chapter 6 Filters&#xA;Chapter 7 Ocillators and Timers&#xA;Chapter 8 Low-Noise Techniques&#xA;Chapter 9 Voltage Regulation and Power Conversion&#xA;Chapter 10 Digital Logic&#xA;Chapter 11 Programmable Logic Devices&#xA;Chapter 12 Logic Interfacing&#xA;Chapter 13 Digital meets Analog&#xA;Chapter 14 Computers, Controllers, and Data Links&#xA;Chapter 15 Microcontrollers&#xA;Book Description Author&amp;rsquo;s Name Paul Horowitz and Winfield Hill Format PDF File Size 29 MB </description>
     </item>
     <item>
       <title>[PDF] Electronics Engineering By U.A Bakshi and A.P Godse</title>
-      <link>//localhost:1313/ebooks/ee-files/electronics-engineering-by-u.a-bakshi-and-a.p-godse-pdf/</link>
+      <link>http://localhost:1313/ebooks/ee-files/electronics-engineering-by-u.a-bakshi-and-a.p-godse-pdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ebooks/ee-files/electronics-engineering-by-u.a-bakshi-and-a.p-godse-pdf/</guid>
+      <guid>http://localhost:1313/ebooks/ee-files/electronics-engineering-by-u.a-bakshi-and-a.p-godse-pdf/</guid>
       <description>&#xD;Book Contents Chapter 1 Semiconductor Diodes and Applications&#xA;Chapter 2 Zener Diode and Applications&#xA;Chapter 3 Bipolar Junction Transistor&#xA;Chapter 4 Transistor Amplifier&#xA;Chapter 5 Field Effect Transistor&#xA;Chapter 6 Operational Amplifiers&#xA;Chapter 7 Switching Theory and Logic Design&#xA;Chapter 8 Electronics Instrument&#xA;Book Description Author&amp;rsquo;s Name U.A Bakshi and A.P Godse Format PDF File Size 28.6 MB </description>
     </item>
     <item>
       <title>[PDF] Engineering Electromagnetics 8th Edition by William Hayt</title>
-      <link>//localhost:1313/ebooks/ee-files/engineering-electromagnetics-8e-by-william-hayt-pdf/</link>
+      <link>http://localhost:1313/ebooks/ee-files/engineering-electromagnetics-8e-by-william-hayt-pdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ebooks/ee-files/engineering-electromagnetics-8e-by-william-hayt-pdf/</guid>
+      <guid>http://localhost:1313/ebooks/ee-files/engineering-electromagnetics-8e-by-william-hayt-pdf/</guid>
       <description>Book Contents Chapter 1 Vector Analysis&#xA;Chapter 2 Coulomb’s Law and Electric Field Intensity&#xA;Chapter 3 Electric Flux Density, Gauss’s Law, and Divergence&#xA;Chapter 4 Energy and Potential&#xA;Chapter 5 Conductors and Dielectrics&#xA;Chapter 6 Capacitance&#xA;Chapter 7 The Steady Magnetic Field&#xA;Chapter 8 Magnetic Forces, Materials, and Inductance&#xA;Chapter 9 Time-Varying Fields and Maxwell’s Equations&#xA;Chapter 10 Transmission Lines&#xA;Chapter 11 The Uniform Plane Wave&#xA;Chapter 12 Plane Wave Reflection and Dispersion</description>
     </item>
     <item>
       <title>[PDF] Electrical And Electronics Engineering By U.A Bakshi and V.U Bakshi</title>
-      <link>//localhost:1313/ebooks/ee-files/electrical-and-electronics-engineering-by-u-a-bakshi-pdf-download/</link>
+      <link>http://localhost:1313/ebooks/ee-files/electrical-and-electronics-engineering-by-u-a-bakshi-pdf-download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ebooks/ee-files/electrical-and-electronics-engineering-by-u-a-bakshi-pdf-download/</guid>
+      <guid>http://localhost:1313/ebooks/ee-files/electrical-and-electronics-engineering-by-u-a-bakshi-pdf-download/</guid>
       <description>&#xD;Book Contents Book Description Author&amp;rsquo;s Name U.A Bakshi and V.U Bakshi Format PDF File Size 23 MB </description>
     </item>
   </channel>

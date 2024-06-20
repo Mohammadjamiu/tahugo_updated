@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming and Coding on Tooabstractive</title>
-    <link>//localhost:1313/tags/programming-and-coding/</link>
+    <link>http://localhost:1313/tags/programming-and-coding/</link>
     <description>Recent content in Programming and Coding on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/programming-and-coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/programming-and-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming vs. Coding: What&#39;s The Key Difference?</title>
-      <link>//localhost:1313/how-to-tech/what-is-difference-between-programming-and-coding/</link>
+      <link>http://localhost:1313/how-to-tech/what-is-difference-between-programming-and-coding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/what-is-difference-between-programming-and-coding/</guid>
+      <guid>http://localhost:1313/how-to-tech/what-is-difference-between-programming-and-coding/</guid>
       <description>The terms “programming” and “coding” are often used interchangeably in the world of technology and software development, leading to confusion among beginners and even some experienced professionals.&#xA;However, it&amp;rsquo;s important to understand that while programming and coding are related concepts, they have distinct differences.&#xA;This article aims to highlight the differences between programming and coding, clarifying their roles, methodologies, and applications.&#xA;Table of Contents ↬&#xD;Programming Definition of Programming The Scope of Programming Programming Paradigms Coding Definition of Coding The Role of Coding Coding as a Skill Key Differences Between Programming and Coding 1.</description>
     </item>
     <item>
       <title>Difference Between console.log and console.error</title>
-      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</link>
+      <link>http://localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</guid>
+      <guid>http://localhost:1313/how-to-tech/difference-between-console.log-and-console.error/</guid>
       <description>In JavaScript programming, developers often use console.log and console.error for debugging and troubleshooting purposes.&#xA;These two functions play a vital role in displaying messages and information in the console.&#xA;In this article, we will look at these differences in detail and understand when to use each function effectively.&#xA;Table of Contents ↬&#xD;The Purpose of console.log When to Use console.log Example Usage of console.log The Purpose of console.error When to Use console.</description>
     </item>
     <item>
       <title>Difference Between console.log and console.info</title>
-      <link>//localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</link>
+      <link>http://localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</guid>
+      <guid>http://localhost:1313/how-to-tech/difference-between-console.log-and-console.info/</guid>
       <description>When it comes to debugging and logging messages in JavaScript, two commonly used methods are console.log and console.info.&#xA;Although they may seem similar, they have distinct characteristics that make them useful in different scenarios.&#xA;In this article, we will look at the differences between console.log and console.info and learn when to use each method effectively.&#xA;Table of Contents ↬&#xD;Overview of console.log Understanding console.info Differences between console.log and console.info Output appearance Default behavior Message importance Log levels Use cases for console.</description>
     </item>
     <item>
       <title>How to Check If a String Contains a Substring in JavaScript?</title>
-      <link>//localhost:1313/how-to-tech/string-contains-a-substring-in-javascript/</link>
+      <link>http://localhost:1313/how-to-tech/string-contains-a-substring-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/string-contains-a-substring-in-javascript/</guid>
+      <guid>http://localhost:1313/how-to-tech/string-contains-a-substring-in-javascript/</guid>
       <description>Checking whether a string contains a specific substring is a common requirement in JavaScript programming.&#xA;Whether you need to validate user input or search for specific patterns within a larger string, having the ability to check for substrings is crucial.&#xA;This article will guide you through the process of checking for substrings in JavaScript, providing you with the necessary knowledge to implement this functionality in your projects.&#xA;Table of Contents ↬&#xD;Using the indexOf() Method Utilizing the includes() Method Employing Regular Expressions (RegExp) Comparing Performance Considerations Case Sensitivity in Substring Checks Wrap Up FAQs Using the indexOf() Method The indexOf() method is a built-in JavaScript function that allows you to find the position of a substring within a string.</description>
     </item>
     <item>
       <title>How to Remove a Specific Element from an Array in JavaScript</title>
-      <link>//localhost:1313/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</link>
+      <link>http://localhost:1313/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</guid>
+      <guid>http://localhost:1313/how-to-tech/how-to-remove-specific-element-from-array-in-javascript/</guid>
       <description>Arrays are a fundamental data structure in JavaScript, and they allow you to store multiple values in a single variable.&#xA;However, there are scenarios where you may want to remove a particular element from an array to modify its contents.&#xA;In this article, we will look at different approaches to achieve this task effectively.&#xA;We will cover various methods and techniques that allow you to remove an element from an array based on its value or index.</description>
     </item>
     <item>
       <title>How Do JavaScript Closures Work? An Easy Explanation</title>
-      <link>//localhost:1313/how-to-tech/how-do-closures-work-in-javascript/</link>
+      <link>http://localhost:1313/how-to-tech/how-do-closures-work-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/how-do-closures-work-in-javascript/</guid>
+      <guid>http://localhost:1313/how-to-tech/how-do-closures-work-in-javascript/</guid>
       <description>JavaScript is a versatile programming language widely used for web development. It supports various powerful features that make it popular among developers.&#xA;One such feature is closures, which enable the creation of powerful and flexible code structures.&#xA;In this article, we will look at the concept of JavaScript closures, understand how they work, and explore their practical applications.&#xA;Table of Contents ↬&#xD;Understanding lexical scope What is a closure? Creating a closure in JavaScript The anatomy of a closure Practical uses of closures 1.</description>
     </item>
     <item>
       <title>How to access an array that is nested in an object? (Javascript)</title>
-      <link>//localhost:1313/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</link>
+      <link>http://localhost:1313/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</guid>
+      <guid>http://localhost:1313/how-to-tech/how-do-you-access-an-array-that-is-nested-in-an-object/</guid>
       <description>To access an array that is nested in an object, you need to navigate through the object&amp;rsquo;s properties and indexes.&#xA;There are basically two methods that you can use to access an array that is nested in an object. Let&amp;rsquo;s look into the methods.&#xA;Method 1: Dot notation One way to access a nested array in an object is by using the dot notation. This method allows you to access properties and sub-properties of an object.</description>
     </item>
     <item>
       <title>Which Laptop Screen Size Is Best for Programming?</title>
-      <link>//localhost:1313/how-to-tech/which-screen-size-is-best-for-programming/</link>
+      <link>http://localhost:1313/how-to-tech/which-screen-size-is-best-for-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/which-screen-size-is-best-for-programming/</guid>
+      <guid>http://localhost:1313/how-to-tech/which-screen-size-is-best-for-programming/</guid>
       <description>When it comes to programming, choosing the right screen size is crucial for a comfortable and productive coding experience.&#xA;The screen size you opt for can significantly impact your ability to view and manipulate code efficiently.&#xA;In this article, we will look into various factors to consider when selecting a screen size for programming and provide recommendations based on industry standards and user preferences.&#xA;Table of Contents ↬&#xD;Factors to Consider for Choosing the Best Screen Size 1.</description>
     </item>
     <item>
       <title>How much GB is required for a programming laptop?</title>
-      <link>//localhost:1313/how-to-tech/how-much-gb-is-required-for-a-programming-laptop/</link>
+      <link>http://localhost:1313/how-to-tech/how-much-gb-is-required-for-a-programming-laptop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/how-much-gb-is-required-for-a-programming-laptop/</guid>
+      <guid>http://localhost:1313/how-to-tech/how-much-gb-is-required-for-a-programming-laptop/</guid>
       <description>When it comes to choosing a programming laptop, one of the crucial considerations is the amount of storage space it offers.&#xA;The storage capacity you need depends on various factors, including the type of programming you do, the size of your projects, and your personal preferences.&#xA;In this article, we will look into the recommended storage space for programming laptops and provide insights to help you make an informed decision.</description>
     </item>
     <item>
       <title>Which Programming Language is Used for Hacking?</title>
-      <link>//localhost:1313/how-to-tech/which-programming-language-is-used-for-hacking/</link>
+      <link>http://localhost:1313/how-to-tech/which-programming-language-is-used-for-hacking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/which-programming-language-is-used-for-hacking/</guid>
+      <guid>http://localhost:1313/how-to-tech/which-programming-language-is-used-for-hacking/</guid>
       <description>Have you ever wondered which programming languages are used by hackers to carry out their malicious activities?&#xA;In this article, we will look into the world of hacking and dive into the programming languages that play a crucial role in these activities.&#xA;But before we dive in, let&amp;rsquo;s first understand what hacking is, who hackers are, and the importance of programming in the hacking realm.&#xA;Table of Contents ↬&#xD;What is Hacking?</description>
     </item>
     <item>
       <title>What is != and !== in JavaScript?</title>
-      <link>//localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</link>
+      <link>http://localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</guid>
+      <guid>http://localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/</guid>
       <description>JavaScript provides two comparison operators, != and !==, which are used to compare two values and determine their equality.&#xA;These operators play a crucial role in JavaScript programming, as they allow developers to perform comparisons and make decisions based on the results.&#xA;Table of Contents ↬&#xD;The != Operator The !== Operator Usage of != and !== Operators Wrap Up Frequently Asked Questions The != Operator The != operator is known as the “not equal” operator in JavaScript.</description>
     </item>
     <item>
       <title>Difference Between || and &amp;&amp; in JavaScript?</title>
-      <link>//localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</link>
+      <link>http://localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</guid>
+      <guid>http://localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/</guid>
       <description>In JavaScript, the || (logical OR) and &amp;amp;&amp;amp; (logical AND) operators are used to combine two or more expressions and return a Boolean value.&#xA;The &amp;amp;&amp;amp; operator returns true if both of its operands are true, and false otherwise. The || operator returns true if either of its operands are true, and false otherwise.&#xA;Table of Contents ↬&#xD;|| (Logical OR) Operator || (Logical OR) Operation || (Logical OR) Example Code Usage with Non-Boolean Values Usage in Conditional Statements Usage in Loops &amp;amp;&amp;amp; (Logical AND) Operator &amp;amp;&amp;amp; (Logical AND) Operation &amp;amp;&amp;amp; (Logical AND) Example Code Usage with Non-Boolean Values Usage in Conditional Statements Usage in Loops Usage in Functions Wrap Up FAQs || (Logical OR) Operator The || operator in JavaScript is primarily used to combine expressions and return the value of the first truthy operand encountered.</description>
     </item>
     <item>
       <title>How to Shuffle an Array Randomly in JavaScript?</title>
-      <link>//localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</link>
+      <link>http://localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</guid>
+      <guid>http://localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/</guid>
       <description>In JavaScript, shuffling an array randomly can be a useful technique when you want to randomize the order of elements.&#xA;Whether you&amp;rsquo;re building a game, conducting statistical analysis, or simply adding some randomness to your application, understanding how to shuffle an array is essential.&#xA;In this article, we will provide a detailed explanation of the code used to shuffle an array randomly in JavaScript. Let&amp;rsquo;s dive in!&#xA;Table of Contents ↬&#xD;The Code Understanding the Code Step 1: Initializing the Array Step 2: Looping through the Array Step 3: Generating a Random Index Step 4: Swapping Elements Step 5: Repeat Until Shuffled Step 6: Console Log the Shuffled Array The Code const array = [1, 2, 3, 4, 5]; for (let i = array.</description>
     </item>
     <item>
       <title>How to Check if a Variable is a Number in Python?</title>
-      <link>//localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</link>
+      <link>http://localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</guid>
+      <guid>http://localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/</guid>
       <description>In Python, variables can hold various types of data, including integers (int) and floating-point numbers (float).&#xA;When dealing with dynamic data, it&amp;rsquo;s crucial to ascertain whether a variable contains a numeric value before performing mathematical operations.&#xA;We will discuss two methods that help you achieve this goal: the type() function and the isinstance() function.&#xA;1. Making Use of the type() Function — Defining the Function def is_number(variable): &amp;#34;&amp;#34;&amp;#34; This function checks if a variable is a number.</description>
     </item>
     <item>
       <title>How to Use Import Instead of Require in Node.js?</title>
-      <link>//localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</link>
+      <link>http://localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</guid>
+      <guid>http://localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/</guid>
       <description>Node.js has been using the &#39;require()&#39; syntax for module loading for a long time.&#xA;However, the introduction of ECMAScript (ES) modules has brought a more streamlined and standardized way of importing modules using the &amp;lsquo;import&amp;rsquo; syntax.&#xA;Steps on How to Use Import Instead of Require in Node.js To transition from &#39;require()&#39; to &#39;import&#39;, follow these steps:&#xA;Step 1: Update Your package.json The first step is to open your project&amp;rsquo;s package.json file and add the “type” field with the value “module”.</description>
     </item>
     <item>
       <title>Is Node.js Used for Backend or Frontend?</title>
-      <link>//localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/</link>
+      <link>http://localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/</guid>
+      <guid>http://localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/</guid>
       <description>Node.js is a JavaScript runtime environment that can be used to create both client-side and server-side applications.&#xA;So, is Node.js used for backend or frontend development?&#xA;The answer is both. Node.js is a versatile platform that can be used for a variety of development tasks.&#xA;It is a popular choice for both backend and frontend development because of its event-driven, non-blocking architecture, scalability, and performance.&#xA;Table of Contents ↬&#xD;Frontend Development with Node.</description>
     </item>
   </channel>

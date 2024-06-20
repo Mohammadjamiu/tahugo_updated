@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tooabstractive</title>
-    <link>//localhost:1313/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Jun 2024 20:14:56 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[&#34;Networking and Communication&#34;]</title>
-      <link>//localhost:1313/categories/networking-and-communication/</link>
+      <link>http://localhost:1313/categories/networking-and-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/networking-and-communication/</guid>
+      <guid>http://localhost:1313/categories/networking-and-communication/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Electronics&#34;]</title>
-      <link>//localhost:1313/categories/electronics/</link>
+      <link>http://localhost:1313/categories/electronics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/electronics/</guid>
+      <guid>http://localhost:1313/categories/electronics/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Signals and Systems&#34;]</title>
-      <link>//localhost:1313/categories/signals-and-systems/</link>
+      <link>http://localhost:1313/categories/signals-and-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/signals-and-systems/</guid>
+      <guid>http://localhost:1313/categories/signals-and-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Circuit Analysis&#34;]</title>
-      <link>//localhost:1313/categories/circuit-analysis/</link>
+      <link>http://localhost:1313/categories/circuit-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/circuit-analysis/</guid>
+      <guid>http://localhost:1313/categories/circuit-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Crypto Education&#34;]</title>
-      <link>//localhost:1313/categories/crypto-education/</link>
+      <link>http://localhost:1313/categories/crypto-education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/crypto-education/</guid>
+      <guid>http://localhost:1313/categories/crypto-education/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Digital Electronics&#34;]</title>
-      <link>//localhost:1313/categories/digital-electronics/</link>
+      <link>http://localhost:1313/categories/digital-electronics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/digital-electronics/</guid>
+      <guid>http://localhost:1313/categories/digital-electronics/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Electromagnetics&#34;]</title>
-      <link>//localhost:1313/categories/electromagnetics/</link>
+      <link>http://localhost:1313/categories/electromagnetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/electromagnetics/</guid>
+      <guid>http://localhost:1313/categories/electromagnetics/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Engineering Contents&#34;]</title>
-      <link>//localhost:1313/categories/engineering-contents/</link>
+      <link>http://localhost:1313/categories/engineering-contents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/engineering-contents/</guid>
+      <guid>http://localhost:1313/categories/engineering-contents/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Financial Stuffs&#34;]</title>
-      <link>//localhost:1313/categories/financial-stuffs/</link>
+      <link>http://localhost:1313/categories/financial-stuffs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/financial-stuffs/</guid>
+      <guid>http://localhost:1313/categories/financial-stuffs/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;How-to-Tech&#34;]</title>
-      <link>//localhost:1313/categories/how-to-tech/</link>
+      <link>http://localhost:1313/categories/how-to-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/how-to-tech/</guid>
+      <guid>http://localhost:1313/categories/how-to-tech/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Maths and Fun&#34;]</title>
-      <link>//localhost:1313/categories/maths-and-fun/</link>
+      <link>http://localhost:1313/categories/maths-and-fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/maths-and-fun/</guid>
+      <guid>http://localhost:1313/categories/maths-and-fun/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Productivity and Writings&#34;]</title>
-      <link>//localhost:1313/categories/productivity-and-writings/</link>
+      <link>http://localhost:1313/categories/productivity-and-writings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/productivity-and-writings/</guid>
+      <guid>http://localhost:1313/categories/productivity-and-writings/</guid>
       <description></description>
     </item>
     <item>
       <title>[&#34;Science Stuff&#34;]</title>
-      <link>//localhost:1313/categories/science-stuff/</link>
+      <link>http://localhost:1313/categories/science-stuff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/science-stuff/</guid>
+      <guid>http://localhost:1313/categories/science-stuff/</guid>
       <description></description>
     </item>
   </channel>

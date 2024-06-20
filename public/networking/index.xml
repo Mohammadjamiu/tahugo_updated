@@ -2,660 +2,660 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networking and Communication on Tooabstractive</title>
-    <link>//localhost:1313/networking/</link>
+    <link>http://localhost:1313/networking/</link>
     <description>Recent content in Networking and Communication on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/networking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What are the Differences Between POP3 and IMAP</title>
-      <link>//localhost:1313/networking/what-is-the-difference-between-pop3-and-imap/</link>
+      <link>http://localhost:1313/networking/what-is-the-difference-between-pop3-and-imap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-difference-between-pop3-and-imap/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-difference-between-pop3-and-imap/</guid>
       <description>POP3 and IMAP are the two protocols of message access protocols. They are used in retrieving messages from the server to the client&amp;rsquo;s end.&#xA;There are differences between POP3 and IMAP even though they are used for receiving emails only and that’s what we are going to discuss below.&#xA;What is POP3? POP3 stands for Post Office Protocol, version 3. it is a simple protocol with limited functionality which is used in retrieving emails over the mail server.</description>
     </item>
     <item>
       <title>Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network.</title>
-      <link>//localhost:1313/networking/how-computers-are-connected-through-wired-network/</link>
+      <link>http://localhost:1313/networking/how-computers-are-connected-through-wired-network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/how-computers-are-connected-through-wired-network/</guid>
+      <guid>http://localhost:1313/networking/how-computers-are-connected-through-wired-network/</guid>
       <description>In most small offices or homes, to access the internet, it can be&#xD;done through turning on our mobile hostpot so other devices can&#xD;connect to it and use the internet. But connecting more devices&#xD;makes our signal weak, also moving the mobile phone away from other&#xD;devices that are connected to it, makes the signal to go down. Thats&#xD;why wired network are used at big companies, small offices and&#xD;sometimes at home if one is able to afford for a mini setup.</description>
     </item>
     <item>
       <title>Why Optical Fiber Communication Is Preferred Over Other Means of Communication?</title>
-      <link>//localhost:1313/networking/why-optical-fiber-communication-is-prefered/</link>
+      <link>http://localhost:1313/networking/why-optical-fiber-communication-is-prefered/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/why-optical-fiber-communication-is-prefered/</guid>
+      <guid>http://localhost:1313/networking/why-optical-fiber-communication-is-prefered/</guid>
       <description>In fiber optics communication, a fiber which is a dielectric material (plastic or glass) is used as a channel or link to guide or transmit light waves over a short or long distance.&#xA;The fiber optic has a core which diameter is relatively the diameter of a hair strand.&#xA;The cladding which serves as a protective coating is also light in weight. Hence a fiber optics is still light in weight compared to coaxial cables or copper wires.</description>
     </item>
     <item>
       <title>What Are the Different Causes of Transmission Impairments?</title>
-      <link>//localhost:1313/networking/what-are-the-different-causes-of-transmission-impairments/</link>
+      <link>http://localhost:1313/networking/what-are-the-different-causes-of-transmission-impairments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-the-different-causes-of-transmission-impairments/</guid>
+      <guid>http://localhost:1313/networking/what-are-the-different-causes-of-transmission-impairments/</guid>
       <description>In a communication system, the transmission of information from a transmitter to a receiver can be affected by various factors that degrade the quality of the signal transmitted.&#xA;These factors are known as transmission impairments.&#xA;Transmission impairment is as a result of imperfections in a transmission medium. It occurs when the signal at the receiving end is different from the signal been sent (at the transmitting end).&#xA;Understanding the causes of transmission impairments is important for designing and maintaining reliable communication systems.</description>
     </item>
     <item>
       <title>What Is Simplex, Half-Duplex and Full-Duplex Mode of Communication?</title>
-      <link>//localhost:1313/networking/what-is-simplex-half-duplex-and-full-duplex/</link>
+      <link>http://localhost:1313/networking/what-is-simplex-half-duplex-and-full-duplex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-simplex-half-duplex-and-full-duplex/</guid>
+      <guid>http://localhost:1313/networking/what-is-simplex-half-duplex-and-full-duplex/</guid>
       <description>The mode or direction in which a device communicates with another device can be said to be simplex, half-duplex or full duplex.&#xA;Simplex is a one-way communication, half-duplex is a two-way communication but not simultaneous and full-duplex is a two-way communication but simultaneous.&#xA;Simplex Mode of Communication In simplex mode, the direction at which devices communicate is unidirectional.&#xA;In other words, the direction of data flow is in only one direction, i.</description>
     </item>
     <item>
       <title>Differences Between WDM and DWDM Multiplexing Technique</title>
-      <link>//localhost:1313/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</link>
+      <link>http://localhost:1313/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</guid>
+      <guid>http://localhost:1313/networking/difference-between-wdm-and-dwdm-multiplexing-technique/</guid>
       <description>WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal, which can then be transmitted through a common link or channel.&#xA;They are multiplexing techniques used in optical fiber communication systems. Although both techniques are used to increase the data capacity of fiber optic cables, they have some differences that set them apart.</description>
     </item>
     <item>
       <title>What Is Multiplexing and Its Techniques (FDM, WDM and TDM)? All You Need To Know</title>
-      <link>//localhost:1313/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</link>
+      <link>http://localhost:1313/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</guid>
+      <guid>http://localhost:1313/networking/multiplexing-and-its-techniques-fdm-wdm-and-tdm/</guid>
       <description>In this modern day, the rate of data transmission is high and as data and telecommunication needs increases, there is a need for higher bandwidth which will allow high transmission rate of data.&#xA;One way to efficiently utilize the data link which is used for the transmission of data is by implementing multiplexing techniques.&#xA;What Is Multiplexing? Multiplexing is a technique used in telecommunications and computer networking to combine multiple signals onto a single transmission medium.</description>
     </item>
     <item>
       <title>Linear and Nonlinear Scattering Losses in Optical Fiber Explained Simply</title>
-      <link>//localhost:1313/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</link>
+      <link>http://localhost:1313/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
+      <guid>http://localhost:1313/networking/linear-and-nonlinear-scattering-losses-in-optical-fiber/</guid>
       <description>Photo by @comparefibre on Unsplash, accessed 08/01/2022&#xD;In optical fibers, there are lots of factors that contribute to degradation of transmitted optical power which includes attenuation, dispersion, and scattering.&#xA;So in this post I would be discussing what the scattering losses are in optical fiber.&#xA;What is Scattering? Scattering is a phenomenon that occurs when a wave (such as light or sound) comes into contact with an object or a material.</description>
     </item>
     <item>
       <title>Difference Between Random Process and Random Variable</title>
-      <link>//localhost:1313/networking/difference-between-random-process-and-random-variable/</link>
+      <link>http://localhost:1313/networking/difference-between-random-process-and-random-variable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-random-process-and-random-variable/</guid>
+      <guid>http://localhost:1313/networking/difference-between-random-process-and-random-variable/</guid>
       <description>Probability theory is a branch of mathematics that deals with the study of random events and the likelihood of their occurrence.&#xA;When any experiment or scenario involves probability or the need for a probabilistic model, then a random process and random variable must be considered.&#xA;These are two key concepts that are often used interchangeably but are actually distinct from one another.&#xA;What Is a Random Process? Random process can be thought of as the collection of random variables.</description>
     </item>
     <item>
       <title>What Is Radio Wave Propagation? And the Different Modes of Radio Wave Propagation?</title>
-      <link>//localhost:1313/networking/modes-of-radio-wave-propagation/</link>
+      <link>http://localhost:1313/networking/modes-of-radio-wave-propagation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/modes-of-radio-wave-propagation/</guid>
+      <guid>http://localhost:1313/networking/modes-of-radio-wave-propagation/</guid>
       <description>In order for electromagnetic (radio) waves to travel, a transmitting antenna and a receiving antenna are required. The path or mode in which the radio waves follow or can travel is termed as radio wave propagation.&#xA;In this article, we&amp;rsquo;ll discuss on what is radio wave propagation? And the different modes in which they propagate.&#xA;What Is Radio Wave Propagation? Radio wave propagation is the process by which radio waves travel through space or through a medium, such as the Earth&amp;rsquo;s atmosphere.</description>
     </item>
     <item>
       <title>What Is Dispersion Loss in Optical Fiber and Types of Dispersion Loss?</title>
-      <link>//localhost:1313/networking/what-is-dispersion-in-optical-fiber-and-the-types/</link>
+      <link>http://localhost:1313/networking/what-is-dispersion-in-optical-fiber-and-the-types/</link>
       <pubDate>Wed, 04 Jan 2023 23:43:06 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-dispersion-in-optical-fiber-and-the-types/</guid>
+      <guid>http://localhost:1313/networking/what-is-dispersion-in-optical-fiber-and-the-types/</guid>
       <description>In fiber optics communication, there are several transmission impairments which degrades signal strength as light pulses travel along a fiber.&#xA;Among the transmission impairment in fiber optics communication, is dispersion, and it is discussed below.&#xA;What Is Dispersion? Dispersion refers to the broadening or spreading of transmitted light pulses as they travel along the fiber.&#xA;As each light pulse broadens and overlap with the neighboring pulse, Inter-symbol Interference (ISI) occurs, which makes the pulses indistinguishable at the receiver.</description>
     </item>
     <item>
       <title>What Is Fiber Optics Cable, Modes of Propagation and How Does Light Travels Through It</title>
-      <link>//localhost:1313/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</link>
+      <link>http://localhost:1313/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</guid>
+      <guid>http://localhost:1313/networking/what-is-fiber-optics-cable-and-how-does-light-travels-through-it/</guid>
       <description>There are several guided medium which are used for the transmission of data e.g. coaxial cable and fiber optics cable. But fiber optics cable provides better advantage to coaxial cable as it uses light as optical source while coaxial cable uses electric signal.&#xA;What is fiber optics cable? Fiber optics cable is a dielectric (or insulated) material (e.g. glass) which is used to transmit light pulses or optical signal. The optical sources are mostly LASER or LED.</description>
     </item>
     <item>
       <title>Circuit Switching, Message Switching and Packet Switching Techniques Explained</title>
-      <link>//localhost:1313/networking/circuit-message-and-packet-switching-techniques-explained/</link>
+      <link>http://localhost:1313/networking/circuit-message-and-packet-switching-techniques-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/circuit-message-and-packet-switching-techniques-explained/</guid>
+      <guid>http://localhost:1313/networking/circuit-message-and-packet-switching-techniques-explained/</guid>
       <description>Switching in computer network is what help in deciding the best route for data transmission in a larger network if there are multiple paths.&#xA;This is to ensure that the efficient use of channels is achieved and to make communication and transmission reliable.&#xA;There are three types of switching techniques;&#xA;Circuit switching, Message switching, and Packet switching What is Circuit Switching? In circuit switching, a dedicated path or route is established between the sender and the receiver.</description>
     </item>
     <item>
       <title>The Seven Layers of the OSI Model Explained</title>
-      <link>//localhost:1313/networking/the-seven-layers-of-the-osi-model-explained/</link>
+      <link>http://localhost:1313/networking/the-seven-layers-of-the-osi-model-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/the-seven-layers-of-the-osi-model-explained/</guid>
+      <guid>http://localhost:1313/networking/the-seven-layers-of-the-osi-model-explained/</guid>
       <description>OSI Model which is termed as Open System Interconnection is a model which is used for standardizing communication across network, or it can be said to be a standard architecture which is used for designing network.&#xA;It helps to make troubleshooting of network problem easily as it breaks a complex network into several manageable segments. The OSI model consist of 7 layers.&#xA;Even though the OSI model is obsolete, it is still considered to be a reference model to understand how a network works.</description>
     </item>
     <item>
       <title>What Is TCP/IP and How It Is Different From OSI Model</title>
-      <link>//localhost:1313/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</link>
+      <link>http://localhost:1313/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</guid>
+      <guid>http://localhost:1313/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/</guid>
       <description>TCP/IP is termed as transmission control protocol /with internet protocol. It is a model which is used for standardizing communications across network.&#xA;It is similar to the OSI model but it makes the layers quite simple as it consists of 4 layers. If you can understand the OSI model (as it is the reference model and it consist of 7 layers) then you will be able to grasp TCP/IP in no time.</description>
     </item>
     <item>
       <title>What is MAC Layer and the Different Types of Multiple Access Protocol</title>
-      <link>//localhost:1313/networking/what-is-mac-layer-and-the-different-types-of-protocol/</link>
+      <link>http://localhost:1313/networking/what-is-mac-layer-and-the-different-types-of-protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-mac-layer-and-the-different-types-of-protocol/</guid>
+      <guid>http://localhost:1313/networking/what-is-mac-layer-and-the-different-types-of-protocol/</guid>
       <description>MAC is termed as Media Access Control and it is a sublayer under the data-link layer which consist of protocols (called Multiple Access Protocol) that coordinate the access of nodes (or stations) to a link or multipoint.&#xA;Why is MAC necessary The reason why a MAC is needed is that when nodes or devices are connected to a common link (multipoint), a protocol is needed to help control or coordinate the way each node transmits data mostly in order to avoid collision and traffic jam.</description>
     </item>
     <item>
       <title>How Do You Know if a MAC Address is a Unicast, Multicast or Broadcast MAC address</title>
-      <link>//localhost:1313/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</link>
+      <link>http://localhost:1313/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</guid>
+      <guid>http://localhost:1313/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/</guid>
       <description>In order to know if a MAC address is a unicast MAC address, multicast MAC address or Broadcast MAC address, you need to understand what a MAC address is.&#xA;We have gone into details about that. But in this we will briefly explain it and also solve some examples.&#xA;A MAC address consists of a 48-bit or 6-byte. As an example — 4A:30:10:19:10:1A But the main point needed in order to identify if a MAC address is a unicast or multicast is the first byte.</description>
     </item>
     <item>
       <title>What is a MAC Address? Explained With Examples</title>
-      <link>//localhost:1313/networking/what-is-a-mac-address-with-examples/</link>
+      <link>http://localhost:1313/networking/what-is-a-mac-address-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-a-mac-address-with-examples/</guid>
+      <guid>http://localhost:1313/networking/what-is-a-mac-address-with-examples/</guid>
       <description>MAC address is termed as Media Access Control address. It is a unique address assigned to every network device and cannot be altered or changed. This address is also called a physical address which is attached to a device by the manufacturer.&#xA;The MAC address resides on the Layer 2 of the OSI model. It consists of 48-bits or 6-bytes and it is sometimes called MAC–48 or EUI-48 (Extension Unique Identifier).</description>
     </item>
     <item>
       <title>Differences Between Step-Index and Graded-Index Optical Fiber</title>
-      <link>//localhost:1313/networking/difference-between-step-index-and-graded-index-optical-fiber/</link>
+      <link>http://localhost:1313/networking/difference-between-step-index-and-graded-index-optical-fiber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-step-index-and-graded-index-optical-fiber/</guid>
+      <guid>http://localhost:1313/networking/difference-between-step-index-and-graded-index-optical-fiber/</guid>
       <description>Fiber optics has revolutionized the way we transmit information over long distances. Optical fibers are used to transmit light signals over long distances with minimal signal loss.&#xA;These fibers come in two main types: step-index and graded-index optical fibers.&#xA;One of the major difference between a step index fiber and a graded index fiber is that,&#xA;A step index fiber has a core with constant refractive index and make a step change from the core – cladding interface.</description>
     </item>
     <item>
       <title>What Is Optical Amplifier and Its Types?</title>
-      <link>//localhost:1313/networking/what-is-optical-amplifier-and-its-types/</link>
+      <link>http://localhost:1313/networking/what-is-optical-amplifier-and-its-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-optical-amplifier-and-its-types/</guid>
+      <guid>http://localhost:1313/networking/what-is-optical-amplifier-and-its-types/</guid>
       <description>In long haul data transmission, transmission impairments (like attenuation or noise) takes place as signal travels through an optical fiber which results in reduction of signal strength.&#xA;In order to reduce these transmission impairments, an optical amplifier is used which helps to amplify the weak signal. But unlike a repeater (which converts an optical signal into an electrical signal, and the electrical signal is then amplified and converted back to an optical signal),</description>
     </item>
     <item>
       <title>What Is Network Address Translation (NAT) and Its Types?</title>
-      <link>//localhost:1313/networking/what-is-nat-and-its-types/</link>
+      <link>http://localhost:1313/networking/what-is-nat-and-its-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-nat-and-its-types/</guid>
+      <guid>http://localhost:1313/networking/what-is-nat-and-its-types/</guid>
       <description>Every device needs an IP address (or public IP address) to access the internet. For that reason, engineers in the 1970’s decided to do some research so as to know how long an IP address needs to be.&#xA;Put in mind that a data packet (or information) often contains a sender IP and receiver IP address (or source and destination IP address) and the aim of the engineers also is to keep the packet as small as possible.</description>
     </item>
     <item>
       <title>What Is a Random Process With Examples?</title>
-      <link>//localhost:1313/networking/what-is-a-random-process-with-examples/</link>
+      <link>http://localhost:1313/networking/what-is-a-random-process-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-a-random-process-with-examples/</guid>
+      <guid>http://localhost:1313/networking/what-is-a-random-process-with-examples/</guid>
       <description>Note: don’t fright out over the equation or formulas present in this article as we are to explain each bit by bit.&#xA;What is a random process? A random process is also termed as a stochastic process and it is a process in which consist of several random variables over time. So you might ask what is a random variable?&#xA;A random variable is a variable with set of random numbers.</description>
     </item>
     <item>
       <title>13 Differences Between Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)</title>
-      <link>//localhost:1313/networking/difference-between-tcp-and-udp/</link>
+      <link>http://localhost:1313/networking/difference-between-tcp-and-udp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-tcp-and-udp/</guid>
+      <guid>http://localhost:1313/networking/difference-between-tcp-and-udp/</guid>
       <description>Transmission Control Protocol (TCP) TCP is termed as Transmission Control Protocol TCP is a connection oriented protocol, meaning that before any message will be sent, it must establish a connection with the receiving device. It undertakes a three handshake process for the establishment of connection by sending a SYN message and the receiving device replying with an ACK SYN and lastly the sending device will respond with ACK received In terms of reliability, TCP is better than UDP, and it is also secure than UDP It is slow since there is a lot of control protocol that exist The header size of TCP is 20 bytes It consists of more than eight fields in the message header and some of them are source port, destination port, length, checksum, sequence number, acknowledgement number etc.</description>
     </item>
     <item>
       <title>What Is SMTP (Simple Mail Transfer Protocol) Used For?</title>
-      <link>//localhost:1313/networking/what-is-smtp-used-for/</link>
+      <link>http://localhost:1313/networking/what-is-smtp-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-smtp-used-for/</guid>
+      <guid>http://localhost:1313/networking/what-is-smtp-used-for/</guid>
       <description>SMTP stands for Simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet.&#xA;This protocol is used in two stages, one is from the client sending the mail to the sender server and from this server to another server close to the recipient of the mail. The email can then be retrieved by the client receiving the email from the server using the POP3 or IMAP protocol.</description>
     </item>
     <item>
       <title>Difference Between Packets and Frames In Networking</title>
-      <link>//localhost:1313/networking/difference-between-packets-and-frames/</link>
+      <link>http://localhost:1313/networking/difference-between-packets-and-frames/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-packets-and-frames/</guid>
+      <guid>http://localhost:1313/networking/difference-between-packets-and-frames/</guid>
       <description>Generally, packets and frames are almost the same but are given different names based on the layer they reside at.&#xA;In order words, both packet and frames deals with a unit of data called bits.&#xA;The way I like to think of these two terms is;&#xA;Packets are streams of bits, while Frames are composed of packets.&#xA;Difference between packet and frame Packets Frames 1 A packet is composed of streams of bits packed to form a packet A frame is composed of packets of (bits) packed into frames 2 A packet resides on layer 3 which is the network layer of the OSI model A Frame resides on layer 2 which is the data link layer of the OSI model 3 The packet which can be found on the network layer is the IP packet which consist of both source and destination address The Frame which can be found on the data link layer is the Ethernet frame which consist of both source and destination MAC address </description>
     </item>
     <item>
       <title>Difference Between SATA(Serial ATA) and eSATA (external Serial ATA)</title>
-      <link>//localhost:1313/networking/difference-between-sata-and-esata/</link>
+      <link>http://localhost:1313/networking/difference-between-sata-and-esata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-sata-and-esata/</guid>
+      <guid>http://localhost:1313/networking/difference-between-sata-and-esata/</guid>
       <description>Both SATA and eSATA are connectors which are used for connecting storage devices. SATA is used to connect internal storage devices, while eSATA is used to connect external devices.&#xA;Difference between SATA and eSATA SATA eSATA 1 SATA stand for Serial Advanced Technology Attachment eSATA stands for external Serial Advanced Technology Attachment 2 SATA is a connector which is used to connect internal storage devices eSATA is a connector which is used to connect external storage devices 3 SATA has a cable length of 1 m or 3.</description>
     </item>
     <item>
       <title>Types of Network Protocols</title>
-      <link>//localhost:1313/networking/types-of-network-protocols/</link>
+      <link>http://localhost:1313/networking/types-of-network-protocols/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/types-of-network-protocols/</guid>
+      <guid>http://localhost:1313/networking/types-of-network-protocols/</guid>
       <description>There are several types of protocol that exist in computer and networking and these protocol are what ensure that the connection between several computers and server is established based on specific rule because if there are no protocols, devices might be connected but would not be communicating.&#xA;What is a network protocol or protocol? A protocol is defined as a set of rules that govern data communications. There are three key elements of a protocol and they are</description>
     </item>
     <item>
       <title>What Is the Difference Between MAC Address and IP Address</title>
-      <link>//localhost:1313/networking/what-is-the-difference-between-mac-address-and-ip-address/</link>
+      <link>http://localhost:1313/networking/what-is-the-difference-between-mac-address-and-ip-address/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-difference-between-mac-address-and-ip-address/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-difference-between-mac-address-and-ip-address/</guid>
       <description>Both MAC address and IP address are used to identify a device in a network but the only difference between a MAC address and an IP address is that, MAC address is available on a local network while an IP address is available on a global network (Internet).&#xA;What is MAC address? MAC address which stands for Media Access Control is a unique address assigned to every network device and it cannot be changed.</description>
     </item>
     <item>
       <title>What Is FTP (File Transfer Protocol) Used For?</title>
-      <link>//localhost:1313/networking/what-is-ftp-used-for/</link>
+      <link>http://localhost:1313/networking/what-is-ftp-used-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-ftp-used-for/</guid>
+      <guid>http://localhost:1313/networking/what-is-ftp-used-for/</guid>
       <description>Transferring of files from your computer to the internet can be done through the use of a protocols called FTP.&#xA;What is FTP and What is it used for? FTP stands for File Transfer Protocol. It is a protocol which is used for transferring files across network.&#xA;It uses a client-server model in which the server host or store the files while the client (e.g. a computer) can connect, access, download, upload, rename and delete files which is hosted on the server.</description>
     </item>
     <item>
       <title>What Is ARP (Address Resolution Protocol) in Networking?</title>
-      <link>//localhost:1313/networking/what-is-arp-in-networking/</link>
+      <link>http://localhost:1313/networking/what-is-arp-in-networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-arp-in-networking/</guid>
+      <guid>http://localhost:1313/networking/what-is-arp-in-networking/</guid>
       <description>ARP is a protocol which allow computers or hosts to work on layer 2 (Data link Layer) with a known IP address.&#xA;What is ARP in networking? ARP stands for address resolution protocol. It is an internet protocol in networking designed to discover a MAC address and then map it to an IP address.&#xA;How does ARP works in networking? Let’s use the figure below which shows four computers that are connected to a switch to form a local network.</description>
     </item>
     <item>
       <title>What Is DNS (Domain Name Server) and How It Works?</title>
-      <link>//localhost:1313/networking/what-is-dns-and-how-it-works/</link>
+      <link>http://localhost:1313/networking/what-is-dns-and-how-it-works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-dns-and-how-it-works/</guid>
+      <guid>http://localhost:1313/networking/what-is-dns-and-how-it-works/</guid>
       <description>Every website can be accessed through an IP address but memorizing this addresses (written in such form 196.168.45.5) can be difficult rather, a name is given to a user in order to access the internet. The conversion or resolving of the domain name you are given to the actual IP address is a task carried out by DNS.&#xA;What is DNS? DNS stands for Domain Name System. It is a system which is used to resolve or convert a domain name to IP address.</description>
     </item>
     <item>
       <title>Digital Transmission in Computer Networks | Line Coding</title>
-      <link>//localhost:1313/networking/digital-transmission-in-computer-networks/</link>
+      <link>http://localhost:1313/networking/digital-transmission-in-computer-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/digital-transmission-in-computer-networks/</guid>
+      <guid>http://localhost:1313/networking/digital-transmission-in-computer-networks/</guid>
       <description>In a computer networks, data or information are transferred from one device across a network to another in the form of a signal.&#xA;Data such as human voice, audio, video, text and number to name a few needs to be converted to either an analog signal or digital signal.&#xA;In this tutorial, we would focus specifically on how to convert a digital data to a digital signal and the techniques used.</description>
     </item>
     <item>
       <title>[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ...</title>
-      <link>//localhost:1313/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</link>
+      <link>http://localhost:1313/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</guid>
+      <guid>http://localhost:1313/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/</guid>
       <description>Question: A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core refractive index of 1.50 and a cladding refractive index of 1.47. Determine: (a) the critical angle at the core–cladding interface; (b) the NA for the fiber; (c) the acceptance angle in air for the fiber. Solution/Given: Here are the given from the question.&#xA;Core refractive index (n1) = 1.50</description>
     </item>
     <item>
       <title>11&#43; Networking Tools and Their Uses</title>
-      <link>//localhost:1313/networking/networking-tools-and-their-uses/</link>
+      <link>http://localhost:1313/networking/networking-tools-and-their-uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/networking-tools-and-their-uses/</guid>
+      <guid>http://localhost:1313/networking/networking-tools-and-their-uses/</guid>
       <description>&amp;#x1f4a1; Key Takeaways&#xA;Networking technicians and engineers use a variety of tools to install, maintain, and troubleshoot computer networks. These tools include:&#xA;Crimpers for connecting cables, Punch-down tools for terminating cables in panels, Strippers and cutters for preparing cables, Testers for checking cable functionality, and various other tools for diagnosing and repairing network problems. While installing, maintaining, and troubleshooting computer networks, technicians or network engineers need the right networking gear tools.</description>
     </item>
     <item>
       <title>What Are the Similarities Between Packet Switching and Message Switching</title>
-      <link>//localhost:1313/networking/what-are-the-similarities-between-packet-switching-and-message-switching/</link>
+      <link>http://localhost:1313/networking/what-are-the-similarities-between-packet-switching-and-message-switching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-the-similarities-between-packet-switching-and-message-switching/</guid>
+      <guid>http://localhost:1313/networking/what-are-the-similarities-between-packet-switching-and-message-switching/</guid>
       <description>Packet switching and message switching are both methods of data transmission used in computer networks.&#xA;In packet switching, when you send data over the internet, it doesn&amp;rsquo;t travel in one piece from your device to the recipient&amp;rsquo;s device. Instead, it is divided into small units called packets, each containing a piece of the data, along with information such as the recipient&amp;rsquo;s address and other necessary details.&#xA;These packets are then sent over the network through different routes or paths, and when they arrive at their destination, they are reassembled into the original message.</description>
     </item>
     <item>
       <title>What Are the Similarities Between Circuit Switching and Packet Switching</title>
-      <link>//localhost:1313/networking/similarities-of-circuit-switching-and-packet-switching/</link>
+      <link>http://localhost:1313/networking/similarities-of-circuit-switching-and-packet-switching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/similarities-of-circuit-switching-and-packet-switching/</guid>
+      <guid>http://localhost:1313/networking/similarities-of-circuit-switching-and-packet-switching/</guid>
       <description>In computer networks, circuit switching and packet switching are two different switching techniques used for data communication.&#xA;Read More: Circuit Switching, Message Switching and Packet Switching Techniques Explained&#xA;Although they differ in the way they handle data transmission, there are some similarities between these two switching techniques.&#xA;Similarities Between Circuit Switching and Packet Switching Here are some similarities between circuit switching and packet switching:&#xA;Circuit switching and packet switching are used for data transmission across a network.</description>
     </item>
     <item>
       <title>What Are Core and Cladding Losses in Optical Fiber?</title>
-      <link>//localhost:1313/networking/what-are-core-and-cladding-losses-in-optical-fiber/</link>
+      <link>http://localhost:1313/networking/what-are-core-and-cladding-losses-in-optical-fiber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-core-and-cladding-losses-in-optical-fiber/</guid>
+      <guid>http://localhost:1313/networking/what-are-core-and-cladding-losses-in-optical-fiber/</guid>
       <description>In an optical fiber, the core is the central part of the fiber where the light signals travel, while the cladding is the outer layer that surrounds the core and helps to guide the light signals.&#xA;The core and cladding are made of different materials with different refractive indices, which allows the fiber to work as an optical waveguide, confining the light signals to the core and minimizing signal loss.</description>
     </item>
     <item>
       <title>Difference Between Raman and Brillouin Scattering</title>
-      <link>//localhost:1313/networking/difference-between-raman-and-brillouin-scattering/</link>
+      <link>http://localhost:1313/networking/difference-between-raman-and-brillouin-scattering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-raman-and-brillouin-scattering/</guid>
+      <guid>http://localhost:1313/networking/difference-between-raman-and-brillouin-scattering/</guid>
       <description>Raman scattering and Brillouin scattering are two different types of light scattering phenomena that occur in optical fibers. They are both types of non-linear (or inelastic) scattering that occur when light interacts with a material.&#xA;However, they differ in how they interact with the material and the information they provide.&#xA;The main difference between Raman and Brillouin scattering is the physical mechanism by which they occur.&#xA;Read On: Linear and Nonlinear Scattering Losses in Optical Fiber Explained Simply</description>
     </item>
     <item>
       <title>Difference Between Wired and Wireless Networks With Examples</title>
-      <link>//localhost:1313/networking/difference-between-wired-and-wireless-network-with-examples/</link>
+      <link>http://localhost:1313/networking/difference-between-wired-and-wireless-network-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-wired-and-wireless-network-with-examples/</guid>
+      <guid>http://localhost:1313/networking/difference-between-wired-and-wireless-network-with-examples/</guid>
       <description>Wired and wireless networks are two types of computer networks that are used for communication and transmission of data between devices.&#xA;Wired networks are networks where devices (such as computers, printers, and routers) are physically connected to each other and to the internet or another network using cables while,&#xA;Wireless networks use radio waves or infrared signals to connect devices without the need for physical cables.&#xA;In this article, we’ll explore the difference between wired and wireless network with examples of each.</description>
     </item>
     <item>
       <title>Difference Between VPN and WAN</title>
-      <link>//localhost:1313/networking/difference-between-vpn-and-wan/</link>
+      <link>http://localhost:1313/networking/difference-between-vpn-and-wan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-vpn-and-wan/</guid>
+      <guid>http://localhost:1313/networking/difference-between-vpn-and-wan/</guid>
       <description>VPN (Virtual Private Network) and WAN (Wide Area Network) are two different technologies used for different purposes in computer networking.&#xA;What is VPN? VPN, or Virtual Private Network, is a technology that allows users to create a secure and private connection over the internet.&#xA;It creates a virtual private network between two or more devices or networks, encrypting and securing all data that is transmitted between them.&#xA;VPNs are commonly used by businesses and individuals to protect their online privacy, bypass internet censorship, and access resources that are not available on the public internet.</description>
     </item>
     <item>
       <title>Why Is Laser Used in Optical Fiber Communication?</title>
-      <link>//localhost:1313/networking/why-is-laser-used-in-optical-fiber-communication/</link>
+      <link>http://localhost:1313/networking/why-is-laser-used-in-optical-fiber-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/why-is-laser-used-in-optical-fiber-communication/</guid>
+      <guid>http://localhost:1313/networking/why-is-laser-used-in-optical-fiber-communication/</guid>
       <description>Optical fiber communication is a method of transmitting information over long distances using optical fibers, which are thin, flexible, and transparent cables made of glass or plastic.&#xA;Read on: Why Optical Fiber Communication Is Preferred Over Other Means of Communication?&#xA;These fibers are capable of transmitting light signals over long distances with minimal signal loss or attenuation, making them an ideal medium for high-speed communication or data transmission.&#xA;In order to transmit information over an optical fiber, a light source is needed to generate the optical signal.</description>
     </item>
     <item>
       <title>Why Are Lasers Used in Laser Printers</title>
-      <link>//localhost:1313/networking/why-are-lasers-used-in-laser-printers/</link>
+      <link>http://localhost:1313/networking/why-are-lasers-used-in-laser-printers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/why-are-lasers-used-in-laser-printers/</guid>
+      <guid>http://localhost:1313/networking/why-are-lasers-used-in-laser-printers/</guid>
       <description>A laser printer is a type of computer printer that uses a laser beam to produce high-quality text and images on paper.&#xA;Lasers are used in laser printers because they are capable of producing a highly focused and precise beam of light, which is used to create an image on a photosensitive drum or belt inside the printer.&#xA;They also enable precise control over the printing process, resulting in high-quality, high-speed printing with minimal maintenance requirements.</description>
     </item>
     <item>
       <title>Optical Sources in Optical Fiber Communication</title>
-      <link>//localhost:1313/networking/optical-sources-in-optical-fiber-communication/</link>
+      <link>http://localhost:1313/networking/optical-sources-in-optical-fiber-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/optical-sources-in-optical-fiber-communication/</guid>
+      <guid>http://localhost:1313/networking/optical-sources-in-optical-fiber-communication/</guid>
       <description>An optical source is a device that generates light which carries information through an optical fiber cable. Optical sources are an essential component of optical fiber communication systems.&#xA;There are mainly two types of optical sources used in optical fiber communication systems -&#xA;Light-emitting diodes (LEDs) and Laser diodes (LDs) Other types of optical sources used in optical fiber communication include, superluminescent diodes (SLDs) and semiconductor optical amplifiers (SOAs).&#xA;What Are Light-emitting Diodes (LEDs)?</description>
     </item>
     <item>
       <title>Optical Detectors in Optical Fiber Communication</title>
-      <link>//localhost:1313/networking/optical-detectors-in-optical-fiber-communication/</link>
+      <link>http://localhost:1313/networking/optical-detectors-in-optical-fiber-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/optical-detectors-in-optical-fiber-communication/</guid>
+      <guid>http://localhost:1313/networking/optical-detectors-in-optical-fiber-communication/</guid>
       <description>Optical detectors are devices that are used to convert light signals into electrical signals. In optical fiber communication systems, optical detectors are crucial components that detect and convert the optical signals carried by the fiber into electrical signals, which can then be processed by electronic devices.&#xA;Optical detectors are typically made of semiconducting materials that absorb photons (light particles) and generate electrons and holes.&#xA;Electrons are negatively charged particles found in atoms that can move freely in some materials, such as semiconductors.</description>
     </item>
     <item>
       <title>What Is the Difference Between TCP and IP Protocols?</title>
-      <link>//localhost:1313/networking/what-is-the-difference-between-tcp-and-ip-protocols/</link>
+      <link>http://localhost:1313/networking/what-is-the-difference-between-tcp-and-ip-protocols/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-difference-between-tcp-and-ip-protocols/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-difference-between-tcp-and-ip-protocols/</guid>
       <description>When it comes to sending data over the Internet, there are two key protocols at play: TCP (Transmission Control Protocol) and IP (Internet Protocol).&#xA;While these protocols work hand in hand to ensure successful data transmission, they serve distinct purposes and have different functionalities.&#xA;In this article, we will look into the details of TCP and IP, exploring their roles and highlighting the differences between them.&#xA;Table of Contents ↬&#xD;Understanding Data Transmission The Internet Protocol (IP) The Transmission Control Protocol (TCP) TCP vs.</description>
     </item>
     <item>
       <title>What Is the Difference Between HTTP Protocol and TCP Protocol?</title>
-      <link>//localhost:1313/networking/what-is-the-difference-between-http-protocol-and-tcp-protocol/</link>
+      <link>http://localhost:1313/networking/what-is-the-difference-between-http-protocol-and-tcp-protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-difference-between-http-protocol-and-tcp-protocol/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-difference-between-http-protocol-and-tcp-protocol/</guid>
       <description>HTTP (Hypertext Transfer Protocol) and TCP (Transmission Control Protocol) are protocols used in computer networking, each with a different role that it plays.&#xA;A protocol is simply a set of rules that allow devices to communicate with each other.&#xA;What Is TCP (Transmission Control Protocol)? TCP is a lower-level protocol than HTTP, and it is responsible for the reliable transmission of data across a network. When two devices want to communicate with each other, they establish a TCP connection.</description>
     </item>
     <item>
       <title>What Is the Difference Between Ethernet and Intranet?</title>
-      <link>//localhost:1313/networking/what-is-the-difference-between-ethernet-and-intranet/</link>
+      <link>http://localhost:1313/networking/what-is-the-difference-between-ethernet-and-intranet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-difference-between-ethernet-and-intranet/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-difference-between-ethernet-and-intranet/</guid>
       <description>Ethernet and Intranet are two different concepts in networking. Ethernet is a type of networking technology used to connect devices within a local area network, while an Intranet is a private computer network (or a mini-internet) used within an organization to share information and resources.&#xA;What Is an Ethernet? Ethernet is a type of networking technology that allows devices to communicate with each other over a local area network (LAN).</description>
     </item>
     <item>
       <title>Different Types of Noise in Computer Networks?</title>
-      <link>//localhost:1313/networking/what-are-the-different-types-of-noise-in-computer-networks/</link>
+      <link>http://localhost:1313/networking/what-are-the-different-types-of-noise-in-computer-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-the-different-types-of-noise-in-computer-networks/</guid>
+      <guid>http://localhost:1313/networking/what-are-the-different-types-of-noise-in-computer-networks/</guid>
       <description>Noise in computer networks, refers to any unwanted disturbance or interference that affects the quality, integrity, or reliability of the transmitted data or signals.&#xA;It can disrupt the smooth flow of information, degrade network performance, introduce errors, and potentially lead to data corruption.&#xA;Noise can occur at various stages of data transmission, including during signal generation, propagation, reception, and processing.&#xA;It can manifest in different forms, such as electrical, thermal, intermodulation, cross-talk, impulse, shot, transit-time noise, or Gaussian noise.</description>
     </item>
     <item>
       <title>What Is Latency in Networking?</title>
-      <link>//localhost:1313/networking/what-is-latency-in-networking/</link>
+      <link>http://localhost:1313/networking/what-is-latency-in-networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-latency-in-networking/</guid>
+      <guid>http://localhost:1313/networking/what-is-latency-in-networking/</guid>
       <description>The time it takes for data to travel from its source to its destination is what we call Latency.&#xA;In networking, latency refers to the delay or lag that exist when a device sends a request or data packet and when the device receiving the request or packet responds.&#xA;Latency is an important factor in networking because it affects the performance of network-based applications.&#xA;Imagine you&amp;rsquo;re sending a message to a friend who lives far away.</description>
     </item>
     <item>
       <title>Types of Losses in Optical Fiber</title>
-      <link>//localhost:1313/networking/types-of-losses-in-optical-fiber/</link>
+      <link>http://localhost:1313/networking/types-of-losses-in-optical-fiber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/types-of-losses-in-optical-fiber/</guid>
+      <guid>http://localhost:1313/networking/types-of-losses-in-optical-fiber/</guid>
       <description>Optical fibers are used to transmit information over long distances by using optical light wave to carry data signals.&#xA;They are known for their ability to provide higher channel capacity or bandwidth, electrical insulation, less susceptible to crosstalk or interference, and others.&#xA;Read on: Why Optical Fiber Communication Is Preferred Over Other Means of Communication?&#xA;But with all these benefits, optical fibers are faced with several types of signal losses that can attenuate and distort the transmitted signal.</description>
     </item>
     <item>
       <title>Types of Optical Fiber Connectors Explained</title>
-      <link>//localhost:1313/networking/types-of-optical-fiber-connectors/</link>
+      <link>http://localhost:1313/networking/types-of-optical-fiber-connectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/types-of-optical-fiber-connectors/</guid>
+      <guid>http://localhost:1313/networking/types-of-optical-fiber-connectors/</guid>
       <description>Optical fiber connectors are devices used to join or terminate optical fibers, allowing for the efficient transmission of light signals between fiber optic cables.&#xA;They provide a secure and reliable connection, ensuring optimal performance and low signal loss in fiber optic communication systems.&#xA;With various connector types available, it&amp;rsquo;s important to understand their differences and applications.&#xA;In this article, we will explore the most common types of fiber optic connectors, their features, uses, and their advantages and disadvantages.</description>
     </item>
     <item>
       <title>Similarities between Wired and Wireless Networks</title>
-      <link>//localhost:1313/networking/similarities-between-wired-and-wireless-networks/</link>
+      <link>http://localhost:1313/networking/similarities-between-wired-and-wireless-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/similarities-between-wired-and-wireless-networks/</guid>
+      <guid>http://localhost:1313/networking/similarities-between-wired-and-wireless-networks/</guid>
       <description>In the present interconnected world, both wired and wireless networks play a vital role in facilitating communication and data transfer. While these two types of networks have their differences, they also share some significant similarities.&#xA;In this article, we will explore the common ground between wired and wireless networks and highlight their key similarities.&#xA;Before delving into the similarities, let&amp;rsquo;s first define what wired and wireless networks are.&#xA;What Are Wired and Wireless Networks?</description>
     </item>
     <item>
       <title>Difference Between LAN and WAN With Examples</title>
-      <link>//localhost:1313/networking/difference-between-lan-and-wan-with-examples/</link>
+      <link>http://localhost:1313/networking/difference-between-lan-and-wan-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-lan-and-wan-with-examples/</guid>
+      <guid>http://localhost:1313/networking/difference-between-lan-and-wan-with-examples/</guid>
       <description>Local Area Networks (LANs) and Wide Area Networks (WANs) represent different types of computer networks used to connect devices, but they differ in terms of geographical scope and functionality.&#xA;In this article, we will explore the differences between LAN and WAN, providing examples and discussing their respective advantages and disadvantages.&#xA;Table of Contents ↬&#xD;What Is a LAN? What Is a WAN? Comparison of LAN and WAN Key Differences Examples of LAN Examples of WAN Advantages of LAN Advantages of WAN Disadvantages of LAN Disadvantages of WAN Final Thought FAQs What Is a LAN?</description>
     </item>
     <item>
       <title>Types of Computer Networks: Their Features, Advantages, Disadvantages, and Examples</title>
-      <link>//localhost:1313/networking/types-of-computer-network-with-example/</link>
+      <link>http://localhost:1313/networking/types-of-computer-network-with-example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/types-of-computer-network-with-example/</guid>
+      <guid>http://localhost:1313/networking/types-of-computer-network-with-example/</guid>
       <description>Computer networks enable the seamless exchange of information. These networks connect devices, allowing them to communicate and share resources effectively.&#xA;In this article we will look into several types of computer networks, shedding light on their meanings, features, advantages, disadvantages, and where they are applicable.&#xA;Table of Contents ↬&#xD;What is a Computer Network? Types of Computer Networks 1. Local Area Network (LAN) 2. Wide Area Network (WAN) 3. Metropolitan Area Network (MAN) 4.</description>
     </item>
     <item>
       <title>What are Standards and Protocols in Networking? Understand Their Differences</title>
-      <link>//localhost:1313/networking/what-are-standards-and-protocols-in-networking/</link>
+      <link>http://localhost:1313/networking/what-are-standards-and-protocols-in-networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-standards-and-protocols-in-networking/</guid>
+      <guid>http://localhost:1313/networking/what-are-standards-and-protocols-in-networking/</guid>
       <description>The field of networking revolves around the establishment of connections and data exchange between devices, such as computers, servers, and mobile devices.&#xA;To facilitate this complex process, standards, and protocols provide a set of guidelines, rules, and formats that enable devices to communicate effectively with one another.&#xA;What are Standards in Networking Standards, in the context of networking, refer to a set of guidelines and specifications that define the way devices and systems should operate.</description>
     </item>
     <item>
       <title>Types of Transmission Media in Computer Networks Explained</title>
-      <link>//localhost:1313/networking/types-of-transmission-media-in-computer-networks/</link>
+      <link>http://localhost:1313/networking/types-of-transmission-media-in-computer-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/types-of-transmission-media-in-computer-networks/</guid>
+      <guid>http://localhost:1313/networking/types-of-transmission-media-in-computer-networks/</guid>
       <description>Computer networks, in today&amp;rsquo;s interconnected world, play a crucial role in facilitating communication and data exchange. These networks rely on transmission media to transmit data between devices.&#xA;Transmission media refer to the physical pathways or channels that enable the transfer of data signals from one point to another.&#xA;In this article, we will explore the various types of transmission media used in computer networks, their features, advantages, disadvantages, and applicable examples.</description>
     </item>
     <item>
       <title>Difference Between Single Mode and Multimode Fiber</title>
-      <link>//localhost:1313/networking/difference-between-single-mode-and-multimode-fiber/</link>
+      <link>http://localhost:1313/networking/difference-between-single-mode-and-multimode-fiber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-single-mode-and-multimode-fiber/</guid>
+      <guid>http://localhost:1313/networking/difference-between-single-mode-and-multimode-fiber/</guid>
       <description>Fiber optic communication has changed the way we transmit data over long distances. It relies on the use of optical fibers, which are thin strands of glass or plastic that carry light signals.&#xA;There are two main types of optical fibers: single mode fiber (SMF) and multimode fiber (MMF). While both serve the purpose of transmitting data through light, there are significant differences between the two in terms of core diameter, light propagation, bandwidth, transmission distance, cost, and applications.</description>
     </item>
     <item>
       <title>What are De Facto and De Jure Standards in Computer Networking?</title>
-      <link>//localhost:1313/networking/what-are-de-facto-and-de-jure-standards-in-computer-networking/</link>
+      <link>http://localhost:1313/networking/what-are-de-facto-and-de-jure-standards-in-computer-networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-de-facto-and-de-jure-standards-in-computer-networking/</guid>
+      <guid>http://localhost:1313/networking/what-are-de-facto-and-de-jure-standards-in-computer-networking/</guid>
       <description>In the sphere of computer networking, standards play a vital role in ensuring interoperability and seamless communication between various devices and systems.&#xA;Two common types of standards that exist in this domain are de facto and de jure standards.&#xA;In this article, we will explore the intricacies of these standards, their characteristics, and provide relevant examples to illustrate their significance.&#xA;Table of Contents ↬&#xD;Introduction Understanding Standards What are Standards? Importance of Standards in Computer Networking De Facto Standards Definition and Characteristics Examples of De Facto Standards De Jure Standards Definition and Characteristics Examples of De Jure Standards Comparison between De Facto and De Jure Standards Pros and Cons of De Facto Standards Pros and Cons of De Jure Standards Role of Standards Organizations Final Thoughts FAQs Introduction Computer networking relies on the adherence to specific protocols and guidelines to establish a common language for devices to communicate effectively.</description>
     </item>
     <item>
       <title>Advantages and Disadvantages of Wired and Wireless Networks</title>
-      <link>//localhost:1313/networking/wired-and-wireless-network-advantages-and-disadvantages/</link>
+      <link>http://localhost:1313/networking/wired-and-wireless-network-advantages-and-disadvantages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/wired-and-wireless-network-advantages-and-disadvantages/</guid>
+      <guid>http://localhost:1313/networking/wired-and-wireless-network-advantages-and-disadvantages/</guid>
       <description>Wired networks use physical cables like Ethernet cables to establish connections, ensuring reliable and secure communication.&#xA;They have a long-standing reputation for stability and high-speed data transfer. On the other hand, wireless networks utilize wireless signals, such as Wi-Fi, enabling us to connect devices without the need for physical cables.&#xA;These networks offer mobility and the freedom to access the internet and share data within the network&amp;rsquo;s coverage area.&#xA;Read on: Difference Between Wired and Wireless Networks With Examples</description>
     </item>
     <item>
       <title>Difference Between OSI Model and TCP/IP Model</title>
-      <link>//localhost:1313/networking/difference-between-osi-model-and-tcp/ip-model/</link>
+      <link>http://localhost:1313/networking/difference-between-osi-model-and-tcp/ip-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-osi-model-and-tcp/ip-model/</guid>
+      <guid>http://localhost:1313/networking/difference-between-osi-model-and-tcp/ip-model/</guid>
       <description>The OSI (Open Systems Interconnection) model and the TCP/IP (Transmission Control Protocol/Internet Protocol) model are essential frameworks in computer networking.&#xA;These models govern how data is transmitted and exchanged between devices within a network.&#xA;Although they share a common goal, they differ in terms of structure, layering, and the specific protocols they employ.&#xA;In this article, we will explore the nuances of these models, uncovering their similarities and differences.&#xA;Table of Contents ↬&#xD;The OSI Model What is the OSI Model?</description>
     </item>
     <item>
       <title>What is Network Congestion in Computer Networks? And How to Avoid Them</title>
-      <link>//localhost:1313/networking/network-congestion-in-computer-networks-and-how-to-avoid-them/</link>
+      <link>http://localhost:1313/networking/network-congestion-in-computer-networks-and-how-to-avoid-them/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/network-congestion-in-computer-networks-and-how-to-avoid-them/</guid>
+      <guid>http://localhost:1313/networking/network-congestion-in-computer-networks-and-how-to-avoid-them/</guid>
       <description>Network congestion is a prevalent issue in modern computer networks. It arises when excessive data traffic overwhelms network capacity, resulting in performance slowdowns and delays.&#xA;This article aims to explore the concept of network congestion, its detrimental effects, and provide practical strategies to reduce and avoid congestion in computer networks.&#xA;Table of Contents ↬&#xD;What is Network Congestion in Computer Networks? Causes of Network Congestion 1. Increased Network Traffic 2. Bandwidth Limitations 3.</description>
     </item>
     <item>
       <title>How Does Data Travel Through Wires?</title>
-      <link>//localhost:1313/networking/how-does-data-travel-through-wires/</link>
+      <link>http://localhost:1313/networking/how-does-data-travel-through-wires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/how-does-data-travel-through-wires/</guid>
+      <guid>http://localhost:1313/networking/how-does-data-travel-through-wires/</guid>
       <description>Data transmission is the cornerstone of modern communication, facilitating seamless connectivity and driving our digital interactions. From streaming videos to sending emails, data traverses through wires, following a complex path to its intended destination.&#xA;In this article, we will untangle the mysteries of data transmission through wires and explore the fascinating journey it undertakes.&#xA;Table of Contents ↬&#xD;How Does Data Travel Through Wires? 1. Transmission (Encoding the Data) 2. Reception (Decoding the Data) 3.</description>
     </item>
     <item>
       <title>How Fast Does Data Travel on Fiber Optic Cables?</title>
-      <link>//localhost:1313/networking/how-fast-does-data-travel-on-fibre-optic-cables/</link>
+      <link>http://localhost:1313/networking/how-fast-does-data-travel-on-fibre-optic-cables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/how-fast-does-data-travel-on-fibre-optic-cables/</guid>
+      <guid>http://localhost:1313/networking/how-fast-does-data-travel-on-fibre-optic-cables/</guid>
       <description>The speed at which data travels on fiber optic cables is a critical factor in determining the efficiency and reliability of communication networks.&#xA;Fiber optic cables have emerged as the preferred medium for transmitting vast amounts of data quickly and securely.&#xA;But how fast does data actually travel on fiber optic cables? In this article, we will explore the fascinating existence of fiber optics and look into the intricacies of data transmission speeds.</description>
     </item>
     <item>
       <title>How is Data Sent Through Wi-Fi?</title>
-      <link>//localhost:1313/networking/how-is-data-sent-through-wifi/</link>
+      <link>http://localhost:1313/networking/how-is-data-sent-through-wifi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/how-is-data-sent-through-wifi/</guid>
+      <guid>http://localhost:1313/networking/how-is-data-sent-through-wifi/</guid>
       <description>Wi-Fi has become an integral part of our daily lives, enabling us to connect to the internet and communicate wirelessly. But have you ever wondered how data is sent through Wi-Fi networks?&#xA;In this article, we will explore the process of data transmission through Wi-Fi and the underlying technology that makes it possible.&#xA;Table of Contents ↬&#xD;How is Data Sent Through Wi-Fi Networks? Understanding Wi-Fi Protocols The Role of Wireless Routers The Process of Data Transmission Factors Affecting Wi-Fi Data Transmission Wrap Up FAQs about Wi-Fi Data Transmission How is Data Sent Through Wi-Fi Networks?</description>
     </item>
     <item>
       <title>Does Wi-Fi Use Microwaves or Radio Waves?</title>
-      <link>//localhost:1313/networking/does-wifi-use-microwaves-or-radio-waves/</link>
+      <link>http://localhost:1313/networking/does-wifi-use-microwaves-or-radio-waves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/does-wifi-use-microwaves-or-radio-waves/</guid>
+      <guid>http://localhost:1313/networking/does-wifi-use-microwaves-or-radio-waves/</guid>
       <description>Wi-Fi has become an essential aspect of our daily lives, providing seamless internet access and connecting a wide range of devices. As we rely on this wireless technology for communication and online activities, it&amp;rsquo;s natural to wonder about the underlying mechanisms of Wi-Fi.&#xA;One common query that arises is whether Wi-Fi utilizes microwaves or radio waves. In this article, we will look into just that.&#xA;Table of Contents ↬&#xD;Overview of Microwaves and Radio Waves Comparison Between Radio waves and Microwaves Wi-Fi and Radio Waves Wrap Up Frequently Asked Questions (FAQs) Overview of Microwaves and Radio Waves Microwaves and radio waves are both forms of electromagnetic radiation, which refers to the energy that travels through space in the form of waves.</description>
     </item>
     <item>
       <title>The 7 Components of a Computer Network</title>
-      <link>//localhost:1313/networking/components-of-a-computer-network/</link>
+      <link>http://localhost:1313/networking/components-of-a-computer-network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/components-of-a-computer-network/</guid>
+      <guid>http://localhost:1313/networking/components-of-a-computer-network/</guid>
       <description>Computer networks are complex systems that consist of various interconnected components working together to ensure efficient data transmission and resource sharing.&#xA;These networks enable computers and devices to communicate with each other, access shared resources, and connect to the internet.&#xA;Here, we will look at the seven key components that form the foundation of a computer network.&#xA;Table of Contents ↬&#xD;1. Network Interface Card (NIC) 2. Transmission Media 3. Router 4.</description>
     </item>
     <item>
       <title>List of Cables Used in Networking</title>
-      <link>//localhost:1313/networking/what-are-the-cables-used-in-networking/</link>
+      <link>http://localhost:1313/networking/what-are-the-cables-used-in-networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-the-cables-used-in-networking/</guid>
+      <guid>http://localhost:1313/networking/what-are-the-cables-used-in-networking/</guid>
       <description>Cables used in networking serve as the lifelines that transmit data between various devices, such as computers, servers, routers, and switches.&#xA;These cables are designed to carry different types of signals, including Ethernet, fiber optic, and coaxial, depending on the specific networking needs.&#xA;Table of Contents ↬&#xD;Ethernet Cables Cat5e Ethernet Cables Cat6 Ethernet Cables Cat7 Ethernet Cables Fiber Optic Cables Coaxial Cables Wrap Up FAQs about Cables Used in Networking Ethernet Cables Ethernet cables are one of the most commonly used types of cables in networking.</description>
     </item>
     <item>
       <title>What is a Multicast Address? With Examples and Applications</title>
-      <link>//localhost:1313/networking/what-is-multicast-address-with-example/</link>
+      <link>http://localhost:1313/networking/what-is-multicast-address-with-example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-multicast-address-with-example/</guid>
+      <guid>http://localhost:1313/networking/what-is-multicast-address-with-example/</guid>
       <description>When it comes to transmitting data to multiple recipients simultaneously, multicast addresses serve as a valuable tool.&#xA;In this article, we will look into the concept of multicast addresses, providing clear examples and exploring their diverse applications.&#xA;Table of Contents ↬&#xD;Multicast Addresses The Significance of Multicast Addresses Multicast Address for Hosts Multicast Address for Routers Multicast Addresses and Their Applications Video Streaming Audio Conferencing File Sharing Network Management Distributed Computing Other Examples Multicast Addresses Wrap Up Frequently Asked Questions (FAQs) Multicast Addresses A multicast address is a special type of IP address specifically designed to transmit a single datagram to multiple destinations simultaneously.</description>
     </item>
     <item>
       <title>Is Cyber Security the Same as Network Security?</title>
-      <link>//localhost:1313/networking/is-cyber-security-and-network-security-same/</link>
+      <link>http://localhost:1313/networking/is-cyber-security-and-network-security-same/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/is-cyber-security-and-network-security-same/</guid>
+      <guid>http://localhost:1313/networking/is-cyber-security-and-network-security-same/</guid>
       <description>No, cyber security is not the same as network security. Cyber security encompasses a broader scope, focusing on safeguarding information systems from unauthorized access, use, disclosure, disruption, modification, or destruction.&#xA;Network security, on the other hand, is a subset of cyber security that specifically targets the protection of computer networks from unauthorized access and potential threats.&#xA;Table of Contents ↬&#xD;What is Cyber Security? 1. Information Security 2. Network Security 3.</description>
     </item>
     <item>
       <title>How Long Does It Take to Become a Networking Expert?</title>
-      <link>//localhost:1313/networking/how-long-does-it-take-to-become-a-networking-expert/</link>
+      <link>http://localhost:1313/networking/how-long-does-it-take-to-become-a-networking-expert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/how-long-does-it-take-to-become-a-networking-expert/</guid>
+      <guid>http://localhost:1313/networking/how-long-does-it-take-to-become-a-networking-expert/</guid>
       <description>If you&amp;rsquo;re interested in becoming a networking expert, you may be wondering how long it takes to achieve this level of expertise.&#xA;The good news is that with dedication and the right approach, you can become a networking expert in as little as two years.&#xA;This timeline includes the necessary education, training, and hands-on experience to master the skills and knowledge required in the field.&#xA;In this article, we will look at the journey of becoming a networking expert, the steps involved, and the factors that can influence the timeline.</description>
     </item>
     <item>
       <title>What is the Role of Networking in Cloud Computing?</title>
-      <link>//localhost:1313/networking/what-is-the-role-of-networking-in-cloud-computing/</link>
+      <link>http://localhost:1313/networking/what-is-the-role-of-networking-in-cloud-computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-role-of-networking-in-cloud-computing/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-role-of-networking-in-cloud-computing/</guid>
       <description>Networking plays a critical role in cloud computing. It enables cloud computing providers to connect their data centers, deliver cloud services to users, and secure cloud computing environments.&#xA;Networks are used to establish connections between various components of the cloud infrastructure, ensuring high availability, scalability, and efficient data transfer.&#xA;Without networking, cloud computing would not be possible, as it forms the backbone of communication and resource sharing in the cloud environment.</description>
     </item>
     <item>
       <title>Do Hubs Use IP Addresses?</title>
-      <link>//localhost:1313/networking/do-hubs-use-ip-address/</link>
+      <link>http://localhost:1313/networking/do-hubs-use-ip-address/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/do-hubs-use-ip-address/</guid>
+      <guid>http://localhost:1313/networking/do-hubs-use-ip-address/</guid>
       <description>Do hubs use IP addresses? This is a common question when it comes to understanding the functionality of network devices.&#xA;In this article, we will look at the role of hubs in network communication and clarify whether hubs utilize IP addresses.&#xA;Table of Contents ↬&#xD;What are Hubs? How Hubs Forward Data The Role of IP Addresses Efficiency Comparison: Hubs vs. Switches Modern Network Practices Wrap Up FAQs about Hubs and IP Addresses What are Hubs?</description>
     </item>
     <item>
       <title>What is Wavelength, and Why Is It Important to Fiber Optics?</title>
-      <link>//localhost:1313/networking/what-is-wavelength-and-why-is-it-important-to-fiber-optics/</link>
+      <link>http://localhost:1313/networking/what-is-wavelength-and-why-is-it-important-to-fiber-optics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-wavelength-and-why-is-it-important-to-fiber-optics/</guid>
+      <guid>http://localhost:1313/networking/what-is-wavelength-and-why-is-it-important-to-fiber-optics/</guid>
       <description>Wavelength is a critical concept in the realm of fiber optics. It plays a fundamental role in determining the characteristics and performance of fiber optic systems.&#xA;In this article, we will explore the intricacies of wavelength, its significance in the context of fiber optics, and why it holds such importance in this field.&#xA;Table of Contents ↬&#xD;What is Wavelength? The Importance of Wavelength in Fiber Optics 1. Determining Signal Transmission 2.</description>
     </item>
     <item>
       <title>Do Fiber Optic Cables Get Hot?</title>
-      <link>//localhost:1313/networking/do-fiber-optic-cables-get-hot/</link>
+      <link>http://localhost:1313/networking/do-fiber-optic-cables-get-hot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/do-fiber-optic-cables-get-hot/</guid>
+      <guid>http://localhost:1313/networking/do-fiber-optic-cables-get-hot/</guid>
       <description>No, fiber optic cables do not get hot. The transmission of data through a fiber optic cables relies on light, which does not generate heat.&#xA;The only situation in which a fiber optic cable may become hot is when exposed to a direct flame or an intense laser beam.&#xA;In various scenarios, fiber optic cables are chosen precisely because of their ability to stay cool.&#xA;They are preferred in applications where heat is a concern, such as high-temperature environments or situations with a potential fire risk.</description>
     </item>
     <item>
       <title>Do Fiber Optic Cables Conduct Electricity?</title>
-      <link>//localhost:1313/networking/do-fibre-optic-cables-conduct-electricity/</link>
+      <link>http://localhost:1313/networking/do-fibre-optic-cables-conduct-electricity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/do-fibre-optic-cables-conduct-electricity/</guid>
+      <guid>http://localhost:1313/networking/do-fibre-optic-cables-conduct-electricity/</guid>
       <description>Fiber optic cables are a type of cable that uses light to transmit data. They are made of glass or plastic, and they are very thin and lightweight.&#xA;So, do fiber optic cables conduct electricity? The answer is no, fiber optic cables do not conduct electricity. This is because they are made of glass or plastic, which are insulators. Insulators do not allow electricity to flow through them.&#xA;How do fiber optic cables work?</description>
     </item>
     <item>
       <title>What is GSM in Wireless Communication?</title>
-      <link>//localhost:1313/networking/what-is-gsm-in-wireless-communication/</link>
+      <link>http://localhost:1313/networking/what-is-gsm-in-wireless-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-gsm-in-wireless-communication/</guid>
+      <guid>http://localhost:1313/networking/what-is-gsm-in-wireless-communication/</guid>
       <description>Table of Contents ↬&#xD;What is GSM? How Does GSM Work? Different Types of GSM Benefits of GSM Drawbacks of GSM The Future of GSM Wrap Up FAQs About GSM What is GSM? GSM, short for Global System for Mobile Communications, is a standard utilized in second-generation (2G) digital cellular networks.&#xA;It serves as the backbone for mobile devices such as smartphones and tablets, allowing them to connect to cellular networks for voice and data communication.</description>
     </item>
     <item>
       <title>What is the Difference Between GSM and Internet?</title>
-      <link>//localhost:1313/networking/what-is-the-difference-between-gsm-and-internet/</link>
+      <link>http://localhost:1313/networking/what-is-the-difference-between-gsm-and-internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-difference-between-gsm-and-internet/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-difference-between-gsm-and-internet/</guid>
       <description>Table of Contents ↬&#xD;What is GSM? Overview of the Internet Difference Between GSM and Internet 1. Cellular vs. Packet-Switched 2. Closed vs. Open Network 3. Communication Type How GSM and the Internet Work Together Wrap Up FAQ&amp;rsquo;s What is GSM? GSM, which stands for Global System for Mobile Communications, is a standard that underpins second-generation (2G) digital cellular networks used by mobile devices like phones and tablets.&#xA;GSM utilizes a combination of frequency division multiple access (FDMA) and time division multiple access (TDMA) technologies, allowing numerous users to share the same radio frequency band.</description>
     </item>
     <item>
       <title>What are the Benefits of LTE Over GSM?</title>
-      <link>//localhost:1313/networking/what-are-the-benefits-of-lte-over-gsm/</link>
+      <link>http://localhost:1313/networking/what-are-the-benefits-of-lte-over-gsm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-the-benefits-of-lte-over-gsm/</guid>
+      <guid>http://localhost:1313/networking/what-are-the-benefits-of-lte-over-gsm/</guid>
       <description>In the ever-evolving landscape of mobile technology, the shift from GSM to LTE has brought about substantial improvements in the way we communicate and connect.&#xA;Long Term Evolution (LTE) has emerged as a revolutionary cellular network technology, surpassing the capabilities of its predecessor, Global System for Mobile Communications (GSM).&#xA;In this article, we will look into the advantages that LTE offers over GSM and why it&amp;rsquo;s the path forward for a superior mobile experience.</description>
     </item>
     <item>
       <title>What is the Function of a SIM Card in a GSM Phone?</title>
-      <link>//localhost:1313/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/</link>
+      <link>http://localhost:1313/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/</guid>
+      <guid>http://localhost:1313/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/</guid>
       <description>When we think about mobile phones, we often focus on their sleek designs, advanced features, and high-resolution displays.&#xA;However, beneath the surface, the humble SIM card plays a critical role in enabling these devices to function as they do.&#xA;Table of Contents ↬&#xD;Understanding the Basics of SIM Cards How SIM Cards Work Authentication and Security Storing Contact Information Roaming Capabilities Switching Devices Made Easy Managing Mobile Plans SIM Card Sizes and Compatibility SIM Cards vs.</description>
     </item>
     <item>
       <title>Is the GSM Network 2G or 3G?</title>
-      <link>//localhost:1313/networking/is-the-gsm-network-2g-or-3g/</link>
+      <link>http://localhost:1313/networking/is-the-gsm-network-2g-or-3g/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/is-the-gsm-network-2g-or-3g/</guid>
+      <guid>http://localhost:1313/networking/is-the-gsm-network-2g-or-3g/</guid>
       <description>The GSM network is undoubtedly a 2G (second-generation) network. It stands as the successor to the 1G analog networks. However, the evolution of mobile networks doesn&amp;rsquo;t stop there.&#xA;In this article, we&amp;rsquo;ll look into the intricacies of 2G and 3G networks, exploring their differences, technologies, and applications.&#xA;Table of Contents ↬&#xD;The 2G Evolution Technology Behind GSM Benefits of GSM 3G Networks Technologies Behind 3G Key Differences between GSM and 3G Today&amp;rsquo;s Landscape – From 2G and 3G to 4G and Beyond Wrap Up FAQs The 2G Evolution The GSM (Global System for Mobile Communications) network marked the advent of digital communication in the mobile world.</description>
     </item>
     <item>
       <title>What is Frequency Reuse in Wireless Communication?</title>
-      <link>//localhost:1313/networking/what-is-frequency-reuse-in-wireless-communication/</link>
+      <link>http://localhost:1313/networking/what-is-frequency-reuse-in-wireless-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-is-frequency-reuse-in-wireless-communication/</guid>
+      <guid>http://localhost:1313/networking/what-is-frequency-reuse-in-wireless-communication/</guid>
       <description>Wireless communication has become a big part of our modern lives, which help in connecting us through various devices and services.&#xA;To ensure the efficient use of the limited radio spectrum available for wireless communication, a technique called frequency reuse is employed.&#xA;In this article, we&amp;rsquo;ll look into the concept of frequency reuse, its benefits, challenges, and its impact on communication networks.&#xA;Table of Contents ↬&#xD;The Concept of Frequency Reuse Frequency Reuse Factor Factors Influencing Frequency Reuse Frequency Reuse in Practice Benefits of Frequency Reuse 1.</description>
     </item>
     <item>
       <title>Difference between Multiplexing and Multiple Access</title>
-      <link>//localhost:1313/networking/difference-between-multiplexing-and-multiple-access/</link>
+      <link>http://localhost:1313/networking/difference-between-multiplexing-and-multiple-access/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-multiplexing-and-multiple-access/</guid>
+      <guid>http://localhost:1313/networking/difference-between-multiplexing-and-multiple-access/</guid>
       <description>Multiplexing and multiple access&#xA;Table of Contents ↬&#xD;What is Multiplexing? Layers of Multiplexing Example of Multiplexing What is Multiple Access? Types of Multiple Access Example of Multiple Access Tabular Differences Between Multiplexing and Multiple Access Frequently Asked Questions What is Multiplexing? Multiplexing is a method of combining multiple signals into a single signal that can be transmitted over a shared medium.&#xA;This is done by using a device called a multiplexer.</description>
     </item>
     <item>
       <title>Multiple Access Techniques Applied by GSM</title>
-      <link>//localhost:1313/networking/multiple-access-techniques-applied-by-gsm/</link>
+      <link>http://localhost:1313/networking/multiple-access-techniques-applied-by-gsm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/multiple-access-techniques-applied-by-gsm/</guid>
+      <guid>http://localhost:1313/networking/multiple-access-techniques-applied-by-gsm/</guid>
       <description>Table of Contents ↬&#xD;What is GSM? Multiple Access Techniques in GSM Frequency Division Multiple Access (FDMA) Time Division Multiple Access (TDMA) GSM Frequency Bands GSM Channel Allocation GSM Bit Rates GSM Mobile Output Power GSM Cell Radius FAQs What is GSM? GSM, which stands for global system for mobile communication, is a digital cellular technology used for transmitting mobile voice and data services.&#xA;GSM uses a modulation technique called GMSK (Gaussian Minimum Shift Keying).</description>
     </item>
     <item>
       <title>GSM Burst and Its Types</title>
-      <link>//localhost:1313/networking/gsm-burst-and-its-types/</link>
+      <link>http://localhost:1313/networking/gsm-burst-and-its-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/gsm-burst-and-its-types/</guid>
+      <guid>http://localhost:1313/networking/gsm-burst-and-its-types/</guid>
       <description>Table of Contents ↬&#xD;What is GSM Burst? Types of GSM Bursts Normal Burst (NB) Frequency Correction Burst (FCB) Synchronization Burst (SB) Dummy Burst (DB) Access Burst (AB) Wrap Up FAQs 1. What is the purpose of the Normal Burst in GSM, and what type of information does it carry? 2. What is the duration of a GSM burst? 3. What is the role of the Dummy Burst in the GSM Time Division Multiple Access (TDMA) scheme, and does it carry any information?</description>
     </item>
     <item>
       <title>Meaning of 1G, 2G, G, E, 3G, H, H&#43;, 4G, 5G (Mobile Network Technology Symbols)</title>
-      <link>//localhost:1313/networking/meaning-of-network-technology-symbols-1g-2g-g-e-3g-h-hplus-4g-5g/</link>
+      <link>http://localhost:1313/networking/meaning-of-network-technology-symbols-1g-2g-g-e-3g-h-hplus-4g-5g/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/meaning-of-network-technology-symbols-1g-2g-g-e-3g-h-hplus-4g-5g/</guid>
+      <guid>http://localhost:1313/networking/meaning-of-network-technology-symbols-1g-2g-g-e-3g-h-hplus-4g-5g/</guid>
       <description>The symbols or letters you see near the signal bar on your smartphone indicate the type of mobile network you are connected to.&#xA;Each symbol represents a different generation of mobile technology, with each generation offering faster data speeds and more advanced features.&#xA;Meaning of 1G, 2G, G, E, 3G, H, H+, 4G, 5G 1G First Generation mobile networks were introduced in the 1980s and were based on analog technology.</description>
     </item>
     <item>
       <title>Power Control Strategies in 3G</title>
-      <link>//localhost:1313/networking/power-control-strategies-in-3g/</link>
+      <link>http://localhost:1313/networking/power-control-strategies-in-3g/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/power-control-strategies-in-3g/</guid>
+      <guid>http://localhost:1313/networking/power-control-strategies-in-3g/</guid>
       <description>Table of Contents ↬&#xD;What is Power Control Types of Power Control Strategies in 3G Open-loop power control Outer-loop power control Inner-loop power control What is Power Control Power control is a technique used in telecommunications to adjust the transmit power of a signal to ensure that the received signal quality meets a certain target level.&#xA;This is important for several reasons, including:&#xA;1. To ensure a good quality of service (QoS): If the signal is too weak, the receiver may not be able to decode it properly, resulting in dropped calls or garbled data.</description>
     </item>
     <item>
       <title>Why Uplink Frequency is Lower than Downlink Frequency in Mobile Communication?</title>
-      <link>//localhost:1313/networking/why-uplink-frequency-is-lower-than-downlink-frequency-in-mobile-communication/</link>
+      <link>http://localhost:1313/networking/why-uplink-frequency-is-lower-than-downlink-frequency-in-mobile-communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/why-uplink-frequency-is-lower-than-downlink-frequency-in-mobile-communication/</guid>
+      <guid>http://localhost:1313/networking/why-uplink-frequency-is-lower-than-downlink-frequency-in-mobile-communication/</guid>
       <description>In mobile communication, the uplink frequency, which refers to the signal transmitted from a mobile device to a base station, is typically lower than the downlink frequency, which refers to the signal transmitted from the base station to the mobile device.&#xA;Reasons Why Uplink Frequency is Lower than Downlink Frequency The reasons why lower frequency is used for uplink transmission is because:&#xA;1. Power Availability&#xA;Mobile devices have limited battery power, so it is important to minimize their power consumption.</description>
     </item>
     <item>
       <title>Is it possible to use the same frequency for downlink and uplink in satellites?</title>
-      <link>//localhost:1313/networking/is-it-possible-to-use-the-same-frequency-for-downlink-and-uplink-in-satellites/</link>
+      <link>http://localhost:1313/networking/is-it-possible-to-use-the-same-frequency-for-downlink-and-uplink-in-satellites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/is-it-possible-to-use-the-same-frequency-for-downlink-and-uplink-in-satellites/</guid>
+      <guid>http://localhost:1313/networking/is-it-possible-to-use-the-same-frequency-for-downlink-and-uplink-in-satellites/</guid>
       <description>No, it is not possible to use the same frequency for both downlink and uplink in satellites.&#xA;This is because the signals would interfere with each other, causing significant distortion and preventing effective communication.&#xA;In satellite communication, downlink refers to the signal transmitted from the satellite to Earth, while uplink refers to the signal transmitted from Earth to the satellite.&#xA;If both signals were using the same frequency, they would essentially be canceling each other out, making it impossible to decode the intended information.</description>
     </item>
     <item>
       <title>What are the features of WiMAX?</title>
-      <link>//localhost:1313/networking/what-are-the-features-of-wimax/</link>
+      <link>http://localhost:1313/networking/what-are-the-features-of-wimax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/what-are-the-features-of-wimax/</guid>
+      <guid>http://localhost:1313/networking/what-are-the-features-of-wimax/</guid>
       <description>Table of Contents ↬&#xD;What is WiMAX? Key features of WiMAX 1. Broad coverage 2. High data rates 3. Non-line-of-sight (NLOS) operation 4. Quality of service (QoS) 5. Security 6. Scalability Disadvantages of WiMAX Applications of WiMAX FAQs 1. What is the coverage range of WiMAX technology? 2. How does WiMAX ensure security for user data? 3. Can WiMAX operate in areas with no direct line of sight? 4. What are the advantages of WiMAX over other wireless technologies?</description>
     </item>
     <item>
       <title>Address bus, Data bus and Control bus: What&#39;s the difference?</title>
-      <link>//localhost:1313/networking/difference-between-address-bus-data-bus-and-control-bus/</link>
+      <link>http://localhost:1313/networking/difference-between-address-bus-data-bus-and-control-bus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-address-bus-data-bus-and-control-bus/</guid>
+      <guid>http://localhost:1313/networking/difference-between-address-bus-data-bus-and-control-bus/</guid>
       <description>Table of Contents ↬&#xD;What is a bus? How fast is a bus? Size of a bus Types of buses 1. Address bus 2. Data bus 3. Control bus Differences between address bus, data bus, and control bus FAQs 1. Is the control bus unidirectional or not? 2. What is the direction of the address bus? 3. How does a control bus work? 4. How is bus speed measured? 5.</description>
     </item>
     <item>
       <title>LASER and its Characteristics</title>
-      <link>//localhost:1313/networking/characteristics-of-laser/</link>
+      <link>http://localhost:1313/networking/characteristics-of-laser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/characteristics-of-laser/</guid>
+      <guid>http://localhost:1313/networking/characteristics-of-laser/</guid>
       <description>Table of Contents ↬&#xD;What is a LASER? Characteristics of Lasers 1. Coherence 2. Directionality 3. Monochromatic 4. High Intensity Types of LASER 1. Gas Lasers 2. Solid-State Lasers 3. Diode Lasers Applications/How Lasers Are Used 1. In Medicine 2. In Industry 3. In Communication 4. In Scientific Research Wrap Up FAQs 1. How do lasers differ from conventional light sources? 2. What are some common applications of lasers in medicine?</description>
     </item>
     <item>
       <title>Differences Between Ordinary Light and Laser Light</title>
-      <link>//localhost:1313/networking/differences-between-ordinary-light-and-laser-light/</link>
+      <link>http://localhost:1313/networking/differences-between-ordinary-light-and-laser-light/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/differences-between-ordinary-light-and-laser-light/</guid>
+      <guid>http://localhost:1313/networking/differences-between-ordinary-light-and-laser-light/</guid>
       <description>Table of Contents ↬&#xD;What is Ordinary Light? What is Laser Light? Differences Between Ordinary Light and Laser Light 1. Nature of Light 2. Angular Spread 3. Directionality 4. Intensity 5. Coherence 6. Radiation Characteristics 7. Examples FAQs 1. How is laser light different from ordinary light? 2. Can ordinary light be as focused as laser light? 3. Are there any risks associated with using laser light? 4. What are some everyday applications of ordinary light?</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/networking/difference-between-unicast-multicast-broadcast-and-anycast/</link>
+      <link>http://localhost:1313/networking/difference-between-unicast-multicast-broadcast-and-anycast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/networking/difference-between-unicast-multicast-broadcast-and-anycast/</guid>
+      <guid>http://localhost:1313/networking/difference-between-unicast-multicast-broadcast-and-anycast/</guid>
       <description>���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������</description>
     </item>
   </channel>

@@ -2,114 +2,114 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Electronics on Tooabstractive</title>
-    <link>//localhost:1313/digital-electronics/</link>
+    <link>http://localhost:1313/digital-electronics/</link>
     <description>Recent content in Digital Electronics on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/digital-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/digital-electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Difference Between Programmable Array Logic (PAL) and Programmable Logic Array (PLA)</title>
-      <link>//localhost:1313/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</link>
+      <link>http://localhost:1313/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
+      <guid>http://localhost:1313/digital-electronics/basic-difference-between-programmable-array-logic-and-programmable-logic-array/</guid>
       <description>Programmable logic array (PLA) and programmable array logic (PAL) are generally known as programmable logic devices (PLDs) that have programmable AND array, but with a difference in which one has an additional fixed OR array while the other has an additional programmable OR array.&#xA;But what is a programmable logic device?&#xA;Programmable logic device (PLD) can be thought of as a blank slate device that can be programmed or reprogrammed depending on the type to perform a logical operation or function.</description>
     </item>
     <item>
       <title>The 7 Logic Gates (AND, OR, NOT, NAND, NOR, XOR and XNOR) Explained With Their Truth Table</title>
-      <link>//localhost:1313/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</link>
+      <link>http://localhost:1313/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</guid>
+      <guid>http://localhost:1313/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/</guid>
       <description>Logic gates are electronic circuits or devices that forms the basic building block for combinational circuits. It can be used to implement boolean expressions such as addition, subtraction etc.&#xA;There are no digital circuits without a logic gate. The logic gates are termed logic gate as they perform some logic function by either comparing input signals, adding, subtracting, multiplying etc. of input signal and then resulting in an output signal.</description>
     </item>
     <item>
       <title>Memory Hierarchy Explained With Diagram</title>
-      <link>//localhost:1313/digital-electronics/memory-hierarchy-explained-with-diagram/</link>
+      <link>http://localhost:1313/digital-electronics/memory-hierarchy-explained-with-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/memory-hierarchy-explained-with-diagram/</guid>
+      <guid>http://localhost:1313/digital-electronics/memory-hierarchy-explained-with-diagram/</guid>
       <description>Data storage in a computer is possible with the help of a memory system. The memory system helps in holding data for a short period of time during processing and also to store data and programs for long period of time.&#xA;A memory system consists of several types of memory, such as registers (which is used for storing bits), cache (which is used for storing data for easy access), hard disk (which is used for storing data mostly on a permanent basis) etc.</description>
     </item>
     <item>
       <title>What Are the Differences Between Primary Memory and Secondary Memory with examples</title>
-      <link>//localhost:1313/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</link>
+      <link>http://localhost:1313/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</guid>
+      <guid>http://localhost:1313/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/</guid>
       <description>In a computer, there are mainly two types of memory which are the primary memory and secondary memory.&#xA;The memories are what make a computer work efficiently and the major difference between both of these memories is that the primary memory is used for caching as it stores temporary data and it is fast in terms of the access time while the secondary memory is used for storing permanent files and it is slow in comparison to primary memory.</description>
     </item>
     <item>
       <title>What Is the Difference Between RAM (Random Access Memory) and ROM (Read Only Memory)</title>
-      <link>//localhost:1313/digital-electronics/what-is-the-difference-between-ram-and-rom/</link>
+      <link>http://localhost:1313/digital-electronics/what-is-the-difference-between-ram-and-rom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/what-is-the-difference-between-ram-and-rom/</guid>
+      <guid>http://localhost:1313/digital-electronics/what-is-the-difference-between-ram-and-rom/</guid>
       <description>RAM which stands for Random Access Memory and ROM which stands for Read Only Memory are the major categories or types of semiconductor memories.&#xA;RAM is responsible for storing or holding data which are temporary and can be erased when power is lost hence it is called volatile memory while ROM stores data permanently and can hold data even if power is turned off hence it is non-volatile.&#xA;Difference Between RAM and ROM RAM RAM stands for Random Access Memory.</description>
     </item>
     <item>
       <title>What Are the Units of Computer Memory | Bits, Bytes, Kilobytes and other units</title>
-      <link>//localhost:1313/digital-electronics/what-are-the-units-of-computer-memory/</link>
+      <link>http://localhost:1313/digital-electronics/what-are-the-units-of-computer-memory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/what-are-the-units-of-computer-memory/</guid>
+      <guid>http://localhost:1313/digital-electronics/what-are-the-units-of-computer-memory/</guid>
       <description>Computers only understands zero’s and one’s which represent off and on. This zero’s and one’s are called binary digits or bits for short.&#xA;This means that a bit consists of a zero and a one. This bit is the smallest unit of computer memory unit.&#xA;What is computer memory units? A computer memory unit is the measure of memory or storage which is used to represent data.&#xA;Like the example of on and off which is a binary digit 0 and 1.</description>
     </item>
     <item>
       <title>Advantages of Flip-Flop over Latch</title>
-      <link>//localhost:1313/digital-electronics/advantages-of-flip-flop-over-latch/</link>
+      <link>http://localhost:1313/digital-electronics/advantages-of-flip-flop-over-latch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/advantages-of-flip-flop-over-latch/</guid>
+      <guid>http://localhost:1313/digital-electronics/advantages-of-flip-flop-over-latch/</guid>
       <description>The use of flip-flops in digital electronics has several advantages over latches. Here are some of the advantages:&#xA;Advantages of Flip-flops over Latches Clock Input: Flip-flops have a clock input that allows them to change state only when a clock signal is present. This makes flip-flops useful in synchronous circuits, where all events must occur synchronously.&#xA;Stability: Flip-flops are always stable, while latches can be unstable. The stability of flip-flops makes them useful in systems where the state of the system must be maintained even when the input is not stable.</description>
     </item>
     <item>
       <title>Differences Between Latch and Flip-flop</title>
-      <link>//localhost:1313/digital-electronics/difference-between-latch-and-flip-flop/</link>
+      <link>http://localhost:1313/digital-electronics/difference-between-latch-and-flip-flop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/difference-between-latch-and-flip-flop/</guid>
+      <guid>http://localhost:1313/digital-electronics/difference-between-latch-and-flip-flop/</guid>
       <description>Latches and flip-flops are both types of circuits used in digital electronics to store binary information. But with this similarity, there are some key differences between them.&#xA;What is a Latch? A latch is a circuit that has two stable states and can store one bit of information. It is a level-sensitive device, which means that its output depends on the level of the inputs.&#xA;Latches are often used to store the state of a system and are used in many applications, such as data storage, memory, and sequential logic.</description>
     </item>
     <item>
       <title>What Are the Main 5 Components of Digital System?</title>
-      <link>//localhost:1313/digital-electronics/what-are-the-main-5-components-of-digital-system/</link>
+      <link>http://localhost:1313/digital-electronics/what-are-the-main-5-components-of-digital-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/what-are-the-main-5-components-of-digital-system/</guid>
+      <guid>http://localhost:1313/digital-electronics/what-are-the-main-5-components-of-digital-system/</guid>
       <description>A digital system is a system that deals with digital signals. These signals are composed of binary digits or “bits,” which are represented by 0s and 1s. These 0&amp;rsquo;s and 1&amp;rsquo;s denotes an OFF and ON state. Digital signals are used to represent a wide range of information, such as text, images, sounds, and videos.&#xA;In simpler terms, think of digital signals as a language that computers and other digital devices use, to communicate with each other.</description>
     </item>
     <item>
       <title>Examples of Digital Signals in Everyday Life</title>
-      <link>//localhost:1313/digital-electronics/examples-of-digital-signals-in-everyday-life/</link>
+      <link>http://localhost:1313/digital-electronics/examples-of-digital-signals-in-everyday-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/examples-of-digital-signals-in-everyday-life/</guid>
+      <guid>http://localhost:1313/digital-electronics/examples-of-digital-signals-in-everyday-life/</guid>
       <description>What is a Digital Signal? A digital signal is a type of signal that represents data as a series of binary digits or “bits” (0s and 1s) for short. In contrast, an analog signal represents data as a continuous wave.&#xA;Digital signals are used in many electronic devices, such as computers, smartphones, and televisions, to transmit and process information.&#xA;For example, when you send a text message, the message is converted into a digital signal that is transmitted over the internet or cellular network.</description>
     </item>
     <item>
       <title>Examples of Digital Systems in Daily Life</title>
-      <link>//localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/</link>
+      <link>http://localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/</guid>
+      <guid>http://localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/</guid>
       <description>What are digital systems? Digital systems are electronic systems that use digital signals composed of binary digits or “bits” (0s and 1s) to process and manipulate information.&#xA;They are made up of various components, including input devices, processing units, memory, output devices, and communication channels, that work together to perform various tasks.&#xA;Digital systems have become an integral part of our daily lives, and there are countless examples of their applications in various fields.</description>
     </item>
     <item>
       <title>How to Convert Binary to Decimal with 7 Examples</title>
-      <link>//localhost:1313/digital-electronics/how-to-convert-binary-to-decimal-with-examples/</link>
+      <link>http://localhost:1313/digital-electronics/how-to-convert-binary-to-decimal-with-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/how-to-convert-binary-to-decimal-with-examples/</guid>
+      <guid>http://localhost:1313/digital-electronics/how-to-convert-binary-to-decimal-with-examples/</guid>
       <description>In the digital world, computers use the binary system, which consists of only two digits: 0 and 1. In contrast, humans primarily utilize the decimal system, with ten digits from 0 to 9.&#xA;Converting binary numbers to decimal allows us to interpret and work with binary data in a format that is more familiar to us.&#xA;It is an essential skill for programmers, computer scientists, and anyone dealing with binary data.</description>
     </item>
     <item>
       <title>Difference Between RAM and ROM: A Detailed Explanation</title>
-      <link>//localhost:1313/digital-electronics/difference-between-ram-and-rom/</link>
+      <link>http://localhost:1313/digital-electronics/difference-between-ram-and-rom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/difference-between-ram-and-rom/</guid>
+      <guid>http://localhost:1313/digital-electronics/difference-between-ram-and-rom/</guid>
       <description>RAM (Random Access Memory) and ROM (Read-Only Memory) are vital components of computer memory systems.&#xA;While RAM provides temporary data storage for quick access and manipulation, ROM holds permanent instructions.&#xA;Understanding the disparities between RAM and ROM is key to grasping their roles in computers or computing.&#xA;Table of Contents ↬&#xD;What is RAM? How Does RAM Work? Types of RAM 1. Dynamic RAM (DRAM) 2. Static RAM (SRAM) 3. Synchronous Dynamic RAM (SDRAM) 4.</description>
     </item>
     <item>
       <title>Why Digital Signals are Used in Computer Systems</title>
-      <link>//localhost:1313/digital-electronics/why-digital-signal-are-used-in-computer-system/</link>
+      <link>http://localhost:1313/digital-electronics/why-digital-signal-are-used-in-computer-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/why-digital-signal-are-used-in-computer-system/</guid>
+      <guid>http://localhost:1313/digital-electronics/why-digital-signal-are-used-in-computer-system/</guid>
       <description>In the sphere of computer systems, the utilization of digital signals has revolutionized the way information is processed, stored, and transmitted.&#xA;By employing a binary system of representing data, digital signals offer numerous advantages that contribute to the seamless functioning of computers.&#xA;Table of Contents ↬&#xD;Digital Signals vs. Analog Signals Reasons for Using Digital Signals 1. Reliability 2. Efficiency 3. Versatility Examples of Digital Signal Usage 1. Data Storage 2.</description>
     </item>
     <item>
       <title>Why do computers use the binary system instead of the decimal system?</title>
-      <link>//localhost:1313/digital-electronics/why-do-computers-use-the-binary-system-instead-of-the-decimal-system/</link>
+      <link>http://localhost:1313/digital-electronics/why-do-computers-use-the-binary-system-instead-of-the-decimal-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-electronics/why-do-computers-use-the-binary-system-instead-of-the-decimal-system/</guid>
+      <guid>http://localhost:1313/digital-electronics/why-do-computers-use-the-binary-system-instead-of-the-decimal-system/</guid>
       <description>In short, computers use the binary system instead of the decimal system because, binary system consist of just two digits 0 and 1 which is analogous to the state (either “on” or “off”) of the electronics switches (transistors) that computers are made up of.&#xA;But for decimal it consists of ten digits (0 1 2 3 4 5 6 7 8 9) which can lead to hardware complexity.&#xA;What is Binary Number System?</description>
     </item>
   </channel>

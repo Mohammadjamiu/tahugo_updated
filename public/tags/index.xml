@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tooabstractive</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Difference Between</title>
-      <link>//localhost:1313/tags/difference-between/</link>
+      <link>http://localhost:1313/tags/difference-between/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/difference-between/</guid>
+      <guid>http://localhost:1313/tags/difference-between/</guid>
       <description></description>
     </item>
     <item>
       <title>Economy</title>
-      <link>//localhost:1313/tags/economy/</link>
+      <link>http://localhost:1313/tags/economy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/economy/</guid>
+      <guid>http://localhost:1313/tags/economy/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>//localhost:1313/tags/finance/</link>
+      <link>http://localhost:1313/tags/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/finance/</guid>
+      <guid>http://localhost:1313/tags/finance/</guid>
       <description></description>
     </item>
     <item>
       <title>How To</title>
-      <link>//localhost:1313/tags/how-to/</link>
+      <link>http://localhost:1313/tags/how-to/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/how-to/</guid>
+      <guid>http://localhost:1313/tags/how-to/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>//localhost:1313/tags/javascript/</link>
+      <link>http://localhost:1313/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/javascript/</guid>
+      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Nodejs</title>
-      <link>//localhost:1313/tags/nodejs/</link>
+      <link>http://localhost:1313/tags/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/nodejs/</guid>
+      <guid>http://localhost:1313/tags/nodejs/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming and Coding</title>
-      <link>//localhost:1313/tags/programming-and-coding/</link>
+      <link>http://localhost:1313/tags/programming-and-coding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/programming-and-coding/</guid>
+      <guid>http://localhost:1313/tags/programming-and-coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Self Development</title>
-      <link>//localhost:1313/tags/self-development/</link>
+      <link>http://localhost:1313/tags/self-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/self-development/</guid>
+      <guid>http://localhost:1313/tags/self-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Study Tips</title>
-      <link>//localhost:1313/tags/study-tips/</link>
+      <link>http://localhost:1313/tags/study-tips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/study-tips/</guid>
+      <guid>http://localhost:1313/tags/study-tips/</guid>
       <description></description>
     </item>
   </channel>

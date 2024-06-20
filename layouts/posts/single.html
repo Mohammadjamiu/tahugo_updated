@@ -68,6 +68,35 @@
 <!-- <div class="sharethis-inline-reaction-buttons"></div> -->
 <!-- ShareThis END -->
     {{partial "socialshare" . }}
+
+    <div class="d-flex flex-row">
+      <div class="m-1">
+        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
+          data-show-count="false">Tweet</a>
+
+      </div>
+      <div class="m-1">
+        <div class="fb-share-button" data-href="{{ .Permalink }}" data-layout="button_count">
+        </div>
+      </div>
+      <div class="m-1">
+
+        <script type="IN/Share" data-url="https://www.linkedin.com"></script>
+      </div>
+      <div class="m-1">
+        <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
+      </div>
+      <div class="m-1">
+        <a href="https://api.whatsapp.com/send?text={{ .Title | urlize }} {{ .Permalink }}" target="_blank" rel="noopener noreferrer" class="whatsapp-share">
+            Share on WhatsApp
+        </a>
+    </div>
+    </div>
+
+
+
+
+
  {{if .Params.Affliate_Links}}
    <blockquote>
     <p><strong>Disclosure: </strong>Tooabstractive is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. </p>
@@ -143,5 +172,23 @@
   </div>
 </aside>
 </div>
+
+
+
+
+
+<!-- social sharing scripts -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 {{end}}
 
