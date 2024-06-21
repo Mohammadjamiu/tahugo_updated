@@ -6,6 +6,142 @@ media_folder: /static/images/
 public_folder: /images/
 
 collections:
+  - name: "scholarship guide"
+    label: "Scholarship Guide"
+    folder: "content/scholarship-guide"
+    create: true
+    slug: "{{fields.slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", required: false, widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "postdate",
+          widget: "datetime",
+          default: "",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+          format: "LL",
+          picker_utc: false,
+        }
+      - { label: "Keywords", name: "keywords", widget: "list" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options:
+            [
+              "difference between",
+              "how to",
+              "finance",
+              "economy",
+              "self development",
+              "study tips",
+              "optical fiber communication",
+              "javascript",
+              "nodejs",
+              "programming and coding",
+              "scholarship",
+            ],
+        }
+      - {
+          label: "CategoryLabel",
+          name: "categorylabel",
+          widget: "string",
+          default: "Scholarship Guide",
+        }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          options: ['["Scholarship Guide"]'],
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          choose_url: true,
+          default: "/images/imgph.webp",
+          media_library: { config: { multiple: true } },
+        }
+
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          default: 0,
+          value_type: "int",
+          min: 1,
+          max: 1000,
+          step: 2,
+        }
+
+      - {
+          label: "CategoryLink",
+          name: "categorylink",
+          widget: "select",
+          options: ["/categories/scholarship-guide"],
+        }
+
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string", default: posts }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Mohammad Jamiu,
+        }
+      - {
+          label: "Author Credit",
+          name: "author_credit",
+          widget: "boolean",
+          default: true,
+          required: false,
+        }
+      - {
+          label: "Author Credit Name",
+          name: "author_credit_name",
+          widget: "string",
+          default: "Mohammad Jamiu",
+          required: true,
+        }
+      - {
+          label: "Author Credit Info",
+          name: "author_credit_info",
+          widget: "string",
+          default: "A telecommunications engineering graduate and web developer, driven by a passion for sharing knowledge —on this website to impact and inspire others.",
+          required: true,
+        }
+      - {
+          label: "Author Credit Image",
+          name: "author_credit_image",
+          widget: "image",
+          required: true,
+          choose_url: true,
+          default: "/images/new-author-photo.webp",
+          media_library: { config: { multiple: true } },
+        }
+      - {
+          label: "Affliate Links",
+          name: "Affliate_Links",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "MathJax", name: "mathjax", widget: "boolean", default: false }
+      - {
+          label: "Google Ads",
+          name: "Google_Ads",
+          widget: "boolean",
+          default: true,
+        }
   - name: "crypto education"
     label: "Crypto Education"
     folder: "content/crypto-education"

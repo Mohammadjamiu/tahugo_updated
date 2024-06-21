@@ -272,7 +272,7 @@ h2.story-block:after {
 .post-metadata {
   flex-wrap: wrap;
   margin: 1.5rem 0;
-  width: fit-content;
+  /* width: fit-content; */
 }
 
 .post-metadata p {
