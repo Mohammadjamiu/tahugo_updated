@@ -293,7 +293,8 @@ img {
   border: 0.18rem solid var(--accent-color);
   width: 100%;
   max-width: 480px;
-  height: auto;
+  height: 281.25;
+  /* height: auto; */
   margin: 2rem auto;
   display: inline-block;
   border-radius: 0.8rem;
@@ -1047,7 +1048,7 @@ img.footer-icon {
     border: 0.18rem solid var(--accent-color);
     width: 100%;
     max-width: 480px;
-    height: auto;
+    height: 281.25;
     
     margin: 2rem auto;
     display: inline-block;
