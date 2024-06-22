@@ -1,5 +1,5 @@
 ---
-title: 9 Hamster Kombat Profitable Cards to Increase Your Profit Per Hour
+title: 9+ Hamster Kombat Profitable Cards to Increase Your Profit Per Hour
 slug: hamster kombat profitable cards to increase your profit per hour
 postdate: June 21, 2024
 keywords:
@@ -77,6 +77,16 @@ With that said, here are some of the profitable cards we have identified on Hams
 ### 9. Shall NFTs Skyrocket? (Can be found in the "Specials" section)
 
 ![shall nft skyrocket](/images/shall-nft-card.webp "shall nft skyrocket")
+
+### 10. We have 40 Million Subscribers in our Telegram Channel (Can be found in the "Specials" section - \[New Cards])
+
+![million subscribers on telegram cards](/images/million-sub-telegram-pph.webp "million subscribers on telegram cards")
+
+### 11. We have 25 Million Subscribers on our YouTube Channel (Can be found in the "Specials" section - \[New Cards])
+
+![million subscribers on youtube cards](/images/million-sub-yt-pph.webp "million subscribers on youtube cards")
+
+
 
 > :bulb: 
 >
