@@ -35,6 +35,13 @@
   <meta name="publisher" content="{{ .Params.author }}" />
 {{ end }}
 
+<base href="{{ .RelPermalink }}" />
+<link
+  rel="canonical"
+  href="https://tooabstractive.com{{ .RelPermalink }}"
+  itemprop="url"
+/>
+
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="{{ $title }}" />
 <meta property="og:description" content="{{ .Description }}" />

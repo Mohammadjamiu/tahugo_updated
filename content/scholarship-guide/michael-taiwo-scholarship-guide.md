@@ -48,9 +48,12 @@ It provides financial aid for standardized tests (GRE, GMAT, TOEFL, IELTS) and g
 
 The scholarship also supports students from other countries, but to a lesser extent, such as Ghana, Pakistan, and Bangladesh, facilitating university education in the USA, UK, Canada, Europe, and Australia.
 
-> **:bulb: Summary Points for the 2024 Application**
+
+
+> **:bulb: Keypoints for the 2024 Application**
 >
 > * Michael Taiwo Foundation is the host for the scholarship.
+> * Open to final-year student or recent graduate across all discipline.
 > * Offers opportunity for Postgraduate Scholarships, Masters Scholarships, and PhD Scholarships.
 > * Available to students from African countries such as Nigeria, Ghana, Pakistan, and others.
 > * Benefits: GRE/GMAT, TOEFL/IELTS, application fees for up to six schools, and four additional score reports.

@@ -11,7 +11,7 @@
     <span class="post-date"> {{.Params.postdate}}</span>
     <span class="post-date" style="color: rgb(148, 148, 148);"> / {{ .Params.weight }} /</span>
 {{ else }}
-<span class="post-date"> Modified: {{ .Lastmod | time.Format ":date_long" }}   </span>
+<span class="post-date"> {{ .Lastmod | time.Format ":date_long" }}   </span>
 <span class="post-date" style="color: rgb(148, 148, 148);"> / {{ .Params.weight }} /</span>
 {{ end }}
 
