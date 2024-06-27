@@ -1,8 +1,8 @@
 ---
-title: 45+ Lucrative Business Ideas for Nigerian Students in 2023
+title: 45+ Lucrative Business Ideas for Nigerian Students in 2024
 slug: business ideas for students in nigeria
 postdate: May 23, 2023
-description: business ideas for students in nigeria
+description: Are you a student in Nigeria looking for profitable business opportunities to make money? Here are lucrative business idea for you
 categorylabel: Productivity and Writings
 categories: '["Productivity and Writings"]'
 image: /images/firmbee-com-spvhcbuki6e-unsplash-1-.webp
