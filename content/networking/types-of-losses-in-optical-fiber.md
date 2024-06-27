@@ -2,7 +2,7 @@
 title: Types of Losses in Optical Fiber
 slug: types of losses in optical fiber
 postdate: May 11, 2023
-description: types of losses in optical fiber
+description: Optical fibers face different types of signal loss, which include absorption, scattering, bending, dispersion, and connector losses.
 categorylabel: Networking and Communication
 categories: '["Networking and Communication"]'
 image: /images/lossg_1.webp

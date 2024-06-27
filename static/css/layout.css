@@ -1026,8 +1026,9 @@ img.footer-icon {
   img {
     border: 0.18rem solid var(--accent-color);
     width: 100%;
-    max-width: 480px; /* Maximum width of the image */
+    max-width: 500px; /* Maximum width of the image */
     height: auto; /* Maintain aspect ratio */
+    min-height: 280px;
     margin: 2rem auto;
     display: block; /* Center the image */
     border-radius: 0.8rem;

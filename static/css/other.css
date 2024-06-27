@@ -293,7 +293,7 @@ h2.story-block:after {
   max-width: 2rem !important;
   height: 2rem !important;
   border-radius: 20%;
-
+min-height: auto;
   padding: 0 !important;
   width: fit-content !important;
   border: 0 !important;

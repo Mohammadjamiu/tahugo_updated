@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2024 15:23:38 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 12:05:09 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[&#34;Networking and Communication&#34;]</title>
@@ -90,6 +90,13 @@
       <link>http://localhost:1313/categories/productivity-and-writings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/productivity-and-writings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[&#34;Scholarship Guide&#34;]</title>
+      <link>http://localhost:1313/categories/scholarship-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/scholarship-guide/</guid>
       <description></description>
     </item>
     <item>
