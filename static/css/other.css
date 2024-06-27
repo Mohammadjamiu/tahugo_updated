@@ -1070,9 +1070,9 @@ ol li code {
     position: relative;
     margin: 0;
     padding: 0;
-    min-height: 18rem;
+    /* min-height: 18rem; */
     min-width: 18rem;
-
+    min-height: auto;
     max-width: fit-content;
     max-height: fit-content;
   }
@@ -1115,6 +1115,7 @@ ol li code {
   position: absolute;
   margin: 0;
   padding: 0;
+  min-height: auto;
 }
 
 .author-credit p {
