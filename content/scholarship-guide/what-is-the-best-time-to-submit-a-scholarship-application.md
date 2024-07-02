@@ -33,7 +33,7 @@ Google_Ads: true
 ---
 ![scholarship application](/images/scholarship-time-application.webp "scholarship application")
 
-Securing a scholarship can be a game-changer for students. It not only provides financial relief but also opens doors to educational opportunities. 
+Securing a scholarship can be a game-changer for students. It not only provides financial relief but also opens doors to educational opportunities.  
 
 One of the most common questions students ask is whether submitting their scholarship application early or close to the deadline will impact their chances of securing the scholarship. 
 

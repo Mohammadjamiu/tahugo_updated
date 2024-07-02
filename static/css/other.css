@@ -1094,6 +1094,9 @@ ol li code {
   .author-credit p {
     font-size: 1.8rem;
   }
+  .author-credit-name {
+    margin: 0 auto 1.9rem auto;
+  }
 }
 
 .author-credit-img {
@@ -1121,3 +1124,4 @@ ol li code {
 .author-credit p {
   font-size: 1.7rem;
 }
+
