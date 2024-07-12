@@ -35,6 +35,8 @@ Google_Ads: true
 ---
 ![motivation letter format](/images/essay-format-motivation-letter.webp "motivation letter format")
 
+<small style='display: block; text-align: center;'>Motivation Letter Sample - Hope it helps you out :rocket:</small>
+
 Writing a motivation letter for scholarship or graduate studies is an important step in securing funding or admission to your desired program. This letter is your chance to showcase your passion, achievements, and future goals. 
 
 Here’s a guide to help you craft a compelling motivation letter.
@@ -126,6 +128,12 @@ Reiterate why you are a perfect fit for the program, and express your hope and c
 ### 8. Proofread and Revise
 
 Before sending your motivation letter, make sure to proofread and revise it for any errors. Ensure that it is clear, concise, and free of grammatical mistakes.
+
+**Motivation Letter Template**
+
+![motivation letter template 1](/images/essay-format-motivation-letter.webp "motivation letter template 1")
+
+![motivation letter template 2](/images/motivation-letter-template-2.webp "motivation letter template 2")
 
 ## **Wrap Up**
 
