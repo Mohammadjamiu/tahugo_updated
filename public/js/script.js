@@ -165,7 +165,6 @@ function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
   highlightDiv.removeChild(textArea);
 }
 
-
 const codeElements = document.getElementsByTagName("code");
 
 // Iterate over the <code> elements

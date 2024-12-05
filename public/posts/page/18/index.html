@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/bram-naus-oqnvni5ixhg-unsplash.webp"
-            alt="Top 20 High-Paying Careers in Nigeria"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/slice-method-1.webp"
+                alt="How to Split an Array in 2 Parts in JavaScript?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Split an Array in 2 Parts in JavaScript?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-split-array-in-2-parts-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Top 20 High-Paying Careers in Nigeria</h2>
-          <a href="http://localhost:1313/misce-post/highest-paid-profession-in-nigeria/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/how-to-write-better.webp"
+                alt="13 Effective Tips to Enhance Your Writing Skills"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>13 Effective Tips to Enhance Your Writing Skills</h2>
+              <a href="http://localhost:1313/misce-post/tips-to-improve-your-writing-skills/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/in.webp"
+                alt="Regular Expression in Python: A Step by Step Explanation"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Regular Expression in Python: A Step by Step Explanation</h2>
+              <a href="http://localhost:1313/how-to-tech/what-are-regular-expressions-in-python/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/convert-title-to-url-slug-in-js.webp"
+                alt="How to Convert a Title to URL Slug in JavaScript"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Convert a Title to URL Slug in JavaScript</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-convert-a-title-to-url-slug-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/bram-naus-oqnvni5ixhg-unsplash.webp"
+                alt="Top 20 High-Paying Careers in Nigeria"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Top 20 High-Paying Careers in Nigeria</h2>
+              <a href="http://localhost:1313/misce-post/highest-paid-profession-in-nigeria/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/dmitry-demidko-ebwzfkaheau-unsplash.webp"
+                alt="How to Turn ChatGPT into a Profitable Side Hustle (2023)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Turn ChatGPT into a Profitable Side Hustle (2023)</h2>
+              <a href="http://localhost:1313/misce-post/how-to-make-money-with-chatgpt/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/jonathan-kemper-n8ayh8r2rwq-unsplash.webp"
+                alt="Differences between ChatGPT and ChatGPT Plus"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Differences between ChatGPT and ChatGPT Plus</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-chatgpt-and-chatgpt-plus/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/screenshot_20230524-135353.webp"
+                alt="How to Add Polling on WhatsApp – A Step-by-Step Guide"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Add Polling on WhatsApp – A Step-by-Step Guide</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-add-polling-on-whatsapp/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/jeswin-thomas-hgju2ykh4e-unsplash.webp"
+                alt="10 Steps to Becoming a Serious Student"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>10 Steps to Becoming a Serious Student</h2>
+              <a href="http://localhost:1313/misce-post/become-a-serious-student/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pawel-czerwinski-7dvbx9ecszq-unsplash.webp"
+                alt="How to Build Self-Confidence: 13 Proven Tips"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Build Self-Confidence: 13 Proven Tips</h2>
+              <a href="http://localhost:1313/misce-post/ways-to-build-self-confidence/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/firmbee-com-spvhcbuki6e-unsplash-1-.webp"
+                alt="45&#43; Lucrative Business Ideas for Nigerian Students in 2024"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>45&#43; Lucrative Business Ideas for Nigerian Students in 2024</h2>
+              <a href="http://localhost:1313/misce-post/business-ideas-for-students-in-nigeria/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/whatsapp-image-2023-05-22-at-10.32.16-am.webp"
+                alt="How to Fix WhatsApp Is Not Installing in My Android?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Fix WhatsApp Is Not Installing in My Android?</h2>
+              <a href="http://localhost:1313/how-to-tech/why-whatsapp-is-not-installing-in-my-android-how-to-fix/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/diggity-marketing-sb0warg16hi-unsplash.webp"
+                alt="Skills To Learn Make Money as a Student (2023)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Skills To Learn Make Money as a Student (2023)</h2>
+              <a href="http://localhost:1313/misce-post/skills-to-learn-to-make-money-as-a-student/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/networks-installment.webp"
+                alt="Similarities between Wired and Wireless Networks"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Similarities between Wired and Wireless Networks</h2>
+              <a href="http://localhost:1313/networking/similarities-between-wired-and-wireless-networks/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/headway-5qgiuubxkwm-unsplash.webp"
+                alt="Most Profitable Skills To Learn in 2023 and Beyond"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Most Profitable Skills To Learn in 2023 and Beyond</h2>
+              <a href="http://localhost:1313/misce-post/most-profitable-skills-to-learn/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/dmitry-demidko-ebwzfkaheau-unsplash.webp"
-            alt="How to Turn ChatGPT into a Profitable Side Hustle (2023)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Turn ChatGPT into a Profitable Side Hustle (2023)</h2>
-          <a href="http://localhost:1313/misce-post/how-to-make-money-with-chatgpt/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/jonathan-kemper-n8ayh8r2rwq-unsplash.webp"
-            alt="Differences between ChatGPT and ChatGPT Plus"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Differences between ChatGPT and ChatGPT Plus</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-chatgpt-and-chatgpt-plus/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/screenshot_20230524-135353.webp"
-            alt="How to Add Polling on WhatsApp – A Step-by-Step Guide"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Add Polling on WhatsApp – A Step-by-Step Guide</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-add-polling-on-whatsapp/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/jeswin-thomas-hgju2ykh4e-unsplash.webp"
-            alt="10 Steps to Becoming a Serious Student"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>10 Steps to Becoming a Serious Student</h2>
-          <a href="http://localhost:1313/misce-post/become-a-serious-student/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pawel-czerwinski-7dvbx9ecszq-unsplash.webp"
-            alt="How to Build Self-Confidence: 13 Proven Tips"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Build Self-Confidence: 13 Proven Tips</h2>
-          <a href="http://localhost:1313/misce-post/ways-to-build-self-confidence/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/firmbee-com-spvhcbuki6e-unsplash-1-.webp"
-            alt="45&#43; Lucrative Business Ideas for Nigerian Students in 2024"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>45&#43; Lucrative Business Ideas for Nigerian Students in 2024</h2>
-          <a href="http://localhost:1313/misce-post/business-ideas-for-students-in-nigeria/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/whatsapp-image-2023-05-22-at-10.32.16-am.webp"
-            alt="How to Fix WhatsApp Is Not Installing in My Android?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Fix WhatsApp Is Not Installing in My Android?</h2>
-          <a href="http://localhost:1313/how-to-tech/why-whatsapp-is-not-installing-in-my-android-how-to-fix/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/diggity-marketing-sb0warg16hi-unsplash.webp"
-            alt="Skills To Learn Make Money as a Student (2023)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Skills To Learn Make Money as a Student (2023)</h2>
-          <a href="http://localhost:1313/misce-post/skills-to-learn-to-make-money-as-a-student/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/networks-installment.webp"
-            alt="Similarities between Wired and Wireless Networks"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Similarities between Wired and Wireless Networks</h2>
-          <a href="http://localhost:1313/networking/similarities-between-wired-and-wireless-networks/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/headway-5qgiuubxkwm-unsplash.webp"
-            alt="Most Profitable Skills To Learn in 2023 and Beyond"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Most Profitable Skills To Learn in 2023 and Beyond</h2>
-          <a href="http://localhost:1313/misce-post/most-profitable-skills-to-learn/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/js-object.webp"
-            alt="Difference Between JavaScript Object and JSON"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between JavaScript Object and JSON</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-javascript-object-and-json/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/sc.webp"
-            alt="Types of Optical Fiber Connectors Explained"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Types of Optical Fiber Connectors Explained</h2>
-          <a href="http://localhost:1313/networking/types-of-optical-fiber-connectors/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/underscore-in-js.webp"
-            alt="What is the use of underscore ( _ ) in JavaScript?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the use of underscore ( _ ) in JavaScript?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-the-use-of-underscore-in-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/function-anatomy.webp"
-            alt="Difference Between Normal (Regular) Function and Arrow Function"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Normal (Regular) Function and Arrow Function</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-normal-function-and-arrow-function/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

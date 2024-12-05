@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/quantity-surveyor-and-civil-engineer.webp"
-            alt="Quantity Surveyors vs. Civil Engineers: What&#39;s Their Difference?"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/architect-vs-civil-engineer.webp"
+                alt="Which Is Harder, Civil Engineering or Architecture?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Which Is Harder, Civil Engineering or Architecture?</h2>
+              <a href="http://localhost:1313/engineering-contents/which-is-harder-civil-engineering-or-architecture/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Quantity Surveyors vs. Civil Engineers: What&#39;s Their Difference?</h2>
-          <a href="http://localhost:1313/engineering-contents/difference-between-quantity-surveyor-and-civil-engineer/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/how-to-check-lti-system.webp"
+                alt="How Do You Check Whether a System Is LTI or Not?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How Do You Check Whether a System Is LTI or Not?</h2>
+              <a href="http://localhost:1313/signal-and-system/how-do-you-check-whether-a-system-is-lti-or-not/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/signal-and-system-waves.webp"
+                alt="Difference Between Linear Time Variant (LTV) and Linear Time Invariant (LTI) Systems"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Linear Time Variant (LTV) and Linear Time Invariant (LTI) Systems</h2>
+              <a href="http://localhost:1313/signal-and-system/difference-between-linear-time-variant-and-linear-time-invariant-system/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/biomedical-signal-processing.webp"
+                alt="What is Biomedical Signal Processing?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is Biomedical Signal Processing?</h2>
+              <a href="http://localhost:1313/signal-and-system/what-is-biomedical-signal-processing/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/quantity-surveyor-and-civil-engineer.webp"
+                alt="Quantity Surveyors vs. Civil Engineers: What&#39;s Their Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Quantity Surveyors vs. Civil Engineers: What&#39;s Their Difference?</h2>
+              <a href="http://localhost:1313/engineering-contents/difference-between-quantity-surveyor-and-civil-engineer/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/questionnaire-and-survey.webp"
+                alt="Survey vs. Questionnaire: What&#39;s Their Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Survey vs. Questionnaire: What&#39;s Their Difference?</h2>
+              <a href="http://localhost:1313/misce-post/difference-between-survey-and-questionnaire/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/surveillance.webp"
+                alt="Surveillance vs. Monitoring: What&#39;s The Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Surveillance vs. Monitoring: What&#39;s The Difference?</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-surveillance-and-monitoring/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/savings-and-current-account.webp"
+                alt="Current Account and Savings Account: What&#39;s The Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Current Account and Savings Account: What&#39;s The Difference?</h2>
+              <a href="http://localhost:1313/financial-stuffs/difference-between-current-account-and-savings-account/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/surface-tension-water.webp"
+                alt="Surface Tension and Viscosity: What&#39;s Their Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Surface Tension and Viscosity: What&#39;s Their Difference?</h2>
+              <a href="http://localhost:1313/science-stuff/difference-between-surface-tension-and-viscosity/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="Subjective vs. Objective - What&#39;s Their Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Subjective vs. Objective - What&#39;s Their Difference?</h2>
+              <a href="http://localhost:1313/misce-post/difference-between-subjective-and-objective/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp"
+                alt="Which is Harder: Electrical or Mechanical Engineering?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Which is Harder: Electrical or Mechanical Engineering?</h2>
+              <a href="http://localhost:1313/science-stuff/which-is-harder-electrical-or-mechanical-engineering/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/robotics.webp"
+                alt="Mechatronics Engineering vs. Robotics Engineering: What&#39;s Their Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Mechatronics Engineering vs. Robotics Engineering: What&#39;s Their Difference?</h2>
+              <a href="http://localhost:1313/science-stuff/difference-between-mechatronics-and-robotics-engineering/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mechanic-and-engineer.webp"
+                alt="Difference Between a Mechanic and an Engineer"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between a Mechanic and an Engineer</h2>
+              <a href="http://localhost:1313/science-stuff/difference-between-a-mechanic-and-an-engineer/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/wavy.webp"
+                alt="Difference Between Mechanical Waves and Electromagnetic Waves"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Mechanical Waves and Electromagnetic Waves</h2>
+              <a href="http://localhost:1313/science-stuff/difference-between-mechanical-and-electromagnetic-waves/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mechanical-mechatronics-eng.webp"
+                alt="Difference Between Mechatronics and Mechanical Engineering"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Mechatronics and Mechanical Engineering</h2>
+              <a href="http://localhost:1313/science-stuff/difference-between-mechatronics-and-mechanical-engineering/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/questionnaire-and-survey.webp"
-            alt="Survey vs. Questionnaire: What&#39;s Their Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Survey vs. Questionnaire: What&#39;s Their Difference?</h2>
-          <a href="http://localhost:1313/misce-post/difference-between-survey-and-questionnaire/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/surveillance.webp"
-            alt="Surveillance vs. Monitoring: What&#39;s The Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Surveillance vs. Monitoring: What&#39;s The Difference?</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-surveillance-and-monitoring/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/savings-and-current-account.webp"
-            alt="Current Account and Savings Account: What&#39;s The Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Current Account and Savings Account: What&#39;s The Difference?</h2>
-          <a href="http://localhost:1313/financial-stuffs/difference-between-current-account-and-savings-account/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/surface-tension-water.webp"
-            alt="Surface Tension and Viscosity: What&#39;s Their Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Surface Tension and Viscosity: What&#39;s Their Difference?</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-surface-tension-and-viscosity/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="Subjective vs. Objective - What&#39;s Their Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Subjective vs. Objective - What&#39;s Their Difference?</h2>
-          <a href="http://localhost:1313/misce-post/difference-between-subjective-and-objective/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp"
-            alt="Which is Harder: Electrical or Mechanical Engineering?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Which is Harder: Electrical or Mechanical Engineering?</h2>
-          <a href="http://localhost:1313/science-stuff/which-is-harder-electrical-or-mechanical-engineering/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/robotics.webp"
-            alt="Mechatronics Engineering vs. Robotics Engineering: What&#39;s Their Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Mechatronics Engineering vs. Robotics Engineering: What&#39;s Their Difference?</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-mechatronics-and-robotics-engineering/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/mechanic-and-engineer.webp"
-            alt="Difference Between a Mechanic and an Engineer"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between a Mechanic and an Engineer</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-a-mechanic-and-an-engineer/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/wavy.webp"
-            alt="Difference Between Mechanical Waves and Electromagnetic Waves"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Mechanical Waves and Electromagnetic Waves</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-mechanical-and-electromagnetic-waves/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/mechanical-mechatronics-eng.webp"
-            alt="Difference Between Mechatronics and Mechanical Engineering"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Mechatronics and Mechanical Engineering</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-mechatronics-and-mechanical-engineering/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/chemical-vs-petroluem-eng.webp"
-            alt="Difference Between Chemical Engineering and Petroleum Engineering"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Chemical Engineering and Petroleum Engineering</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-chemical-engineering-and-petroleum-engineering/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/chemical-vs-industrial-eng.webp"
-            alt="Difference Between Chemical Engineering and Industrial Chemistry"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Chemical Engineering and Industrial Chemistry</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-chemical-engineering-and-industrial-chemistry/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/software-eng-vs-computer-science.webp"
-            alt="Difference Between Computer Science and Software Engineering"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Computer Science and Software Engineering</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-computer-science-and-software-engineering/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/abstraction.webp"
-            alt="Abstraction in Computer Science Explained (With Examples)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Abstraction in Computer Science Explained (With Examples)</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-abstraction-in-computer-science-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

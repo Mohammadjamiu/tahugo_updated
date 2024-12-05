@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/console-error.webp"
-            alt="Difference Between console.log and console.error"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/how-to-check-for-substring-in-js.webp"
+                alt="How to Check If a String Contains a Substring in JavaScript?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Check If a String Contains a Substring in JavaScript?</h2>
+              <a href="http://localhost:1313/how-to-tech/string-contains-a-substring-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Difference Between console.log and console.error</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-console.log-and-console.error/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/console.info.webp"
+                alt="Difference Between console.log and console.info"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between console.log and console.info</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-console.log-and-console.info/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/terms-and-conditions.webp"
+                alt="Difference Between Terms and Conditions"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Terms and Conditions</h2>
+              <a href="http://localhost:1313/misce-post/difference-between-terms-and-conditions/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pros-vs-cons.webp"
+                alt="What&#39;s the Difference Between Pros and Cons?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What&#39;s the Difference Between Pros and Cons?</h2>
+              <a href="http://localhost:1313/misce-post/whats-the-difference-between-pro-and-cons/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/console-error.webp"
+                alt="Difference Between console.log and console.error"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between console.log and console.error</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-console.log-and-console.error/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/hdd.webp"
+                alt="SSD vs. HDD: What&#39;s The Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>SSD vs. HDD: What&#39;s The Difference?</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-ssd-and-hdd/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/friction.webp"
+                alt="5 Advantages and 5 Disadvantages of Friction"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>5 Advantages and 5 Disadvantages of Friction</h2>
+              <a href="http://localhost:1313/science-stuff/advantages-and-disadvantages-of-friction/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/system-unit.webp"
+                alt="The Key Difference Between CPU and System Unit"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>The Key Difference Between CPU and System Unit</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-cpu-and-system-unit/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/software-and-code.webp"
+                alt="Difference Between Compiler and Assembler"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Compiler and Assembler</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-compiler-and-assembler/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/codes.webp"
+                alt="Compiler vs. Interpreter: What&#39;s The Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Compiler vs. Interpreter: What&#39;s The Difference?</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-compiler-and-interpreter/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/cpu.webp"
+                alt="Intel Core i3, i5, and i7 Processors: What&#39;s The Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Intel Core i3, i5, and i7 Processors: What&#39;s The Difference?</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-core-i3-i5-i7/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/software-computer.webp"
+                alt="Programming vs. Coding: What&#39;s The Key Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Programming vs. Coding: What&#39;s The Key Difference?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-difference-between-programming-and-coding/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/wavy.webp"
+                alt="15 Radio Waves Examples in Real Life"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>15 Radio Waves Examples in Real Life</h2>
+              <a href="http://localhost:1313/science-stuff/radio-waves-examples-in-real-life/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mail.webp"
+                alt="Difference Between Email and Gmail: A Detailed Comparison"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Email and Gmail: A Detailed Comparison</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-the-difference-between-email-and-gmail/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/reflections.webp"
+                alt="Reflection vs. Refraction: What&#39;s The Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Reflection vs. Refraction: What&#39;s The Difference?</h2>
+              <a href="http://localhost:1313/science-stuff/difference-between-reflection-and-refraction/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/hdd.webp"
-            alt="SSD vs. HDD: What&#39;s The Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>SSD vs. HDD: What&#39;s The Difference?</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-ssd-and-hdd/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/friction.webp"
-            alt="5 Advantages and 5 Disadvantages of Friction"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>5 Advantages and 5 Disadvantages of Friction</h2>
-          <a href="http://localhost:1313/science-stuff/advantages-and-disadvantages-of-friction/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/system-unit.webp"
-            alt="The Key Difference Between CPU and System Unit"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>The Key Difference Between CPU and System Unit</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-cpu-and-system-unit/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/software-and-code.webp"
-            alt="Difference Between Compiler and Assembler"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Compiler and Assembler</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-compiler-and-assembler/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/codes.webp"
-            alt="Compiler vs. Interpreter: What&#39;s The Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Compiler vs. Interpreter: What&#39;s The Difference?</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-compiler-and-interpreter/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/cpu.webp"
-            alt="Intel Core i3, i5, and i7 Processors: What&#39;s The Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Intel Core i3, i5, and i7 Processors: What&#39;s The Difference?</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-core-i3-i5-i7/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/software-computer.webp"
-            alt="Programming vs. Coding: What&#39;s The Key Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Programming vs. Coding: What&#39;s The Key Difference?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-difference-between-programming-and-coding/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/wavy.webp"
-            alt="15 Radio Waves Examples in Real Life"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>15 Radio Waves Examples in Real Life</h2>
-          <a href="http://localhost:1313/science-stuff/radio-waves-examples-in-real-life/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/mail.webp"
-            alt="Difference Between Email and Gmail: A Detailed Comparison"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Email and Gmail: A Detailed Comparison</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-the-difference-between-email-and-gmail/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/reflections.webp"
-            alt="Reflection vs. Refraction: What&#39;s The Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Reflection vs. Refraction: What&#39;s The Difference?</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-reflection-and-refraction/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/renewable-and-non-renewable.webp"
-            alt="Similarities Between Renewable and Non-Renewable Resources"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Similarities Between Renewable and Non-Renewable Resources</h2>
-          <a href="http://localhost:1313/science-stuff/similarities-between-renewable-and-non-renewable-resources/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/renewable-enegy.webp"
-            alt="Difference Between Renewable Energy and Non-Renewable Energy"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Renewable Energy and Non-Renewable Energy</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-renewable-energy-and-non-renewable-energy/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/computer-ram.webp"
-            alt="Difference Between RAM and ROM: A Detailed Explanation"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between RAM and ROM: A Detailed Explanation</h2>
-          <a href="http://localhost:1313/digital-electronics/difference-between-ram-and-rom/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/questionnaire-and-survey.webp"
-            alt="Survey vs. Census: What&#39;s The Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Survey vs. Census: What&#39;s The Difference?</h2>
-          <a href="http://localhost:1313/misce-post/difference-between-survey-and-census/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

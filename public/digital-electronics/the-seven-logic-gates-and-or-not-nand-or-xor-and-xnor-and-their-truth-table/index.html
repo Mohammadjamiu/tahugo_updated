@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -759,14 +762,14 @@ The bit is applied to the input of the NOT gate and a resulting 1’s complement
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/1218643_133105-osatx4-93.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/what-are-the-main-5-components-of-digital-system/">What Are the Main 5 Components of Digital System?</a>
+        <img src="http://localhost:1313/images/ultrasonic.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/">Examples of Digital Systems in Daily Life</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/ultrasonic.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/">Examples of Digital Systems in Daily Life</a>
+        <img src="http://localhost:1313/images/computer-ram.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/difference-between-ram-and-rom/">Difference Between RAM and ROM: A Detailed Explanation</a>
  </div>
     
     
@@ -783,8 +786,8 @@ The bit is applied to the input of the NOT gate and a resulting 1’s complement
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/radio.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/advantages-of-flip-flop-over-latch/">Advantages of Flip-Flop over Latch</a>
+        <img src="http://localhost:1313/images/signals_7%282%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/why-digital-signal-are-used-in-computer-system/">Why Digital Signals are Used in Computer Systems</a>
  </div>
     
 
@@ -801,8 +804,14 @@ The bit is applied to the input of the NOT gate and a resulting 1’s complement
      
     
        <div class="xx">
-        <img src="" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/">What Are the Differences Between Primary Memory and Secondary Memory with examples</a>
+        <img src="http://localhost:1313/images/binary-code.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/why-do-computers-use-the-binary-system-instead-of-the-decimal-system/">Why do computers use the binary system instead of the decimal system?</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/memoryunitchart.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/what-are-the-units-of-computer-memory/">What Are the Units of Computer Memory | Bits, Bytes, Kilobytes and other units</a>
  </div>
     
     
@@ -813,20 +822,14 @@ The bit is applied to the input of the NOT gate and a resulting 1’s complement
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/binary-code.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/why-do-computers-use-the-binary-system-instead-of-the-decimal-system/">Why do computers use the binary system instead of the decimal system?</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/ultrasonic.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/">Examples of Digital Systems in Daily Life</a>
- </div>
-    
-    
-       <div class="xx">
         <img src="http://localhost:1313/images/imgph.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/difference-between-latch-and-flip-flop/">Differences Between Latch and Flip-flop</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/memoryh_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/digital-electronics/memory-hierarchy-explained-with-diagram/">Memory Hierarchy Explained With Diagram</a>
  </div>
     
   </div>
@@ -1026,5 +1029,35 @@ The bit is applied to the input of the NOT gate and a resulting 1’s complement
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

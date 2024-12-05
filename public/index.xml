@@ -22,6 +22,13 @@
       <description>Solving simultaneous equations containing more than two variables&#xD;can be quite daunting if we use either elimination method or&#xD;substitution method because, thing gets a little bit complex. Also,&#xD;crammer&#39;s rule has been a technique used by engineers, students and by professors due to it compactibility and conciseness and lastly you can choose to use a calculator to help you solve that very fast.&#xD;Now back to business, variable names can be x and y or a and b or Ia&#xD;and Ib (as we do in circuit analysis for currents), it’s up to you&#xD;to choose what you want.</description>
     </item>
     <item>
+      <title>Difference Between Arrow Function with Parentheses and Curly Braces</title>
+      <link>http://localhost:1313/developer-notes/notes/arrow-function-parenthesis-and-curly-braces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/developer-notes/notes/arrow-function-parenthesis-and-curly-braces/</guid>
+      <description>Summary: Parentheses (): Implicit return, the value is automatically returned. Curly braces {}: Explicit return required, you need to use return inside the function. The difference between {data.map((item, index) =&amp;gt; ())} and {data.map((item, index) =&amp;gt; {})} lies in the syntax for returning values in arrow functions.&#xA;1. Arrow Function with Parentheses (): When you use parentheses around the body of the arrow function, it implies an implicit return. This means the value inside the parentheses will be automatically returned.</description>
+    </item>
+    <item>
       <title>Why do we study circuit analysis or circuit theory?</title>
       <link>http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</guid>
       <description>In this post, I would be listing out the resources to help you self-learn electromagnetics field&#xD;theory from scratch and these resources are what I’ve came across over the years as an electrical&#xD;engineering student trying to desperately learn electromagnetics field theory because, to be frank&#xD;with you it’s a difficult but interesting course.&#xD;Note&#xA;I will advise you not to limit your learning journey to these resources only but, try to explore&#xD;more and we would love to hear any recommendation from you on any stuff you have found useful&#xD;other than the ones listed here so we can help other engineers too.</description>
+    </item>
+    <item>
+      <title>The behavior of the &#39;&#43;=&#39; operator with a string and number variable</title>
+      <link>http://localhost:1313/developer-notes/notes/behavior-of-plus-equals-operator-with-a-string-and-number-variable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/developer-notes/notes/behavior-of-plus-equals-operator-with-a-string-and-number-variable/</guid>
+      <description>The behavior of the += operator is dependent on the data type of the initial variable. The += operator can either perform string concatenation or numeric addition, depending on the initial value.&#xA;Here’s how it works:&#xA;1. If the Initial Variable is a String: The += operator will perform string concatenation. Anything added to a string will be converted into a string and appended. Example (String Concatenation): let hexColor = &amp;#34;#&amp;#34;; // String hexColor += 5; // &amp;#34;5&amp;#34; is concatenated to hexColor, not added as a number hexColor += 3; // &amp;#34;3&amp;#34; is also concatenated console.</description>
     </item>
     <item>
       <title>What Is Voltage, Current, and Resistance In Simple Terms?</title>
@@ -83,6 +97,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/</guid>
       <description>As an electrical engineering student, we all have that one course that frightens us and one of them is electromagnetic field theory, sometimes called engineering electromagnetic.&#xA;In this section, I would discuss why it is difficult to learn and understand electromagnetic field theory and then proceed to how we can grasp the concepts using some techniques and tips.&#xA;Why is electromagnetic field theory difficult to learn? It is difficult to learn because, it is full of abstractions (meaning concepts that cannot be seen physically with the naked eye except by imagination, experience or by accident) for example an electric field, a magnetic field, or electricity.</description>
+    </item>
+    <item>
+      <title>To check if a value is NaN, you should use the isNaN() function</title>
+      <link>http://localhost:1313/developer-notes/notes/how-nan-works-and-how-to-use-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/developer-notes/notes/how-nan-works-and-how-to-use-it/</guid>
+      <description>I have this code showing some error, and what I intended is to make the code do something when totalDaysFromPicker is equal to NaN , but ended up learning something.&#xA;if (totalDaysFromPicker === 0 || totalDaysFromPicker === NaN) { setMessage(&amp;#34;Please select a duration and date&amp;#34;); setMessageType(&amp;#34;error&amp;#34;); // Set message type to error setCalcBtnActive(true); return; } What I learned:&#xA;In JavaScript, NaN is a special value that stands for &amp;ldquo;Not-a-Number.&amp;rdquo; However, comparing totalDaysFromPicker to NaN using == or === will not work as expected because NaN is not equal to anything, even itself.</description>
     </item>
     <item>
       <title> How to use a calculator to solve simultaneous equation fast - step by step</title>

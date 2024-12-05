@@ -105,9 +105,12 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -500,5 +503,35 @@
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

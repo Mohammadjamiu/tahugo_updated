@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -516,14 +519,8 @@
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/shubham-dhage-t9rkvi3n0nm-unsplash.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/types-of-computer-network-with-example/">Types of Computer Networks: Their Features, Advantages, Disadvantages, and Examples</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/sim_card_sizes-esim.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/">What is the Function of a SIM Card in a GSM Phone?</a>
+        <img src="http://localhost:1313/images/fdma-tdma-gsm.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/multiple-access-techniques-applied-by-gsm/">Multiple Access Techniques Applied by GSM</a>
  </div>
     
     
@@ -540,8 +537,14 @@
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/wired-and-wireless-networdk.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/difference-between-wired-and-wireless-network-with-examples/">Difference Between Wired and Wireless Networks With Examples</a>
+        <img src="http://localhost:1313/images/satellite.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/circuit-message-and-packet-switching-techniques-explained/">Circuit Switching, Message Switching and Packet Switching Techniques Explained</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/fiberoptics_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/what-are-core-and-cladding-losses-in-optical-fiber/">What Are Core and Cladding Losses in Optical Fiber?</a>
  </div>
     
 
@@ -558,32 +561,32 @@
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/cell-tower-resized.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/telecommunications-engineering-integration-with-other-fields-like-cybersecurity-or-iot/">How does telecommunications engineering integrate with other fields like cybersecurity or IoT?</a>
+        <img src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/professional-organizations-telecom-cybersecurity-nigeria-students/">Professional Organizations in Telecommunications and Cybersecurity for Nigerian Students to Join</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/cell-tower-resized.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/what-is-gsm-in-wireless-communication/">What is GSM in Wireless Communication?</a>
+        <img src="" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/what-is-nat-and-its-types/">What Is Network Address Translation (NAT) and Its Types?</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/amplifier.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/what-is-optical-amplifier-and-its-types/">What Is Optical Amplifier and Its Types?</a>
+        <img src="http://localhost:1313/images/satellite.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/circuit-message-and-packet-switching-techniques-explained/">Circuit Switching, Message Switching and Packet Switching Techniques Explained</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/power-control.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/power-control-strategies-in-3g/">Power Control Strategies in 3G</a>
+        <img src="http://localhost:1313/images/fiber.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/why-optical-fiber-communication-is-prefered/">Why Optical Fiber Communication Is Preferred Over Other Means of Communication?</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/macad_2.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/networking/what-is-a-mac-address-with-examples/">What is a MAC Address? Explained With Examples</a>
+        <img src="http://localhost:1313/images/thomas-jensen-h3vt1kp0fxa-unsplash.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/networking/what-is-the-difference-between-ethernet-and-intranet/">What Is the Difference Between Ethernet and Intranet?</a>
  </div>
     
   </div>
@@ -783,5 +786,35 @@
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

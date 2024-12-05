@@ -8,6 +8,8 @@
     <loc>http://localhost:1313/funmaths/what-is-crammers-rule/</loc>
     <lastmod>2023-01-25T15:11:00-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/developer-notes/notes/arrow-function-parenthesis-and-curly-braces/</loc>
+  </url><url>
     <loc>http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/</loc>
     <lastmod>2023-01-25T15:11:00-08:00</lastmod>
   </url><url>
@@ -16,6 +18,8 @@
   </url><url>
     <loc>http://localhost:1313/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/</loc>
     <lastmod>2023-01-25T15:11:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer-notes/notes/behavior-of-plus-equals-operator-with-a-string-and-number-variable/</loc>
   </url><url>
     <loc>http://localhost:1313/circuit-analysis/what-is-voltage-current-and-resistance/</loc>
     <lastmod>2023-04-11T15:38:05-07:00</lastmod>
@@ -34,6 +38,8 @@
   </url><url>
     <loc>http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/</loc>
     <lastmod>2023-09-02T22:05:11-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer-notes/notes/how-nan-works-and-how-to-use-it/</loc>
   </url><url>
     <loc>http://localhost:1313/funmaths/how-to-solve-equation-using-calculator/</loc>
     <lastmod>2023-01-25T15:11:00-08:00</lastmod>
@@ -1346,11 +1352,23 @@
     <loc>http://localhost:1313/scholarship-guide/apply-mtcp-scholarship-2024-masters-program/</loc>
     <lastmod>2024-07-10T01:07:40+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/scholarship-guide/how-to-write-motivation-letter-scholarship-graduate-studies/</loc>
+    <lastmod>2024-07-12T21:43:13+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/scholarship-guide/skoltech-msc-program-scholarship-guide/</loc>
+    <lastmod>2024-07-12T22:28:11+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/scholarship-guide/formatting-tips-graduate-school-application-letters/</loc>
+    <lastmod>2024-07-13T12:27:05+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/scholarship-guide/preparation-guide-for-full-funding-scholarship/</loc>
+    <lastmod>2024-07-13T12:27:05+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/networking-and-communication/</loc>
     <lastmod>2024-07-02T19:48:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-07-10T01:07:40+01:00</lastmod>
+    <lastmod>2024-07-13T12:27:05+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/electronics/</loc>
     <lastmod>2024-04-24T13:03:33-05:00</lastmod>
@@ -1364,11 +1382,15 @@
     <loc>http://localhost:1313/networking/difference-between-unicast-multicast-broadcast-and-anycast/</loc>
     <lastmod>2023-07-03T23:33:56-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/developernotes/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/circuit-analysis/</loc>
     <lastmod>2023-04-11T15:38:05-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/crypto-education/</loc>
     <lastmod>2024-06-22T15:23:38-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/developer-notes/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/digital-electronics/</loc>
     <lastmod>2023-12-17T03:39:31-08:00</lastmod>
@@ -1395,7 +1417,7 @@
     <lastmod>2024-06-27T12:49:19-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/scholarship-guide/</loc>
-    <lastmod>2024-07-10T01:07:40+01:00</lastmod>
+    <lastmod>2024-07-13T12:27:05+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/science-stuff/</loc>
     <lastmod>2024-02-09T21:50:20-07:00</lastmod>
@@ -1408,6 +1430,10 @@
   </url><url>
     <loc>http://localhost:1313/crypto-education/</loc>
     <lastmod>2024-06-18T20:14:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer-notes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/developernotes/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/difference-between/</loc>
     <lastmod>2024-02-11T20:06:12-07:00</lastmod>
@@ -1465,6 +1491,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/nodejs/</loc>
     <lastmod>2023-08-23T15:27:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer-notes/notes/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-22T14:54:54-08:00</lastmod>

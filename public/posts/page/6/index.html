@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/npm-cache-preview-image.webp"
-            alt="How to Clear npm Cache?"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/c-code-working-in-vscode.webp"
+                alt="How to setup C/C&#43;&#43; in Visual Studio Code?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to setup C/C&#43;&#43; in Visual Studio Code?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>How to Clear npm Cache?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-clear-npm-cache/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/rf-rm-powershell-error.webp"
+                alt="How to Fix &#34;Remove-Item: A parameter cannot be found that matches parameter name &#39;rf&#39;&#34;"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Fix &#34;Remove-Item: A parameter cannot be found that matches parameter name &#39;rf&#39;&#34;</h2>
+              <a href="http://localhost:1313/how-to-tech/remove-item-a-parameter-cannot-be-found-that-matches-parameter-name-rf/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/node-module-right-click-delete.webp"
+                alt="How to Delete Node Modules in VSCode?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Delete Node Modules in VSCode?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-delete-node-modules-in-vscode/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/npm-eintegrity-error.webp"
+                alt="How to Fix npm Installation Error: npm ERR! code EINTEGRITY?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Fix npm Installation Error: npm ERR! code EINTEGRITY?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/npm-cache-preview-image.webp"
+                alt="How to Clear npm Cache?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Clear npm Cache?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-clear-npm-cache/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/github-user-on-profile.webp"
+                alt="How to Find Your GitHub Username?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Find Your GitHub Username?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-find-your-github-username/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/find-and-replace-dialog-box.webp"
+                alt="How to Use Find and Replace in VSCode?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Use Find and Replace in VSCode?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-use-find-and-replace-in-vscode/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/json-file-opened.webp"
+                alt="How to open Visual Studio Code&#39;s &#39;settings.json&#39; file?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to open Visual Studio Code&#39;s &#39;settings.json&#39; file?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-open-settings.json-in-vscode/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/stranded-and-solid-wire.webp"
+                alt="Difference Between Stranded Wire and Solid Wire"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Stranded Wire and Solid Wire</h2>
+              <a href="http://localhost:1313/engineering-contents/difference-between-stranded-and-solid-wire/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/text-wrap-css.webp"
+                alt="How to Make Text Wrap to Next Line in CSS?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Make Text Wrap to Next Line in CSS?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-make-text-wrap-to-next-line-in-css/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/git-unable-to-resolve.webp"
+                alt="How to Fix Git Error &#34;Unable to Resolve Reference refs/remotes/origin/master Reference Broken&#34;"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Fix Git Error &#34;Unable to Resolve Reference refs/remotes/origin/master Reference Broken&#34;</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-fix-git-error-unable-to-resolve-reference-refs-remotes-origin-master-reference-broken/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/notifications-duration-whatsapp.webp"
+                alt="How to Mute or Unmute Group Notifications on WhatsApp?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Mute or Unmute Group Notifications on WhatsApp?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-mute-or-unmute-group-notifications-on-whatsapp/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/vscode-update-mode.webp"
+                alt="How to Stop or Disable VSCode Auto Update?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Stop or Disable VSCode Auto Update?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-stop-or-disable-vscode-auto-update/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/whatsapp-image-2023-09-02-at-1.55.54-pm.webp"
+                alt="How to Fix &#34;Your Devices Were Logged Out&#34; Error on WhatsApp?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Fix &#34;Your Devices Were Logged Out&#34; Error on WhatsApp?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-fix-your-devices-were-logged-out-error-on-whatsapp/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/whatsapp-image-2023-09-03-at-4.04.45-pm.webp"
+                alt="Solved: Verify that the conduction current in the wire equals the displacement current ..."
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Solved: Verify that the conduction current in the wire equals the displacement current ...</h2>
+              <a href="http://localhost:1313/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/github-user-on-profile.webp"
-            alt="How to Find Your GitHub Username?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Find Your GitHub Username?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-find-your-github-username/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/find-and-replace-dialog-box.webp"
-            alt="How to Use Find and Replace in VSCode?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Use Find and Replace in VSCode?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-use-find-and-replace-in-vscode/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/json-file-opened.webp"
-            alt="How to open Visual Studio Code&#39;s &#39;settings.json&#39; file?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to open Visual Studio Code&#39;s &#39;settings.json&#39; file?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-open-settings.json-in-vscode/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/stranded-and-solid-wire.webp"
-            alt="Difference Between Stranded Wire and Solid Wire"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Stranded Wire and Solid Wire</h2>
-          <a href="http://localhost:1313/engineering-contents/difference-between-stranded-and-solid-wire/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/text-wrap-css.webp"
-            alt="How to Make Text Wrap to Next Line in CSS?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Make Text Wrap to Next Line in CSS?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-make-text-wrap-to-next-line-in-css/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/git-unable-to-resolve.webp"
-            alt="How to Fix Git Error &#34;Unable to Resolve Reference refs/remotes/origin/master Reference Broken&#34;"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Fix Git Error &#34;Unable to Resolve Reference refs/remotes/origin/master Reference Broken&#34;</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-fix-git-error-unable-to-resolve-reference-refs-remotes-origin-master-reference-broken/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/notifications-duration-whatsapp.webp"
-            alt="How to Mute or Unmute Group Notifications on WhatsApp?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Mute or Unmute Group Notifications on WhatsApp?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-mute-or-unmute-group-notifications-on-whatsapp/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/vscode-update-mode.webp"
-            alt="How to Stop or Disable VSCode Auto Update?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Stop or Disable VSCode Auto Update?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-stop-or-disable-vscode-auto-update/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/whatsapp-image-2023-09-02-at-1.55.54-pm.webp"
-            alt="How to Fix &#34;Your Devices Were Logged Out&#34; Error on WhatsApp?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Fix &#34;Your Devices Were Logged Out&#34; Error on WhatsApp?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-fix-your-devices-were-logged-out-error-on-whatsapp/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/whatsapp-image-2023-09-03-at-4.04.45-pm.webp"
-            alt="Solved: Verify that the conduction current in the wire equals the displacement current ..."
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Solved: Verify that the conduction current in the wire equals the displacement current ...</h2>
-          <a href="http://localhost:1313/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/danmaxwellshowcase.webp"
-            alt="What is the Importance of Maxwell&#39;s Equations in Electromagnetism?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the Importance of Maxwell&#39;s Equations in Electromagnetism?</h2>
-          <a href="http://localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/software-and-code.webp"
-            alt="Is Node.js Used for Backend or Frontend?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is Node.js Used for Backend or Frontend?</h2>
-          <a href="http://localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/import-and-requir-in-nodejs.webp"
-            alt="How to Use Import Instead of Require in Node.js?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Use Import Instead of Require in Node.js?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/how-to-check-if-a-variable-is-number-in-python.webp"
-            alt="How to Check if a Variable is a Number in Python?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Check if a Variable is a Number in Python?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

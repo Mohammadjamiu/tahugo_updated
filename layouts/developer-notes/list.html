@@ -1,0 +1,93 @@
+{{ define "main"}}
+
+<section class="post-page-hero">
+  <div class="container">
+    <h2>Developer Notes &#128218;</h2>
+    <h3>
+      A curation of coding insights, tips, and lightbulb moments I’ve encountered, hopefully helpful to others too.
+    </h3>
+  </div>
+</section>
+
+<div class="container">
+  <!-- <section class="categories">
+    <h2 class="h2-after">Categories</h2>
+    <div class="tag-to-others">
+   
+      <li>
+        <a class="tto-pfe" href="/categories/productivity-and-writings/">
+          Productivity + Writing</a
+        >
+      </li>
+      <li>
+        <a class="tto-ca" href="/categories/circuit-analysis/">
+          Circuit Analysis
+        </a>
+      </li>
+      <li>
+        <a class="tto-pfe" href="/categories/maths-and-fun/">
+          Maths For Noobs
+        </a>
+      </li>
+      <li>
+        <a class="tto-ca" href="/categories/electronics/"> Electronics </a>
+      </li>
+      <li>
+        <a class="tto-pfe" href="/categories/networking-and-communication/">
+          Networking and Comm.</a
+        >
+      </li>
+      <li>
+        <a class="tto-ca" href="/categories/signals-and-systems">
+          Signals and System
+        </a>
+      </li>
+      <li>
+        <a class="tto-ca" href="/categories/how-to-tech"> How to's + Tech</a>
+      </li>
+
+      <li>
+        <a class="tto-pfe" href="/categories/digital-electronics/">
+          Digital Electronics
+        </a>
+      </li>
+      <li>
+        <a class="tto-ca" href="/categories/electromagnetics">
+          Electromagnetics Stuff</a
+        >
+      </li>
+      <li>
+        <a class="tto-ca" href="/categories/science-stuff/"> Science Stuff </a>
+      </li>
+    </div>
+  </section> -->
+
+  <div class="all-posts">
+    <h2 class="h2-after">My Notes</h2>
+ 
+     
+    <div class="all-posts-card">
+      {{$pag := where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq" "developer-notes"
+      }} {{ range (.Paginate $pag).Pages }}
+      <div class="all-post-box">
+        <div class="all-post-img">
+          <img
+            loading="lazy"
+            class="img-in-all-post"
+            src="{{if .Params.image}}{{.Params.image}}{{else}}{{`/images/imgph.webp`}}{{end}}"
+            alt="{{.Title}}"
+            srcset=""
+          />
+        </div>
+        <div class="all-post-heading">
+          <h2>{{.Title}}</h2>
+          <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
+        </div>
+      </div>
+      {{end}}
+    </div>
+    {{ partial "pagination" .}}
+  </div>
+</div>
+
+{{end}}

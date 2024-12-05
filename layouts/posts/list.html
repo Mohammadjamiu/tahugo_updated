@@ -74,6 +74,7 @@
     </div>
   </section>
 
+  {{/*
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
@@ -99,6 +100,60 @@
     </div>
     {{ partial "pagination" .}}
   </div>
+  */}}
+  <div class="all-posts">
+    <h2 class="h2-after">All Posts</h2>
+
+    <!-- Swiper container -->
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+        {{$pag := where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq"
+        "posts" }} {{ range (.Paginate $pag).Pages }}
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="{{if .Params.image}}{{.Params.image}}{{else}}{{`/images/imgph.webp`}}{{end}}"
+                alt="{{.Title}}"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>{{.Title}}</h2>
+              <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+      <!-- Swiper navigation buttons for this specific section -->
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
+    </div>
+
+    {{ partial "pagination" .}}
+  </div>
+
+  {{/*
+  <div class="all-post-box">
+    <div class="all-post-img">
+      <img
+        loading="lazy"
+        class="img-in-all-post"
+        src="{{if .Params.image}}{{.Params.image}}{{else}}{{`/images/imgph.webp`}}{{end}}"
+        alt="{{.Title}}"
+        srcset=""
+      />
+    </div>
+    <div class="all-post-heading">
+      <h2>{{.Title}}</h2>
+      <a href="{{.RelPermalink}}" class="read-more">Read More &rarr;</a>
+    </div>
+  </div>
+  */}}
 </div>
 
 {{end}}

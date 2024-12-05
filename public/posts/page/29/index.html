@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/how-to-write-better.webp"
-            alt="11 Ways to Improve Writing Skills for Students"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/framework1_8.webp"
+                alt="Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network."
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network.</h2>
+              <a href="http://localhost:1313/networking/how-computers-are-connected-through-wired-network/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>11 Ways to Improve Writing Skills for Students</h2>
-          <a href="http://localhost:1313/misce-post/simple-ways-student-can-improve-their-writing-skill/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/learnelectronics.webp"
+                alt="22 Resources for Learning Electronics From Scratch (For Beginners)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>22 Resources for Learning Electronics From Scratch (For Beginners)</h2>
+              <a href="http://localhost:1313/electronics/resources-for-learning-electronics-from-scratch/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/solarcell_18.webp"
+                alt="How do solar cells work to generate electricity explained simply?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How do solar cells work to generate electricity explained simply?</h2>
+              <a href="http://localhost:1313/electronics/how-do-solar-cells-work-to-generate-electricity/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/studentessay.webp"
+                alt="Simple essay writing tips to help students write better essays and have good grades"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Simple essay writing tips to help students write better essays and have good grades</h2>
+              <a href="http://localhost:1313/misce-post/simple-essay-writing-tips-for-student/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/how-to-write-better.webp"
+                alt="11 Ways to Improve Writing Skills for Students"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>11 Ways to Improve Writing Skills for Students</h2>
+              <a href="http://localhost:1313/misce-post/simple-ways-student-can-improve-their-writing-skill/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/thev_1.webp"
+                alt="Thevenin&#39;s Theorem Explained With Solved Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Thevenin&#39;s Theorem Explained With Solved Examples</h2>
+              <a href="http://localhost:1313/circuit-analysis/thevenins-theorem-explain-with-examples/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/how-to-study-smart.webp"
+                alt="How to study smart in engineering and have better grades without over stressing."
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to study smart in engineering and have better grades without over stressing.</h2>
+              <a href="http://localhost:1313/misce-post/how-to-study-better-in-engineering/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="What are the Differences Between POP3 and IMAP"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What are the Differences Between POP3 and IMAP</h2>
+              <a href="http://localhost:1313/networking/what-is-the-difference-between-pop3-and-imap/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/kclnode.webp"
+                alt="Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</h2>
+              <a href="http://localhost:1313/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/insertingbattery_1.webp"
+                alt="A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget."
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget.</h2>
+              <a href="http://localhost:1313/electronics/a-beginners-guide-to-using-a-multimeter/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/deltastarillustration.webp"
+                alt="Star - Delta Transformation Explained With Tips On How To Recall The Formulas"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Star - Delta Transformation Explained With Tips On How To Recall The Formulas</h2>
+              <a href="http://localhost:1313/circuit-analysis/delta-and-star-connection-of-resistors-explained/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electronicrepair.webp"
+                alt="Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home</h2>
+              <a href="http://localhost:1313/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/schottky.webp"
+                alt="What is diode used for? All you need to know to start designing simple circuits"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is diode used for? All you need to know to start designing simple circuits</h2>
+              <a href="http://localhost:1313/electronics/what-is-a-diode-used-for/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/parallelresistor.webp"
+                alt=" Series and parallel combination of resistors explained with how to identify them"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2> Series and parallel combination of resistors explained with how to identify them</h2>
+              <a href="http://localhost:1313/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ohmvariation_2.webp"
+                alt="What Is Ohms Law In Simple Terms? And Why Is It Useful?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Ohms Law In Simple Terms? And Why Is It Useful?</h2>
+              <a href="http://localhost:1313/circuit-analysis/what-is-ohms-law/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/thev_1.webp"
-            alt="Thevenin&#39;s Theorem Explained With Solved Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Thevenin&#39;s Theorem Explained With Solved Examples</h2>
-          <a href="http://localhost:1313/circuit-analysis/thevenins-theorem-explain-with-examples/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/how-to-study-smart.webp"
-            alt="How to study smart in engineering and have better grades without over stressing."
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to study smart in engineering and have better grades without over stressing.</h2>
-          <a href="http://localhost:1313/misce-post/how-to-study-better-in-engineering/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="What are the Differences Between POP3 and IMAP"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What are the Differences Between POP3 and IMAP</h2>
-          <a href="http://localhost:1313/networking/what-is-the-difference-between-pop3-and-imap/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/kclnode.webp"
-            alt="Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</h2>
-          <a href="http://localhost:1313/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/insertingbattery_1.webp"
-            alt="A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget."
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget.</h2>
-          <a href="http://localhost:1313/electronics/a-beginners-guide-to-using-a-multimeter/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/deltastarillustration.webp"
-            alt="Star - Delta Transformation Explained With Tips On How To Recall The Formulas"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Star - Delta Transformation Explained With Tips On How To Recall The Formulas</h2>
-          <a href="http://localhost:1313/circuit-analysis/delta-and-star-connection-of-resistors-explained/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electronicrepair.webp"
-            alt="Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home</h2>
-          <a href="http://localhost:1313/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/schottky.webp"
-            alt="What is diode used for? All you need to know to start designing simple circuits"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is diode used for? All you need to know to start designing simple circuits</h2>
-          <a href="http://localhost:1313/electronics/what-is-a-diode-used-for/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/parallelresistor.webp"
-            alt=" Series and parallel combination of resistors explained with how to identify them"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2> Series and parallel combination of resistors explained with how to identify them</h2>
-          <a href="http://localhost:1313/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/ohmvariation_2.webp"
-            alt="What Is Ohms Law In Simple Terms? And Why Is It Useful?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Ohms Law In Simple Terms? And Why Is It Useful?</h2>
-          <a href="http://localhost:1313/circuit-analysis/what-is-ohms-law/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/reset_2.webp"
-            alt=" How to use a calculator to solve simultaneous equation fast - step by step"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2> How to use a calculator to solve simultaneous equation fast - step by step</h2>
-          <a href="http://localhost:1313/funmaths/how-to-solve-equation-using-calculator/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/learnemag_3.webp"
-            alt="The Easiest Way to Study Electromagnetics Theory"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>The Easiest Way to Study Electromagnetics Theory</h2>
-          <a href="http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pclightup.webp"
-            alt="Payoff skills that every engineering students needs to learn before leaving college or University"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Payoff skills that every engineering students needs to learn before leaving college or University</h2>
-          <a href="http://localhost:1313/misce-post/skills-every-engineering-student-needs-to-learn/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/ledy_2.webp"
-            alt="Electronics Circuit Components And Their Functions Explained"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Electronics Circuit Components And Their Functions Explained</h2>
-          <a href="http://localhost:1313/circuit-analysis/electronics-circuit-components-explained/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -728,6 +790,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -911,5 +975,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

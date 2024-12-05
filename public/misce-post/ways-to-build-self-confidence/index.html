@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -489,26 +492,26 @@
      
     
      <div class="xx">
+        <img src="http://localhost:1313/images/pros-vs-cons.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/whats-the-difference-between-pro-and-cons/">What&#39;s the Difference Between Pros and Cons?</a>
+ </div>
+    
+    
+     <div class="xx">
         <img src="http://localhost:1313/images/how-to-write-better.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/how-to-write-an-essay-introduction-with-example/">How to Write an Essay Introduction: A Detailed Explanation with Examples</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/how-to-write-better.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/simple-ways-student-can-improve-their-writing-skill/">11 Ways to Improve Writing Skills for Students</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/essay-outline.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/how-to-write-an-outline-for-an-essay/">How to Write an Outline for an Essay (With an Example)</a>
+        <img src="http://localhost:1313/images/research-on-board.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/tips-on-how-to-stay-awake-in-class/">10 Tips to Stay Awake and Alert in Class</a>
  </div>
     
     
      <div class="xx">
         <img src="http://localhost:1313/images/imgph.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/difference-between-subjective-and-objective/">Subjective vs. Objective - What&#39;s Their Difference?</a>
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/does-self-improvement-books-work/">Does Self Improvement Books Work?</a>
  </div>
     
     
@@ -531,32 +534,32 @@
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/university-and-college.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/difference-between-college-and-university/">Difference Between College and University: Which One to Choose?</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/bram-naus-oqnvni5ixhg-unsplash.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/highest-paid-profession-in-nigeria/">Top 20 High-Paying Careers in Nigeria</a>
- </div>
-    
-    
-       <div class="xx">
         <img src="http://localhost:1313/images/imgph.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/difference-between-subjective-and-objective/">Subjective vs. Objective - What&#39;s Their Difference?</a>
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/does-self-improvement-books-work/">Does Self Improvement Books Work?</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/research-paper.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/how-to-write-an-outline-for-a-research-paper-with-example/">How to Write an Outline for a Research Paper (With Example)</a>
+        <img src="http://localhost:1313/images/research-on-board.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/tips-on-how-to-stay-awake-in-class/">10 Tips to Stay Awake and Alert in Class</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/how-to-write-better.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/tips-to-improve-your-writing-skills/">13 Effective Tips to Enhance Your Writing Skills</a>
+        <img src="http://localhost:1313/images/dmitry-demidko-ebwzfkaheau-unsplash.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/how-to-make-money-with-chatgpt/">How to Turn ChatGPT into a Profitable Side Hustle (2023)</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/productivity.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/what-are-the-most-important-skills-a-student-should-have/">13 Most Important Skills a Student Should Have</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/studentessay.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/misce-post/simple-essay-writing-tips-for-student/">Simple essay writing tips to help students write better essays and have good grades</a>
  </div>
     
   </div>
@@ -756,5 +759,35 @@
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -589,26 +592,26 @@ Another forum just like reddit and it is really helpful because you will learn m
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/electro_4%20%281%29.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-electricity-and-how-does-it-work/">What Is Electricity and How Does It Work? A Simple Explanation</a>
- </div>
-    
-    
-     <div class="xx">
         <img src="http://localhost:1313/images/db.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/electronics/decibel-explained-simply/">What is decibel (dB)? A better explanation for students</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/comm-system.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/basic-element-of-communication-system/">Basic Elements of Communication Systems</a>
+        <img src="http://localhost:1313/images/top-view-circuit-board-repair.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/electronic-tools-and-their-functions/">27 Electronics Tools and Their Functions (for beginners)</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/solarcell_18.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/how-do-solar-cells-work-to-generate-electricity/">How do solar cells work to generate electricity explained simply?</a>
+        <img src="http://localhost:1313/images/signals_8%20%282%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/baseband-and-passband-signal-and-their-difference/">Baseband and Passband Signal and Their Difference in Communication</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/gsm900.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/how-to-fix-a-sim900-gsm-module-that-is-not-working/">How to Fix a SIM900 GSM Module That&#39;s Not Working?</a>
  </div>
     
     
@@ -631,32 +634,32 @@ Another forum just like reddit and it is really helpful because you will learn m
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/electro_4%20%281%29.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-electricity-and-how-does-it-work/">What Is Electricity and How Does It Work? A Simple Explanation</a>
+        <img src="" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/frequency-range-of-radio-waves/">Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/hornantenna_1.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-horn-antenna-and-its-uses/">What Is Horn Antenna? Its uses, Types, Design parameters and Applications.</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/555-timer-as-schmitt-diagram.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/how-to-use-a-555-timer-as-a-schmitt-trigger/">How to Use (or Configure) 555 Timer as a Schmitt Trigger?</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/capacitor-and-air-conditioner.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/why-cant-we-use-capacitors-instead-of-batteries/">Why Can&#39;t We Use Capacitors Instead of Batteries?</a>
+        <img src="http://localhost:1313/images/db.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/decibel-explained-simply/">What is decibel (dB)? A better explanation for students</a>
  </div>
     
     
        <div class="xx">
         <img src="http://localhost:1313/images/resistoruse_10.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-a-resistor-used-for/">What Is a Resistor Used For? All You Need To know About Resistors Explained Simply</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/electro_4%20%281%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-electricity-and-how-does-it-work/">What Is Electricity and How Does It Work? A Simple Explanation</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/electronicrepair.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/">Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home</a>
  </div>
     
   </div>
@@ -856,5 +859,35 @@ Another forum just like reddit and it is really helpful because you will learn m
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

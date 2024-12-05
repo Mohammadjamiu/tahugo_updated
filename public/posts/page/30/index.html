@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,108 +305,219 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/scrubandfiremagnet_4.webp"
-            alt="10 Important facts you need to know about magnets and magnetic fields"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/reset_2.webp"
+                alt=" How to use a calculator to solve simultaneous equation fast - step by step"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2> How to use a calculator to solve simultaneous equation fast - step by step</h2>
+              <a href="http://localhost:1313/funmaths/how-to-solve-equation-using-calculator/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>10 Important facts you need to know about magnets and magnetic fields</h2>
-          <a href="http://localhost:1313/em-post/facts-about-magnets/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="To check if a value is NaN, you should use the isNaN() function"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>To check if a value is NaN, you should use the isNaN() function</h2>
+              <a href="http://localhost:1313/developer-notes/notes/how-nan-works-and-how-to-use-it/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/learnemag_3.webp"
+                alt="The Easiest Way to Study Electromagnetics Theory"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>The Easiest Way to Study Electromagnetics Theory</h2>
+              <a href="http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pclightup.webp"
+                alt="Payoff skills that every engineering students needs to learn before leaving college or University"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Payoff skills that every engineering students needs to learn before leaving college or University</h2>
+              <a href="http://localhost:1313/misce-post/skills-every-engineering-student-needs-to-learn/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ledy_2.webp"
+                alt="Electronics Circuit Components And Their Functions Explained"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Electronics Circuit Components And Their Functions Explained</h2>
+              <a href="http://localhost:1313/circuit-analysis/electronics-circuit-components-explained/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/scrubandfiremagnet_4.webp"
+                alt="10 Important facts you need to know about magnets and magnetic fields"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>10 Important facts you need to know about magnets and magnetic fields</h2>
+              <a href="http://localhost:1313/em-post/facts-about-magnets/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/current-denote_1.webp"
+                alt="What Is Voltage, Current, and Resistance In Simple Terms?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Voltage, Current, and Resistance In Simple Terms?</h2>
+              <a href="http://localhost:1313/circuit-analysis/what-is-voltage-current-and-resistance/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/emagresource.webp"
+                alt="Resources to help you learn and understand Electromagnetics field theory from scratch"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Resources to help you learn and understand Electromagnetics field theory from scratch</h2>
+              <a href="http://localhost:1313/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/closelool-openloop_1.webp"
+                alt="Why do we study circuit analysis or circuit theory?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why do we study circuit analysis or circuit theory?</h2>
+              <a href="http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/det-of-x_2.webp"
+                alt="Crammer&#39;s rule - the technique to simplify circuit analysis equations"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Crammer&#39;s rule - the technique to simplify circuit analysis equations</h2>
+              <a href="http://localhost:1313/funmaths/what-is-crammers-rule/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/jolt_1%281%29.webp"
+                alt="The only way to learn and understand the basics of circuit analysis"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>The only way to learn and understand the basics of circuit analysis</h2>
+              <a href="http://localhost:1313/circuit-analysis/how-to-learn-circuit-analysis-basics/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/current-denote_1.webp"
-            alt="What Is Voltage, Current, and Resistance In Simple Terms?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Voltage, Current, and Resistance In Simple Terms?</h2>
-          <a href="http://localhost:1313/circuit-analysis/what-is-voltage-current-and-resistance/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/emagresource.webp"
-            alt="Resources to help you learn and understand Electromagnetics field theory from scratch"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Resources to help you learn and understand Electromagnetics field theory from scratch</h2>
-          <a href="http://localhost:1313/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/closelool-openloop_1.webp"
-            alt="Why do we study circuit analysis or circuit theory?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why do we study circuit analysis or circuit theory?</h2>
-          <a href="http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/det-of-x_2.webp"
-            alt="Crammer&#39;s rule - the technique to simplify circuit analysis equations"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Crammer&#39;s rule - the technique to simplify circuit analysis equations</h2>
-          <a href="http://localhost:1313/funmaths/what-is-crammers-rule/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/jolt_1%281%29.webp"
-            alt="The only way to learn and understand the basics of circuit analysis"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>The only way to learn and understand the basics of circuit analysis</h2>
-          <a href="http://localhost:1313/circuit-analysis/how-to-learn-circuit-analysis-basics/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -541,6 +675,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -724,5 +860,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

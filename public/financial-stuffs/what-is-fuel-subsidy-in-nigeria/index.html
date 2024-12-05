@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -485,14 +488,8 @@
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/import-and-export.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/importance-of-import-and-export-to-a-country/">The Importance of Import and Export to a Country</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/monetry.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/how-does-fiscal-and-monetary-policy-impact-the-economy/"> How Does Fiscal and Monetary Policy Impact the Economy? </a>
+        <img src="http://localhost:1313/images/inflation.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/how-does-monetary-policy-affect-inflation/">How does Monetary Policy Affect Inflation? An Easy to Grasp Explanation</a>
  </div>
     
     
@@ -513,6 +510,12 @@
               <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/difference-between-gdp-and-gnp/">Difference Between GDP and GNP: An Easy to Grasp Explanation</a>
  </div>
     
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/monetry.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/how-does-fiscal-and-monetary-policy-impact-the-economy/"> How Does Fiscal and Monetary Policy Impact the Economy? </a>
+ </div>
+    
 
   
    
@@ -527,6 +530,12 @@
      
     
        <div class="xx">
+        <img src="http://localhost:1313/images/inflation-and-money.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/what-is-the-difference-between-inflation-and-reflation/">What is the Difference Between Inflation and Reflation?</a>
+ </div>
+    
+    
+       <div class="xx">
         <img src="http://localhost:1313/images/inflation.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/how-does-monetary-policy-affect-inflation/">How does Monetary Policy Affect Inflation? An Easy to Grasp Explanation</a>
  </div>
@@ -535,12 +544,6 @@
        <div class="xx">
         <img src="http://localhost:1313/images/gdp-1-.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/difference-between-gdp-and-gnp/">Difference Between GDP and GNP: An Easy to Grasp Explanation</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/inflation-and-money.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/financial-stuffs/what-is-the-difference-between-inflation-and-reflation/">What is the Difference Between Inflation and Reflation?</a>
  </div>
     
     
@@ -752,5 +755,35 @@
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

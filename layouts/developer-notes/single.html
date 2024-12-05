@@ -1,0 +1,53 @@
+{{ define "main"}}
+
+<section class="post-page-hero">
+  <div class="container single-page-container">
+    <h2>{{ .Params.Title }}</h2>
+
+    {{ $readingTime := .ReadingTime }} {{ $readingTime := print $readingTime
+    "mins" | safeHTML }}
+
+    <!-- <p class="description-lca">
+      {{ if .Params.WordCount}} {{.WordCount}} {{end}} By {{ .Params.author }} |
+      {{ .Params.PostDate }} |
+      <a class="on-what-topic-lca" href="{{.Params.Categorylink}}"
+        >{{if isset .Params "ebookcategories" }}{{ delimit
+        .Params.Ebookcategories " " }}{{end}}</a
+      >
+      | Estimated Reading Time - {{ $readingTime }}
+    </p> -->
+    <div class="post-metadata">
+      <p style="color: #fff" class="author">By {{ .Params.author}}</p>
+      <p style="color: #fff" class="dot">&#8226;</p>
+      <p style="color: #fff" class="weight">{{ .Params.weight }}</p>
+      <p style="color: #fff" class="dot">&#8226;</p>
+      <p class="post-category">
+        <a class="on-what-topic" href="{{.Params.categorylink}}"
+          >{{if isset .Params "categorylabel" }}{{ .Params.categorylabel
+          }}{{end}}</a
+        >
+      </p>
+      <p style="color: #fff" class="dot">&#8226;</p>
+      <p style="color: #fff" class="read-time">
+        Read Time &#128352; - {{ $readingTime := .ReadingTime }} {{ print
+        $readingTime "mins" | safeHTML }}
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="pagebody">
+  <div class="container single-page-container">
+    {{ .Content }}
+
+
+
+    <!-- <div class="ebook-amazon-link">
+      <a class="links-to-others" href="{{ .Params.AmazonLink }}"
+        >Get From Amazon</a
+      >
+    </div> -->
+  </div>
+</section>
+
+{{end}}

@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/gdp-1-.webp"
-            alt="Difference Between GDP and GNP: An Easy to Grasp Explanation"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/import-and-export.webp"
+                alt="The Importance of Import and Export to a Country"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>The Importance of Import and Export to a Country</h2>
+              <a href="http://localhost:1313/financial-stuffs/importance-of-import-and-export-to-a-country/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Difference Between GDP and GNP: An Easy to Grasp Explanation</h2>
-          <a href="http://localhost:1313/financial-stuffs/difference-between-gdp-and-gnp/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/wired-and-wireless-networdk.webp"
+                alt="Advantages and Disadvantages of Wired and Wireless Networks"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Advantages and Disadvantages of Wired and Wireless Networks</h2>
+              <a href="http://localhost:1313/networking/wired-and-wireless-network-advantages-and-disadvantages/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/inflation.webp"
+                alt="How does Monetary Policy Affect Inflation? An Easy to Grasp Explanation"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How does Monetary Policy Affect Inflation? An Easy to Grasp Explanation</h2>
+              <a href="http://localhost:1313/financial-stuffs/how-does-monetary-policy-affect-inflation/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/monetry.webp"
+                alt=" How Does Fiscal and Monetary Policy Impact the Economy? "
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2> How Does Fiscal and Monetary Policy Impact the Economy? </h2>
+              <a href="http://localhost:1313/financial-stuffs/how-does-fiscal-and-monetary-policy-impact-the-economy/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/gdp-1-.webp"
+                alt="Difference Between GDP and GNP: An Easy to Grasp Explanation"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between GDP and GNP: An Easy to Grasp Explanation</h2>
+              <a href="http://localhost:1313/financial-stuffs/difference-between-gdp-and-gnp/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/list-in-python.webp"
+                alt="What is a List in Python with Example?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is a List in Python with Example?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-a-list-in-python-with-example/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/research-on-board.webp"
+                alt="The Key Difference Between Thesis and Dissertation"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>The Key Difference Between Thesis and Dissertation</h2>
+              <a href="http://localhost:1313/misce-post/difference-between-thesis-and-dissertation/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/for-loop-in-python.webp"
+                alt="For Loop in Python: An Easy Explanation with Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>For Loop in Python: An Easy Explanation with Examples</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-for-loop-explain-with-example-in-python/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/isaac-smith-at77q0njnt0-unsplash.webp"
+                alt="Is Thesis and Research Paper the Same? What&#39;s Their Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is Thesis and Research Paper the Same? What&#39;s Their Difference?</h2>
+              <a href="http://localhost:1313/misce-post/is-thesis-and-research-paper-the-same-and-their-difference/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electronics-and-oscilloscope.webp"
+                alt="Why Do We Use RMS Value Instead of Average Value?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why Do We Use RMS Value Instead of Average Value?</h2>
+              <a href="http://localhost:1313/science-stuff/why-do-we-use-rms-value-instead-of-average-value/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/transformer-kva-kw.webp"
+                alt="Why the Rating of Transformer is in kVA, not in kW?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why the Rating of Transformer is in kVA, not in kW?</h2>
+              <a href="http://localhost:1313/science-stuff/why-is-transformer-rated-in-kva-and-not-in-kw/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/reverse-a-string-in-js.webp"
+                alt="How to Reverse a String in JavaScript: 3 Easy Ways"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Reverse a String in JavaScript: 3 Easy Ways</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-reverse-a-string-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/rfid.webp"
+                alt="What is Radio Frequency Identification (RFID) Used For?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is Radio Frequency Identification (RFID) Used For?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-rfid-used-for/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/free-wifi-signboard-airport-zone-600w-506762929-transformed-1-.webp"
+                alt="What is the difference between Wi-Fi and WLAN?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is the difference between Wi-Fi and WLAN?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-the-difference-between-wi-fi-and-wlan/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/closeup-wireless-router-young-man-600w-521452618-transformed-1-.webp"
+                alt="Difference between Wi-Fi and Router: Understand the Basics"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference between Wi-Fi and Router: Understand the Basics</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-wifi-and-router/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/list-in-python.webp"
-            alt="What is a List in Python with Example?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is a List in Python with Example?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-a-list-in-python-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/research-on-board.webp"
-            alt="The Key Difference Between Thesis and Dissertation"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>The Key Difference Between Thesis and Dissertation</h2>
-          <a href="http://localhost:1313/misce-post/difference-between-thesis-and-dissertation/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/for-loop-in-python.webp"
-            alt="For Loop in Python: An Easy Explanation with Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>For Loop in Python: An Easy Explanation with Examples</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-for-loop-explain-with-example-in-python/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/isaac-smith-at77q0njnt0-unsplash.webp"
-            alt="Is Thesis and Research Paper the Same? What&#39;s Their Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is Thesis and Research Paper the Same? What&#39;s Their Difference?</h2>
-          <a href="http://localhost:1313/misce-post/is-thesis-and-research-paper-the-same-and-their-difference/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electronics-and-oscilloscope.webp"
-            alt="Why Do We Use RMS Value Instead of Average Value?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why Do We Use RMS Value Instead of Average Value?</h2>
-          <a href="http://localhost:1313/science-stuff/why-do-we-use-rms-value-instead-of-average-value/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/transformer-kva-kw.webp"
-            alt="Why the Rating of Transformer is in kVA, not in kW?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why the Rating of Transformer is in kVA, not in kW?</h2>
-          <a href="http://localhost:1313/science-stuff/why-is-transformer-rated-in-kva-and-not-in-kw/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/reverse-a-string-in-js.webp"
-            alt="How to Reverse a String in JavaScript: 3 Easy Ways"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Reverse a String in JavaScript: 3 Easy Ways</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-reverse-a-string-in-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/rfid.webp"
-            alt="What is Radio Frequency Identification (RFID) Used For?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is Radio Frequency Identification (RFID) Used For?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-rfid-used-for/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/free-wifi-signboard-airport-zone-600w-506762929-transformed-1-.webp"
-            alt="What is the difference between Wi-Fi and WLAN?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the difference between Wi-Fi and WLAN?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-the-difference-between-wi-fi-and-wlan/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/closeup-wireless-router-young-man-600w-521452618-transformed-1-.webp"
-            alt="Difference between Wi-Fi and Router: Understand the Basics"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference between Wi-Fi and Router: Understand the Basics</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-wifi-and-router/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/mifi.webp"
-            alt="Difference between Wi-Fi and MiFi: All You Need to Know"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference between Wi-Fi and MiFi: All You Need to Know</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-wifi-and-mifi/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/wifi-bluetooth.webp"
-            alt="Difference Between Wi-Fi and Bluetooth"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Wi-Fi and Bluetooth</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-wifi-and-bluetooth/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/alvaro-reyes-qwwphwip31m-unsplash.webp"
-            alt="What are De Facto and De Jure Standards in Computer Networking?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What are De Facto and De Jure Standards in Computer Networking?</h2>
-          <a href="http://localhost:1313/networking/what-are-de-facto-and-de-jure-standards-in-computer-networking/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/fiberoptics_4.webp"
-            alt="Difference Between Single Mode and Multimode Fiber"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Single Mode and Multimode Fiber</h2>
-          <a href="http://localhost:1313/networking/difference-between-single-mode-and-multimode-fiber/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

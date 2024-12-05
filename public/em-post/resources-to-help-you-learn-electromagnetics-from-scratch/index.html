@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -579,14 +582,8 @@ and sometimes I just love to watch it because she explains things by experimenti
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/learnemag_3.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/">The Easiest Way to Study Electromagnetics Theory</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/danmaxwellshowcase.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/">What is the Importance of Maxwell&#39;s Equations in Electromagnetism?</a>
+        <img src="http://localhost:1313/images/scrubandfiremagnet_4.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/facts-about-magnets/">10 Important facts you need to know about magnets and magnetic fields</a>
  </div>
     
     
@@ -597,8 +594,14 @@ and sometimes I just love to watch it because she explains things by experimenti
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/scrubandfiremagnet_4.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/facts-about-magnets/">10 Important facts you need to know about magnets and magnetic fields</a>
+        <img src="http://localhost:1313/images/learnemag_3.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/">The Easiest Way to Study Electromagnetics Theory</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/danmaxwellshowcase.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/">What is the Importance of Maxwell&#39;s Equations in Electromagnetism?</a>
  </div>
     
 
@@ -615,26 +618,26 @@ and sometimes I just love to watch it because she explains things by experimenti
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/whatsapp-image-2023-09-03-at-4.04.45-pm.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/">Solved: Verify that the conduction current in the wire equals the displacement current ...</a>
- </div>
-    
-    
-       <div class="xx">
         <img src="http://localhost:1313/images/scrubandfiremagnet_4.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/em-post/facts-about-magnets/">10 Important facts you need to know about magnets and magnetic fields</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/danmaxwellshowcase.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/">What is the Importance of Maxwell&#39;s Equations in Electromagnetism?</a>
+        <img src="http://localhost:1313/images/learnemag_3.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/">The Easiest Way to Study Electromagnetics Theory</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/learnemag_3.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/the-easiest-way-to-study-electromagnetics/">The Easiest Way to Study Electromagnetics Theory</a>
+        <img src="http://localhost:1313/images/whatsapp-image-2023-09-03-at-4.04.45-pm.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/verify-that-the-conduction-current-in-the-wire-equals-the-displacement-current/">Solved: Verify that the conduction current in the wire equals the displacement current ...</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/danmaxwellshowcase.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/">What is the Importance of Maxwell&#39;s Equations in Electromagnetism?</a>
  </div>
     
   </div>
@@ -834,5 +837,35 @@ and sometimes I just love to watch it because she explains things by experimenti
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

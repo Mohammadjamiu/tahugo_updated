@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/mtcp-scholarship-2024.webp"
-            alt="Apply for the MTCP Scholarship 2024 (Master&#39;s Program in Malaysia)"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/scholarship-time-application.webp"
+                alt="Preparation Guide for 2025 Full Funding Scholarship"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Preparation Guide for 2025 Full Funding Scholarship</h2>
+              <a href="http://localhost:1313/scholarship-guide/preparation-guide-for-full-funding-scholarship/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Apply for the MTCP Scholarship 2024 (Master&#39;s Program in Malaysia)</h2>
-          <a href="http://localhost:1313/scholarship-guide/apply-mtcp-scholarship-2024-masters-program/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/essay-conclusion.webp"
+                alt="Formatting Tips for Essential Letters (Graduate School Application)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Formatting Tips for Essential Letters (Graduate School Application)</h2>
+              <a href="http://localhost:1313/scholarship-guide/formatting-tips-graduate-school-application-letters/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/skoltech-scholarships.webp"
+                alt="Apply to Skoltech Scholarship 2024 (Master&#39;s Program in Russia)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Apply to Skoltech Scholarship 2024 (Master&#39;s Program in Russia)</h2>
+              <a href="http://localhost:1313/scholarship-guide/skoltech-msc-program-scholarship-guide/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/essay-format-motivation-letter.webp"
+                alt="How to Write a Motivation Letter for Scholarship or Graduate Studies?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Write a Motivation Letter for Scholarship or Graduate Studies?</h2>
+              <a href="http://localhost:1313/scholarship-guide/how-to-write-motivation-letter-scholarship-graduate-studies/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mtcp-scholarship-2024.webp"
+                alt="Apply for the MTCP Scholarship 2024 (Master&#39;s Program in Malaysia)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Apply for the MTCP Scholarship 2024 (Master&#39;s Program in Malaysia)</h2>
+              <a href="http://localhost:1313/scholarship-guide/apply-mtcp-scholarship-2024-masters-program/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/sankore-program.webp"
+                alt="Sankore Fellowship Program 2024 | Apply"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Sankore Fellowship Program 2024 | Apply</h2>
+              <a href="http://localhost:1313/scholarship-guide/sankore-fellowship-program-2024/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/um6p-scholarship.webp"
+                alt=" UM6P PhD Program: Over 300 Fully Funded PhD Positions Available at University Mohammed VI Polytechnic!"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2> UM6P PhD Program: Over 300 Fully Funded PhD Positions Available at University Mohammed VI Polytechnic!</h2>
+              <a href="http://localhost:1313/scholarship-guide/um6p-phd-program-fully-funded-positions-2024/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/green-stem-scholarship.webp"
+                alt="Apply Now | GREEN-STEM Scholarship Application"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Apply Now | GREEN-STEM Scholarship Application</h2>
+              <a href="http://localhost:1313/scholarship-guide/green-stem-scholarships-nigerian-students/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/scholarship-school-university.webp"
+                alt="Top Organizations Offering GRE/GMAT/TOEFL/IELTS Scholarships in Nigeria"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Top Organizations Offering GRE/GMAT/TOEFL/IELTS Scholarships in Nigeria</h2>
+              <a href="http://localhost:1313/scholarship-guide/gre-gmat-toefl-ielts-scholarships-nigeria/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp"
+                alt="Professional Organizations in Telecommunications and Cybersecurity for Nigerian Students to Join"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Professional Organizations in Telecommunications and Cybersecurity for Nigerian Students to Join</h2>
+              <a href="http://localhost:1313/networking/professional-organizations-telecom-cybersecurity-nigeria-students/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/cell-tower-resized.webp"
+                alt="How does telecommunications engineering integrate with other fields like cybersecurity or IoT?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How does telecommunications engineering integrate with other fields like cybersecurity or IoT?</h2>
+              <a href="http://localhost:1313/networking/telecommunications-engineering-integration-with-other-fields-like-cybersecurity-or-iot/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/essay-conclusion.webp"
+                alt="Tips on How to Write a Short “Why I&#39;m Deserving of a Scholarship” Essay"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Tips on How to Write a Short “Why I&#39;m Deserving of a Scholarship” Essay</h2>
+              <a href="http://localhost:1313/scholarship-guide/tips-write-deserving-scholarship-essay/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/wat-and-gmt-time-worldwide.webp"
+                alt="Difference Between GMT and West Africa Time (WAT) for Scholarship Applicants"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between GMT and West Africa Time (WAT) for Scholarship Applicants</h2>
+              <a href="http://localhost:1313/scholarship-guide/difference-between-gmt-and-west-africa-time-for-scholarship-applicants/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/scholarship-time-application.webp"
+                alt="Best Time to Submit a Scholarship Application: Tips for Success"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Best Time to Submit a Scholarship Application: Tips for Success</h2>
+              <a href="http://localhost:1313/scholarship-guide/what-is-the-best-time-to-submit-a-scholarship-application/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mt-scholarship-2024.webp"
+                alt="Michael Taiwo Scholarship: What Students Need to Know and How to Apply (2024)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Michael Taiwo Scholarship: What Students Need to Know and How to Apply (2024)</h2>
+              <a href="http://localhost:1313/scholarship-guide/michael-taiwo-scholarship-guide/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/sankore-program.webp"
-            alt="Sankore Fellowship Program 2024 | Apply"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Sankore Fellowship Program 2024 | Apply</h2>
-          <a href="http://localhost:1313/scholarship-guide/sankore-fellowship-program-2024/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/um6p-scholarship.webp"
-            alt=" UM6P PhD Program: Over 300 Fully Funded PhD Positions Available at University Mohammed VI Polytechnic!"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2> UM6P PhD Program: Over 300 Fully Funded PhD Positions Available at University Mohammed VI Polytechnic!</h2>
-          <a href="http://localhost:1313/scholarship-guide/um6p-phd-program-fully-funded-positions-2024/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/green-stem-scholarship.webp"
-            alt="Apply Now | GREEN-STEM Scholarship Application"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Apply Now | GREEN-STEM Scholarship Application</h2>
-          <a href="http://localhost:1313/scholarship-guide/green-stem-scholarships-nigerian-students/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/scholarship-school-university.webp"
-            alt="Top Organizations Offering GRE/GMAT/TOEFL/IELTS Scholarships in Nigeria"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Top Organizations Offering GRE/GMAT/TOEFL/IELTS Scholarships in Nigeria</h2>
-          <a href="http://localhost:1313/scholarship-guide/gre-gmat-toefl-ielts-scholarships-nigeria/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp"
-            alt="Professional Organizations in Telecommunications and Cybersecurity for Nigerian Students to Join"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Professional Organizations in Telecommunications and Cybersecurity for Nigerian Students to Join</h2>
-          <a href="http://localhost:1313/networking/professional-organizations-telecom-cybersecurity-nigeria-students/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/cell-tower-resized.webp"
-            alt="How does telecommunications engineering integrate with other fields like cybersecurity or IoT?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How does telecommunications engineering integrate with other fields like cybersecurity or IoT?</h2>
-          <a href="http://localhost:1313/networking/telecommunications-engineering-integration-with-other-fields-like-cybersecurity-or-iot/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/essay-conclusion.webp"
-            alt="Tips on How to Write a Short “Why I&#39;m Deserving of a Scholarship” Essay"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Tips on How to Write a Short “Why I&#39;m Deserving of a Scholarship” Essay</h2>
-          <a href="http://localhost:1313/scholarship-guide/tips-write-deserving-scholarship-essay/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/wat-and-gmt-time-worldwide.webp"
-            alt="Difference Between GMT and West Africa Time (WAT) for Scholarship Applicants"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between GMT and West Africa Time (WAT) for Scholarship Applicants</h2>
-          <a href="http://localhost:1313/scholarship-guide/difference-between-gmt-and-west-africa-time-for-scholarship-applicants/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/scholarship-time-application.webp"
-            alt="Best Time to Submit a Scholarship Application: Tips for Success"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Best Time to Submit a Scholarship Application: Tips for Success</h2>
-          <a href="http://localhost:1313/scholarship-guide/what-is-the-best-time-to-submit-a-scholarship-application/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/mt-scholarship-2024.webp"
-            alt="Michael Taiwo Scholarship: What Students Need to Know and How to Apply (2024)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Michael Taiwo Scholarship: What Students Need to Know and How to Apply (2024)</h2>
-          <a href="http://localhost:1313/scholarship-guide/michael-taiwo-scholarship-guide/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pph-card-best.webp"
-            alt="9&#43; Hamster Kombat Profitable Cards to Increase Your Profit Per Hour"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>9&#43; Hamster Kombat Profitable Cards to Increase Your Profit Per Hour</h2>
-          <a href="http://localhost:1313/crypto-education/hamster-kombat-profitable-cards-to-increase-your-profit-per-hour/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/hamster-kombat_cover.webp"
-            alt="Hamster Kombat: How to Increase Profit per Hour Productively"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Hamster Kombat: How to Increase Profit per Hour Productively</h2>
-          <a href="http://localhost:1313/crypto-education/hamster-kombat-and-how-to-increase-profit-per-hour-productively/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/airdrop.png"
-            alt="Top Telegram-Based Bot Airdrops in 2024"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Top Telegram-Based Bot Airdrops in 2024</h2>
-          <a href="http://localhost:1313/crypto-education/telegram-based-bot-airdrops/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/dc-power-jack-arduino.webp"
-            alt="What is the Maximum Voltage and Current for Arduino Uno Power Jack?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the Maximum Voltage and Current for Arduino Uno Power Jack?</h2>
-          <a href="http://localhost:1313/electronics/what-is-the-maximum-voltage-and-current-for-arduino-uno-power-jack/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -684,6 +746,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -867,5 +931,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

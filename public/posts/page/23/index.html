@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electro_5%20%281%29.webp"
-            alt="Disadvantages of Electrical Energy Over Other Forms of Energy"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/signals_9.webp"
+                alt="Differences Between Causal and Non-Causal Signal"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Differences Between Causal and Non-Causal Signal</h2>
+              <a href="http://localhost:1313/signal-and-system/difference-between-causal-and-non-causal-signal/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Disadvantages of Electrical Energy Over Other Forms of Energy</h2>
-          <a href="http://localhost:1313/science-stuff/disadvantages-of-electrical-energy-over-other-forms-of-energy/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/patch-panel-install.webp"
+                alt="11&#43; Networking Tools and Their Uses"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>11&#43; Networking Tools and Their Uses</h2>
+              <a href="http://localhost:1313/networking/networking-tools-and-their-uses/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/tahtmlfrontpage.webp"
+                alt="HTML “textarea” Required Attribute Not Working | How to Fix?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>HTML “textarea” Required Attribute Not Working | How to Fix?</h2>
+              <a href="http://localhost:1313/how-to-tech/html-textarea-required-attribute-not-working/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/code-944499_640.webp"
+                alt="Javascript ES6 (ECMAScript 6) Explained for Beginners"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Javascript ES6 (ECMAScript 6) Explained for Beginners</h2>
+              <a href="http://localhost:1313/how-to-tech/explain-es6-in-detail/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electro_5%20%281%29.webp"
+                alt="Disadvantages of Electrical Energy Over Other Forms of Energy"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Disadvantages of Electrical Energy Over Other Forms of Energy</h2>
+              <a href="http://localhost:1313/science-stuff/disadvantages-of-electrical-energy-over-other-forms-of-energy/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electro_1%20%281%29.webp"
+                alt="Advantages of Electricity (Electrical Energy) Over Other Forms of Energy"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Advantages of Electricity (Electrical Energy) Over Other Forms of Energy</h2>
+              <a href="http://localhost:1313/science-stuff/advantages-of-electrical-energy-over-other-forms-of-energy/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electro_3%20%281%29.webp"
+                alt="Classification of generation stations (or power plants)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Classification of generation stations (or power plants)</h2>
+              <a href="http://localhost:1313/science-stuff/classification-of-generation-stations-or-power-plants/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/preview-pane-enabled.webp"
+                alt="How to Preview Markdown(.md) File in VSCode"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Preview Markdown(.md) File in VSCode</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-preview-markdown-md-file-in-vscode/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/codes.webp"
+                alt="How to Import and Export Modules in Javascript | Simple Explanation"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Import and Export Modules in Javascript | Simple Explanation</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-export-and-import-modules-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ..."
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ...</h2>
+              <a href="http://localhost:1313/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/vite-localserver-on-web.webp"
+                alt="How to Use Vite with React? Learn How to Create React App with Vite"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Use Vite with React? Learn How to Create React App with Vite</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-use-vite-with-react/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pseudo-before-tailwindcss.webp"
+                alt="Tailwind CSS: how do you add :before and :after pseudo-element?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Tailwind CSS: how do you add :before and :after pseudo-element?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-add-before-and-after-pseudo-tailwind-css/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/stefen-tan-kyw1eux1j7y-unsplash.webp"
+                alt="List of Google Chrome Useful Keyboard Shortcut Keys (2024)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>List of Google Chrome Useful Keyboard Shortcut Keys (2024)</h2>
+              <a href="http://localhost:1313/how-to-tech/list-of-chrome-keyboard-shortcuts/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/automatic-circuit-breaker-fuse-electrical-600w-1737431942-2-.webp"
+                alt="What are the differences between Fuse and Circuit Breaker"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What are the differences between Fuse and Circuit Breaker</h2>
+              <a href="http://localhost:1313/science-stuff/difference-between-fuse-and-ciruit-breaker/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="Differences Between Latch and Flip-flop"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Differences Between Latch and Flip-flop</h2>
+              <a href="http://localhost:1313/digital-electronics/difference-between-latch-and-flip-flop/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electro_1%20%281%29.webp"
-            alt="Advantages of Electricity (Electrical Energy) Over Other Forms of Energy"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Advantages of Electricity (Electrical Energy) Over Other Forms of Energy</h2>
-          <a href="http://localhost:1313/science-stuff/advantages-of-electrical-energy-over-other-forms-of-energy/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electro_3%20%281%29.webp"
-            alt="Classification of generation stations (or power plants)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Classification of generation stations (or power plants)</h2>
-          <a href="http://localhost:1313/science-stuff/classification-of-generation-stations-or-power-plants/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/preview-pane-enabled.webp"
-            alt="How to Preview Markdown(.md) File in VSCode"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Preview Markdown(.md) File in VSCode</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-preview-markdown-md-file-in-vscode/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/codes.webp"
-            alt="How to Import and Export Modules in Javascript | Simple Explanation"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Import and Export Modules in Javascript | Simple Explanation</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-export-and-import-modules-in-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ..."
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>[Solved] A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core ...</h2>
-          <a href="http://localhost:1313/networking/a-silica-optical-fiber-with-a-core-diameter-large-enough-to-be-considered-by-ray-theory-analysis-has-a-core-refractive-index-of-and-a-cladding-refractive-index/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/vite-localserver-on-web.webp"
-            alt="How to Use Vite with React? Learn How to Create React App with Vite"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Use Vite with React? Learn How to Create React App with Vite</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-use-vite-with-react/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pseudo-before-tailwindcss.webp"
-            alt="Tailwind CSS: how do you add :before and :after pseudo-element?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Tailwind CSS: how do you add :before and :after pseudo-element?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-add-before-and-after-pseudo-tailwind-css/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/stefen-tan-kyw1eux1j7y-unsplash.webp"
-            alt="List of Google Chrome Useful Keyboard Shortcut Keys (2024)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>List of Google Chrome Useful Keyboard Shortcut Keys (2024)</h2>
-          <a href="http://localhost:1313/how-to-tech/list-of-chrome-keyboard-shortcuts/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/automatic-circuit-breaker-fuse-electrical-600w-1737431942-2-.webp"
-            alt="What are the differences between Fuse and Circuit Breaker"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What are the differences between Fuse and Circuit Breaker</h2>
-          <a href="http://localhost:1313/science-stuff/difference-between-fuse-and-ciruit-breaker/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="Differences Between Latch and Flip-flop"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Differences Between Latch and Flip-flop</h2>
-          <a href="http://localhost:1313/digital-electronics/difference-between-latch-and-flip-flop/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/radio.webp"
-            alt="Advantages of Flip-Flop over Latch"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Advantages of Flip-Flop over Latch</h2>
-          <a href="http://localhost:1313/digital-electronics/advantages-of-flip-flop-over-latch/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/screenshot_2-2-.webp"
-            alt="How to fix &#34;No utility classes were detected in your source files&#34;"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to fix &#34;No utility classes were detected in your source files&#34;</h2>
-          <a href="http://localhost:1313/how-to-tech/no-utility-classes-were-detected-in-your-source-files-fixed/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/screenshot-2023-02-08-at-14-56-12-rss-to-json-online-converter-rss2json.com.webp"
-            alt="5 Steps on How to Get Youtube Video Data in JSON Format"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>5 Steps on How to Get Youtube Video Data in JSON Format</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-get-youtube-video-data-in-json-format/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/code-944499_640.webp"
-            alt="How to fix “Uncaught SyntaxError: import declarations may only appear at top level of a module” | Javascript"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to fix “Uncaught SyntaxError: import declarations may only appear at top level of a module” | Javascript</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-fix-uncaught-syntaxerror/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

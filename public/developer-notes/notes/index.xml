@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Tooabstractive</title>
+    <link>http://localhost:1313/developer-notes/notes/</link>
+    <description>Recent content in Notes on Tooabstractive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/developer-notes/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Difference Between Arrow Function with Parentheses and Curly Braces</title>
+      <link>http://localhost:1313/developer-notes/notes/arrow-function-parenthesis-and-curly-braces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/developer-notes/notes/arrow-function-parenthesis-and-curly-braces/</guid>
+      <description>Summary: Parentheses (): Implicit return, the value is automatically returned. Curly braces {}: Explicit return required, you need to use return inside the function. The difference between {data.map((item, index) =&amp;gt; ())} and {data.map((item, index) =&amp;gt; {})} lies in the syntax for returning values in arrow functions.&#xA;1. Arrow Function with Parentheses (): When you use parentheses around the body of the arrow function, it implies an implicit return. This means the value inside the parentheses will be automatically returned.</description>
+    </item>
+    <item>
+      <title>The behavior of the &#39;&#43;=&#39; operator with a string and number variable</title>
+      <link>http://localhost:1313/developer-notes/notes/behavior-of-plus-equals-operator-with-a-string-and-number-variable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/developer-notes/notes/behavior-of-plus-equals-operator-with-a-string-and-number-variable/</guid>
+      <description>The behavior of the += operator is dependent on the data type of the initial variable. The += operator can either perform string concatenation or numeric addition, depending on the initial value.&#xA;Here’s how it works:&#xA;1. If the Initial Variable is a String: The += operator will perform string concatenation. Anything added to a string will be converted into a string and appended. Example (String Concatenation): let hexColor = &amp;#34;#&amp;#34;; // String hexColor += 5; // &amp;#34;5&amp;#34; is concatenated to hexColor, not added as a number hexColor += 3; // &amp;#34;3&amp;#34; is also concatenated console.</description>
+    </item>
+    <item>
+      <title>To check if a value is NaN, you should use the isNaN() function</title>
+      <link>http://localhost:1313/developer-notes/notes/how-nan-works-and-how-to-use-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/developer-notes/notes/how-nan-works-and-how-to-use-it/</guid>
+      <description>I have this code showing some error, and what I intended is to make the code do something when totalDaysFromPicker is equal to NaN , but ended up learning something.&#xA;if (totalDaysFromPicker === 0 || totalDaysFromPicker === NaN) { setMessage(&amp;#34;Please select a duration and date&amp;#34;); setMessageType(&amp;#34;error&amp;#34;); // Set message type to error setCalcBtnActive(true); return; } What I learned:&#xA;In JavaScript, NaN is a special value that stands for &amp;ldquo;Not-a-Number.&amp;rdquo; However, comparing totalDaysFromPicker to NaN using == or === will not work as expected because NaN is not equal to anything, even itself.</description>
+    </item>
+  </channel>
+</rss>

@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/node-module-not-found.webp"
-            alt="How To Fix ‘MODULE_NOT_FOUND’ Error in Node.js"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/lossg_1.webp"
+                alt="Types of Losses in Optical Fiber"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Types of Losses in Optical Fiber</h2>
+              <a href="http://localhost:1313/networking/types-of-losses-in-optical-fiber/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>How To Fix ‘MODULE_NOT_FOUND’ Error in Node.js</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-fix-module-not-found-error-in-nodejs/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/npm-uninstall-sharp.webp"
+                alt="How To Uninstall an NPM Package?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How To Uninstall an NPM Package?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-uninstall-an-npm-package/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/sharp-and-imagesize.webp"
+                alt="How To Get Image Width and Height in Node.js"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How To Get Image Width and Height in Node.js</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-get-image-width-and-height-in-nodejs/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/file-path-node.webp"
+                alt="How To Access a File in Node.js? ( /, ./, and ../ ) Paths Explained"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How To Access a File in Node.js? ( /, ./, and ../ ) Paths Explained</h2>
+              <a href="http://localhost:1313/how-to-tech/access-a-file-in-node-js-using-relative-and-absolute-path/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/node-module-not-found.webp"
+                alt="How To Fix ‘MODULE_NOT_FOUND’ Error in Node.js"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How To Fix ‘MODULE_NOT_FOUND’ Error in Node.js</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-fix-module-not-found-error-in-nodejs/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/dependency-nad-devdep.webp"
+                alt="Is package-lock.json needed for deployment?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is package-lock.json needed for deployment?</h2>
+              <a href="http://localhost:1313/how-to-tech/is-package-lock-json-needed-for-deployment/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/bard-activity-1.webp"
+                alt="Is Google Bard Better Than ChatGPT?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is Google Bard Better Than ChatGPT?</h2>
+              <a href="http://localhost:1313/how-to-tech/is-google-bard-better-than-chatgpt/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/work-smart-vs-work-hard-venn-diagram.webp"
+                alt="Which Is Better Yarn or npm?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Which Is Better Yarn or npm?</h2>
+              <a href="http://localhost:1313/how-to-tech/which-is-better-yarn-or-npm/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/script-tag-in-html.webp"
+                alt="Where Is the Best Place To Put an HTML Script Tag?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Where Is the Best Place To Put an HTML Script Tag?</h2>
+              <a href="http://localhost:1313/how-to-tech/where-is-the-best-place-to-put-the-script-tag/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/networks-installment.webp"
+                alt="What Is Latency in Networking?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Latency in Networking?</h2>
+              <a href="http://localhost:1313/networking/what-is-latency-in-networking/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/dependency-nad-devdep.webp"
+                alt="Difference Between Dev-Dependency and Dependency?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Dev-Dependency and Dependency?</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-dev-dependency-and-dependency/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pexels-pixabay-163100.webp"
+                alt="What Is Meant by the Term Impedance?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Meant by the Term Impedance?</h2>
+              <a href="http://localhost:1313/electronics/what-is-meant-by-the-term-impedance/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/rephile-water-cuqp2jzz_ly-unsplash.webp"
+                alt="What Is the Difference Between Alkalinity and Basicity?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is the Difference Between Alkalinity and Basicity?</h2>
+              <a href="http://localhost:1313/science-stuff/what-is-the-difference-between-alkalinity-and-basicity/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/anthony-indraus-bb9jwutmpuk-unsplash.webp"
+                alt="When Was Electricity Invented?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>When Was Electricity Invented?</h2>
+              <a href="http://localhost:1313/science-stuff/when-was-electricity-invented/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/modulation_3.webp"
+                alt="What Are the Advantages of Digital Modulation Over Analog Modulation?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Advantages of Digital Modulation Over Analog Modulation?</h2>
+              <a href="http://localhost:1313/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/dependency-nad-devdep.webp"
-            alt="Is package-lock.json needed for deployment?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is package-lock.json needed for deployment?</h2>
-          <a href="http://localhost:1313/how-to-tech/is-package-lock-json-needed-for-deployment/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/bard-activity-1.webp"
-            alt="Is Google Bard Better Than ChatGPT?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is Google Bard Better Than ChatGPT?</h2>
-          <a href="http://localhost:1313/how-to-tech/is-google-bard-better-than-chatgpt/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/work-smart-vs-work-hard-venn-diagram.webp"
-            alt="Which Is Better Yarn or npm?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Which Is Better Yarn or npm?</h2>
-          <a href="http://localhost:1313/how-to-tech/which-is-better-yarn-or-npm/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/script-tag-in-html.webp"
-            alt="Where Is the Best Place To Put an HTML Script Tag?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Where Is the Best Place To Put an HTML Script Tag?</h2>
-          <a href="http://localhost:1313/how-to-tech/where-is-the-best-place-to-put-the-script-tag/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/networks-installment.webp"
-            alt="What Is Latency in Networking?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Latency in Networking?</h2>
-          <a href="http://localhost:1313/networking/what-is-latency-in-networking/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/dependency-nad-devdep.webp"
-            alt="Difference Between Dev-Dependency and Dependency?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Dev-Dependency and Dependency?</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-dev-dependency-and-dependency/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pexels-pixabay-163100.webp"
-            alt="What Is Meant by the Term Impedance?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Meant by the Term Impedance?</h2>
-          <a href="http://localhost:1313/electronics/what-is-meant-by-the-term-impedance/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/rephile-water-cuqp2jzz_ly-unsplash.webp"
-            alt="What Is the Difference Between Alkalinity and Basicity?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is the Difference Between Alkalinity and Basicity?</h2>
-          <a href="http://localhost:1313/science-stuff/what-is-the-difference-between-alkalinity-and-basicity/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/anthony-indraus-bb9jwutmpuk-unsplash.webp"
-            alt="When Was Electricity Invented?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>When Was Electricity Invented?</h2>
-          <a href="http://localhost:1313/science-stuff/when-was-electricity-invented/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/modulation_3.webp"
-            alt="What Are the Advantages of Digital Modulation Over Analog Modulation?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Are the Advantages of Digital Modulation Over Analog Modulation?</h2>
-          <a href="http://localhost:1313/electronics/what-are-the-advantages-of-digital-modulation-over-analog-modulation/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/embedded.webp"
-            alt="Different Types of Noise in Computer Networks?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Different Types of Noise in Computer Networks?</h2>
-          <a href="http://localhost:1313/networking/what-are-the-different-types-of-noise-in-computer-networks/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/thomas-jensen-h3vt1kp0fxa-unsplash.webp"
-            alt="What Is the Difference Between Ethernet and Intranet?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is the Difference Between Ethernet and Intranet?</h2>
-          <a href="http://localhost:1313/networking/what-is-the-difference-between-ethernet-and-intranet/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/taylor-vick-m5tzztfcofs-unsplash.webp"
-            alt="What Is the Difference Between HTTP Protocol and TCP Protocol?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is the Difference Between HTTP Protocol and TCP Protocol?</h2>
-          <a href="http://localhost:1313/networking/what-is-the-difference-between-http-protocol-and-tcp-protocol/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/thomas-jensen-qtej-kmmq_q-unsplash.webp"
-            alt="What Is the Difference Between TCP and IP Protocols?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is the Difference Between TCP and IP Protocols?</h2>
-          <a href="http://localhost:1313/networking/what-is-the-difference-between-tcp-and-ip-protocols/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

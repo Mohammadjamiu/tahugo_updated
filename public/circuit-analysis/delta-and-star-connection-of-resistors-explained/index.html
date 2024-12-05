@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -582,12 +585,6 @@ feedback you need to give. Cheers tooabstracter. :tada: </p>
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/ledy_2.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/electronics-circuit-components-explained/">Electronics Circuit Components And Their Functions Explained</a>
- </div>
-    
-    
-     <div class="xx">
         <img src="http://localhost:1313/images/closelool-openloop_1.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/">Why do we study circuit analysis or circuit theory?</a>
  </div>
@@ -600,14 +597,20 @@ feedback you need to give. Cheers tooabstracter. :tada: </p>
     
     
      <div class="xx">
+        <img src="http://localhost:1313/images/ledy_2.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/electronics-circuit-components-explained/">Electronics Circuit Components And Their Functions Explained</a>
+ </div>
+    
+    
+     <div class="xx">
         <img src="http://localhost:1313/images/current-denote_1.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/what-is-voltage-current-and-resistance/">What Is Voltage, Current, and Resistance In Simple Terms?</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/kclnode.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/">Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</a>
+        <img src="http://localhost:1313/images/jolt_1%281%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/how-to-learn-circuit-analysis-basics/">The only way to learn and understand the basics of circuit analysis</a>
  </div>
     
 
@@ -624,20 +627,20 @@ feedback you need to give. Cheers tooabstracter. :tada: </p>
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/ledy_2.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/electronics-circuit-components-explained/">Electronics Circuit Components And Their Functions Explained</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/kclnode.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/">Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</a>
- </div>
-    
-    
-       <div class="xx">
         <img src="http://localhost:1313/images/current-denote_1.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/what-is-voltage-current-and-resistance/">What Is Voltage, Current, and Resistance In Simple Terms?</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/closelool-openloop_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/">Why do we study circuit analysis or circuit theory?</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/ohmvariation_2.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/what-is-ohms-law/">What Is Ohms Law In Simple Terms? And Why Is It Useful?</a>
  </div>
     
     
@@ -648,8 +651,8 @@ feedback you need to give. Cheers tooabstracter. :tada: </p>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/closelool-openloop_1.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/">Why do we study circuit analysis or circuit theory?</a>
+        <img src="http://localhost:1313/images/jolt_1%281%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/how-to-learn-circuit-analysis-basics/">The only way to learn and understand the basics of circuit analysis</a>
  </div>
     
   </div>
@@ -849,5 +852,35 @@ feedback you need to give. Cheers tooabstracter. :tada: </p>
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

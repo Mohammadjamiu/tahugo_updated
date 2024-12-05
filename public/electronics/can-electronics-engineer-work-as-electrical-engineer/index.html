@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -441,14 +444,20 @@
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/dc-power-jack-arduino.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-the-maximum-voltage-and-current-for-arduino-uno-power-jack/">What is the Maximum Voltage and Current for Arduino Uno Power Jack?</a>
+        <img src="http://localhost:1313/images/ultrasonic.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/19-steps-for-learning-electronics-as-a-beginner/">19 Steps for Learning Electronics as a Beginner (2022)</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/linear-and-nonlinear.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/difference-between-linear-and-nonlinear-devices/">Difference Between Linear and Nonlinear Devices</a>
+        <img src="http://localhost:1313/images/radio.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-are-radio-waves-and-what-are-they-used-for/">What are radio waves? What are radio waves used for? All you need to know</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/codes.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/importance-of-programming-to-electrical-and-electronics-engineering/">Importance of Programming to Electrical and Electronics Engineering</a>
  </div>
     
     
@@ -459,14 +468,8 @@
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/capacitor-and-air-conditioner.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/why-cant-we-use-capacitors-instead-of-batteries/">Why Can&#39;t We Use Capacitors Instead of Batteries?</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/codes.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/importance-of-programming-to-electrical-and-electronics-engineering/">Importance of Programming to Electrical and Electronics Engineering</a>
+        <img src="http://localhost:1313/images/pexels-pixabay-163100.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-meant-by-the-term-impedance/">What Is Meant by the Term Impedance?</a>
  </div>
     
 
@@ -483,8 +486,14 @@
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/capacitor-and-air-conditioner.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/why-cant-we-use-capacitors-instead-of-batteries/">Why Can&#39;t We Use Capacitors Instead of Batteries?</a>
+        <img src="http://localhost:1313/images/insertingbattery_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/a-beginners-guide-to-using-a-multimeter/">A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget.</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/learnelectronics.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/resources-for-learning-electronics-from-scratch/">22 Resources for Learning Electronics From Scratch (For Beginners)</a>
  </div>
     
     
@@ -495,20 +504,14 @@
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/linear-and-nonlinear.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/difference-between-linear-and-nonlinear-devices/">Difference Between Linear and Nonlinear Devices</a>
+        <img src="http://localhost:1313/images/freqntime_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/">Why is Frequency Domain Analysis Better Than Time Domain Analysis</a>
  </div>
     
     
        <div class="xx">
-        <img src="" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/frequency-range-of-radio-waves/">Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/electro_4%20%281%29.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-electricity-and-how-does-it-work/">What Is Electricity and How Does It Work? A Simple Explanation</a>
+        <img src="http://localhost:1313/images/signals_8%20%282%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/baseband-and-passband-signal-and-their-difference/">Baseband and Passband Signal and Their Difference in Communication</a>
  </div>
     
   </div>
@@ -708,5 +711,35 @@
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/ultrasonic.webp"
-            alt="Examples of Digital Systems in Daily Life"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/fiber.webp"
+                alt="Difference Between Raman and Brillouin Scattering"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Raman and Brillouin Scattering</h2>
+              <a href="http://localhost:1313/networking/difference-between-raman-and-brillouin-scattering/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Examples of Digital Systems in Daily Life</h2>
-          <a href="http://localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/fiberoptics_1.webp"
+                alt="What Are Core and Cladding Losses in Optical Fiber?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are Core and Cladding Losses in Optical Fiber?</h2>
+              <a href="http://localhost:1313/networking/what-are-core-and-cladding-losses-in-optical-fiber/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/satellite-2.webp"
+                alt="What Are the Similarities Between Circuit Switching and Packet Switching"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Similarities Between Circuit Switching and Packet Switching</h2>
+              <a href="http://localhost:1313/networking/similarities-of-circuit-switching-and-packet-switching/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/satellite.webp"
+                alt="What Are the Similarities Between Packet Switching and Message Switching"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Similarities Between Packet Switching and Message Switching</h2>
+              <a href="http://localhost:1313/networking/what-are-the-similarities-between-packet-switching-and-message-switching/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ultrasonic.webp"
+                alt="Examples of Digital Systems in Daily Life"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Examples of Digital Systems in Daily Life</h2>
+              <a href="http://localhost:1313/digital-electronics/examples-of-digital-systems-in-daily-life/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/networks-installment.webp"
+                alt="Examples of Digital Signals in Everyday Life"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Examples of Digital Signals in Everyday Life</h2>
+              <a href="http://localhost:1313/digital-electronics/examples-of-digital-signals-in-everyday-life/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/4457733_2347617.webp"
+                alt="Advantages and Disadvantages of Digital Systems"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Advantages and Disadvantages of Digital Systems</h2>
+              <a href="http://localhost:1313/how-to-tech/advantages-and-disadvantages-of-digital-system/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/internet-day-pana.webp"
+                alt="What Are the Advantages and Disadvantages of Electronic Payments System?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Advantages and Disadvantages of Electronic Payments System?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-are-the-advantages-and-disadvantages-of-electronic-payments-system/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/1218643_133105-osatx4-93.webp"
+                alt="What Are the Main 5 Components of Digital System?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Main 5 Components of Digital System?</h2>
+              <a href="http://localhost:1313/digital-electronics/what-are-the-main-5-components-of-digital-system/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/odd-signal-waveform.webp"
+                alt="How to Determine if a Signal Is Even or Odd?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Determine if a Signal Is Even or Odd?</h2>
+              <a href="http://localhost:1313/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/top-view-circuit-board-repair.webp"
+                alt="27 Electronics Tools and Their Functions (for beginners)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>27 Electronics Tools and Their Functions (for beginners)</h2>
+              <a href="http://localhost:1313/electronics/electronic-tools-and-their-functions/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/comm-system.webp"
+                alt="Basic Elements of Communication Systems"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Basic Elements of Communication Systems</h2>
+              <a href="http://localhost:1313/electronics/basic-element-of-communication-system/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ilgmyzin-agfmimwypso-unsplash-1-.webp"
+                alt="Where Does ChatGPT Get Its Data From?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Where Does ChatGPT Get Its Data From?</h2>
+              <a href="http://localhost:1313/how-to-tech/where-does-chatgpt-get-data-from/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/studentessay.webp"
+                alt="12 Essential Tools Engineering Students Need the Most"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>12 Essential Tools Engineering Students Need the Most</h2>
+              <a href="http://localhost:1313/how-to-tech/essential-tools-do-engineering-students-need/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/area-size-of-cell.webp"
+                alt="Why Hexagonal Shape Is Preferred in Cellular Architecture?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why Hexagonal Shape Is Preferred in Cellular Architecture?</h2>
+              <a href="http://localhost:1313/how-to-tech/why-hexagonal-shape-is-preferred-in-cellular-architecture/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/networks-installment.webp"
-            alt="Examples of Digital Signals in Everyday Life"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Examples of Digital Signals in Everyday Life</h2>
-          <a href="http://localhost:1313/digital-electronics/examples-of-digital-signals-in-everyday-life/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/4457733_2347617.webp"
-            alt="Advantages and Disadvantages of Digital Systems"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Advantages and Disadvantages of Digital Systems</h2>
-          <a href="http://localhost:1313/how-to-tech/advantages-and-disadvantages-of-digital-system/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/internet-day-pana.webp"
-            alt="What Are the Advantages and Disadvantages of Electronic Payments System?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Are the Advantages and Disadvantages of Electronic Payments System?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-are-the-advantages-and-disadvantages-of-electronic-payments-system/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/1218643_133105-osatx4-93.webp"
-            alt="What Are the Main 5 Components of Digital System?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Are the Main 5 Components of Digital System?</h2>
-          <a href="http://localhost:1313/digital-electronics/what-are-the-main-5-components-of-digital-system/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/odd-signal-waveform.webp"
-            alt="How to Determine if a Signal Is Even or Odd?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Determine if a Signal Is Even or Odd?</h2>
-          <a href="http://localhost:1313/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/top-view-circuit-board-repair.webp"
-            alt="27 Electronics Tools and Their Functions (for beginners)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>27 Electronics Tools and Their Functions (for beginners)</h2>
-          <a href="http://localhost:1313/electronics/electronic-tools-and-their-functions/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/comm-system.webp"
-            alt="Basic Elements of Communication Systems"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Basic Elements of Communication Systems</h2>
-          <a href="http://localhost:1313/electronics/basic-element-of-communication-system/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/ilgmyzin-agfmimwypso-unsplash-1-.webp"
-            alt="Where Does ChatGPT Get Its Data From?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Where Does ChatGPT Get Its Data From?</h2>
-          <a href="http://localhost:1313/how-to-tech/where-does-chatgpt-get-data-from/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/studentessay.webp"
-            alt="12 Essential Tools Engineering Students Need the Most"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>12 Essential Tools Engineering Students Need the Most</h2>
-          <a href="http://localhost:1313/how-to-tech/essential-tools-do-engineering-students-need/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/area-size-of-cell.webp"
-            alt="Why Hexagonal Shape Is Preferred in Cellular Architecture?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why Hexagonal Shape Is Preferred in Cellular Architecture?</h2>
-          <a href="http://localhost:1313/how-to-tech/why-hexagonal-shape-is-preferred-in-cellular-architecture/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/signals_9.webp"
-            alt="Differences Between Causal and Non-Causal Signal"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Differences Between Causal and Non-Causal Signal</h2>
-          <a href="http://localhost:1313/signal-and-system/difference-between-causal-and-non-causal-signal/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/patch-panel-install.webp"
-            alt="11&#43; Networking Tools and Their Uses"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>11&#43; Networking Tools and Their Uses</h2>
-          <a href="http://localhost:1313/networking/networking-tools-and-their-uses/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/tahtmlfrontpage.webp"
-            alt="HTML “textarea” Required Attribute Not Working | How to Fix?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>HTML “textarea” Required Attribute Not Working | How to Fix?</h2>
-          <a href="http://localhost:1313/how-to-tech/html-textarea-required-attribute-not-working/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/code-944499_640.webp"
-            alt="Javascript ES6 (ECMAScript 6) Explained for Beginners"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Javascript ES6 (ECMAScript 6) Explained for Beginners</h2>
-          <a href="http://localhost:1313/how-to-tech/explain-es6-in-detail/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/normal-burst.webp"
-            alt="GSM Burst and Its Types"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/satellite-2.webp"
+                alt="Is it possible to use the same frequency for downlink and uplink in satellites?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is it possible to use the same frequency for downlink and uplink in satellites?</h2>
+              <a href="http://localhost:1313/networking/is-it-possible-to-use-the-same-frequency-for-downlink-and-uplink-in-satellites/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>GSM Burst and Its Types</h2>
-          <a href="http://localhost:1313/networking/gsm-burst-and-its-types/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/cell-tower-resized.webp"
+                alt="Why Uplink Frequency is Lower than Downlink Frequency in Mobile Communication?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why Uplink Frequency is Lower than Downlink Frequency in Mobile Communication?</h2>
+              <a href="http://localhost:1313/networking/why-uplink-frequency-is-lower-than-downlink-frequency-in-mobile-communication/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/power-control.webp"
+                alt="Power Control Strategies in 3G"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Power Control Strategies in 3G</h2>
+              <a href="http://localhost:1313/networking/power-control-strategies-in-3g/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mobile-network-symbol.webp"
+                alt="Meaning of 1G, 2G, G, E, 3G, H, H&#43;, 4G, 5G (Mobile Network Technology Symbols)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Meaning of 1G, 2G, G, E, 3G, H, H&#43;, 4G, 5G (Mobile Network Technology Symbols)</h2>
+              <a href="http://localhost:1313/networking/meaning-of-network-technology-symbols-1g-2g-g-e-3g-h-hplus-4g-5g/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/normal-burst.webp"
+                alt="GSM Burst and Its Types"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>GSM Burst and Its Types</h2>
+              <a href="http://localhost:1313/networking/gsm-burst-and-its-types/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/fdma-tdma-gsm.webp"
+                alt="Multiple Access Techniques Applied by GSM"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Multiple Access Techniques Applied by GSM</h2>
+              <a href="http://localhost:1313/networking/multiple-access-techniques-applied-by-gsm/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/network-congestion.webp"
+                alt="Channel Assignment Strategies in Mobile Communication Explained"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Channel Assignment Strategies in Mobile Communication Explained</h2>
+              <a href="http://localhost:1313/engineering-contents/channel-assignment-strategies-in-mobile-communication/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/cache-file-size.webp"
+                alt="How to Delete VSCode Cached Data Files?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Delete VSCode Cached Data Files?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-delete-vscode-cached-data-files/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/old-window-and-new-window.webp"
+                alt="How to Open VS Code Terminal in Another Window?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Open VS Code Terminal in Another Window?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-open-vscode-terminal-in-another-window/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/software-eng-vs-computer-science.webp"
+                alt="Difference Between System Software and Application Software with Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between System Software and Application Software with Examples</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-system-software-and-application-software-with-examples/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/multiplexing-and-multiple-access.webp"
+                alt="Difference between Multiplexing and Multiple Access"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference between Multiplexing and Multiple Access</h2>
+              <a href="http://localhost:1313/networking/difference-between-multiplexing-and-multiple-access/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/555-timer-as-schmitt-diagram.webp"
+                alt="How to Use (or Configure) 555 Timer as a Schmitt Trigger?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Use (or Configure) 555 Timer as a Schmitt Trigger?</h2>
+              <a href="http://localhost:1313/electronics/how-to-use-a-555-timer-as-a-schmitt-trigger/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/c-code-for-average.webp"
+                alt="C Program to Calculate the Average of N Numbers"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>C Program to Calculate the Average of N Numbers</h2>
+              <a href="http://localhost:1313/how-to-tech/c-program-to-calculate-the-average-of-n-numbers/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ieee-one.webp"
+                alt="How to Download IEEE Research Papers for Free?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Download IEEE Research Papers for Free?</h2>
+              <a href="http://localhost:1313/engineering-contents/how-to-download-ieee-research-papers-for-free/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/wm_hon-transformed-1-.webp"
+                alt="C vs C&#43;&#43; vs C#: What&#39;s the Difference?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>C vs C&#43;&#43; vs C#: What&#39;s the Difference?</h2>
+              <a href="http://localhost:1313/how-to-tech/c-vs-cpp-vs-csharp-whats-the-difference/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/fdma-tdma-gsm.webp"
-            alt="Multiple Access Techniques Applied by GSM"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Multiple Access Techniques Applied by GSM</h2>
-          <a href="http://localhost:1313/networking/multiple-access-techniques-applied-by-gsm/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/network-congestion.webp"
-            alt="Channel Assignment Strategies in Mobile Communication Explained"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Channel Assignment Strategies in Mobile Communication Explained</h2>
-          <a href="http://localhost:1313/engineering-contents/channel-assignment-strategies-in-mobile-communication/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/cache-file-size.webp"
-            alt="How to Delete VSCode Cached Data Files?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Delete VSCode Cached Data Files?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-delete-vscode-cached-data-files/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/old-window-and-new-window.webp"
-            alt="How to Open VS Code Terminal in Another Window?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Open VS Code Terminal in Another Window?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-open-vscode-terminal-in-another-window/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/software-eng-vs-computer-science.webp"
-            alt="Difference Between System Software and Application Software with Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between System Software and Application Software with Examples</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-system-software-and-application-software-with-examples/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/multiplexing-and-multiple-access.webp"
-            alt="Difference between Multiplexing and Multiple Access"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference between Multiplexing and Multiple Access</h2>
-          <a href="http://localhost:1313/networking/difference-between-multiplexing-and-multiple-access/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/555-timer-as-schmitt-diagram.webp"
-            alt="How to Use (or Configure) 555 Timer as a Schmitt Trigger?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Use (or Configure) 555 Timer as a Schmitt Trigger?</h2>
-          <a href="http://localhost:1313/electronics/how-to-use-a-555-timer-as-a-schmitt-trigger/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/c-code-for-average.webp"
-            alt="C Program to Calculate the Average of N Numbers"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>C Program to Calculate the Average of N Numbers</h2>
-          <a href="http://localhost:1313/how-to-tech/c-program-to-calculate-the-average-of-n-numbers/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/ieee-one.webp"
-            alt="How to Download IEEE Research Papers for Free?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Download IEEE Research Papers for Free?</h2>
-          <a href="http://localhost:1313/engineering-contents/how-to-download-ieee-research-papers-for-free/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/wm_hon-transformed-1-.webp"
-            alt="C vs C&#43;&#43; vs C#: What&#39;s the Difference?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>C vs C&#43;&#43; vs C#: What&#39;s the Difference?</h2>
-          <a href="http://localhost:1313/how-to-tech/c-vs-cpp-vs-csharp-whats-the-difference/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/c-code-working-in-vscode.webp"
-            alt="How to setup C/C&#43;&#43; in Visual Studio Code?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to setup C/C&#43;&#43; in Visual Studio Code?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-setup-c-and-cpp-in-visual-studio-code/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/rf-rm-powershell-error.webp"
-            alt="How to Fix &#34;Remove-Item: A parameter cannot be found that matches parameter name &#39;rf&#39;&#34;"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Fix &#34;Remove-Item: A parameter cannot be found that matches parameter name &#39;rf&#39;&#34;</h2>
-          <a href="http://localhost:1313/how-to-tech/remove-item-a-parameter-cannot-be-found-that-matches-parameter-name-rf/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/node-module-right-click-delete.webp"
-            alt="How to Delete Node Modules in VSCode?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Delete Node Modules in VSCode?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-delete-node-modules-in-vscode/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/npm-eintegrity-error.webp"
-            alt="How to Fix npm Installation Error: npm ERR! code EINTEGRITY?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Fix npm Installation Error: npm ERR! code EINTEGRITY?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-fix-npm-installation-error-npm-err-code-eintegrity/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

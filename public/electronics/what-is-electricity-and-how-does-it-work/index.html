@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -492,8 +495,8 @@ So with this, I believe that this post demystifies what electricity is and how d
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/pexels-pixabay-163100.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/examples-of-devices-that-use-capacitors/">Examples of Devices That Use Capacitors</a>
+        <img src="http://localhost:1313/images/radio.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-are-radio-waves-and-what-are-they-used-for/">What are radio waves? What are radio waves used for? All you need to know</a>
  </div>
     
     
@@ -504,20 +507,20 @@ So with this, I believe that this post demystifies what electricity is and how d
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/electronicrepair.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/">Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home</a>
+        <img src="http://localhost:1313/images/basebandxmission_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/baseband-and-broadband-transmission-in-communication-system-explained/">Baseband and Broadband Transmission in Communication System Explained</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/insertingbattery_1.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/a-beginners-guide-to-using-a-multimeter/">A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget.</a>
+        <img src="http://localhost:1313/images/device-manager-driver.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/how-to-fix-serial-port-unavailable-with-arduino/">How to fix “Serial port unavailable” (Arduino)?</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/comm-system.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/basic-element-of-communication-system/">Basic Elements of Communication Systems</a>
+        <img src="" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/frequency-range-of-radio-waves/">Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications</a>
  </div>
     
 
@@ -534,20 +537,14 @@ So with this, I believe that this post demystifies what electricity is and how d
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/modulation_3.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/">What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques</a>
+        <img src="http://localhost:1313/images/ultrasonic.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/19-steps-for-learning-electronics-as-a-beginner/">19 Steps for Learning Electronics as a Beginner (2022)</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/insertingbattery_1.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/a-beginners-guide-to-using-a-multimeter/">A beginners guide to using a digital multimeter at home for troubleshooting electronics gadget.</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/electronicrepair.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/beginners-tips-for-troubleshooting-mini-electronics-gadgets-at-home/">Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home</a>
+        <img src="http://localhost:1313/images/dc-power-jack-arduino.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/what-is-the-maximum-voltage-and-current-for-arduino-uno-power-jack/">What is the Maximum Voltage and Current for Arduino Uno Power Jack?</a>
  </div>
     
     
@@ -558,8 +555,14 @@ So with this, I believe that this post demystifies what electricity is and how d
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/basebandxmission_1.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/baseband-and-broadband-transmission-in-communication-system-explained/">Baseband and Broadband Transmission in Communication System Explained</a>
+        <img src="" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/frequency-range-of-radio-waves/">Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/learnelectronics.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/electronics/resources-for-learning-electronics-from-scratch/">22 Resources for Learning Electronics From Scratch (For Beginners)</a>
  </div>
     
   </div>
@@ -759,5 +762,35 @@ So with this, I believe that this post demystifies what electricity is and how d
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

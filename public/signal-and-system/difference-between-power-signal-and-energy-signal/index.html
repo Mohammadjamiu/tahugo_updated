@@ -131,8 +131,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -186,7 +185,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -552,14 +555,20 @@ Energy signals find applications in areas such as image processing, audio signal
      
     
      <div class="xx">
+        <img src="http://localhost:1313/images/signals_3%282%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/deterministic-and-random-signals-with-examples-and-differences/">What are Deterministic and Random Signals? with Examples and Differences</a>
+ </div>
+    
+    
+     <div class="xx">
         <img src="http://localhost:1313/images/odd-signal-waveform.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/how-to-determine-if-a-signal-is-even-or-odd/">How to Determine if a Signal Is Even or Odd?</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/signals_9.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/difference-between-causal-and-non-causal-signal/">Differences Between Causal and Non-Causal Signal</a>
+        <img src="http://localhost:1313/images/dirichlet_3.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/">What are Dirichlet conditions for existence of Fourier series?</a>
  </div>
     
     
@@ -570,14 +579,8 @@ Energy signals find applications in areas such as image processing, audio signal
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/signals_3%282%29.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/deterministic-and-random-signals-with-examples-and-differences/">What are Deterministic and Random Signals? with Examples and Differences</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/biomedical-signal-processing.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/what-is-biomedical-signal-processing/">What is Biomedical Signal Processing?</a>
+        <img src="http://localhost:1313/images/how-to-check-lti-system.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/how-do-you-check-whether-a-system-is-lti-or-not/">How Do You Check Whether a System Is LTI or Not?</a>
  </div>
     
 
@@ -594,8 +597,8 @@ Energy signals find applications in areas such as image processing, audio signal
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/biomedical-signal-processing.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/what-is-biomedical-signal-processing/">What is Biomedical Signal Processing?</a>
+        <img src="http://localhost:1313/images/dts_4%20%281%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/">What Are the Basic Operations on Discrete Time Signals?</a>
  </div>
     
     
@@ -606,14 +609,14 @@ Energy signals find applications in areas such as image processing, audio signal
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/signals_3%282%29.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/deterministic-and-random-signals-with-examples-and-differences/">What are Deterministic and Random Signals? with Examples and Differences</a>
+        <img src="http://localhost:1313/images/signals_6%282%29.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/what-is-a-signal-and-its-types/">What Is a Signal and its Different Types In Electronics And Communications?</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/how-to-check-lti-system.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/how-do-you-check-whether-a-system-is-lti-or-not/">How Do You Check Whether a System Is LTI or Not?</a>
+        <img src="http://localhost:1313/images/dirichlet_3.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/">What are Dirichlet conditions for existence of Fourier series?</a>
  </div>
     
     
@@ -819,5 +822,35 @@ Energy signals find applications in areas such as image processing, audio signal
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

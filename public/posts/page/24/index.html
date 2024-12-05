@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/whatsapp-image-2023-02-09-at-2.33.23-am.webp"
-            alt="What is a photoresistor and what is it used for?"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/radio.webp"
+                alt="Advantages of Flip-Flop over Latch"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Advantages of Flip-Flop over Latch</h2>
+              <a href="http://localhost:1313/digital-electronics/advantages-of-flip-flop-over-latch/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>What is a photoresistor and what is it used for?</h2>
-          <a href="http://localhost:1313/science-stuff/what-is-a-photoresistor-and-what-is-it-used-for/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/screenshot_2-2-.webp"
+                alt="How to fix &#34;No utility classes were detected in your source files&#34;"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to fix &#34;No utility classes were detected in your source files&#34;</h2>
+              <a href="http://localhost:1313/how-to-tech/no-utility-classes-were-detected-in-your-source-files-fixed/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/screenshot-2023-02-08-at-14-56-12-rss-to-json-online-converter-rss2json.com.webp"
+                alt="5 Steps on How to Get Youtube Video Data in JSON Format"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>5 Steps on How to Get Youtube Video Data in JSON Format</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-get-youtube-video-data-in-json-format/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/code-944499_640.webp"
+                alt="How to fix “Uncaught SyntaxError: import declarations may only appear at top level of a module” | Javascript"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to fix “Uncaught SyntaxError: import declarations may only appear at top level of a module” | Javascript</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-fix-uncaught-syntaxerror/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/whatsapp-image-2023-02-09-at-2.33.23-am.webp"
+                alt="What is a photoresistor and what is it used for?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is a photoresistor and what is it used for?</h2>
+              <a href="http://localhost:1313/science-stuff/what-is-a-photoresistor-and-what-is-it-used-for/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/screenshot-2023-02-06-at-03-51-12-enabled-integrations.webp"
+                alt="How to remove plugins from Netlify?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to remove plugins from Netlify?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-remove-plugins-from-netlify/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ionosphere_1.webp"
+                alt="Why is the Troposphere the Most Important Layer of the Atmosphere?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why is the Troposphere the Most Important Layer of the Atmosphere?</h2>
+              <a href="http://localhost:1313/science-stuff/why-is-the-troposphere-the-most-important-layer-of-the-atmosphere/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/screenshot-2023-02-02-at-03-53-40-enhance-speech-from-adobe-free-ai-filter-for-cleaning-up-spoken-audio.webp"
+                alt="How to Record Video or Audio without Background Noise"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Record Video or Audio without Background Noise</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-record-video-or-audio-without-background-noise/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/codes.webp"
+                alt="What Programming Languages are Taught in Computer Science?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Programming Languages are Taught in Computer Science?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-programming-languages-are-taught-in-computer-science/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pclightup.webp"
+                alt="Does Computer Science Teach Coding?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Does Computer Science Teach Coding?</h2>
+              <a href="http://localhost:1313/how-to-tech/does-computer-science-teach-coding/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/screenshot-2023-01-31-at-08-58-20-content-manager.webp"
+                alt="Netlify Sitemap Plugin: How to Exclude Certain Pages"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Netlify Sitemap Plugin: How to Exclude Certain Pages</h2>
+              <a href="http://localhost:1313/how-to-tech/netlify-sitemap-plugin-how-to-exclude-certain-pages/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pexels-miguel-%c3%a1-padri%c3%b1%c3%a1n-3930091.webp"
+                alt="27&#43; Online Tools for College Students to Become Smart and Productive (2023)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>27&#43; Online Tools for College Students to Become Smart and Productive (2023)</h2>
+              <a href="http://localhost:1313/how-to-tech/online-tools-for-college-students/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/code-944499_640.webp"
+                alt="Best Coding Apps for Android: Learn and Practice in 2023"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Best Coding Apps for Android: Learn and Practice in 2023</h2>
+              <a href="http://localhost:1313/how-to-tech/best-coding-apps-for-android/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/screenshot-2023-01-26-at-14-47-52-identity-site-settings.webp"
+                alt="How to configure a website netlifyCMS to access the admin page using google account"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to configure a website netlifyCMS to access the admin page using google account</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-configure-a-website-netlifycms-to-access-the-admin-page-using-google-account/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/eyedrpperpopup.webp"
+                alt="how to know the color of any image on firefox browser easily"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>how to know the color of any image on firefox browser easily</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/screenshot-2023-02-06-at-03-51-12-enabled-integrations.webp"
-            alt="How to remove plugins from Netlify?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to remove plugins from Netlify?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-remove-plugins-from-netlify/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/ionosphere_1.webp"
-            alt="Why is the Troposphere the Most Important Layer of the Atmosphere?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why is the Troposphere the Most Important Layer of the Atmosphere?</h2>
-          <a href="http://localhost:1313/science-stuff/why-is-the-troposphere-the-most-important-layer-of-the-atmosphere/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/screenshot-2023-02-02-at-03-53-40-enhance-speech-from-adobe-free-ai-filter-for-cleaning-up-spoken-audio.webp"
-            alt="How to Record Video or Audio without Background Noise"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Record Video or Audio without Background Noise</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-record-video-or-audio-without-background-noise/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/codes.webp"
-            alt="What Programming Languages are Taught in Computer Science?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Programming Languages are Taught in Computer Science?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-programming-languages-are-taught-in-computer-science/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pclightup.webp"
-            alt="Does Computer Science Teach Coding?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Does Computer Science Teach Coding?</h2>
-          <a href="http://localhost:1313/how-to-tech/does-computer-science-teach-coding/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/screenshot-2023-01-31-at-08-58-20-content-manager.webp"
-            alt="Netlify Sitemap Plugin: How to Exclude Certain Pages"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Netlify Sitemap Plugin: How to Exclude Certain Pages</h2>
-          <a href="http://localhost:1313/how-to-tech/netlify-sitemap-plugin-how-to-exclude-certain-pages/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pexels-miguel-%c3%a1-padri%c3%b1%c3%a1n-3930091.webp"
-            alt="27&#43; Online Tools for College Students to Become Smart and Productive (2023)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>27&#43; Online Tools for College Students to Become Smart and Productive (2023)</h2>
-          <a href="http://localhost:1313/how-to-tech/online-tools-for-college-students/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/code-944499_640.webp"
-            alt="Best Coding Apps for Android: Learn and Practice in 2023"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Best Coding Apps for Android: Learn and Practice in 2023</h2>
-          <a href="http://localhost:1313/how-to-tech/best-coding-apps-for-android/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/screenshot-2023-01-26-at-14-47-52-identity-site-settings.webp"
-            alt="How to configure a website netlifyCMS to access the admin page using google account"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to configure a website netlifyCMS to access the admin page using google account</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-configure-a-website-netlifycms-to-access-the-admin-page-using-google-account/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/eyedrpperpopup.webp"
-            alt="how to know the color of any image on firefox browser easily"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>how to know the color of any image on firefox browser easily</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-know-the-color-of-any-image-on-firefox-browser/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/promptinstallplugin.webp"
-            alt="How to add sitemap to your site using netlify plugin"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to add sitemap to your site using netlify plugin</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-add-sitemap-to-your-site-using-netlify-plugin/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/line-coding.webp"
-            alt="Digital Transmission in Computer Networks | Line Coding"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Digital Transmission in Computer Networks | Line Coding</h2>
-          <a href="http://localhost:1313/networking/digital-transmission-in-computer-networks/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/freqntime_1.webp"
-            alt="Why is Frequency Domain Analysis Better Than Time Domain Analysis"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why is Frequency Domain Analysis Better Than Time Domain Analysis</h2>
-          <a href="http://localhost:1313/electronics/why-is-frequency-domain-analysis-better-than-time-domain-analysis/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/dns_1.webp"
-            alt="What Is DNS (Domain Name Server) and How It Works?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is DNS (Domain Name Server) and How It Works?</h2>
-          <a href="http://localhost:1313/networking/what-is-dns-and-how-it-works/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

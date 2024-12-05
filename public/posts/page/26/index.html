@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/dirichlet_3.webp"
-            alt="What are Dirichlet conditions for existence of Fourier series?"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/smtpserver.webp"
+                alt="What Is SMTP (Simple Mail Transfer Protocol) Used For?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is SMTP (Simple Mail Transfer Protocol) Used For?</h2>
+              <a href="http://localhost:1313/networking/what-is-smtp-used-for/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>What are Dirichlet conditions for existence of Fourier series?</h2>
-          <a href="http://localhost:1313/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="What Are the Differences Between Primary Memory and Secondary Memory with examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Differences Between Primary Memory and Secondary Memory with examples</h2>
+              <a href="http://localhost:1313/digital-electronics/differences-between-primary-memory-and-secondary-memory-with-examples/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="13 Differences Between Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>13 Differences Between Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)</h2>
+              <a href="http://localhost:1313/networking/difference-between-tcp-and-udp/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/temprv_1.webp"
+                alt="What Is a Random Process With Examples?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is a Random Process With Examples?</h2>
+              <a href="http://localhost:1313/networking/what-is-a-random-process-with-examples/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/dirichlet_3.webp"
+                alt="What are Dirichlet conditions for existence of Fourier series?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What are Dirichlet conditions for existence of Fourier series?</h2>
+              <a href="http://localhost:1313/signal-and-system/dirichlet-conditions-for-existence-of-fourier-series/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="Difference Between Power Signal and Energy Signal"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Power Signal and Energy Signal</h2>
+              <a href="http://localhost:1313/signal-and-system/difference-between-power-signal-and-energy-signal/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="What Is Network Address Translation (NAT) and Its Types?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Network Address Translation (NAT) and Its Types?</h2>
+              <a href="http://localhost:1313/networking/what-is-nat-and-its-types/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/amplifier.webp"
+                alt="What Is Optical Amplifier and Its Types?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Optical Amplifier and Its Types?</h2>
+              <a href="http://localhost:1313/networking/what-is-optical-amplifier-and-its-types/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/hornantenna_1.webp"
+                alt="What Is Horn Antenna? Its uses, Types, Design parameters and Applications."
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Horn Antenna? Its uses, Types, Design parameters and Applications.</h2>
+              <a href="http://localhost:1313/electronics/what-is-horn-antenna-and-its-uses/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/fiberoptics_3.webp"
+                alt="Differences Between Step-Index and Graded-Index Optical Fiber"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Differences Between Step-Index and Graded-Index Optical Fiber</h2>
+              <a href="http://localhost:1313/networking/difference-between-step-index-and-graded-index-optical-fiber/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/memoryh_1.webp"
+                alt="Memory Hierarchy Explained With Diagram"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Memory Hierarchy Explained With Diagram</h2>
+              <a href="http://localhost:1313/digital-electronics/memory-hierarchy-explained-with-diagram/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/studentessay.webp"
+                alt="Most Effective Ways to Take Notes in Class"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Most Effective Ways to Take Notes in Class</h2>
+              <a href="http://localhost:1313/misce-post/how-to-take-good-note-in-class/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/imgph.webp"
+                alt="How to start reading books as a beginner (11 Tips on how to read 2 books a week)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to start reading books as a beginner (11 Tips on how to read 2 books a week)</h2>
+              <a href="http://localhost:1313/misce-post/how-to-start-reading-books-as-a-beginner/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/logicgate_8.webp"
+                alt="The 7 Logic Gates (AND, OR, NOT, NAND, NOR, XOR and XNOR) Explained With Their Truth Table"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>The 7 Logic Gates (AND, OR, NOT, NAND, NOR, XOR and XNOR) Explained With Their Truth Table</h2>
+              <a href="http://localhost:1313/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/macad_2.webp"
+                alt="What is a MAC Address? Explained With Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is a MAC Address? Explained With Examples</h2>
+              <a href="http://localhost:1313/networking/what-is-a-mac-address-with-examples/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="Difference Between Power Signal and Energy Signal"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between Power Signal and Energy Signal</h2>
-          <a href="http://localhost:1313/signal-and-system/difference-between-power-signal-and-energy-signal/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="What Is Network Address Translation (NAT) and Its Types?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Network Address Translation (NAT) and Its Types?</h2>
-          <a href="http://localhost:1313/networking/what-is-nat-and-its-types/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/amplifier.webp"
-            alt="What Is Optical Amplifier and Its Types?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Optical Amplifier and Its Types?</h2>
-          <a href="http://localhost:1313/networking/what-is-optical-amplifier-and-its-types/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/hornantenna_1.webp"
-            alt="What Is Horn Antenna? Its uses, Types, Design parameters and Applications."
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Horn Antenna? Its uses, Types, Design parameters and Applications.</h2>
-          <a href="http://localhost:1313/electronics/what-is-horn-antenna-and-its-uses/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/fiberoptics_3.webp"
-            alt="Differences Between Step-Index and Graded-Index Optical Fiber"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Differences Between Step-Index and Graded-Index Optical Fiber</h2>
-          <a href="http://localhost:1313/networking/difference-between-step-index-and-graded-index-optical-fiber/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/memoryh_1.webp"
-            alt="Memory Hierarchy Explained With Diagram"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Memory Hierarchy Explained With Diagram</h2>
-          <a href="http://localhost:1313/digital-electronics/memory-hierarchy-explained-with-diagram/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/studentessay.webp"
-            alt="Most Effective Ways to Take Notes in Class"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Most Effective Ways to Take Notes in Class</h2>
-          <a href="http://localhost:1313/misce-post/how-to-take-good-note-in-class/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="How to start reading books as a beginner (11 Tips on how to read 2 books a week)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to start reading books as a beginner (11 Tips on how to read 2 books a week)</h2>
-          <a href="http://localhost:1313/misce-post/how-to-start-reading-books-as-a-beginner/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/logicgate_8.webp"
-            alt="The 7 Logic Gates (AND, OR, NOT, NAND, NOR, XOR and XNOR) Explained With Their Truth Table"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>The 7 Logic Gates (AND, OR, NOT, NAND, NOR, XOR and XNOR) Explained With Their Truth Table</h2>
-          <a href="http://localhost:1313/digital-electronics/the-seven-logic-gates-and-or-not-nand-or-xor-and-xnor-and-their-truth-table/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/macad_2.webp"
-            alt="What is a MAC Address? Explained With Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is a MAC Address? Explained With Examples</h2>
-          <a href="http://localhost:1313/networking/what-is-a-mac-address-with-examples/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/macexample_3.webp"
-            alt="How Do You Know if a MAC Address is a Unicast, Multicast or Broadcast MAC address"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How Do You Know if a MAC Address is a Unicast, Multicast or Broadcast MAC address</h2>
-          <a href="http://localhost:1313/networking/how-do-you-know-if-a-mac-address-is-unicast-multicast-or-broadcast/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="What is MAC Layer and the Different Types of Multiple Access Protocol"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is MAC Layer and the Different Types of Multiple Access Protocol</h2>
-          <a href="http://localhost:1313/networking/what-is-mac-layer-and-the-different-types-of-protocol/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/tcpcomp.webp"
-            alt="What Is TCP/IP and How It Is Different From OSI Model"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is TCP/IP and How It Is Different From OSI Model</h2>
-          <a href="http://localhost:1313/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/imgph.webp"
-            alt="Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Frequency Range of Radio Waves, EM (Band) Spectrum, and Their Applications</h2>
-          <a href="http://localhost:1313/electronics/frequency-range-of-radio-waves/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

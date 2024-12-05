@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -630,14 +633,8 @@ next and have different discussion.
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/ohmvariation_2.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/what-is-ohms-law/">What Is Ohms Law In Simple Terms? And Why Is It Useful?</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/parallelresistor.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/"> Series and parallel combination of resistors explained with how to identify them</a>
+        <img src="http://localhost:1313/images/ledy_2.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/electronics-circuit-components-explained/">Electronics Circuit Components And Their Functions Explained</a>
  </div>
     
     
@@ -648,8 +645,14 @@ next and have different discussion.
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/jolt_1%281%29.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/how-to-learn-circuit-analysis-basics/">The only way to learn and understand the basics of circuit analysis</a>
+        <img src="http://localhost:1313/images/thev_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/thevenins-theorem-explain-with-examples/">Thevenin&#39;s Theorem Explained With Solved Examples</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/kclnode.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/kirchhoffs-current-and-voltage-law-explained/">Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily</a>
  </div>
     
     
@@ -672,20 +675,14 @@ next and have different discussion.
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/deltastarillustration.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/delta-and-star-connection-of-resistors-explained/">Star - Delta Transformation Explained With Tips On How To Recall The Formulas</a>
+        <img src="http://localhost:1313/images/parallelresistor.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/series-and-parallel-resistor-and-how-to-identify-them/"> Series and parallel combination of resistors explained with how to identify them</a>
  </div>
     
     
        <div class="xx">
         <img src="http://localhost:1313/images/closelool-openloop_1.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/why-do-we-study-circuit-analysis/">Why do we study circuit analysis or circuit theory?</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/ohmvariation_2.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/what-is-ohms-law/">What Is Ohms Law In Simple Terms? And Why Is It Useful?</a>
  </div>
     
     
@@ -698,6 +695,12 @@ next and have different discussion.
        <div class="xx">
         <img src="http://localhost:1313/images/ledy_2.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/electronics-circuit-components-explained/">Electronics Circuit Components And Their Functions Explained</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/deltastarillustration.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/circuit-analysis/delta-and-star-connection-of-resistors-explained/">Star - Delta Transformation Explained With Tips On How To Recall The Formulas</a>
  </div>
     
   </div>
@@ -897,5 +900,35 @@ next and have different discussion.
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

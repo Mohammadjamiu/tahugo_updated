@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/npm-install-encoding.webp"
-            alt="How to Fix &#34;Module not found: Can&#39;t resolve encoding&#34; in Next.js"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/danmaxwellshowcase.webp"
+                alt="What is the Importance of Maxwell&#39;s Equations in Electromagnetism?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is the Importance of Maxwell&#39;s Equations in Electromagnetism?</h2>
+              <a href="http://localhost:1313/em-post/what-is-the-importance-of-maxwell-equation-in-electromagnetism/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>How to Fix &#34;Module not found: Can&#39;t resolve encoding&#34; in Next.js</h2>
-          <a href="http://localhost:1313/how-to-tech/module-not-found-cant-resolve-encoding-in-next-js/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/software-and-code.webp"
+                alt="Is Node.js Used for Backend or Frontend?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is Node.js Used for Backend or Frontend?</h2>
+              <a href="http://localhost:1313/how-to-tech/is-nodejs-used-for-backend-or-frontend/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/import-and-requir-in-nodejs.webp"
+                alt="How to Use Import Instead of Require in Node.js?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Use Import Instead of Require in Node.js?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-use-import-instead-of-require-in-node-js/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/how-to-check-if-a-variable-is-number-in-python.webp"
+                alt="How to Check if a Variable is a Number in Python?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Check if a Variable is a Number in Python?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-check-if-a-variable-is-a-number-in-python/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/npm-install-encoding.webp"
+                alt="How to Fix &#34;Module not found: Can&#39;t resolve encoding&#34; in Next.js"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Fix &#34;Module not found: Can&#39;t resolve encoding&#34; in Next.js</h2>
+              <a href="http://localhost:1313/how-to-tech/module-not-found-cant-resolve-encoding-in-next-js/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/seven-hexagonal-cells.webp"
+                alt="What is Frequency Reuse in Wireless Communication?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is Frequency Reuse in Wireless Communication?</h2>
+              <a href="http://localhost:1313/networking/what-is-frequency-reuse-in-wireless-communication/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/cell-tower-resized.webp"
+                alt="Is the GSM Network 2G or 3G?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is the GSM Network 2G or 3G?</h2>
+              <a href="http://localhost:1313/networking/is-the-gsm-network-2g-or-3g/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp"
+                alt="Why is Reliability Engineering Important?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why is Reliability Engineering Important?</h2>
+              <a href="http://localhost:1313/engineering-contents/why-is-reliability-engineering-important/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/remove-number-from-string-in-regex-python.webp"
+                alt="How to Remove Numbers from a String in Python using Regex?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Remove Numbers from a String in Python using Regex?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-remove-numbers-from-a-string-in-python-using-regex/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/sim_card_sizes-esim.webp"
+                alt="What is the Function of a SIM Card in a GSM Phone?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is the Function of a SIM Card in a GSM Phone?</h2>
+              <a href="http://localhost:1313/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/server-network.webp"
+                alt="What are the Benefits of LTE Over GSM?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What are the Benefits of LTE Over GSM?</h2>
+              <a href="http://localhost:1313/networking/what-are-the-benefits-of-lte-over-gsm/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/networks-installment.webp"
+                alt="What is the Difference Between GSM and Internet?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is the Difference Between GSM and Internet?</h2>
+              <a href="http://localhost:1313/networking/what-is-the-difference-between-gsm-and-internet/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/cell-tower-resized.webp"
+                alt="What is GSM in Wireless Communication?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is GSM in Wireless Communication?</h2>
+              <a href="http://localhost:1313/networking/what-is-gsm-in-wireless-communication/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/abstraction.webp"
+                alt="Why Energy Can&#39;t Be Created Nor Destroyed?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why Energy Can&#39;t Be Created Nor Destroyed?</h2>
+              <a href="http://localhost:1313/science-stuff/why-cant-energy-be-created-nor-destroyed/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/using-control-shift-and-pallete.jpg.webp"
+                alt="How to Clear the Terminal in VS Code?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Clear the Terminal in VS Code?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-clear-terminal-in-vs-code/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/seven-hexagonal-cells.webp"
-            alt="What is Frequency Reuse in Wireless Communication?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is Frequency Reuse in Wireless Communication?</h2>
-          <a href="http://localhost:1313/networking/what-is-frequency-reuse-in-wireless-communication/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/cell-tower-resized.webp"
-            alt="Is the GSM Network 2G or 3G?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is the GSM Network 2G or 3G?</h2>
-          <a href="http://localhost:1313/networking/is-the-gsm-network-2g-or-3g/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp"
-            alt="Why is Reliability Engineering Important?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why is Reliability Engineering Important?</h2>
-          <a href="http://localhost:1313/engineering-contents/why-is-reliability-engineering-important/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/remove-number-from-string-in-regex-python.webp"
-            alt="How to Remove Numbers from a String in Python using Regex?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Remove Numbers from a String in Python using Regex?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-remove-numbers-from-a-string-in-python-using-regex/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/sim_card_sizes-esim.webp"
-            alt="What is the Function of a SIM Card in a GSM Phone?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the Function of a SIM Card in a GSM Phone?</h2>
-          <a href="http://localhost:1313/networking/what-is-the-function-of-the-sim-card-in-a-gsm-phone/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/server-network.webp"
-            alt="What are the Benefits of LTE Over GSM?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What are the Benefits of LTE Over GSM?</h2>
-          <a href="http://localhost:1313/networking/what-are-the-benefits-of-lte-over-gsm/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/networks-installment.webp"
-            alt="What is the Difference Between GSM and Internet?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the Difference Between GSM and Internet?</h2>
-          <a href="http://localhost:1313/networking/what-is-the-difference-between-gsm-and-internet/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/cell-tower-resized.webp"
-            alt="What is GSM in Wireless Communication?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is GSM in Wireless Communication?</h2>
-          <a href="http://localhost:1313/networking/what-is-gsm-in-wireless-communication/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/abstraction.webp"
-            alt="Why Energy Can&#39;t Be Created Nor Destroyed?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why Energy Can&#39;t Be Created Nor Destroyed?</h2>
-          <a href="http://localhost:1313/science-stuff/why-cant-energy-be-created-nor-destroyed/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/using-control-shift-and-pallete.jpg.webp"
-            alt="How to Clear the Terminal in VS Code?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Clear the Terminal in VS Code?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-clear-terminal-in-vs-code/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/water-as-energy.webp"
-            alt="Why Can&#39;t We Use Water as Fuel?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why Can&#39;t We Use Water as Fuel?</h2>
-          <a href="http://localhost:1313/science-stuff/why-cant-we-use-water-as-fuel/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/capacitor-and-air-conditioner.webp"
-            alt="Why Can&#39;t We Use Capacitors Instead of Batteries?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why Can&#39;t We Use Capacitors Instead of Batteries?</h2>
-          <a href="http://localhost:1313/electronics/why-cant-we-use-capacitors-instead-of-batteries/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/normal-and-floor-division-in-python.webp"
-            alt="Difference Between / and // in Python with Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between / and // in Python with Examples</h2>
-          <a href="http://localhost:1313/how-to-tech/difference-between-/-and-/-in-python-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/square-brackets-and-curly-braces-python.webp"
-            alt="What is the Difference Between Using [] and {} in Python?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the Difference Between Using [] and {} in Python?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-the-difference-between-using-square-bracket-and-curly-braces-in-python/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

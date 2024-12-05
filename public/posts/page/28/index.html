@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/basebandxmission_1.webp"
-            alt="Baseband and Broadband Transmission in Communication System Explained"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/electro_4%20%281%29.webp"
+                alt="What Is Electricity and How Does It Work? A Simple Explanation"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Electricity and How Does It Work? A Simple Explanation</h2>
+              <a href="http://localhost:1313/electronics/what-is-electricity-and-how-does-it-work/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Baseband and Broadband Transmission in Communication System Explained</h2>
-          <a href="http://localhost:1313/electronics/baseband-and-broadband-transmission-in-communication-system-explained/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pskask_4.webp"
+                alt="Digital to Analog Signal Conversion Explained"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Digital to Analog Signal Conversion Explained</h2>
+              <a href="http://localhost:1313/electronics/digital-to-analog-signal-conversion/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ultrasonic.webp"
+                alt="19 Steps for Learning Electronics as a Beginner (2022)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>19 Steps for Learning Electronics as a Beginner (2022)</h2>
+              <a href="http://localhost:1313/electronics/19-steps-for-learning-electronics-as-a-beginner/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/duplex.webp"
+                alt="What Is Simplex, Half-Duplex and Full-Duplex Mode of Communication?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Simplex, Half-Duplex and Full-Duplex Mode of Communication?</h2>
+              <a href="http://localhost:1313/networking/what-is-simplex-half-duplex-and-full-duplex/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/basebandxmission_1.webp"
+                alt="Baseband and Broadband Transmission in Communication System Explained"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Baseband and Broadband Transmission in Communication System Explained</h2>
+              <a href="http://localhost:1313/electronics/baseband-and-broadband-transmission-in-communication-system-explained/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/db.webp"
+                alt="What is decibel (dB)? A better explanation for students"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is decibel (dB)? A better explanation for students</h2>
+              <a href="http://localhost:1313/electronics/decibel-explained-simply/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/distortion_3.webp"
+                alt="What Are the Different Causes of Transmission Impairments?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Different Causes of Transmission Impairments?</h2>
+              <a href="http://localhost:1313/networking/what-are-the-different-causes-of-transmission-impairments/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/fiber.webp"
+                alt="Why Optical Fiber Communication Is Preferred Over Other Means of Communication?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why Optical Fiber Communication Is Preferred Over Other Means of Communication?</h2>
+              <a href="http://localhost:1313/networking/why-optical-fiber-communication-is-prefered/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/dts_4%20%281%29.webp"
+                alt="What Are the Basic Operations on Discrete Time Signals?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Are the Basic Operations on Discrete Time Signals?</h2>
+              <a href="http://localhost:1313/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/radio.webp"
+                alt="What are radio waves? What are radio waves used for? All you need to know"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What are radio waves? What are radio waves used for? All you need to know</h2>
+              <a href="http://localhost:1313/electronics/what-are-radio-waves-and-what-are-they-used-for/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/modulation_3.webp"
+                alt="What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques</h2>
+              <a href="http://localhost:1313/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/signals_10.webp"
+                alt="How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?</h2>
+              <a href="http://localhost:1313/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/signals_6%282%29.webp"
+                alt="What Is a Signal and its Different Types In Electronics And Communications?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is a Signal and its Different Types In Electronics And Communications?</h2>
+              <a href="http://localhost:1313/signal-and-system/what-is-a-signal-and-its-types/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/resistoruse_10.webp"
+                alt="What Is a Resistor Used For? All You Need To know About Resistors Explained Simply"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What Is a Resistor Used For? All You Need To know About Resistors Explained Simply</h2>
+              <a href="http://localhost:1313/electronics/what-is-a-resistor-used-for/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/codes.webp"
+                alt="Importance of Programming to Electrical and Electronics Engineering"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Importance of Programming to Electrical and Electronics Engineering</h2>
+              <a href="http://localhost:1313/electronics/importance-of-programming-to-electrical-and-electronics-engineering/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/db.webp"
-            alt="What is decibel (dB)? A better explanation for students"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is decibel (dB)? A better explanation for students</h2>
-          <a href="http://localhost:1313/electronics/decibel-explained-simply/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/distortion_3.webp"
-            alt="What Are the Different Causes of Transmission Impairments?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Are the Different Causes of Transmission Impairments?</h2>
-          <a href="http://localhost:1313/networking/what-are-the-different-causes-of-transmission-impairments/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/fiber.webp"
-            alt="Why Optical Fiber Communication Is Preferred Over Other Means of Communication?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Why Optical Fiber Communication Is Preferred Over Other Means of Communication?</h2>
-          <a href="http://localhost:1313/networking/why-optical-fiber-communication-is-prefered/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/dts_4%20%281%29.webp"
-            alt="What Are the Basic Operations on Discrete Time Signals?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Are the Basic Operations on Discrete Time Signals?</h2>
-          <a href="http://localhost:1313/signal-and-system/what-are-the-basic-operations-on-discrete-time-signals/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/radio.webp"
-            alt="What are radio waves? What are radio waves used for? All you need to know"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What are radio waves? What are radio waves used for? All you need to know</h2>
-          <a href="http://localhost:1313/electronics/what-are-radio-waves-and-what-are-they-used-for/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/modulation_3.webp"
-            alt="What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques</h2>
-          <a href="http://localhost:1313/electronics/what-is-modulation-in-communication-its-types-and-why-we-modulate/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/signals_10.webp"
-            alt="How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?</h2>
-          <a href="http://localhost:1313/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/signals_6%282%29.webp"
-            alt="What Is a Signal and its Different Types In Electronics And Communications?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is a Signal and its Different Types In Electronics And Communications?</h2>
-          <a href="http://localhost:1313/signal-and-system/what-is-a-signal-and-its-types/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/resistoruse_10.webp"
-            alt="What Is a Resistor Used For? All You Need To know About Resistors Explained Simply"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What Is a Resistor Used For? All You Need To know About Resistors Explained Simply</h2>
-          <a href="http://localhost:1313/electronics/what-is-a-resistor-used-for/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/codes.webp"
-            alt="Importance of Programming to Electrical and Electronics Engineering"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Importance of Programming to Electrical and Electronics Engineering</h2>
-          <a href="http://localhost:1313/electronics/importance-of-programming-to-electrical-and-electronics-engineering/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/framework1_8.webp"
-            alt="Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network."
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Basics of How Computers And Other Devices Are Connected To The Internet Through Wired Network.</h2>
-          <a href="http://localhost:1313/networking/how-computers-are-connected-through-wired-network/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/learnelectronics.webp"
-            alt="22 Resources for Learning Electronics From Scratch (For Beginners)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>22 Resources for Learning Electronics From Scratch (For Beginners)</h2>
-          <a href="http://localhost:1313/electronics/resources-for-learning-electronics-from-scratch/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/solarcell_18.webp"
-            alt="How do solar cells work to generate electricity explained simply?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How do solar cells work to generate electricity explained simply?</h2>
-          <a href="http://localhost:1313/electronics/how-do-solar-cells-work-to-generate-electricity/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/studentessay.webp"
-            alt="Simple essay writing tips to help students write better essays and have good grades"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Simple essay writing tips to help students write better essays and have good grades</h2>
-          <a href="http://localhost:1313/misce-post/simple-essay-writing-tips-for-student/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -770,6 +832,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -953,5 +1017,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

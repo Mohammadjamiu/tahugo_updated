@@ -109,8 +109,7 @@
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
+ 
 
 
 <script type="application/ld+json">
@@ -164,7 +163,11 @@
 }
 </script>
 
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -545,32 +548,32 @@
      
     
      <div class="xx">
-        <img src="http://localhost:1313/images/friction.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/advantages-and-disadvantages-of-friction/">5 Advantages and 5 Disadvantages of Friction</a>
- </div>
-    
-    
-     <div class="xx">
-        <img src="http://localhost:1313/images/wavy.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/difference-between-mechanical-and-electromagnetic-waves/">Difference Between Mechanical Waves and Electromagnetic Waves</a>
- </div>
-    
-    
-     <div class="xx">
         <img src="http://localhost:1313/images/lambda-wavelength.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/what-are-the-characteristics-or-properties-of-transverse-waves/">What are the characteristics of transverse waves?</a>
  </div>
     
     
      <div class="xx">
-        <img src="http://localhost:1313/images/solar-planet.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/why-mercury-is-not-the-hottest-planet/">Why Mercury is not the Hottest Planet?</a>
+        <img src="http://localhost:1313/images/electronics-and-oscilloscope.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/why-do-we-use-rms-value-instead-of-average-value/">Why Do We Use RMS Value Instead of Average Value?</a>
  </div>
     
     
      <div class="xx">
         <img src="http://localhost:1313/images/pexels-pixabay-247676.webp" alt="" class="xxx">
               <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/what-is-the-important-property-of-nanomaterials/">What Are the Important Property of Nanomaterials?</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/polarityreverse_1.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/what-is-electrical-power-in-terms-of-current-and-potential-difference/">What Is Electrical Power in Terms of Current and Potential Difference?</a>
+ </div>
+    
+    
+     <div class="xx">
+        <img src="http://localhost:1313/images/mechanic-and-engineer.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/difference-between-a-mechanic-and-an-engineer/">Difference Between a Mechanic and an Engineer</a>
  </div>
     
 
@@ -587,14 +590,20 @@
      
     
        <div class="xx">
-        <img src="http://localhost:1313/images/water-as-energy.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/why-cant-we-use-water-as-fuel/">Why Can&#39;t We Use Water as Fuel?</a>
+        <img src="http://localhost:1313/images/mechanical-mechatronics-eng.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/difference-between-mechatronics-and-mechanical-engineering/">Difference Between Mechatronics and Mechanical Engineering</a>
  </div>
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/electrical-or-mechanical-engineering.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/which-is-harder-electrical-or-mechanical-engineering/">Which is Harder: Electrical or Mechanical Engineering?</a>
+        <img src="http://localhost:1313/images/abstraction.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/why-cant-energy-be-created-nor-destroyed/">Why Energy Can&#39;t Be Created Nor Destroyed?</a>
+ </div>
+    
+    
+       <div class="xx">
+        <img src="http://localhost:1313/images/mechanic-and-engineer.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/difference-between-a-mechanic-and-an-engineer/">Difference Between a Mechanic and an Engineer</a>
  </div>
     
     
@@ -605,14 +614,8 @@
     
     
        <div class="xx">
-        <img src="http://localhost:1313/images/hardware-and-software.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/difference-between-hardware-and-software-with-example/">Difference Between Hardware and Software with Examples</a>
- </div>
-    
-    
-       <div class="xx">
-        <img src="http://localhost:1313/images/robotics.webp" alt="" class="xxx">
-              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/difference-between-mechatronics-and-robotics-engineering/">Mechatronics Engineering vs. Robotics Engineering: What&#39;s Their Difference?</a>
+        <img src="http://localhost:1313/images/rephile-water-cuqp2jzz_ly-unsplash.webp" alt="" class="xxx">
+              <a class="links-to-others xxxx" href="http://localhost:1313/science-stuff/is-water-a-good-or-bad-conductor-of-electricity/">Is Water a Good or Bad Conductor of Electricity?</a>
  </div>
     
   </div>
@@ -812,5 +815,35 @@
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

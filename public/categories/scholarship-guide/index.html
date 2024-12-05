@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -219,6 +242,70 @@
 
   <div class="all-posts">
     <div class="all-posts-card">
+      
+      <div class="all-post-box">
+        <div class="all-post-img">
+          <img
+            loading="lazy"
+            class="img-in-all-post"
+            src="http://localhost:1313/images/scholarship-time-application.webp"
+            alt="Preparation Guide for 2025 Full Funding Scholarship"
+            srcset=""
+          />
+        </div>
+        <div class="all-post-heading">
+          <h2>Preparation Guide for 2025 Full Funding Scholarship</h2>
+          <a href="http://localhost:1313/scholarship-guide/preparation-guide-for-full-funding-scholarship/" class="read-more">Read More &rarr;</a>
+        </div>
+      </div>
+      
+      <div class="all-post-box">
+        <div class="all-post-img">
+          <img
+            loading="lazy"
+            class="img-in-all-post"
+            src="http://localhost:1313/images/essay-conclusion.webp"
+            alt="Formatting Tips for Essential Letters (Graduate School Application)"
+            srcset=""
+          />
+        </div>
+        <div class="all-post-heading">
+          <h2>Formatting Tips for Essential Letters (Graduate School Application)</h2>
+          <a href="http://localhost:1313/scholarship-guide/formatting-tips-graduate-school-application-letters/" class="read-more">Read More &rarr;</a>
+        </div>
+      </div>
+      
+      <div class="all-post-box">
+        <div class="all-post-img">
+          <img
+            loading="lazy"
+            class="img-in-all-post"
+            src="http://localhost:1313/images/skoltech-scholarships.webp"
+            alt="Apply to Skoltech Scholarship 2024 (Master&#39;s Program in Russia)"
+            srcset=""
+          />
+        </div>
+        <div class="all-post-heading">
+          <h2>Apply to Skoltech Scholarship 2024 (Master&#39;s Program in Russia)</h2>
+          <a href="http://localhost:1313/scholarship-guide/skoltech-msc-program-scholarship-guide/" class="read-more">Read More &rarr;</a>
+        </div>
+      </div>
+      
+      <div class="all-post-box">
+        <div class="all-post-img">
+          <img
+            loading="lazy"
+            class="img-in-all-post"
+            src="http://localhost:1313/images/essay-format-motivation-letter.webp"
+            alt="How to Write a Motivation Letter for Scholarship or Graduate Studies?"
+            srcset=""
+          />
+        </div>
+        <div class="all-post-heading">
+          <h2>How to Write a Motivation Letter for Scholarship or Graduate Studies?</h2>
+          <a href="http://localhost:1313/scholarship-guide/how-to-write-motivation-letter-scholarship-graduate-studies/" class="read-more">Read More &rarr;</a>
+        </div>
+      </div>
       
       <div class="all-post-box">
         <div class="all-post-img">
@@ -550,5 +637,35 @@
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

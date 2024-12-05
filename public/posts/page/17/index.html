@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/utp-and-stp.webp"
-            alt="Types of Transmission Media in Computer Networks Explained"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mifi.webp"
+                alt="Difference between Wi-Fi and MiFi: All You Need to Know"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference between Wi-Fi and MiFi: All You Need to Know</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-wifi-and-mifi/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>Types of Transmission Media in Computer Networks Explained</h2>
-          <a href="http://localhost:1313/networking/types-of-transmission-media-in-computer-networks/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/wifi-bluetooth.webp"
+                alt="Difference Between Wi-Fi and Bluetooth"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Wi-Fi and Bluetooth</h2>
+              <a href="http://localhost:1313/how-to-tech/difference-between-wifi-and-bluetooth/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/alvaro-reyes-qwwphwip31m-unsplash.webp"
+                alt="What are De Facto and De Jure Standards in Computer Networking?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What are De Facto and De Jure Standards in Computer Networking?</h2>
+              <a href="http://localhost:1313/networking/what-are-de-facto-and-de-jure-standards-in-computer-networking/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/fiberoptics_4.webp"
+                alt="Difference Between Single Mode and Multimode Fiber"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between Single Mode and Multimode Fiber</h2>
+              <a href="http://localhost:1313/networking/difference-between-single-mode-and-multimode-fiber/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/utp-and-stp.webp"
+                alt="Types of Transmission Media in Computer Networks Explained"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Types of Transmission Media in Computer Networks Explained</h2>
+              <a href="http://localhost:1313/networking/types-of-transmission-media-in-computer-networks/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/thomas-jensen-qtej-kmmq_q-unsplash.webp"
+                alt="What are Standards and Protocols in Networking? Understand Their Differences"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What are Standards and Protocols in Networking? Understand Their Differences</h2>
+              <a href="http://localhost:1313/networking/what-are-standards-and-protocols-in-networking/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/shubham-dhage-t9rkvi3n0nm-unsplash.webp"
+                alt="Types of Computer Networks: Their Features, Advantages, Disadvantages, and Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Types of Computer Networks: Their Features, Advantages, Disadvantages, and Examples</h2>
+              <a href="http://localhost:1313/networking/types-of-computer-network-with-example/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/pop-in-python.webp"
+                alt="What is the pop() Method in Python? A Comprehensive Guide with Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is the pop() Method in Python? A Comprehensive Guide with Examples</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-pop-in-python-and-how-to-use-it/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/python-dictionary.webp"
+                alt="Python Dictionaries: A Beginner&#39;s Guide with Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Python Dictionaries: A Beginner&#39;s Guide with Examples</h2>
+              <a href="http://localhost:1313/how-to-tech/python-dictionary-with-example/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/how-to-write-better.webp"
+                alt="How to Write an Essay Introduction: A Detailed Explanation with Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Write an Essay Introduction: A Detailed Explanation with Examples</h2>
+              <a href="http://localhost:1313/misce-post/how-to-write-an-essay-introduction-with-example/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/essay-conclusion.webp"
+                alt="How to Conclude an Essay: A Comprehensive Guide With Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Conclude an Essay: A Comprehensive Guide With Examples</h2>
+              <a href="http://localhost:1313/misce-post/how-to-conclude-an-essay-with-example/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/essay-outline.webp"
+                alt="How to Write an Outline for an Essay (With an Example)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Write an Outline for an Essay (With an Example)</h2>
+              <a href="http://localhost:1313/misce-post/how-to-write-an-outline-for-an-essay/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/u-storsberg-_maupmujj08-unsplash.webp"
+                alt="Difference Between LAN and WAN With Examples"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between LAN and WAN With Examples</h2>
+              <a href="http://localhost:1313/networking/difference-between-lan-and-wan-with-examples/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/research-paper.webp"
+                alt="How to Write an Outline for a Research Paper (With Example)"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Write an Outline for a Research Paper (With Example)</h2>
+              <a href="http://localhost:1313/misce-post/how-to-write-an-outline-for-a-research-paper-with-example/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/matt-ragland-8ovdzmgb_kw-unsplash-2-.webp"
+                alt="20&#43; Ways to Use ChatGPT as a Student"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>20&#43; Ways to Use ChatGPT as a Student</h2>
+              <a href="http://localhost:1313/misce-post/how-can-students-use-chatgpt/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/thomas-jensen-qtej-kmmq_q-unsplash.webp"
-            alt="What are Standards and Protocols in Networking? Understand Their Differences"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What are Standards and Protocols in Networking? Understand Their Differences</h2>
-          <a href="http://localhost:1313/networking/what-are-standards-and-protocols-in-networking/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/shubham-dhage-t9rkvi3n0nm-unsplash.webp"
-            alt="Types of Computer Networks: Their Features, Advantages, Disadvantages, and Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Types of Computer Networks: Their Features, Advantages, Disadvantages, and Examples</h2>
-          <a href="http://localhost:1313/networking/types-of-computer-network-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/pop-in-python.webp"
-            alt="What is the pop() Method in Python? A Comprehensive Guide with Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the pop() Method in Python? A Comprehensive Guide with Examples</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-pop-in-python-and-how-to-use-it/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/python-dictionary.webp"
-            alt="Python Dictionaries: A Beginner&#39;s Guide with Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Python Dictionaries: A Beginner&#39;s Guide with Examples</h2>
-          <a href="http://localhost:1313/how-to-tech/python-dictionary-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/how-to-write-better.webp"
-            alt="How to Write an Essay Introduction: A Detailed Explanation with Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Write an Essay Introduction: A Detailed Explanation with Examples</h2>
-          <a href="http://localhost:1313/misce-post/how-to-write-an-essay-introduction-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/essay-conclusion.webp"
-            alt="How to Conclude an Essay: A Comprehensive Guide With Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Conclude an Essay: A Comprehensive Guide With Examples</h2>
-          <a href="http://localhost:1313/misce-post/how-to-conclude-an-essay-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/essay-outline.webp"
-            alt="How to Write an Outline for an Essay (With an Example)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Write an Outline for an Essay (With an Example)</h2>
-          <a href="http://localhost:1313/misce-post/how-to-write-an-outline-for-an-essay/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/u-storsberg-_maupmujj08-unsplash.webp"
-            alt="Difference Between LAN and WAN With Examples"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between LAN and WAN With Examples</h2>
-          <a href="http://localhost:1313/networking/difference-between-lan-and-wan-with-examples/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/research-paper.webp"
-            alt="How to Write an Outline for a Research Paper (With Example)"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Write an Outline for a Research Paper (With Example)</h2>
-          <a href="http://localhost:1313/misce-post/how-to-write-an-outline-for-a-research-paper-with-example/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/matt-ragland-8ovdzmgb_kw-unsplash-2-.webp"
-            alt="20&#43; Ways to Use ChatGPT as a Student"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>20&#43; Ways to Use ChatGPT as a Student</h2>
-          <a href="http://localhost:1313/misce-post/how-can-students-use-chatgpt/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/slice-method-1.webp"
-            alt="How to Split an Array in 2 Parts in JavaScript?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Split an Array in 2 Parts in JavaScript?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-split-array-in-2-parts-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/how-to-write-better.webp"
-            alt="13 Effective Tips to Enhance Your Writing Skills"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>13 Effective Tips to Enhance Your Writing Skills</h2>
-          <a href="http://localhost:1313/misce-post/tips-to-improve-your-writing-skills/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/in.webp"
-            alt="Regular Expression in Python: A Step by Step Explanation"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Regular Expression in Python: A Step by Step Explanation</h2>
-          <a href="http://localhost:1313/how-to-tech/what-are-regular-expressions-in-python/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/convert-title-to-url-slug-in-js.webp"
-            alt="How to Convert a Title to URL Slug in JavaScript"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Convert a Title to URL Slug in JavaScript</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-convert-a-title-to-url-slug-in-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>

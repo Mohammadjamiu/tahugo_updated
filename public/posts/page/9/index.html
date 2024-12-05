@@ -72,6 +72,28 @@
 
 
 
+<script data-grow-initializer="">
+  !(function () {
+    window.growMe ||
+      ((window.growMe = function (e) {
+        window.growMe._.push(e);
+      }),
+      (window.growMe._ = []));
+    var e = document.createElement("script");
+    (e.type = "text/javascript"),
+      (e.src = "https://faves.grow.me/main.js"),
+      (e.defer = !0),
+      e.setAttribute(
+        "data-grow-faves-site-id",
+        "U2l0ZToxYjY2NmNmZS1lYTVkLTRjZWQtYmEzNi1hMWI4YjUxOTk0MDA="
+      );
+    var t = document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e, t);
+  })();
+</script>
+
+
+
 <meta
   name="google-site-verification"
   content="DNFwnzCDjmAJ66Py0Sc0GmACD0P9hzdN1u2-_wMrCJ0"
@@ -98,16 +120,17 @@
 
 
 
-
-
 <script
   defer
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 
-
-    
-
+ 
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   </head>
   <body>
     
@@ -282,252 +305,291 @@
     </div>
   </section>
 
+  
   <div class="all-posts">
     <h2 class="h2-after">All Posts</h2>
 
-    <div class="all-posts-card">
-       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/shuffle-array.webp"
-            alt="How to Shuffle an Array Randomly in JavaScript?"
-            srcset=""
-          />
+    
+    <div class="swiper-container all-posts-carousel">
+      <div class="swiper-wrapper">
+         
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/chemical-vs-petroluem-eng.webp"
+                alt="Why is Engineering Important to Society?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why is Engineering Important to Society?</h2>
+              <a href="http://localhost:1313/engineering-contents/why-is-engineering-important-to-society/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
-        <div class="all-post-heading">
-          <h2>How to Shuffle an Array Randomly in JavaScript?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/" class="read-more">Read More &rarr;</a>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mechanical-mechatronics-eng.webp"
+                alt="Why is Engineering So Hard?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Why is Engineering So Hard?</h2>
+              <a href="http://localhost:1313/engineering-contents/why-is-engineering-so-hard/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
         </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/mechanic-and-engineer.webp"
+                alt="What You Will Learn in Mechanical Engineering?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What You Will Learn in Mechanical Engineering?</h2>
+              <a href="http://localhost:1313/engineering-contents/what-you-will-learn-in-mechanical-engineering/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/network-hub-1060337-transformed-1-.webp"
+                alt="Do Hubs Use IP Addresses?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Do Hubs Use IP Addresses?</h2>
+              <a href="http://localhost:1313/networking/do-hubs-use-ip-address/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/shuffle-array.webp"
+                alt="How to Shuffle an Array Randomly in JavaScript?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Shuffle an Array Randomly in JavaScript?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-shuffle-an-array-randomly-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/logical-or-and-logical-and.webp"
+                alt="Difference Between || and &amp;&amp; in JavaScript?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Difference Between || and &amp;&amp; in JavaScript?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/not-equal-and-strict-not-equal-in-js.webp"
+                alt="What is != and !== in JavaScript?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is != and !== in JavaScript?</h2>
+              <a href="http://localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/networks-installment.webp"
+                alt="What is the Role of Networking in Cloud Computing?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>What is the Role of Networking in Cloud Computing?</h2>
+              <a href="http://localhost:1313/networking/what-is-the-role-of-networking-in-cloud-computing/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/patch-panel-install.webp"
+                alt="How Long Does It Take to Become a Networking Expert?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How Long Does It Take to Become a Networking Expert?</h2>
+              <a href="http://localhost:1313/networking/how-long-does-it-take-to-become-a-networking-expert/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/server-network.webp"
+                alt="Is Cyber Security the Same as Network Security?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is Cyber Security the Same as Network Security?</h2>
+              <a href="http://localhost:1313/networking/is-cyber-security-and-network-security-same/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/ai-machine-learning.webp"
+                alt="Is ChatGPT a Strong or Weak AI?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is ChatGPT a Strong or Weak AI?</h2>
+              <a href="http://localhost:1313/how-to-tech/is-chatgpt-a-strong-or-weak-ai/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/studentessay.webp"
+                alt="Is it possible to become a straight A student? And how to be one?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Is it possible to become a straight A student? And how to be one?</h2>
+              <a href="http://localhost:1313/misce-post/is-it-possible-to-become-a-straight-a-student/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/software-and-code.webp"
+                alt="Are Hackers Better Than Programmers?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Are Hackers Better Than Programmers?</h2>
+              <a href="http://localhost:1313/how-to-tech/are-hackers-better-than-programmers/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/hacker-hacking-computer.webp"
+                alt="Which Programming Language is Used for Hacking?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>Which Programming Language is Used for Hacking?</h2>
+              <a href="http://localhost:1313/how-to-tech/which-programming-language-is-used-for-hacking/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="swiper-slide">
+          <div class="all-post-box">
+            <div class="all-post-img">
+              <img
+                loading="lazy"
+                class="img-in-all-post"
+                src="http://localhost:1313/images/current-port.webp"
+                alt="How to Get Current Port Number in JavaScript?"
+                srcset=""
+              />
+            </div>
+            <div class="all-post-heading">
+              <h2>How to Get Current Port Number in JavaScript?</h2>
+              <a href="http://localhost:1313/how-to-tech/how-to-get-current-port-number-in-javascript/" class="read-more">Read More &rarr;</a>
+            </div>
+          </div>
+        </div>
+        
       </div>
+
       
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/logical-or-and-logical-and.webp"
-            alt="Difference Between || and &amp;&amp; in JavaScript?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Difference Between || and &amp;&amp; in JavaScript?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-the-difference-between-logical-or-and-logical-and-in-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/not-equal-and-strict-not-equal-in-js.webp"
-            alt="What is != and !== in JavaScript?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is != and !== in JavaScript?</h2>
-          <a href="http://localhost:1313/how-to-tech/what-is-not-equal-and-strict-not-equal-in-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/networks-installment.webp"
-            alt="What is the Role of Networking in Cloud Computing?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>What is the Role of Networking in Cloud Computing?</h2>
-          <a href="http://localhost:1313/networking/what-is-the-role-of-networking-in-cloud-computing/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/patch-panel-install.webp"
-            alt="How Long Does It Take to Become a Networking Expert?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How Long Does It Take to Become a Networking Expert?</h2>
-          <a href="http://localhost:1313/networking/how-long-does-it-take-to-become-a-networking-expert/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/server-network.webp"
-            alt="Is Cyber Security the Same as Network Security?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is Cyber Security the Same as Network Security?</h2>
-          <a href="http://localhost:1313/networking/is-cyber-security-and-network-security-same/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/ai-machine-learning.webp"
-            alt="Is ChatGPT a Strong or Weak AI?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is ChatGPT a Strong or Weak AI?</h2>
-          <a href="http://localhost:1313/how-to-tech/is-chatgpt-a-strong-or-weak-ai/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/studentessay.webp"
-            alt="Is it possible to become a straight A student? And how to be one?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Is it possible to become a straight A student? And how to be one?</h2>
-          <a href="http://localhost:1313/misce-post/is-it-possible-to-become-a-straight-a-student/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/software-and-code.webp"
-            alt="Are Hackers Better Than Programmers?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Are Hackers Better Than Programmers?</h2>
-          <a href="http://localhost:1313/how-to-tech/are-hackers-better-than-programmers/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/hacker-hacking-computer.webp"
-            alt="Which Programming Language is Used for Hacking?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Which Programming Language is Used for Hacking?</h2>
-          <a href="http://localhost:1313/how-to-tech/which-programming-language-is-used-for-hacking/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/current-port.webp"
-            alt="How to Get Current Port Number in JavaScript?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How to Get Current Port Number in JavaScript?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-to-get-current-port-number-in-javascript/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/intel-i5-core-2-.webp"
-            alt="i3 or i5: Which is Better for College Students?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>i3 or i5: Which is Better for College Students?</h2>
-          <a href="http://localhost:1313/how-to-tech/is-i3-or-i5-better-for-college-students/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/apple_new-m1-chip-graphic_11102020_big.jpg.large.webp"
-            alt="Which Processor is Best for Coding or Programming?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>Which Processor is Best for Coding or Programming?</h2>
-          <a href="http://localhost:1313/how-to-tech/which-processor-is-best-for-coding-or-programming/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/computer-ram.webp"
-            alt="How Much RAM is Needed for Coding in a Laptop?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How Much RAM is Needed for Coding in a Laptop?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-much-ram-is-needed-for-coding-in-laptop/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
-      <div class="all-post-box">
-        <div class="all-post-img">
-          <img
-            loading="lazy"
-            class="img-in-all-post"
-            src="http://localhost:1313/images/laptop-orcomputer-storage.webp"
-            alt="How much GB is required for a programming laptop?"
-            srcset=""
-          />
-        </div>
-        <div class="all-post-heading">
-          <h2>How much GB is required for a programming laptop?</h2>
-          <a href="http://localhost:1313/how-to-tech/how-much-gb-is-required-for-a-programming-laptop/" class="read-more">Read More &rarr;</a>
-        </div>
-      </div>
-      
+      <div class="swiper-button-next all-posts-next"></div>
+      <div class="swiper-button-prev all-posts-prev"></div>
     </div>
+
       
 <nav aria-label="page navigation">
   <ul
@@ -788,6 +850,8 @@ font-size: 1.5rem;
 
 
   </div>
+
+  
 </div>
 
 
@@ -971,5 +1035,35 @@ font-size: 1.5rem;
     </script>
 
     
+
+    <script>
+      var allPostsSwiper = new Swiper(".all-posts-carousel", {
+        loop: true,
+        navigation: {
+          nextEl: ".all-posts-next",
+          prevEl: ".all-posts-prev",
+        },
+        autoplay: {
+          delay: 4000, 
+          disableOnInteraction: false, 
+        },
+        slidesPerView: 1,
+        spaceBetween: 20,
+        breakpoints: {
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 30,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+        },
+      });
+    </script>
   </body>
 </html>
