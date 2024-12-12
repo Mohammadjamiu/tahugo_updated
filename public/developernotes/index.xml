@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Developernotes on Tooabstractive</title>
+    <title>[&#34;&#34;] on Tooabstractive</title>
     <link>http://localhost:1313/developernotes/</link>
-    <description>Recent content in Developernotes on Tooabstractive</description>
+    <description>Recent content in [&#34;&#34;] on Tooabstractive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/developernotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[&#34;&#34;]</title>
-      <link>http://localhost:1313/developernotes/</link>
+      <title>Difference Between Arrow Function with Parentheses and Curly Braces</title>
+      <link>http://localhost:1313/developer-notes/notes/arrow-function-parenthesis-and-curly-braces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/developernotes/</guid>
-      <description></description>
+      <guid>http://localhost:1313/developer-notes/notes/arrow-function-parenthesis-and-curly-braces/</guid>
+      <description>Summary: Parentheses (): Implicit return, the value is automatically returned. Curly braces {}: Explicit return required, you need to use return inside the function. The difference between {data.map((item, index) =&amp;gt; ())} and {data.map((item, index) =&amp;gt; {})} lies in the syntax for returning values in arrow functions.&#xA;1. Arrow Function with Parentheses (): When you use parentheses around the body of the arrow function, it implies an implicit return. This means the value inside the parentheses will be automatically returned.</description>
     </item>
   </channel>
 </rss>
