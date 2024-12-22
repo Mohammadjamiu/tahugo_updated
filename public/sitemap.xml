@@ -1367,11 +1367,26 @@
     <loc>http://localhost:1313/scholarship-guide/preparation-guide-for-full-funding-scholarship/</loc>
     <lastmod>2024-07-13T12:27:05+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/how-to-tech/cpx-module-an-alternative-to-the-linux-cp-command-for-copying-files-across-folders/</loc>
+    <lastmod>2024-12-12T13:24:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-to-tech/getstaticprops-and-getstaticpaths-are-no-longer-supported-in-the-next-js-app-router-use-generatestaticparams-instead/</loc>
+    <lastmod>2024-12-12T13:24:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-to-tech/handling-property-description-is-possibly-undefined-in-typescript/</loc>
+    <lastmod>2024-12-12T13:24:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-to-tech/fixing-emoji-rendering-in-mdx-with-remark-emoji-in-nextjs/</loc>
+    <lastmod>2024-12-12T13:24:55+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-to-tech/fixing-date-fns-format-has-no-default-export-error/</loc>
+    <lastmod>2024-12-12T13:24:55+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/networking-and-communication/</loc>
     <lastmod>2024-07-02T19:48:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-05T11:42:01+01:00</lastmod>
+    <lastmod>2024-12-12T13:24:55+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/electronics/</loc>
     <lastmod>2024-04-24T13:03:33-05:00</lastmod>
@@ -1413,7 +1428,7 @@
     <lastmod>2023-06-24T12:36:37-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/how-to-tech/</loc>
-    <lastmod>2024-06-18T20:14:56-05:00</lastmod>
+    <lastmod>2024-12-12T13:24:55+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/maths-and-fun/</loc>
     <lastmod>2023-01-25T15:11:00-08:00</lastmod>

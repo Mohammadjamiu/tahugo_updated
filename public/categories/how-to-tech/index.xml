@@ -1155,5 +1155,40 @@
       <guid>http://localhost:1313/how-to-tech/list-of-microsoft-edge-useful-keyboard-shortcuts-keys-for-windows/</guid>
       <description>Microsoft Edge, the default web browser for Windows 10, offers a range of keyboard shortcuts that can enhance your browsing experience.&#xA;These shortcuts allow you to perform various tasks quickly and efficiently, saving you time and effort.&#xA;Whether you&amp;rsquo;re a casual user or a power user, mastering these shortcuts can significantly improve your productivity and make browsing more convenient.&#xA;Let&amp;rsquo;s explore some of the most useful Microsoft Edge keyboard shortcuts for Windows.</description>
     </item>
+    <item>
+      <title>cpx Module: An Alternative to the Linux cp Command for Copying Files Across Folders</title>
+      <link>http://localhost:1313/how-to-tech/cpx-module-an-alternative-to-the-linux-cp-command-for-copying-files-across-folders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-to-tech/cpx-module-an-alternative-to-the-linux-cp-command-for-copying-files-across-folders/</guid>
+      <description>I was studying a GitHub repository and decided to download a copy of the code to my machine. After running npm install, I encountered an error caused by this postinstall script:&#xA;&amp;#34;postinstall&amp;#34;: &amp;#34;cp node_modules/swiftlatex/dist/swift*.js node_modules/swiftlatex/dist/*.wasm public&amp;#34; It required the use of the cp command, which I learned is a Linux command used for copying files or folders from one part of the file system to another. It’s a powerful tool for file system operations like moving, deleting, or duplicating files.</description>
+    </item>
+    <item>
+      <title>getStaticProps and getStaticPaths Are No Longer Supported in the Next.js App Router: Use generateStaticParams Instead</title>
+      <link>http://localhost:1313/how-to-tech/getstaticprops-and-getstaticpaths-are-no-longer-supported-in-the-next-js-app-router-use-generatestaticparams-instead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-to-tech/getstaticprops-and-getstaticpaths-are-no-longer-supported-in-the-next-js-app-router-use-generatestaticparams-instead/</guid>
+      <description>I was working on a Next.js 15 project using the App Router when I needed to handle dynamic routes. While reviewing an older project from GitHub, I noticed the use of getStaticProps and getStaticPaths to fetch and pre-render data.&#xA;However, when I tried implementing them in my project, I realized that these functions were not supported in the App Router. This left me confused about how to achieve the same functionality in the latest version of Next.</description>
+    </item>
+    <item>
+      <title>Handling &#34;Property &#39;description&#39; is Possibly &#39;Undefined&#39;&#34; in TypeScript</title>
+      <link>http://localhost:1313/how-to-tech/handling-property-description-is-possibly-undefined-in-typescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-to-tech/handling-property-description-is-possibly-undefined-in-typescript/</guid>
+      <description>I was building a dynamic category page in Next.js where blog posts are displayed. Each post includes a title, image, categories, and a short description. However, when accessing the description property of a post object, I encountered the TypeScript error:&#xA;&#39;post.description&#39; is possibly &#39;undefined&#39;.&#xA;I realized this happened because TypeScript inferred that the description property might not always be defined for all post objects in the posts array. TypeScript, being strict about undefined properties, flagged this as a potential runtime issue.</description>
+    </item>
+    <item>
+      <title>How to Fix Emoji Rendering in MDX with remark-emoji in Next.js</title>
+      <link>http://localhost:1313/how-to-tech/fixing-emoji-rendering-in-mdx-with-remark-emoji-in-nextjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-to-tech/fixing-emoji-rendering-in-mdx-with-remark-emoji-in-nextjs/</guid>
+      <description>I moved my Hugo website to Next.js, but all the emojis I used with markdown syntax (e.g., :warning: or :bulb:) were displayed as text instead of actual emoji icons. I needed Next.js to recognize the emoji text like :bulb: in the MDX content and render it as an emoji icon.&#xA;How I Fixed the Issue Installed the Required Plugin&#xA;I searched online and found that I needed the remark-emoji plugin to handle emoji rendering in MDX files.</description>
+    </item>
+    <item>
+      <title>How to Fix the date-fns format() Has No Default Export Error</title>
+      <link>http://localhost:1313/how-to-tech/fixing-date-fns-format-has-no-default-export-error/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-to-tech/fixing-date-fns-format-has-no-default-export-error/</guid>
+      <description>I was setting up the blog page for a website and needed to format the article&amp;rsquo;s date and updatedAt fields. I used this logic to determine whether to display the published or updated date:&#xA;{ blog.updatedAt === blog.date ? `Published on ${format(new Date(blog.date), &amp;#34;MMM dd, yyyy&amp;#34;)}` : `Updated on ${format(new Date(blog.updatedAt), &amp;#34;MMM dd, yyyy&amp;#34;)}`; } However, I noticed a squiggly line under the import statement for format. I had written:</description>
+    </item>
   </channel>
 </rss>
